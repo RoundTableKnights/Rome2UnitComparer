@@ -1,0 +1,931 @@
+key	category	model	audio_material	hit_points	gun_type	onscreen_name	ignition_threshold	radar_icon	visible_in_public_ted	fortwall_penetration_chance	collision_3d	destruct_thresholds	joiner	auxiliary	burn_rate
+#battlefield_buildings_tables;15;db/battlefield_buildings_tables/battlefield_buildings															
+30_30_10	generic	30_30_10	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+30_30_10_45	generic	30_30_10_45	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+30_30_30	generic	30_30_30	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+30_60_10_30	generic	30_60_10_30	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+30_60_10_30mirrored	generic	30_60_10_30mirrored	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+60_20_10	generic	60_20_10	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+60_20_30	generic	60_20_30	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+60_60_10	generic	60_60_10	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+60_60_10_45	generic	60_60_10_45	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+60_60_30	generic	60_60_30	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+acropolis_plinth_a	generic	acropolis_plinth_a	stone	500			100		false	0	true		false	false	1.0000
+altar_of_zeus_at_pergamon	generic	altar_of_zeus_at_pergamon	stone	500			100		false	0	true		false	false	1.0000
+amphitheater	generic	amphitheater	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+archerytarget	incidental	archerytarget	stone	10		building	100		false	0	true		false	false	1.0000
+arena	generic	arena	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+athens_acropolis	generic	athens_acropolis	stone	500		fort_wall	100		false	0	true		false	false	1.0000
+athens_acropolis_1	generic	athens_acropolis_1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+athens_acropolis_2	generic	athens_acropolis_2	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+athens_acropolis_3	generic	athens_acropolis_3	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+athens_acropolis_4	generic	athens_acropolis_4	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+axe	incidental	axe	stone	10		building	100		false	0	true		false	false	1.0000
+bam_citadel	generic	bam_citadel	stone	500			100		false	0	true		false	false	1.0000
+banner01	incidental	banner01	stone	10		building	100		false	0	true		false	false	1.0000
+banner02	incidental	banner02	stone	10		building	100		false	0	true		false	false	1.0000
+banner03	incidental	banner03	stone	10		building	100		false	0	true		false	false	1.0000
+banner04	incidental	banner04	stone	10		building	100		false	0	true		false	false	1.0000
+bannerbig_01	incidental	bannerbig_01	stone	10		building	100		false	0	true		false	false	1.0000
+bannerbig_02	incidental	bannerbig_02	stone	10		building	100		false	0	true		false	false	1.0000
+bannerbig_03	incidental	bannerbig_03	stone	10		building	100		false	0	true		false	false	1.0000
+bannerbig_04	incidental	bannerbig_04	stone	10		building	100		false	0	true		false	false	1.0000
+bannerhuge	incidental	bannerhuge	stone	10		building	100		false	0	true		false	false	1.0000
+barbarian_ahouse_1	generic	barbarian_ahouse_1	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_ahouse_2	generic	barbarian_ahouse_2	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_city_building_1	generic	barbarian_city_building_1	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_city_building_2	generic	barbarian_city_building_2	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_court_corner	generic	barbarian_court_corner	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_court_door	generic	barbarian_court_door	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_court_wall	generic	barbarian_court_wall	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_dolmens_big01	generic	barbarian_dolmens_big01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_dolmens_big02	generic	barbarian_dolmens_big02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_dolmens_curve	generic	barbarian_dolmens_curve	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_dolmens_gate	generic	barbarian_dolmens_gate	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_dolmens_medium	generic	barbarian_dolmens_medium	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_dolmens_pileofrocks	generic	barbarian_dolmens_pileofrocks	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_dolmens_small	generic	barbarian_dolmens_small	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_fort_bridgingcolumn_left	fort_wall	barbarian_fort_bridgingcolumn_left	stone	1800		fort_wall	100		false	0	true	0.7	false	true	1.0000
+barbarian_fort_bridgingcolumn_right	fort_wall	barbarian_fort_bridgingcolumn_right	stone	1800		fort_wall	100		false	0	true	0.7	false	true	1.0000
+barbarian_fort_curve_20m_radius	fort_wall	barbarian_fort_curve_20m_radius	stone	1800		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_curve_60m_radius	fort_wall	barbarian_fort_curve_60m_radius	stone	1800		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_curved_bastion	unbreachable_fort_wall	barbarian_fort_curved_bastion	stone	2300		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_endcap_left	fort_wall	barbarian_fort_endcap_left	stone	1800		fort_wall	100		false	0	true		false	false	1.0000
+barbarian_fort_endcap_right	fort_wall	barbarian_fort_endcap_right	stone	1800		fort_wall	100		false	0	true		false	false	1.0000
+barbarian_fort_gateway_a	gate	barbarian_fort_gateway_a	stone	2800		gate	3000		false	0	true	0.7	false	false	4.0000
+barbarian_fort_internal_curve_20m_radius	fort_wall	barbarian_fort_internal_curve_20m_radius	stone	1800		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_kink_left	fort_wall	barbarian_fort_kink_left	stone	1800		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_kink_right	fort_wall	barbarian_fort_kink_right	stone	1800		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_step_down_a	fort_wall	barbarian_fort_step_down_a	stone	1800		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_step_up_a	fort_wall	barbarian_fort_step_up_a	stone	1800		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_straight	fort_wall	barbarian_fort_straight	stone	1800		fort_wall	100		false	0	true	0.7	false	false	1.0000
+barbarian_fort_watchtower_b	fort_tower	barbarian_fort_watchtower_b	wood	950	tower_watchtower	watchtower	650		false	0	true	0.7	false	false	1.0000
+barbarian_grain_store	generic	barbarian_grain_store	wood	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_longhouse_1	generic	barbarian_longhouse_1	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_longhouse_2	generic	barbarian_longhouse_2	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_marchingcamp_equipment01	incidental	barbarian_marchingcamp_equipment01	stone	10		building	100		false	0	true		false	false	1.0000
+barbarian_marchingcamp_table	incidental	barbarian_marchingcamp_table	wood	10		building	100		false	0	true		false	false	1.0000
+barbarian_roundhouse_1	generic	barbarian_roundhouse_1	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_roundhouse_2	generic	barbarian_roundhouse_2	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_roundhouse_3	generic	barbarian_roundhouse_3	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_roundhouse_4	generic	barbarian_roundhouse_4	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_standing_stone_a	generic	barbarian_standing_stone_a	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_townhouse_1	generic	barbarian_townhouse_1	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_townhouse_2	generic	barbarian_townhouse_2	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_townhouse_3	generic	barbarian_townhouse_3	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+barbarian_woven_fence_10m	incidental	barbarian_woven_fence_10m	wood	10		building	100		false	0	true		false	false	1.0000
+barrel	incidental	barrel	wood	10		building	100		false	0	true		false	false	1.0000
+battle_prop_cart_flag1	incidental	battle_prop_cart_flag1	stone	10		building	100		false	0	true		false	false	1.0000
+battle_prop_cart_flag2	incidental	battle_prop_cart_flag2	stone	10		building	100		false	0	true		false	false	1.0000
+battle_prop_cart_flag3	incidental	battle_prop_cart_flag3	stone	10		building	100		false	0	true		false	false	1.0000
+battle_prop_roman_flag1	incidental	battle_prop_roman_flag1	stone	10		building	100		false	0	true		false	false	1.0000
+battle_prop_roman_flag2	incidental	battle_prop_roman_flag2	stone	10		building	100		false	0	true		false	false	1.0000
+battle_prop_roman_flag3	incidental	battle_prop_roman_flag3	stone	10		building	100		false	0	true		false	false	1.0000
+black_sea_serender	generic	black_sea_serender	wood	500			100		false	0	true		false	false	1.0000
+boulder_a	generic	boulder_a	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_b	generic	boulder_b	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_c	generic	boulder_c	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_d	generic	boulder_d	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_e	generic	boulder_e	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_f	generic	boulder_f	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_g	generic	boulder_g	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_small_a	generic	boulder_small_a	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_small_b	generic	boulder_small_b	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_small_c	generic	boulder_small_c	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_small_d	generic	boulder_small_d	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+boulder_small_e	generic	boulder_small_e	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+braizer	incidental	braizer	stone	10		building	100		false	0	true		false	false	1.0000
+brasero_lions	generic	brasero_lions	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+bridge_wood_1	bridge	bridge_wood_1	wood	200		bridge	100	bridge.tga	false	0	true		false	false	1.0000
+bridge_wood_1_end	bridge	bridge_wood_1_end	wood	200		bridge	100	bridge.tga	false	0	true		false	false	1.0000
+bridge_wood_2	bridge	bridge_wood_2	wood	200		bridge	100	bridge.tga	false	0	true		false	false	1.0000
+bridge_wood_20m	bridge	bridge_wood_20m	wood	15		bridge	100	bridge.tga	false	0	true		false	false	1.0000
+bridge_wood_20m_end	bridge	bridge_wood_20m_end	wood	15		bridge	100	bridge.tga	false	0	true		false	false	1.0000
+bridge_wood_2_end	bridge	bridge_wood_2_end	wood	200		bridge	100	bridge.tga	false	0	true		false	false	1.0000
+bridge_wood_complete	bridge	bridge_wood_complete	wood	15		bridge	100		false	0	true		false	false	1.0000
+bunting_attached_14m	incidental	bunting_attached_14m	stone	10		building	100		false	0	true		false	false	1.0000
+bunting_attached_14m_side	incidental	bunting_attached_14m_side	stone	10		building	100		false	0	true		false	false	1.0000
+bunting_attached_8m	incidental	bunting_attached_8m	stone	10		building	100		false	0	true		false	false	1.0000
+bunting_attached_8m_side	incidental	bunting_attached_8m_side	stone	10		building	100		false	0	true		false	false	1.0000
+bunting_hanging_14m	incidental	bunting_hanging_14m	stone	10		building	100		false	0	true		false	false	1.0000
+bunting_hanging_8m	incidental	bunting_hanging_8m	stone	10		building	100		false	0	true		false	false	1.0000
+camp_fire	incidental	camp_fire	stone	10		building	100		false	0	true		false	false	1.0000
+carport_stable	incidental	carport_stable	wood	50		building	100		false	0	true		false	false	1.0000
+cart_1	incidental	cart_1	wood	50		building	100		false	0	true		false	false	1.0000
+cart_2	incidental	cart_2	wood	50		building	100		false	0	true		false	false	1.0000
+carthage_cothon_ring_v6	generic	carthage_cothon_ring_v6	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+carthage_lighthouse	generic	carthage_lighthouse	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+chickencoop	incidental	chickencoop	wood	10		building	100		false	0	true		false	false	1.0000
+cinematic_barbarian_funerary_bier	incidental	cinematic_barbarian_funerary_bier	stone	10		building	100		false	0	true		false	false	1.0000
+cinematic_basilica	generic	cinematic_basilica	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_basilica_julia	generic	cinematic_basilica_julia	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_bog	generic	cinematic_bog	stone	15			100		false	0	true		false	false	1.0000
+cinematic_bog_bridge	generic	cinematic_bog_bridge	stone	15			100		false	0	true		false	false	1.0000
+cinematic_brazier_lions	incidental	cinematic_brazier_lions	stone	10			100		false	0	true		false	false	1.0000
+cinematic_braziers	incidental	cinematic_braziers	stone	10		building	100		false	0	true		false	false	1.0000
+cinematic_bundles_sticks	generic	cinematic_bundles_sticks	stone	15			100		false	0	true		false	false	1.0000
+cinematic_cart2_broken	generic	cinematic_cart2_broken	stone	20			100		false	0	true		false	false	1.0000
+cinematic_cart2_crate	generic	cinematic_cart2_crate	stone	20			100		false	0	true		false	false	1.0000
+cinematic_cauldron	generic	cinematic_cauldron	stone	15			100		false	0	true		false	false	1.0000
+cinematic_cauldron_seat	generic	cinematic_cauldron_seat	stone	15			100		false	0	true		false	false	1.0000
+cinematic_chariot_quadriga	generic	cinematic_chariot_quadriga	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_colosseum	incidental	cinematic_colosseum	stone	10			100		false	0	true		false	false	1.0000
+cinematic_column_large	generic	cinematic_column_large	stone	15			100		false	0	true		false	false	1.0000
+cinematic_column_large2	generic	cinematic_column_large2	stone	15			100		false	0	true		false	false	1.0000
+cinematic_column_large3	generic	cinematic_column_large3	stone	15			100		false	0	true		false	false	1.0000
+cinematic_column_medium	generic	cinematic_column_medium	stone	15			100		false	0	true		false	false	1.0000
+cinematic_column_small	generic	cinematic_column_small	stone	15			100		false	0	true		false	false	1.0000
+cinematic_column_tiny	generic	cinematic_column_tiny	stone	15			100		false	0	true		false	false	1.0000
+cinematic_couch_no_person	incidental	cinematic_couch_no_person	stone	10			100		false	0	true		false	false	1.0000
+cinematic_deployable_barricade	generic	cinematic_deployable_barricade	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_eagle_standard	incidental	cinematic_eagle_standard	stone	10			100		false	0	true		false	false	1.0000
+cinematic_eagle_standard_flag	incidental	cinematic_eagle_standard_flag	stone	10			100		false	0	true		false	false	1.0000
+cinematic_eagle_standard_no_flag	incidental	cinematic_eagle_standard_no_flag	stone	10			100		false	0	true		false	false	1.0000
+cinematic_eastern_funerary_slab	incidental	cinematic_eastern_funerary_slab	stone	10		building	100		false	0	true		false	false	1.0000
+cinematic_eastern_urn_plant	generic	cinematic_eastern_urn_plant	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_egyptian_bust	incidental	cinematic_egyptian_bust	stone	10		building	100		false	0	true		false	false	1.0000
+cinematic_elephant_pot	incidental	cinematic_elephant_pot	stone	15			100		false	0	true		false	false	1.0000
+cinematic_fig	generic	cinematic_fig	stone	15			100		false	0	true		false	false	1.0000
+cinematic_floor_tile_desert_forest_2	generic	cinematic_floor_tile_desert_forest_2	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_floor_tile_urban_0	generic	cinematic_floor_tile_urban_0	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_floor_tile_urban_2	generic	cinematic_floor_tile_urban_2	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_funeral_room_eastern	generic	cinematic_funeral_room_eastern	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_funeral_room_egyptian	generic	cinematic_funeral_room_egyptian	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_funeral_room_hellenistic	generic	cinematic_funeral_room_hellenistic	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_funeral_room_roman	generic	cinematic_funeral_room_roman	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_greek_temple	generic	cinematic_greek_temple	stone	15			100		false	0	true		false	false	1.0000
+cinematic_greek_throne	incidental	cinematic_greek_throne	stone	15			100		false	0	true		false	false	1.0000
+cinematic_hellenistic_funerary_couch	incidental	cinematic_hellenistic_funerary_couch	stone	10		building	100		false	0	true		false	false	1.0000
+cinematic_helmet_01	generic	cinematic_helmet_01	stone	15			100		false	0	true		false	false	1.0000
+cinematic_helmet_02	generic	cinematic_helmet_02	stone	15			100		false	0	true		false	false	1.0000
+cinematic_helmet_03	generic	cinematic_helmet_03	stone	15			100		false	0	true		false	false	1.0000
+cinematic_helmet_04	generic	cinematic_helmet_04	stone	15			100		false	0	true		false	false	1.0000
+cinematic_helmet_groups	generic	cinematic_helmet_groups	stone	15			100		false	0	true		false	false	1.0000
+cinematic_ionic_column_gold_capital	incidental	cinematic_ionic_column_gold_capital	stone	15			100		false	0	true		false	false	1.0000
+cinematic_lekythos	generic	cinematic_lekythos	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_pit	incidental	cinematic_pit	stone	15			100		false	0	true		false	false	1.0000
+cinematic_pot_01	generic	cinematic_pot_01	stone	15			100		false	0	true		false	false	1.0000
+cinematic_pot_02	generic	cinematic_pot_02	stone	15			100		false	0	true		false	false	1.0000
+cinematic_pot_03	generic	cinematic_pot_03	stone	15			100		false	0	true		false	false	1.0000
+cinematic_pot_04	generic	cinematic_pot_04	stone	15			100		false	0	true		false	false	1.0000
+cinematic_pot_05	generic	cinematic_pot_05	stone	15			100		false	0	true		false	false	1.0000
+cinematic_pot_06	generic	cinematic_pot_06	stone	15			100		false	0	true		false	false	1.0000
+cinematic_ramses_ii_head	generic	cinematic_ramses_ii_head	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_rock_painted	generic	cinematic_rock_painted	stone	15			100		false	0	true		false	false	1.0000
+cinematic_roman_bust_1	incidental	cinematic_roman_bust_1	stone	10		building	100		false	0	true		false	false	1.0000
+cinematic_roman_circumvallations_concave_destroyed	generic	cinematic_roman_circumvallations_concave_destroyed	stone	15			100		false	0	true		false	false	1.0000
+cinematic_roman_colonnade_straight	generic	cinematic_roman_colonnade_straight	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_roman_eagle_standard	generic	cinematic_roman_eagle_standard	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_roman_flat_roof_2_storey_d	generic	cinematic_roman_flat_roof_2_storey_d	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_roman_funerary_couch	generic	cinematic_roman_funerary_couch	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_roman_lion_statue	incidental	cinematic_roman_lion_statue	stone	10		building	100		false	0	true		false	false	1.0000
+cinematic_roman_senate	generic	cinematic_roman_senate	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_roman_senate_int_and_ext	generic	cinematic_roman_senate_int_and_ext	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_roman_senate_interior	generic	cinematic_roman_senate_interior	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_roman_senate_interior_death_scene	generic	cinematic_roman_senate_interior_death_scene	stone	15			100		false	0	true		false	false	1.0000
+cinematic_roman_senate_wallmap	generic	cinematic_roman_senate_wallmap	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_roman_temple_opendoors	generic	cinematic_roman_temple_opendoors	stone	15			100		false	0	true		false	false	1.0000
+cinematic_scale_man_senator	generic	cinematic_scale_man_senator	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_scarecrow	generic	cinematic_scarecrow	stone	15			100		false	0	true		false	false	1.0000
+cinematic_slave_gates_closed	generic	cinematic_slave_gates_closed	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_slave_mining_cart	generic	cinematic_slave_mining_cart	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_slave_mining_gold_rock	generic	cinematic_slave_mining_gold_rock	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_slave_mining_tunnel	generic	cinematic_slave_mining_tunnel	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_spartan_audience_room	incidental	cinematic_spartan_audience_room	stone	15			100		false	0	true		false	false	1.0000
+cinematic_statue_of_augustus	generic	cinematic_statue_of_augustus	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_sticks_hanging_01	generic	cinematic_sticks_hanging_01	stone	15			100		false	0	true		false	false	1.0000
+cinematic_sticks_hanging_02	generic	cinematic_sticks_hanging_02	stone	15			100		false	0	true		false	false	1.0000
+cinematic_sticks_hanging_03	generic	cinematic_sticks_hanging_03	stone	15			100		false	0	true		false	false	1.0000
+cinematic_sunset_sky_small	generic	cinematic_sunset_sky_small	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_tall_roman_candlestick	generic	cinematic_tall_roman_candlestick	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_torch_2	generic	cinematic_torch_2	stone	15			100		false	0	true		false	false	1.0000
+cinematic_torch_jones	generic	cinematic_torch_jones	stone	15			100		false	0	true		false	false	1.0000
+cinematic_torch_sconce	generic	cinematic_torch_sconce	stone	15		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_triumphal_arch	generic	cinematic_triumphal_arch	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_walkway	generic	cinematic_walkway	stone	15			100		false	0	true		false	false	1.0000
+cinematic_wicker_man	incidental	cinematic_wicker_man	stone	15			100		false	0	true		false	false	1.0000
+cinematic_wicker_man_ladder	incidental	cinematic_wicker_man_ladder	stone	15			100		false	0	true		false	false	1.0000
+cinematic_wicker_man_plateform	incidental	cinematic_wicker_man_plateform	stone	15			100		false	0	true		false	false	1.0000
+cinematic_wickerman_platform	generic	cinematic_wickerman_platform	stone	15			100		false	0	true		false	false	1.0000
+cinematic_wind_chimes	generic	cinematic_wind_chimes	stone	15			100		false	0	true		false	false	1.0000
+cinematic_wood_structure	generic	cinematic_wood_structure	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cinematic_wooden_cup	generic	cinematic_wooden_cup	stone	15			100		false	0	true		false	false	1.0000
+cinematics_cleopatra_balcony	generic	cinematics_cleopatra_balcony	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+cliff	incidental	cliff	stone	10		building	100		false	0	true		false	false	1.0000
+cliff02	incidental	cliff02	stone	10		building	100		false	0	true		false	false	1.0000
+cliff_01_small_l	generic	cliff_01_small_l	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+cliff_01_small_m	generic	cliff_01_small_m	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+cliff_01_small_r	generic	cliff_01_small_r	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+colosseum_rope	generic	colosseum_rope	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+colossus_base_platform	generic	colossus_base_platform	stone	500			100		false	0	true		false	false	1.0000
+crane	incidental	crane	wood	50		building	100		false	0	true		false	false	1.0000
+crane_cinematics	incidental	crane_cinematics	stone	10		building	100		false	0	true		false	false	1.0000
+crate	incidental	crate	wood	10		building	100		false	0	true		false	false	1.0000
+dock_amphoras	incidental	dock_amphoras	stone	10		building	100		false	0	true		false	false	1.0000
+dock_barrels	incidental	dock_barrels	wood	10		building	100		false	0	true		false	false	1.0000
+dock_cargo_1	incidental	dock_cargo_1	wood	10		building	100		false	0	true		false	false	1.0000
+dock_cargo_2	incidental	dock_cargo_2	wood	10		building	100		false	0	true		false	false	1.0000
+dock_cargo_3	incidental	dock_cargo_3	stone	10		building	100		false	0	true		false	false	1.0000
+dock_corner_concav_1	ground_platform	dock_corner_concav_1	stone	500		building	100		false	0	true		false	false	1.0000
+dock_corner_convex_1	ground_platform	dock_corner_convex_1	stone	500		building	100		false	0	true		false	false	1.0000
+dock_end_left	ground_platform	dock_end_left	stone	500		building	100		false	0	true		false	false	1.0000
+dock_end_right	ground_platform	dock_end_right	stone	500		building	100		false	0	true		false	false	1.0000
+dock_fishing_shed_1	generic	dock_fishing_shed_1	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_fishing_shed_2	generic	dock_fishing_shed_2	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_fishing_shed_3	generic	dock_fishing_shed_3	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_fishing_shed_platform_1	generic	dock_fishing_shed_platform_1	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_fishing_shed_platform_2	generic	dock_fishing_shed_platform_2	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_offset_left_1	ground_platform	dock_offset_left_1	stone	500		building	100		false	0	true		false	false	1.0000
+dock_offset_left_2	ground_platform	dock_offset_left_2	stone	500		building	100		false	0	true		false	false	1.0000
+dock_offset_right_1	ground_platform	dock_offset_right_1	stone	500		building	100		false	0	true		false	false	1.0000
+dock_offset_right_2	ground_platform	dock_offset_right_2	stone	500		building	100		false	0	true		false	false	1.0000
+dock_ship_shed_large	generic	dock_ship_shed_large	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_ship_shed_small	generic	dock_ship_shed_small	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_straight_1	ground_platform	dock_straight_1	stone	500		building	100		false	0	true		false	false	1.0000
+dock_straight_2	ground_platform	dock_straight_2	stone	500		building	100		false	0	true		false	false	1.0000
+dock_straight_3	ground_platform	dock_straight_3	stone	500		building	100		false	0	true		false	false	1.0000
+dock_straight_4	ground_platform	dock_straight_4	stone	500		building	100		false	0	true		false	false	1.0000
+dock_straight_5	ground_platform	dock_straight_5	stone	500		building	100		false	0	true		false	false	1.0000
+dock_warehouse_1	generic	dock_warehouse_1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_warehouse_2	generic	dock_warehouse_2	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+dock_wood_1	incidental	dock_wood_1	wood	10		building	100		false	0	true		false	false	1.0000
+dock_wood_2	incidental	dock_wood_2	wood	10		building	100		false	0	true		false	false	1.0000
+dock_wood_3	incidental	dock_wood_3	wood	10		building	100		false	0	true		false	false	1.0000
+eastern_marchingcamp_equipment01	incidental	eastern_marchingcamp_equipment01	stone	10		building	100		false	0	true		false	false	1.0000
+eastern_marchingcamp_table	incidental	eastern_marchingcamp_table	wood	10		building	100		false	0	true		false	false	1.0000
+egyptian_city_building_1	generic	egyptian_city_building_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_city_building_2	generic	egyptian_city_building_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_city_building_3	generic	egyptian_city_building_3	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_city_building_4	generic	egyptian_city_building_4	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_city_building_5	generic	egyptian_city_building_5	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_city_building_add_1	generic	egyptian_city_building_add_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_city_building_add_2	generic	egyptian_city_building_add_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_column_1	generic	egyptian_column_1	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_court_corner	generic	egyptian_court_corner	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_court_door	generic	egyptian_court_door	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_court_wall	generic	egyptian_court_wall	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_fort_angled_joiner	fort_wall	egyptian_fort_angled_joiner	stone	2000		fort_wall	100		false	0	true		true	false	1.0000
+egyptian_fort_bridgingcolumn_left	fort_wall	egyptian_fort_bridgingcolumn_left	stone	2000		fort_wall	100		false	0	true		false	true	1.0000
+egyptian_fort_bridgingcolumn_right	fort_wall	egyptian_fort_bridgingcolumn_right	stone	2000		fort_wall	100		false	0	true		false	true	1.0000
+egyptian_fort_external_angled_to_grid_joiner	fort_wall	egyptian_fort_external_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_external_corner	fort_wall	egyptian_fort_external_corner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_external_grid_to_angled_joiner	fort_wall	egyptian_fort_external_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_gateway_e	gate	egyptian_fort_gateway_e	stone	2800		gate	3000		false	0	true		false	false	4.0000
+egyptian_fort_internal_angled_to_grid_joiner	fort_wall	egyptian_fort_internal_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_internal_corner	fort_wall	egyptian_fort_internal_corner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_internal_grid_to_angled_joiner	fort_wall	egyptian_fort_internal_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_straight	fort_wall	egyptian_fort_straight	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_straight_stepped_down_10m_square_bastion_a	unbreachable_fort_wall	egyptian_fort_straight_stepped_down_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_straight_stepped_up_10m_square_bastion_a	unbreachable_fort_wall	egyptian_fort_straight_stepped_up_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_straight_with_doors_a	fort_wall	egyptian_fort_straight_with_doors_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_straight_with_solid_squared_bastion	unbreachable_fort_wall	egyptian_fort_straight_with_solid_squared_bastion	stone	2500		fort_wall	100		false	0	true		false	false	1.0000
+egyptian_fort_tower_b_corner_with_extension	fort_tower	egyptian_fort_tower_b_corner_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+egyptian_fort_tower_c_straight_with_extension	fort_tower	egyptian_fort_tower_c_straight_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+egyptian_fort_tower_end_left	fort_tower	egyptian_fort_tower_end_left	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+egyptian_fort_tower_end_right	fort_tower	egyptian_fort_tower_end_right	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+egyptian_ground	ground_platform	egyptian_ground	stone	200		building	100		false	0	true		false	false	1.0000
+egyptian_highfence	generic	egyptian_highfence	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_highfence_pillar	generic	egyptian_highfence_pillar	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_lowfence	incidental	egyptian_lowfence	stone	10		building	100		false	0	true		false	false	1.0000
+egyptian_lowfence_pillar	incidental	egyptian_lowfence_pillar	stone	10		building	100		false	0	true		false	false	1.0000
+egyptian_slum_1	generic	egyptian_slum_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_slum_2	generic	egyptian_slum_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_slum_3	generic	egyptian_slum_3	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_statue_horus	generic	egyptian_statue_horus	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_statue_sphinx	generic	egyptian_statue_sphinx	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_steps_sidewall	generic	egyptian_steps_sidewall	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_corner	generic	egyptian_temple_corner	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_corner_internal	generic	egyptian_temple_corner_internal	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_court_building	generic	egyptian_temple_court_building	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_end	generic	egyptian_temple_end	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_end_left	generic	egyptian_temple_end_left	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_lg_col_external	generic	egyptian_temple_lg_col_external	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_lg_col_internal	generic	egyptian_temple_lg_col_internal	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_lg_col_straight	generic	egyptian_temple_lg_col_straight	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_longbuilding	generic	egyptian_temple_longbuilding	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_pylons	generic	egyptian_temple_pylons	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_small_building_a	generic	egyptian_temple_small_building_a	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_steps_a	generic	egyptian_temple_steps_a	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_straight	generic	egyptian_temple_straight	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_temple_straight_short	generic	egyptian_temple_straight_short	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_townhouse_1	generic	egyptian_townhouse_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_townhouse_2	generic	egyptian_townhouse_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_townhouse_3	generic	egyptian_townhouse_3	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_townhouse_4	generic	egyptian_townhouse_4	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_townhouse_add_1	generic	egyptian_townhouse_add_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+egyptian_townhouse_add_2	generic	egyptian_townhouse_add_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+elephant_african_gold	incidental	elephant_african_gold	stone	15			100		false	0	true		false	false	1.0000
+elephant_african_gold_large_plinth	incidental	elephant_african_gold_large_plinth	stone	15			100		false	0	true		false	false	1.0000
+etruscan_fort_straight	fort_wall	etruscan_fort_straight	stone	500		fort_wall	100		false	0	true		false	false	1.0000
+fallen_tree_01	generic	fallen_tree_01	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+fallen_tree_02	generic	fallen_tree_02	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+fallen_tree_03	generic	fallen_tree_03	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+fountain_wall	generic	fountain_wall	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+front_end_table	generic	front_end_table	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+garden_big_1	incidental	garden_big_1	stone	10		building	100		false	0	true		false	false	1.0000
+garden_medium_1	incidental	garden_medium_1	stone	10		building	100		false	0	true		false	false	1.0000
+garden_medium_2	incidental	garden_medium_2	stone	10		building	100		false	0	true		false	false	1.0000
+garden_pool_1	incidental	garden_pool_1	stone	10		building	100		false	0	true		false	false	1.0000
+garden_pot_1	incidental	garden_pot_1	stone	10		building	100		false	0	true		false	false	1.0000
+garden_small_1	incidental	garden_small_1	stone	10		building	100		false	0	true		false	false	1.0000
+garden_small_2	incidental	garden_small_2	stone	10		building	100		false	0	true		false	false	1.0000
+gaul_rock_01	generic	gaul_rock_01	stone	500			100		false	0	true		false	false	1.0000
+gaul_rock_02	generic	gaul_rock_02	stone	500			100		false	0	true		false	false	1.0000
+gaul_rock_03	generic	gaul_rock_03	stone	500			100		false	0	true		false	false	1.0000
+gaul_rock_04	generic	gaul_rock_04	stone	500			100		false	0	true		false	false	1.0000
+gaul_rock_05	generic	gaul_rock_05	stone	500			100		false	0	true		false	false	1.0000
+gaul_rock_06	generic	gaul_rock_06	stone	500			100		false	0	true		false	false	1.0000
+gaul_rock_07	generic	gaul_rock_07	stone	500			100		false	0	true		false	false	1.0000
+giant_ballista	incidental	giant_ballista	wood	10		building	100		false	0	true		false	false	1.0000
+gr_prop_obelisk	generic	gr_prop_obelisk	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+gr_prop_statue_hera	generic	gr_prop_statue_hera	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+gr_prop_statue_hera_broken	generic	gr_prop_statue_hera_broken	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+gr_prop_statue_poseidon	generic	gr_prop_statue_poseidon	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_acropolis_wall	generic	greek_acropolis_wall	stone	500			100		false	0	true		false	false	1.0000
+greek_agora_2storey_building01	generic	greek_agora_2storey_building01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_agora_2storey_building01_pitched	generic	greek_agora_2storey_building01_pitched	stone	500			100		false	0	true		false	false	1.0000
+greek_agora_2storey_building02	generic	greek_agora_2storey_building02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_agora_2storey_building02_pitched	generic	greek_agora_2storey_building02_pitched	stone	500			100		false	0	true		false	false	1.0000
+greek_agora_2storey_building03	generic	greek_agora_2storey_building03	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_agora_2storey_building03_pitched	generic	greek_agora_2storey_building03_pitched	stone	500			100		false	0	true		false	false	1.0000
+greek_agora_2storey_pitched_roof	generic	greek_agora_2storey_pitched_roof	stone	500			100		false	0	true		false	false	1.0000
+greek_agora_main_hall	generic	greek_agora_main_hall	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_agora_main_hall_big	generic	greek_agora_main_hall_big	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_agora_main_segment	generic	greek_agora_main_segment	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_agora_main_segment_end_detailed	generic	greek_agora_main_segment_end_detailed	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_agora_main_segment_end_detailed_flipped	generic	greek_agora_main_segment_end_detailed_flipped	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_agora_small_building01	generic	greek_agora_small_building01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_apartment_balcony03	generic	greek_apartment_balcony03	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_apartment_building01	generic	greek_apartment_building01	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_apartment_building01_pitched	generic	greek_apartment_building01_pitched	stone	500			100		false	0	true		false	false	1.0000
+greek_apartment_building01b	generic	greek_apartment_building01b	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_apartment_building02	generic	greek_apartment_building02	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_apartment_building02-2	generic	greek_apartment_building02-2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_apartment_building02-2_pitched	generic	greek_apartment_building02-2_pitched	stone	500			100		false	0	true		false	false	1.0000
+greek_apartment_building02_pitched	generic	greek_apartment_building02_pitched	stone	500			100		false	0	true		false	false	1.0000
+greek_apartment_building03	generic	greek_apartment_building03	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_apartment_building03_pitched	generic	greek_apartment_building03_pitched	stone	500			100		false	0	true		false	false	1.0000
+greek_bouleuterion	generic	greek_bouleuterion	stone	500			100		false	0	true		false	false	1.0000
+greek_carthage_cothon_ring	generic	greek_carthage_cothon_ring	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_civic_wall_4m	generic	greek_civic_wall_4m	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_civic_wall_8m	generic	greek_civic_wall_8m	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_civic_wall_arched_door	generic	greek_civic_wall_arched_door	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_civic_wall_corner	generic	greek_civic_wall_corner	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_civic_wall_end	generic	greek_civic_wall_end	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_colonnade_corner	generic	greek_colonnade_corner	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_colonnade_pitched_roof_corner	generic	greek_colonnade_pitched_roof_corner	stone	500			100		false	0	true		false	false	1.0000
+greek_colonnade_pitched_roof_straight	generic	greek_colonnade_pitched_roof_straight	stone	500			100		false	0	true		false	false	1.0000
+greek_colonnade_straight	generic	greek_colonnade_straight	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_domestic_occupiable_1	generic	greek_domestic_occupiable_1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_extras_porch01	generic	greek_extras_porch01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_extras_tower01	generic	greek_extras_tower01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_extras_tower02	generic	greek_extras_tower02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_extras_tower03	generic	greek_extras_tower03	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_extras_towertop	generic	greek_extras_towertop	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_flat_roof_1_storey_a	generic	greek_flat_roof_1_storey_a	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_flat_roof_1_storey_b	generic	greek_flat_roof_1_storey_b	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_flat_roof_2_storey_a	generic	greek_flat_roof_2_storey_a	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_flat_roof_2_storey_b	generic	greek_flat_roof_2_storey_b	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_flat_roof_2_storey_d	generic	greek_flat_roof_2_storey_d	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_flat_roof_3_storey	generic	greek_flat_roof_3_storey	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_flat_roof_porch	generic	greek_flat_roof_porch	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_fort_angled_joiner	fort_wall	greek_fort_angled_joiner	stone	2000		fort_wall	100		false	0	true	0.7	true	false	1.0000
+greek_fort_bridgingcolumn_left	fort_wall	greek_fort_bridgingcolumn_left	stone	2000		fort_wall	100		false	0	true	0.7	false	true	1.0000
+greek_fort_bridgingcolumn_right	fort_wall	greek_fort_bridgingcolumn_right	stone	2000		fort_wall	100		false	0	true	0.7	false	true	1.0000
+greek_fort_external_angled_to_grid_joiner	fort_wall	greek_fort_external_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_external_corner	fort_wall	greek_fort_external_corner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_external_grid_to_angled_joiner	fort_wall	greek_fort_external_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_gateway_e	gate	greek_fort_gateway_e	stone	2800		gate	3000		false	0	true	0.7	false	false	4.0000
+greek_fort_internal_angled_to_grid_joiner	fort_wall	greek_fort_internal_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_internal_corner	fort_wall	greek_fort_internal_corner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_internal_grid_to_angled_joiner	fort_wall	greek_fort_internal_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_straight	fort_wall	greek_fort_straight	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_straight_stepped_down_10m_square_bastion_a	unbreachable_fort_wall	greek_fort_straight_stepped_down_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_straight_stepped_up_10m_square_bastion_a	unbreachable_fort_wall	greek_fort_straight_stepped_up_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_straight_with_doors_a	fort_wall	greek_fort_straight_with_doors_a	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_straight_with_solid_squared_bastion	unbreachable_fort_wall	greek_fort_straight_with_solid_squared_bastion	stone	2500		fort_wall	100		false	0	true	0.7	false	false	1.0000
+greek_fort_tower_b_corner_with_extension	fort_tower	greek_fort_tower_b_corner_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+greek_fort_tower_c_crenelation_high_poly	generic	greek_fort_tower_c_crenelation_high_poly	stone	200		building	500	placeholder.tga	false	0	true	0.7	false	false	1.0000
+greek_fort_tower_c_straight_with_extension	fort_tower	greek_fort_tower_c_straight_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+greek_fort_tower_end_left	fort_tower	greek_fort_tower_end_left	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+greek_fort_tower_end_right	fort_tower	greek_fort_tower_end_right	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+greek_freestanding_canopy_a	incidental	greek_freestanding_canopy_a	stone	10		building	100		false	0	true		false	false	1.0000
+greek_freestanding_canopy_b	incidental	greek_freestanding_canopy_b	stone	10		building	100		false	0	true		false	false	1.0000
+greek_healing_centre	generic	greek_healing_centre	stone	500			100		false	0	true		false	false	1.0000
+greek_large_statue_broken	generic	greek_large_statue_broken	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_large_statue_broken_empty	generic	greek_large_statue_broken_empty	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_lowfence	incidental	greek_lowfence	stone	10		building	100		false	0	true		false	false	1.0000
+greek_lowfence_pillar	incidental	greek_lowfence_pillar	stone	10		building	100		false	0	true		false	false	1.0000
+greek_marchingcamp_equipment01	incidental	greek_marchingcamp_equipment01	stone	10		building	100		false	0	true		false	false	1.0000
+greek_marchingcamp_table	incidental	greek_marchingcamp_table	stone	10		building	100		false	0	true		false	false	1.0000
+greek_outbuilding_a	generic	greek_outbuilding_a	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_pavement_high_centre	ground_platform	greek_pavement_high_centre	stone	100		building	100		false	0	true		false	false	1.0000
+greek_pavement_high_corner	ground_platform	greek_pavement_high_corner	stone	100		building	100		false	0	true		false	false	1.0000
+greek_pavement_high_straight	ground_platform	greek_pavement_high_straight	stone	100		building	100		false	0	true		false	false	1.0000
+greek_pergola	generic	greek_pergola	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_pillar_wall_8m	generic	greek_pillar_wall_8m	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_pillar_wall_corner	generic	greek_pillar_wall_corner	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_pillar_wall_end	generic	greek_pillar_wall_end	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_plain_wall	generic	greek_plain_wall	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_rom_agora_main_segment	generic	greek_rom_agora_main_segment	stone	500			100		false	0	true		false	false	1.0000
+greek_rom_agora_main_segment_end_detailed	generic	greek_rom_agora_main_segment_end_detailed	stone	500			100		false	0	true		false	false	1.0000
+greek_rom_agora_main_segment_end_detailed_flipped	generic	greek_rom_agora_main_segment_end_detailed_flipped	stone	500			100		false	0	true		false	false	1.0000
+greek_ruined_wall_block	generic	greek_ruined_wall_block	stone	500			100		false	0	true		false	false	1.0000
+greek_ruined_wall_corner	generic	greek_ruined_wall_corner	stone	500			100		false	0	true		false	false	1.0000
+greek_single_arch	generic	greek_single_arch	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_1	generic	greek_small_domestic_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_2	generic	greek_small_domestic_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_3	generic	greek_small_domestic_3	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_4	generic	greek_small_domestic_4	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_5	generic	greek_small_domestic_5	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_6	generic	greek_small_domestic_6	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_7	generic	greek_small_domestic_7	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_8	generic	greek_small_domestic_8	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_small_domestic_9	generic	greek_small_domestic_9	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_augustus	generic	greek_statue_augustus	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_augustus_large	generic	greek_statue_augustus_large	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_broken	generic	greek_statue_broken	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_broken_empty	generic	greek_statue_broken_empty	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_hera	generic	greek_statue_hera	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_hera_large	generic	greek_statue_hera_large	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_hera_medium	generic	greek_statue_hera_medium	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_poseidon	generic	greek_statue_poseidon	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_poseidon_half02	generic	greek_statue_poseidon_half02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_statue_poseidon_large	generic	greek_statue_poseidon_large	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_stoa_corner	generic	greek_stoa_corner	stone	500			100		false	0	true		false	false	1.0000
+greek_stoa_straight	generic	greek_stoa_straight	stone	500			100		false	0	true		false	false	1.0000
+greek_stone_steps_a	generic	greek_stone_steps_a	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_1_prostyle	generic	greek_temple_1_prostyle	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_1_prostyle_ruined	generic	greek_temple_1_prostyle_ruined	stone	500			100		false	0	true		false	false	1.0000
+greek_temple_2_amphiprostyle	generic	greek_temple_2_amphiprostyle	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_3_tholos	generic	greek_temple_3_tholos	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_3_tholos_ruined	generic	greek_temple_3_tholos_ruined	stone	500			100		false	0	true		false	false	1.0000
+greek_temple_4_pseudoperipteral	generic	greek_temple_4_pseudoperipteral	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_5_peripteral	generic	greek_temple_5_peripteral	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_6_dipteral	generic	greek_temple_6_dipteral	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_7_podium	generic	greek_temple_7_podium	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_columns_corner	generic	greek_temple_columns_corner	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_columns_line	generic	greek_temple_columns_line	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_columns_single	generic	greek_temple_columns_single	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_temple_floor_border_1	ground_platform	greek_temple_floor_border_1	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_corner_1	ground_platform	greek_temple_floor_corner_1	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_corner_2	ground_platform	greek_temple_floor_corner_2	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_corner_3	ground_platform	greek_temple_floor_corner_3	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_e3	ground_platform	greek_temple_floor_e3	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_ext_1	ground_platform	greek_temple_floor_ext_1	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_ext_2	ground_platform	greek_temple_floor_ext_2	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_offset_r	ground_platform	greek_temple_floor_offset_r	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_plaza_1	ground_platform	greek_temple_floor_plaza_1	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_stairs_1	ground_platform	greek_temple_floor_stairs_1	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_stairs_2	ground_platform	greek_temple_floor_stairs_2	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_stairs_3	ground_platform	greek_temple_floor_stairs_3	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_floor_stairs_4	ground_platform	greek_temple_floor_stairs_4	stone	500		building	100		false	0	true		false	false	1.0000
+greek_temple_heroon	generic	greek_temple_heroon	stone	500			100		false	0	true		false	false	1.0000
+greek_theatre	generic	greek_theatre	stone	500			100		false	0	true		false	false	1.0000
+greek_theatre_for_hillside	generic	greek_theatre_for_hillside	stone	500			100		false	0	true		false	false	1.0000
+greek_torch_sconce	incidental	greek_torch_sconce	stone	10		building	100		false	0	true		false	false	1.0000
+greek_villa_angled	generic	greek_villa_angled	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_angled02	generic	greek_villa_angled02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_atrium	generic	greek_villa_atrium	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_colonade	generic	greek_villa_colonade	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_house01	generic	greek_villa_house01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_house02	generic	greek_villa_house02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_stables	generic	greek_villa_stables	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_straight01	generic	greek_villa_straight01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_straight02	generic	greek_villa_straight02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_tabernae	generic	greek_villa_tabernae	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_tower	generic	greek_villa_tower	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_wall	generic	greek_villa_wall	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_wall_door	generic	greek_villa_wall_door	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_villa_wall_pillar	generic	greek_villa_wall_pillar	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+greek_wash_house	generic	greek_wash_house	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+helios	generic	helios	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+herm_statue	generic	herm_statue	stone	500			100		false	0	true		false	false	1.0000
+highfence_1	generic	highfence_1	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+inv_cliff_01	generic	inv_cliff_01	stone	500			100		false	0	true		false	false	1.0000
+inv_cliff_01_small_l	generic	inv_cliff_01_small_l	stone	500			100		false	0	true		false	false	1.0000
+inv_cliff_01_small_m	generic	inv_cliff_01_small_m	stone	500			100		false	0	true		false	false	1.0000
+inv_cliff_01_small_r	generic	inv_cliff_01_small_r	stone	500			100		false	0	true		false	false	1.0000
+inv_cliff_02	generic	inv_cliff_02	stone	500			100		false	0	true		false	false	1.0000
+inv_etruscan_fort_angled_joiner	fort_wall	inv_etruscan_fort_angled_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_bridgingcolumn_left	fort_wall	inv_etruscan_fort_bridgingcolumn_left	stone	500		fort_wall	100		false	0	true		false	true	1.0000
+inv_etruscan_fort_bridgingcolumn_right	fort_wall	inv_etruscan_fort_bridgingcolumn_right	stone	500		fort_wall	100		false	0	true		false	true	1.0000
+inv_etruscan_fort_external_angled_to_grid_joiner	fort_wall	inv_etruscan_fort_external_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_external_corner	fort_wall	inv_etruscan_fort_external_corner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_external_grid_to_angled_joiner	fort_wall	inv_etruscan_fort_external_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_gateway_e	gate	inv_etruscan_fort_gateway_e	stone	2800		gate	3000		false	0	true	0.7	false	false	4.0000
+inv_etruscan_fort_internal_angled_to_grid_joiner	fort_wall	inv_etruscan_fort_internal_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_internal_corner	fort_wall	inv_etruscan_fort_internal_corner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_internal_grid_to_angled_joiner	fort_wall	inv_etruscan_fort_internal_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_straight	fort_wall	inv_etruscan_fort_straight	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_straight_stepped_down_10m_square_bastion_a	fort_wall	inv_etruscan_fort_straight_stepped_down_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_straight_stepped_up_10m_square_bastion_a	fort_wall	inv_etruscan_fort_straight_stepped_up_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_straight_with_doors_a	fort_wall	inv_etruscan_fort_straight_with_doors_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_straight_with_solid_squared_bastion	fort_wall	inv_etruscan_fort_straight_with_solid_squared_bastion	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_tower_b_corner_with_extension	fort_tower	inv_etruscan_fort_tower_b_corner_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_tower_c_straight_with_extension	fort_tower	inv_etruscan_fort_tower_c_straight_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_tower_end_left	fort_tower	inv_etruscan_fort_tower_end_left	stone	2200	tower_watchtower	fort_tower	100		false	0	true		false	false	1.0000
+inv_etruscan_fort_tower_end_right	fort_tower	inv_etruscan_fort_tower_end_right	stone	2200	tower_watchtower	fort_tower	100		false	0	true		false	false	1.0000
+jar	incidental	jar	stone	10		building	100		false	0	true		false	false	1.0000
+kitchengarden_1	incidental	kitchengarden_1	stone	10		building	100		false	0	true		false	false	1.0000
+kitchengarden_2	incidental	kitchengarden_2	stone	10		building	100		false	0	true		false	false	1.0000
+lattice	incidental	lattice	wood	10		building	100		false	0	true		false	false	1.0000
+lighthouse_pharos	generic	lighthouse_pharos	stone	500			100		false	0	true		false	false	1.0000
+line_large	incidental	line_large	stone	10		building	100		false	0	true		false	false	1.0000
+lion_statue	generic	lion_statue	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+lowfence_1	incidental	lowfence_1	wood	20		building	100		false	0	true		false	false	1.0000
+lowfence_2	incidental	lowfence_2	wood	20		building	100		false	0	true		false	false	1.0000
+lowfence_3	incidental	lowfence_3	stone	20		building	100		false	0	true		false	false	1.0000
+marchingcamp_global_bench	incidental	marchingcamp_global_bench	wood	10		building	100		false	0	true		false	false	1.0000
+marchingcamp_global_blanket	incidental	marchingcamp_global_blanket	stone	10		building	100		false	0	true		false	false	1.0000
+marchingcamp_global_cauldron	incidental	marchingcamp_global_cauldron	stone	10		building	100		false	0	true		false	false	1.0000
+marchingcamp_global_table	incidental	marchingcamp_global_table	wood	10		building	100		false	0	true		false	false	1.0000
+marchingcamp_tent01	incidental	marchingcamp_tent01	stone	20		building	100		false	0	true		false	false	1.0000
+marchingcamp_tent02	incidental	marchingcamp_tent02	stone	20		building	100		false	0	true		false	false	1.0000
+marchingcamp_tent03	incidental	marchingcamp_tent03	stone	20		building	100		false	0	true		false	false	1.0000
+market_stand_1	incidental	market_stand_1	stone	50		building	100		false	0	true		false	false	1.0000
+market_stand_2	incidental	market_stand_2	stone	50		building	100		false	0	true		false	false	1.0000
+market_stand_3	incidental	market_stand_3	stone	50		building	100		false	0	true		false	false	1.0000
+market_stand_4	incidental	market_stand_4	stone	50		building	100		false	0	true		false	false	1.0000
+market_stand_5	incidental	market_stand_5	stone	50		building	100		false	0	true		false	false	1.0000
+market_stand_6	incidental	market_stand_6	stone	50		building	100		false	0	true		false	false	1.0000
+market_stand_persian_1	generic	market_stand_persian_1	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+market_stand_persian_2	generic	market_stand_persian_2	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+market_stand_persian_3	generic	market_stand_persian_3	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+market_stand_persian_4	generic	market_stand_persian_4	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+market_stand_persian_5	generic	market_stand_persian_5	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+market_stand_persian_6	generic	market_stand_persian_6	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+multiplayer_testbuilding_blue	incidental	multiplayer_testbuilding_blue	stone	10		building	100		false	0	true		false	false	1.0000
+multiplayer_testbuilding_green	incidental	multiplayer_testbuilding_green	stone	10		building	100		false	0	true		false	false	1.0000
+multiplayer_testbuilding_red	incidental	multiplayer_testbuilding_red	stone	10		building	100		false	0	true		false	false	1.0000
+multiplayer_testbuilding_yellow	incidental	multiplayer_testbuilding_yellow	stone	10		building	100		false	0	true		false	false	1.0000
+pavements_bench	incidental	pavements_bench	stone	10		building	100		false	0	true		false	false	1.0000
+pavements_mosaic	ground_platform	pavements_mosaic	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_mosaic5m	ground_platform	pavements_mosaic5m	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_path	ground_platform	pavements_path	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_path5m	ground_platform	pavements_path5m	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_path_bricks	ground_platform	pavements_path_bricks	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_path_bricks5m	ground_platform	pavements_path_bricks5m	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_sand_tile	ground_platform	pavements_sand_tile	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_sand_tile5m	ground_platform	pavements_sand_tile5m	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_stairs_corner	ground_platform	pavements_stairs_corner	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_stairs_corner5m	ground_platform	pavements_stairs_corner5m	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_stairs_straight	ground_platform	pavements_stairs_straight	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_stairs_straight5m	ground_platform	pavements_stairs_straight5m	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_treepot	incidental	pavements_treepot	stone	10		building	100		false	0	true		false	false	1.0000
+pavements_wall_corner	ground_platform	pavements_wall_corner	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_wall_corner5m	ground_platform	pavements_wall_corner5m	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_wall_straight	ground_platform	pavements_wall_straight	stone	100		building	100		false	0	true		false	false	1.0000
+pavements_wall_straight5m	ground_platform	pavements_wall_straight5m	stone	100		building	100		false	0	true		false	false	1.0000
+persian_city_building_1	generic	persian_city_building_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_building_2	generic	persian_city_building_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_building_3	generic	persian_city_building_3	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_building_4	generic	persian_city_building_4	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_building_add_1	generic	persian_city_building_add_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_building_add_2	generic	persian_city_building_add_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_building_add_3	generic	persian_city_building_add_3	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_building_stairs	generic	persian_city_building_stairs	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_colonnade_left	generic	persian_city_colonnade_left	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_colonnade_middle	generic	persian_city_colonnade_middle	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_city_colonnade_right	generic	persian_city_colonnade_right	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_cliff_fort_corner	fort_wall	persian_cliff_fort_corner	stone	500		fort_wall	100		false	0	true		false	false	1.0000
+persian_cliff_fort_diagonal	fort_wall	persian_cliff_fort_diagonal	stone	500		fort_wall	100		false	0	true		false	false	1.0000
+persian_cliff_fort_straight	fort_wall	persian_cliff_fort_straight	stone	500		fort_wall	100		false	0	true		false	false	1.0000
+persian_column_1	generic	persian_column_1	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_fort_angled_joiner	fort_wall	persian_fort_angled_joiner	stone	2000		fort_wall	100		false	0	true		true	false	1.0000
+persian_fort_bridgingcolumn_left	fort_wall	persian_fort_bridgingcolumn_left	stone	2000		fort_wall	100		false	0	true		false	true	1.0000
+persian_fort_bridgingcolumn_right	fort_wall	persian_fort_bridgingcolumn_right	stone	2000		fort_wall	100		false	0	true		false	true	1.0000
+persian_fort_external_angled_to_grid_joiner	fort_wall	persian_fort_external_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_external_corner	fort_wall	persian_fort_external_corner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_external_grid_to_angled_joiner	fort_wall	persian_fort_external_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_gateway_e	gate	persian_fort_gateway_e	stone	2800		gate	3000		false	0	true		false	false	4.0000
+persian_fort_internal_angled_to_grid_joiner	fort_wall	persian_fort_internal_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_internal_corner	fort_wall	persian_fort_internal_corner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_internal_grid_to_angled_joiner	fort_wall	persian_fort_internal_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_straight	fort_wall	persian_fort_straight	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_straight_stepped_down_10m_square_bastion_a	unbreachable_fort_wall	persian_fort_straight_stepped_down_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_straight_stepped_up_10m_square_bastion_a	unbreachable_fort_wall	persian_fort_straight_stepped_up_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_straight_with_doors_a	fort_wall	persian_fort_straight_with_doors_a	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_straight_with_solid_squared_bastion	unbreachable_fort_wall	persian_fort_straight_with_solid_squared_bastion	stone	2500		fort_wall	100		false	0	true		false	false	1.0000
+persian_fort_tower_b_corner_with_extension	fort_tower	persian_fort_tower_b_corner_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+persian_fort_tower_c_straight_with_extension	fort_tower	persian_fort_tower_c_straight_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+persian_fort_tower_end_left	fort_tower	persian_fort_tower_end_left	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+persian_fort_tower_end_right	fort_tower	persian_fort_tower_end_right	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+persian_ground	ground_platform	persian_ground	stone	100		building	100		false	0	true		false	false	1.0000
+persian_highfence	generic	persian_highfence	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_highfence_pillar	generic	persian_highfence_pillar	stone	100		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_lowfence	incidental	persian_lowfence	stone	10		building	100		false	0	true		false	false	1.0000
+persian_lowfence_pillar	incidental	persian_lowfence_pillar	stone	10		building	100		false	0	true		false	false	1.0000
+persian_slum_1	generic	persian_slum_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_slum_2	generic	persian_slum_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_slum_3	generic	persian_slum_3	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_statue_1	generic	persian_statue_1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_tent_side_01	incidental	persian_tent_side_01	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_side_02	incidental	persian_tent_side_02	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_side_03	incidental	persian_tent_side_03	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_side_04	incidental	persian_tent_side_04	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_side_05	incidental	persian_tent_side_05	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_side_06	incidental	persian_tent_side_06	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_side_07	incidental	persian_tent_side_07	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_top_01	incidental	persian_tent_top_01	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_top_02	incidental	persian_tent_top_02	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_top_03	incidental	persian_tent_top_03	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_top_04	incidental	persian_tent_top_04	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_top_05	incidental	persian_tent_top_05	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_top_06	incidental	persian_tent_top_06	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tent_top_07	incidental	persian_tent_top_07	stone	20		building	100		false	0	true		false	false	1.0000
+persian_tower	generic	persian_tower	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+persian_townhouse_1	generic	persian_townhouse_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_townhouse_2	generic	persian_townhouse_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_townhouse_3	generic	persian_townhouse_3	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_townhouse_4	generic	persian_townhouse_4	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_townhouse_add_1	generic	persian_townhouse_add_1	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_townhouse_add_2	generic	persian_townhouse_add_2	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_washingline_air_01	generic	persian_washingline_air_01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_washingline_air_02	generic	persian_washingline_air_02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_washingline_air_03	generic	persian_washingline_air_03	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_washingline_air_04	generic	persian_washingline_air_04	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_washingline_ground_01	generic	persian_washingline_ground_01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_washingline_ground_02	generic	persian_washingline_ground_02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+persian_washingline_ground_03	generic	persian_washingline_ground_03	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_angle	generic	platform_angle	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_fence_30	incidental	platform_fence_30	stone	10		building	100		false	0	true		false	false	1.0000
+platform_fence_corner	incidental	platform_fence_corner	stone	10		building	100		false	0	true		false	false	1.0000
+platform_fence_slope	incidental	platform_fence_slope	stone	10		building	100		false	0	true		false	false	1.0000
+platform_fence_straight	incidental	platform_fence_straight	stone	10		building	100		false	0	true		false	false	1.0000
+platform_ground_tiles	ground_platform	platform_ground_tiles	stone	500		building	100		false	0	true		false	false	1.0000
+platform_ground_tiles2	ground_platform	platform_ground_tiles2	stone	500		building	100		false	0	true		false	false	1.0000
+platform_ground_tiles2_roman	ground_platform	platform_ground_tiles2_roman	stone	500		building	100		false	0	true		false	false	1.0000
+platform_ground_tiles3	ground_platform	platform_ground_tiles3	stone	500		building	100		false	0	true		false	false	1.0000
+platform_ground_tiles_roman	ground_platform	platform_ground_tiles_roman	stone	500		building	100		false	0	true		false	false	1.0000
+platform_staircase	generic	platform_staircase	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_staircase_roman	generic	platform_staircase_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_30	generic	platform_wall_30	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_30_roman	generic	platform_wall_30_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner	generic	platform_wall_corner	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_door	generic	platform_wall_corner_door	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_door_roman	generic	platform_wall_corner_door_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_door_window1	generic	platform_wall_corner_door_window1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_door_window1_roman	generic	platform_wall_corner_door_window1_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_door_window2	generic	platform_wall_corner_door_window2	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_door_window2_roman	generic	platform_wall_corner_door_window2_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_roman	generic	platform_wall_corner_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_tunnel	generic	platform_wall_corner_tunnel	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_tunnel_roman	generic	platform_wall_corner_tunnel_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_window1	generic	platform_wall_corner_window1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_corner_window1_roman	generic	platform_wall_corner_window1_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_slope	generic	platform_wall_slope	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_straight	generic	platform_wall_straight	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_straight_pillar	generic	platform_wall_straight_pillar	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_straight_pillar_roman	generic	platform_wall_straight_pillar_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_straight_pipe	generic	platform_wall_straight_pipe	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_straight_pipe_roman	generic	platform_wall_straight_pipe_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+platform_wall_straight_roman	generic	platform_wall_straight_roman	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+pontoon	bridge	pontoon	wood	20		building	100		false	0	true		false	false	1.0000
+pyramid	generic	pyramid	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+pyramid_khafre	generic	pyramid_khafre	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+pyramid_khufu	generic	pyramid_khufu	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+rameses_ii	generic	rameses_ii	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+road_planks	bridge	road_planks	wood	20			100		false	0	true		false	false	1.0000
+rock01_wall	incidental	rock01_wall	stone	10		building	100		false	0	true		false	false	1.0000
+rock02_wall	incidental	rock02_wall	stone	10		building	100		false	0	true		false	false	1.0000
+rock_01_large	generic	rock_01_large	stone	500			500		false	0	true		false	false	1.0000
+rock_01_med	generic	rock_01_med	stone	500			500		false	0	true		false	false	1.0000
+rock_01_small	generic	rock_01_small	stone	500			500		false	0	true		false	false	1.0000
+rock_02_large	generic	rock_02_large	stone	500			500		false	0	true		false	false	1.0000
+rock_02_med	generic	rock_02_med	stone	500			500		false	0	true		false	false	1.0000
+rock_02_med2	generic	rock_02_med2	stone	500			500		false	0	true		false	false	1.0000
+rock_02_small	generic	rock_02_small	stone	500			500		false	0	true		false	false	1.0000
+rock_desert_large_1	generic	rock_desert_large_1	stone	500			500		false	0	true		false	false	1.0000
+rock_desert_med_1	generic	rock_desert_med_1	stone	500			500		false	0	true		false	false	1.0000
+rock_desert_med_2	generic	rock_desert_med_2	stone	500			500		false	0	true		false	false	1.0000
+rock_desert_med_3	generic	rock_desert_med_3	stone	500			500		false	0	true		false	false	1.0000
+rock_desert_med_4	generic	rock_desert_med_4	stone	500			500		false	0	true		false	false	1.0000
+rock_desert_small_1	generic	rock_desert_small_1	stone	500			500		false	0	true		false	false	1.0000
+rock_desert_small_2	generic	rock_desert_small_2	stone	500			500		false	0	true		false	false	1.0000
+rock_flat	incidental	rock_flat	stone	10		building	100		false	0	true		false	false	1.0000
+rocks_small_01	incidental	rocks_small_01	stone	10		building	100		false	0	true		false	false	1.0000
+roman_agora_2storey_building01	generic	roman_agora_2storey_building01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_2storey_building02	generic	roman_agora_2storey_building02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_2storey_building03	generic	roman_agora_2storey_building03	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_2storey_building04	generic	roman_agora_2storey_building04	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_bath01	generic	roman_agora_bath01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_bath02	generic	roman_agora_bath02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_main_segment	generic	roman_agora_main_segment	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_main_segment_end_detailed	generic	roman_agora_main_segment_end_detailed	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_main_segment_end_detailed_flipped	generic	roman_agora_main_segment_end_detailed_flipped	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_agora_tower	generic	roman_agora_tower	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_apartment_building01	generic	roman_apartment_building01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_apartment_building01-02	generic	roman_apartment_building01-02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_apartment_building02	generic	roman_apartment_building02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_apartment_building02-02	generic	roman_apartment_building02-02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_apartment_building03	generic	roman_apartment_building03	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_apartment_building_corner	generic	roman_apartment_building_corner	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_aqueduct_60	generic	roman_aqueduct_60	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_aqueduct_60degres	generic	roman_aqueduct_60degres	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_aqueduct_90	generic	roman_aqueduct_90	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_aqueduct_destruct_end	generic	roman_aqueduct_destruct_end	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_aqueduct_end	generic	roman_aqueduct_end	stone	500		fort_wall	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_aqueduct_notech	generic	roman_aqueduct_notech	stone	500		fort_wall	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_aqueduct_straight	generic	roman_aqueduct_straight	stone	500		fort_wall	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_aqueduct_terminus	generic	roman_aqueduct_terminus	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circumvallations_concave	generic	roman_circumvallations_concave	wood	500		fort_wall	100		false	0	true		false	false	1.0000
+roman_circumvallations_convex	generic	roman_circumvallations_convex	wood	500		fort_wall	100		false	0	true		false	false	1.0000
+roman_circumvallations_watchtower_enclosed	generic	roman_circumvallations_watchtower_enclosed	wood	500		fort_wall	100		false	0	true		false	false	1.0000
+roman_circus_maximus_arch	generic	roman_circus_maximus_arch	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circus_maximus_entrance	generic	roman_circus_maximus_entrance	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circus_maximus_entrance02	generic	roman_circus_maximus_entrance02	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circus_maximus_plynth	generic	roman_circus_maximus_plynth	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circus_maximus_plynth_end	generic	roman_circus_maximus_plynth_end	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circus_maximus_round	generic	roman_circus_maximus_round	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circus_maximus_straight	generic	roman_circus_maximus_straight	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circus_maximus_wall	generic	roman_circus_maximus_wall	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_circus_maximus_wall02	generic	roman_circus_maximus_wall02	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_colonnade_corner	generic	roman_colonnade_corner	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_colonnade_straight	generic	roman_colonnade_straight	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_colosseum_emperortribune	generic	roman_colosseum_emperortribune	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_colosseum_part10	generic	roman_colosseum_part10	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_colosseum_velum	generic	roman_colosseum_velum	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_flat_roof_1_storey_a	generic	roman_flat_roof_1_storey_a	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_flat_roof_1_storey_a_red	generic	roman_flat_roof_1_storey_a_red	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_flat_roof_1_storey_b	generic	roman_flat_roof_1_storey_b	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_flat_roof_2_storey_a	generic	roman_flat_roof_2_storey_a	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_flat_roof_2_storey_b	generic	roman_flat_roof_2_storey_b	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_flat_roof_2_storey_d	generic	roman_flat_roof_2_storey_d	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_flat_roof_3_storey	generic	roman_flat_roof_3_storey	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_fort_angled_joiner	fort_wall	roman_fort_angled_joiner	stone	2000		fort_wall	100		false	0	true	0.7	true	false	1.0000
+roman_fort_bridgingcolumn_left	fort_wall	roman_fort_bridgingcolumn_left	stone	2000		fort_wall	100		false	0	true	0.7	false	true	1.0000
+roman_fort_bridgingcolumn_right	fort_wall	roman_fort_bridgingcolumn_right	stone	2000		fort_wall	100		false	0	true	0.7	false	true	1.0000
+roman_fort_external_angled_to_grid_joiner	fort_wall	roman_fort_external_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+roman_fort_external_corner	fort_wall	roman_fort_external_corner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_external_grid_to_angled_joiner	fort_wall	roman_fort_external_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_gateway_e	gate	roman_fort_gateway_e	stone	2800		gate	3000		false	0	true	0.7	false	false	4.0000
+roman_fort_internal_angled_to_grid_joiner	fort_wall	roman_fort_internal_angled_to_grid_joiner	stone	2000		fort_wall	100		false	0	true		false	false	1.0000
+roman_fort_internal_corner	fort_wall	roman_fort_internal_corner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_internal_grid_to_angled_joiner	fort_wall	roman_fort_internal_grid_to_angled_joiner	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_straight	fort_wall	roman_fort_straight	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_straight_stepped_down_10m_square_bastion_a	unbreachable_fort_wall	roman_fort_straight_stepped_down_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_straight_stepped_up_10m_square_bastion_a	unbreachable_fort_wall	roman_fort_straight_stepped_up_10m_square_bastion_a	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_straight_with_doors_a	fort_wall	roman_fort_straight_with_doors_a	stone	2000		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_straight_with_solid_squared_bastion	unbreachable_fort_wall	roman_fort_straight_with_solid_squared_bastion	stone	2500		fort_wall	100		false	0	true	0.7	false	false	1.0000
+roman_fort_tower_b_corner_with_extension	fort_tower	roman_fort_tower_b_corner_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+roman_fort_tower_c_straight_with_extension	fort_tower	roman_fort_tower_c_straight_with_extension	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+roman_fort_tower_end_left	fort_tower	roman_fort_tower_end_left	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+roman_fort_tower_end_right	fort_tower	roman_fort_tower_end_right	stone	2200	tower_watchtower	fort_tower	100		false	0	true	0.7	false	false	1.0000
+roman_lowfence	generic	roman_lowfence	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_lowfence_pillar	generic	roman_lowfence_pillar	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_marchingcamp_equipment01	incidental	roman_marchingcamp_equipment01	stone	10		building	100		false	0	true		false	false	1.0000
+roman_marchingcamp_standardeagle	incidental	roman_marchingcamp_standardeagle	stone	10		building	100		false	0	true		false	false	1.0000
+roman_marchingcamp_table	incidental	roman_marchingcamp_table	stone	10		building	100		false	0	true		false	false	1.0000
+roman_pantheon	generic	roman_pantheon	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_senate_house	generic	roman_senate_house	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_temple01	generic	roman_temple01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_temple01_cinematic	generic	roman_temple01_cinematic	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_tent_side_01	incidental	roman_tent_side_01	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_side_02	incidental	roman_tent_side_02	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_side_03	incidental	roman_tent_side_03	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_side_04	incidental	roman_tent_side_04	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_side_05	incidental	roman_tent_side_05	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_side_06	incidental	roman_tent_side_06	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_side_07	incidental	roman_tent_side_07	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_top_01	incidental	roman_tent_top_01	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_top_02	incidental	roman_tent_top_02	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_top_03	incidental	roman_tent_top_03	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_top_04	incidental	roman_tent_top_04	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_top_05	incidental	roman_tent_top_05	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_top_06	incidental	roman_tent_top_06	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tent_top_07	incidental	roman_tent_top_07	stone	20		building	100		false	0	true		false	false	1.0000
+roman_tower	generic	roman_tower	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_angled	generic	roman_villa_angled	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_angled02	generic	roman_villa_angled02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_atrium	generic	roman_villa_atrium	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_colonade	generic	roman_villa_colonade	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_house01	generic	roman_villa_house01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_house02	generic	roman_villa_house02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_ivy	generic	roman_villa_ivy	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_stables	generic	roman_villa_stables	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_straight01	generic	roman_villa_straight01	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_straight02	generic	roman_villa_straight02	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_tabernae	generic	roman_villa_tabernae	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_tower	generic	roman_villa_tower	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_wall	generic	roman_villa_wall	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_wall_door	generic	roman_villa_wall_door	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_villa_wall_pillar	generic	roman_villa_wall_pillar	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+roman_washinglines_air_01	incidental	roman_washinglines_air_01	stone	10		building	100		false	0	true		false	false	1.0000
+roman_washinglines_air_02	incidental	roman_washinglines_air_02	stone	10		building	100		false	0	true		false	false	1.0000
+roman_washinglines_air_03	incidental	roman_washinglines_air_03	stone	10		building	100		false	0	true		false	false	1.0000
+roman_washinglines_air_04	incidental	roman_washinglines_air_04	stone	10		building	100		false	0	true		false	false	1.0000
+roman_washinglines_ground_01	incidental	roman_washinglines_ground_01	stone	10		building	100		false	0	true		false	false	1.0000
+roman_washinglines_ground_02	incidental	roman_washinglines_ground_02	stone	10		building	100		false	0	true		false	false	1.0000
+roman_washinglines_ground_03	incidental	roman_washinglines_ground_03	stone	10		building	100		false	0	true		false	false	1.0000
+ruin_columns_1	generic	ruin_columns_1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+ruin_columns_2	generic	ruin_columns_2	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+ruin_columns_3	generic	ruin_columns_3	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+ruin_columns_4	generic	ruin_columns_4	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+ruin_columns_5	generic	ruin_columns_5	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+ruin_floor_1	ground_platform	ruin_floor_1	stone	500		building	100		false	0	true		false	false	1.0000
+ruin_floor_2	ground_platform	ruin_floor_2	stone	500		building	100		false	0	true		false	false	1.0000
+ruin_floor_3	ground_platform	ruin_floor_3	stone	500		building	100		false	0	true		false	false	1.0000
+ruin_rubble_1	ground_platform	ruin_rubble_1	stone	500		building	100		false	0	true		false	false	1.0000
+ruin_rubble_2	ground_platform	ruin_rubble_2	stone	500		building	100		false	0	true		false	false	1.0000
+ruin_single_column_1	generic	ruin_single_column_1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+ruin_single_column_2	generic	ruin_single_column_2	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+ruin_single_column_3	generic	ruin_single_column_3	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+ruin_single_column_4	generic	ruin_single_column_4	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+scaffolding_1	incidental	scaffolding_1	wood	50		building	100		false	0	true		false	false	1.0000
+scaffolding_2	incidental	scaffolding_2	wood	50		building	100		false	0	true		false	false	1.0000
+scaffolding_3	incidental	scaffolding_3	wood	50		building	100		false	0	true		false	false	1.0000
+scaffolding_tall_02	incidental	scaffolding_tall_02	wood	50		building	100		false	0	true		false	false	1.0000
+short_dock_straight_1	generic	short_dock_straight_1	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+short_dock_straight_2	generic	short_dock_straight_2	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+short_dock_straight_3	generic	short_dock_straight_3	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+short_dock_straight_4	generic	short_dock_straight_4	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+short_dock_straight_5	generic	short_dock_straight_5	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+sidewalk_corner	generic	sidewalk_corner	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+sidewalk_straight	generic	sidewalk_straight	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+siege_barricade_stakes	incidental	siege_barricade_stakes	stone	50		building	100		false	0	true		false	false	1.0000
+siege_barricade_wall_1	fort_wall	siege_barricade_wall_1	wood	500		building	350	placeholder.tga	false	0	true		false	false	1.0000
+siege_barricade_wall_2	fort_wall	siege_barricade_wall_2	wood	500		building	350	placeholder.tga	false	0	true		false	false	1.0000
+sky_alps01_double_unlit	generic	sky_alps01_double_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_alps01_full_unlit	generic	sky_alps01_full_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_alps01_half_unlit	generic	sky_alps01_half_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_alps02_double_unlit	generic	sky_alps02_double_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_alps02_full_unlit	generic	sky_alps02_full_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_alps02_half_unlit	generic	sky_alps02_half_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_blue_75	generic	sky_blue_75	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_grey_75	generic	sky_grey_75	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_grey_75_unlit	generic	sky_grey_75_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_grey_storm_75	generic	sky_grey_storm_75	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_grey_storm_half_unlit	generic	sky_grey_storm_half_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_grey_with_land_75	generic	sky_grey_with_land_75	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_night_75	generic	sky_night_75	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_night_half_unlit	generic	sky_night_half_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_pink	generic	sky_pink	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_sunset	generic	sky_sunset	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_sunset_half	generic	sky_sunset_half	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+sky_sunset_half_unlit	generic	sky_sunset_half_unlit	stone	15			500	placeholder.tga	false	0	true		false	false	1.0000
+small_pyramid	generic	small_pyramid	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+small_shack	incidental	small_shack	stone	50		building	100		false	0	true		false	false	1.0000
+smallrock_01	incidental	smallrock_01	stone	10		building	100		false	0	true		false	false	1.0000
+smallrock_02	incidental	smallrock_02	stone	10		building	100		false	0	true		false	false	1.0000
+smallrock_03	incidental	smallrock_03	stone	10		building	100		false	0	true		false	false	1.0000
+stairs	generic	stairs	stone	200		building	500	placeholder.tga	false	0	true		false	false	1.0000
+stairs_30m	ground_platform	stairs_30m	stone	200		building	100		false	0	true		false	false	1.0000
+stairs_30m_notech	generic	stairs_30m_notech	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+stairs_doubleheight_30m	generic	stairs_doubleheight_30m	stone	500			100		false	0	true		false	false	1.0000
+start_ui_scene	generic	start_ui_scene	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+stock	generic	stock	wood	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+street_barricades_door_1	incidental	street_barricades_door_1	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_door_2	incidental	street_barricades_door_2	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_door_3	incidental	street_barricades_door_3	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_high_1	incidental	street_barricades_high_1	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_high_2	incidental	street_barricades_high_2	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_low_1	incidental	street_barricades_low_1	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_low_2	incidental	street_barricades_low_2	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_low_3	incidental	street_barricades_low_3	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_rubble_1	incidental	street_barricades_rubble_1	stone	100		building	100		false	0	true		false	false	1.0000
+street_barricades_rubble_2	incidental	street_barricades_rubble_2	wood	100		building	100		false	0	true		false	false	1.0000
+street_barricades_streetborders_1	incidental	street_barricades_streetborders_1	stone	100		building	100		false	0	true		false	false	1.0000
+street_barricades_streetborders_2	incidental	street_barricades_streetborders_2	stone	100		building	100		false	0	true		false	false	1.0000
+tent_side_01	incidental	tent_side_01	stone	20		building	100		false	0	true		false	false	1.0000
+tent_side_02	incidental	tent_side_02	stone	20		building	100		false	0	true		false	false	1.0000
+tent_side_03	incidental	tent_side_03	stone	20		building	100		false	0	true		false	false	1.0000
+tent_side_04	incidental	tent_side_04	stone	20		building	100		false	0	true		false	false	1.0000
+tent_side_05	incidental	tent_side_05	stone	20		building	100		false	0	true		false	false	1.0000
+tent_side_06	incidental	tent_side_06	stone	20		building	100		false	0	true		false	false	1.0000
+tent_side_07	incidental	tent_side_07	stone	20		building	100		false	0	true		false	false	1.0000
+tent_top_01	incidental	tent_top_01	stone	20		building	100		false	0	true		false	false	1.0000
+tent_top_02	incidental	tent_top_02	stone	20		building	100		false	0	true		false	false	1.0000
+tent_top_03	incidental	tent_top_03	stone	20		building	100		false	0	true		false	false	1.0000
+tent_top_04	incidental	tent_top_04	stone	20		building	100		false	0	true		false	false	1.0000
+tent_top_05	incidental	tent_top_05	stone	20		building	100		false	0	true		false	false	1.0000
+tent_top_06	incidental	tent_top_06	stone	20		building	100		false	0	true		false	false	1.0000
+tent_top_07	incidental	tent_top_07	stone	20		building	100		false	0	true		false	false	1.0000
+test_circus_maximus	generic	test_circus_maximus	stone	500			500	placeholder.tga	false	0	true		false	false	1.0000
+tomb_of_makedon	generic	tomb_of_makedon	stone	500			100		false	0	true		false	false	1.0000
+torch_ground_post	incidental	torch_ground_post	stone	10		building	100		false	0	true		false	false	1.0000
+torch_sconce	incidental	torch_sconce	stone	10		building	100		false	0	true		false	false	1.0000
+torche_cinematic_new	generic	torche_cinematic_new	stone	15			100		false	0	true		false	false	1.0000
+tree_stump	generic	tree_stump	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+under_water_100m	generic	under_water_100m	stone	15			100		false	0	true		false	false	1.0000
+under_water_150m	generic	under_water_150m	stone	15			100		false	0	true		false	false	1.0000
+under_water_200m	generic	under_water_200m	stone	15			100		false	0	true		false	false	1.0000
+under_water_300m	generic	under_water_300m	stone	15			100		false	0	true		false	false	1.0000
+under_water_50m	generic	under_water_50m	stone	15			100		false	0	true		false	false	1.0000
+vines	incidental	vines	stone	10		building	100		false	0	true		false	false	1.0000
+vines_pillar	incidental	vines_pillar	stone	10		building	100		false	0	true		false	false	1.0000
+washingline_air_01	incidental	washingline_air_01	stone	10		building	100		false	0	true		false	false	1.0000
+washingline_air_02	incidental	washingline_air_02	stone	10		building	100		false	0	true		false	false	1.0000
+washingline_air_03	incidental	washingline_air_03	stone	10		building	100		false	0	true		false	false	1.0000
+washingline_air_04	incidental	washingline_air_04	stone	10		building	100		false	0	true		false	false	1.0000
+washingline_ground_01	incidental	washingline_ground_01	stone	10		building	100		false	0	true		false	false	1.0000
+washingline_ground_02	incidental	washingline_ground_02	stone	10		building	100		false	0	true		false	false	1.0000
+washingline_ground_03	incidental	washingline_ground_03	stone	10		building	100		false	0	true		false	false	1.0000
+water_plane	generic	water_plane	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000
+well	incidental	well	stone	50		building	100		false	0	true		false	false	1.0000
+wheelbarrow	incidental	wheelbarrow	wood	10		building	100		false	0	true		false	false	1.0000
+wonder_mausoleum	incidental	wonder_mausoleum	stone	15			100		false	0	true		false	false	1.0000
+wonder_oracle_of_amun_re	generic	wonder_oracle_of_amun_re	stone	15			100		false	0	true		false	false	1.0000
+wonder_temple_of_zeus	generic	wonder_temple_of_zeus	stone	15			100		false	0	true		false	false	1.0000
+woodpile	incidental	woodpile	wood	50		building	100		false	0	true		false	false	1.0000
+ziggourat	generic	ziggourat	stone	500		building	500	placeholder.tga	false	0	true		false	false	1.0000

@@ -1,0 +1,25 @@
+key	path	root_node
+#anim_reference_poses_tables;0;db/anim_reference_poses_tables/anim_reference_poses		
+bear	animations\skeletons\fauna_bear.anim	Hips
+bird	animations\skeletons\fauna_bird.anim	hips
+champion_female	animations\skeletons\champion_female.anim	bn_hips
+champion_male	animations\skeletons\champion_male.anim	bn_hips
+deer	animations\skeletons\fauna_deer.anim	Hips
+dignitary_female	animations\skeletons\dignitary_female.anim	bn_hips
+dignitary_male	animations\skeletons\dignitary_male.anim	bn_hips
+eastern_ship	animations\skeletons\campaign_ship.anim	bone_ship
+hellenic_dignitary_female	animations\skeletons\hellenic_dignitary_female.anim	bn_hips
+horse_r2	animations\skeletons\horse_r2.anim	bn_hip
+human	animations\skeletons\man_shogun.anim	Hips
+rom_man	animations\skeletons\rome_man_game.anim	bn_hips
+rom_rome	animations\skeletons\rome_man.anim	bn_hips
+roman_dignitary_male	animations\skeletons\roman_dignitary_male.anim	bn_hips
+ship	animations\skeletons\campaign_ship.anim	bone_ship
+spy_female	animations\skeletons\spy_female.anim	bn_hips
+spy_male	animations\skeletons\spy_male.anim	bn_hips
+trireme_agent01	animations\skeletons\trireme_agent01.anim	be_root
+trireme_army01	animations\skeletons\trireme_army01.anim	be_root
+trireme_fleet01	animations\skeletons\trireme_fleet01.anim	be_root
+trireme_low	animations\skeletons\trireme_low.anim	bn_root
+trireme_trade01	animations\skeletons\trireme_trade01.anim	be_root
+whale	animations\skeletons\fauna_whale.anim	pelvis

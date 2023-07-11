@@ -1,0 +1,9 @@
+id	alliance_target	mechanic_target	player_target
+#campaign_autoresolver_mod_group_targets_tables;1;db/campaign_autoresolver_mod_group_targets_tables/campaign_autoresolver_mod_group_targets			
+ai_vs_human			ai_vs_human
+attacker_target	attacker		
+defender_target	defender		
+general_lvl_buff		per_general_level	
+human_vs_ai			human_vs_ai
+none			
+siege_eq_buff		per_siege_equipment	

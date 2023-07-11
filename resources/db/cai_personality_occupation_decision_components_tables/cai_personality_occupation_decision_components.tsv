@@ -1,0 +1,3 @@
+id	food_excess_cap	food_shortage_cap	min_attitude	squalor_cap
+#cai_personality_occupation_decision_components_tables;0;db/cai_personality_occupation_decision_components_tables/cai_personality_occupation_decision_components				
+default	10	-4	0	-8

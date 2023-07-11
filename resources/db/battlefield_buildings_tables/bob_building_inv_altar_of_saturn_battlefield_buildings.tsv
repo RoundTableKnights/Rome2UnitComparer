@@ -1,0 +1,3 @@
+key	category	model	audio_material	hit_points	gun_type	onscreen_name	ignition_threshold	radar_icon	visible_in_public_ted	fortwall_penetration_chance	collision_3d	destruct_thresholds	joiner	auxiliary	burn_rate
+#battlefield_buildings_tables;15;db/battlefield_buildings_tables/bob_building_inv_altar_of_saturn_battlefield_buildings															
+inv_altar_of_saturn	generic	inv_altar_of_saturn	stone	500			100		false	0	true		false	false	1.0000

@@ -1,0 +1,9 @@
+key	army
+#cdir_unit_balance_groups_tables;0;db/cdir_unit_balance_groups_tables/cdir_unit_balance_groups	
+cavalry	true
+heavy_ship	false
+infantry_melee	true
+infantry_ranged	true
+infantry_ranged_late	true
+light_ship	false
+medium_ship	false

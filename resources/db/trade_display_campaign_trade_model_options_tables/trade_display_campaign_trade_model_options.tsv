@@ -1,0 +1,5 @@
+key	campaign	model	priority	relative_frequency
+#trade_display_campaign_trade_model_options_tables;0;db/trade_display_campaign_trade_model_options_tables/trade_display_campaign_trade_model_options				
+0	main_rome	trade_camel	0.0000	1
+4	main_gaul	trade_ox	2.0000	1
+5	main_greek	trade_ox	2.0000	1

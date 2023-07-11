@@ -1,0 +1,36 @@
+factor	positive_pip_path	negative_pip_path	optional_campaign_key
+#public_order_factors_tables;1;db/public_order_factors_tables/public_order_factors			
+happiness_bankruptcy	data/ui/campaign ui/pips/taxes-unhappy.png	data/ui/campaign ui/pips/taxes-unhappy.png	
+happiness_characters	data/ui/campaign ui/pips/gentlemen-happy.png	data/ui/campaign ui/pips/gentlemen-unhappy.png	
+happiness_culture	data/ui/campaign ui/pips/culture-happy.png	data/ui/campaign ui/pips/culture-happy.png	
+happiness_daimyo_honour	data/ui/campaign ui/pips/daimyo_honour_happy.png	data/ui/campaign ui/pips/daimyo_honour-unhappy.png	
+happiness_devastation	data/ui/campaign ui/pips/devastation-unhappy.png	data/ui/campaign ui/pips/devastation-unhappy.png	
+happiness_events	data/ui/campaign ui/pips/events-happy.png	data/ui/campaign ui/pips/events-unhappy.png	
+happiness_food_shortage	data/ui/campaign ui/pips/food_shortage-unhappy.png	data/ui/campaign ui/pips/food_shortage-unhappy.png	
+happiness_gentlemen	data/ui/campaign ui/pips/gentlemen-happy.png	data/ui/campaign ui/pips/gentlemen-unhappy.png	
+happiness_gov_type	data/ui/campaign ui/pips/culture-happy.png	data/ui/campaign ui/pips/culture-happy.png	
+happiness_industrialisation	data/ui/campaign ui/pips/devastation-unhappy.png	data/ui/campaign ui/pips/devastation-unhappy.png	
+happiness_non_state_religion_unrest	data/ui/campaign ui/pips/religion-unhappy.png	data/ui/campaign ui/pips/religion-unhappy.png	
+happiness_reform	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+happiness_religion	data/ui/campaign ui/pips/religion-happy.png	data/ui/campaign ui/pips/religion-unhappy.png	
+happiness_resistance	data/ui/campaign ui/pips/resistance-happy.png	data/ui/campaign ui/pips/resistance-unhappy.png	
+happiness_tax_rate	data/ui/campaign ui/pips/taxes-unhappy.png	data/ui/campaign ui/pips/taxes-unhappy.png	
+happiness_war	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_base	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_buildings	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_food_shortages	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_happiness	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_migration	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_military	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_policies	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_ports	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_taxes	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_technologies	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+population_growth_unrest	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+repression_buildings	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	
+repression_characters	data/ui/campaign ui/pips/gentlemen.png	data/ui/campaign ui/pips/resource_other_goods.png	
+repression_events	data/ui/campaign ui/pips/events-repression.png	data/ui/campaign ui/pips/resource_other_goods.png	
+repression_garrison	data/ui/campaign ui/pips/garrison-repression.png	data/ui/campaign ui/pips/resource_other_goods.png	
+repression_gov_type	data/ui/campaign ui/pips/events-repression.png	data/ui/campaign ui/pips/resource_other_goods.png	
+repression_military_crackdown	data/ui/campaign ui/pips/resistance-repression.png	data/ui/campaign ui/pips/resource_other_goods.png	
+repression_policing	data/ui/campaign ui/pips/resource_other_goods.png	data/ui/campaign ui/pips/resource_other_goods.png	

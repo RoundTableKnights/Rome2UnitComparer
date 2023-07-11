@@ -1,0 +1,17 @@
+fatigue_level	stat	value
+#unit_fatigue_effects_tables;2;db/unit_fatigue_effects_tables/unit_fatigue_effects		
+threshold_active	stat_melee_attack	1.0000
+threshold_active	stat_reloading	1.0000
+threshold_active	stat_speed	1.0000
+threshold_exhausted	stat_melee_attack	0.5000
+threshold_exhausted	stat_reloading	0.5000
+threshold_exhausted	stat_speed	0.8000
+threshold_tired	stat_melee_attack	0.7000
+threshold_tired	stat_reloading	0.7000
+threshold_tired	stat_speed	0.9000
+threshold_very_tired	stat_melee_attack	0.6000
+threshold_very_tired	stat_reloading	0.6000
+threshold_very_tired	stat_speed	0.8500
+threshold_winded	stat_melee_attack	0.8000
+threshold_winded	stat_reloading	0.8000
+threshold_winded	stat_speed	0.9500

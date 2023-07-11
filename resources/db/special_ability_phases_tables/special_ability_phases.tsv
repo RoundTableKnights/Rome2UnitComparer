@@ -1,0 +1,114 @@
+id	duration	effect_type	requested_stance	unbreakable	cant_move	kill_own_unit	freeze_fatigue	fatigue_change_ratio	inspiration_aura_range_mod	ability_recharge_change	minor_casualties	major_casualties	ui_vfx	rally_amount
+#special_ability_phases_tables;11;db/special_ability_phases_tables/special_ability_phases														
+Bloodlust_1	15.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+Make_it_Count_1	20.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+aquila_1	20.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+barrage_1	15.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+battle_cry_1	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+beehive	40.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+brace_yourself_1	4.0000	positive		false	true	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+cantabrian_circle	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+cavalry_charge_1	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+chant	30.0000	positive	raise_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_battle_rhythm_1	5.0000	positive	bash_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_battle_rhythm_2	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_battle_rhythm_3	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_battle_rhythm_4	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_battle_rhythm_5	10.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+com_brace	10.0000	positive		false	true	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+com_fast_charge_1	15.0000	positive	raise_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	heavy_buff	0
+com_fast_charge_2	45.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	heavy_buff	0
+com_fear	60.0000	negative		false	false	false	false	0.0000	0.0000	60.0000	false	false	debuff	0
+com_force_concentration	60.0000	positive	raise_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	heavy_buff	0
+com_inspire	10.0000	positive	cheer	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_into_the_breach	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_loyalty	60.0000	positive	bash_weapon	true	false	false	false	0.0000	0.0000	0.0000	false	false	heavy_buff	0
+com_presence	60.0000	positive	cheer	false	false	false	false	0.0000	0.0000	-60.0000	false	false	heavy_buff	0
+com_pride	60.0000	positive	taunt	false	false	false	false	0.0000	0.0000	0.0000	false	false	heavy_buff	0
+com_push	30.0000	positive		false	false	false	true	0.0000	0.0000	0.0000	false	false	buff	0
+com_raise_banner	30.0000	positive		false	false	false	false	0.0000	75.0000	0.0000	false	false	buff	0
+com_rally	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_rally_inspire	30.0000	positive	cheer	true	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_relentless	60.0000	positive	cheer	false	false	false	false	0.0000	0.0000	0.0000	false	false	heavy_buff	0
+com_second_wind	10.0000	positive		false	false	false	true	-4.5000	0.0000	0.0000	false	false	buff	0
+com_shock_and_awe	-1.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+com_spirit	60.0000	positive	cheer	true	false	false	false	0.0000	0.0000	0.0000	false	false	heavy_buff	0
+com_stand_and_fight	-1.0000	positive		true	true	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+com_unity	60.0000	positive	raise_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	heavy_buff	0
+conveterani_1	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+dylan_test_neg_8	8.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+dylans_test_pos_10	10.0000	positive	taunt	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+dylans_test_pos_50	50.0000	positive	bash_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+equine_mutilation	30.0000	positive	raise_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+fatigue_penalty_1	30.0000	negative		false	false	false	false	0.8000	0.0000	0.0000	false	false	debuff	0
+fatigue_penalty_2	20.0000	negative		false	false	false	false	0.6000	0.0000	0.0000	false	false	debuff	0
+fatigue_penalty_3	10.0000	negative		false	false	false	false	0.4000	0.0000	0.0000	false	false	debuff	0
+fire_projectiles	12.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+form_attacking_testudo	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_cavalry_testudo	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_defensive_testudo	-1.0000	positive		false	true	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_diamond	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_flying_wedge	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_hollow_square	-1.0000	positive		false	true	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_hoplite_wall	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_move1	3.0000	neutral		false	false	false	false	0.0000	0.0000	0.0000	false	false	neutral	0
+form_move2	5.0000	neutral		false	false	false	false	0.0000	0.0000	0.0000	false	false	neutral	0
+form_move3	7.0000	neutral		false	false	false	false	0.0000	0.0000	0.0000	false	false	neutral	0
+form_shield_wall	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_spear_wall	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_square	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_wall	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+form_wedge	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+frenzied_charge	30.0000	positive		true	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+frenzy_1	30.0000	positive	bash_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+frenzy_2	30.0000	negative		false	false	false	false	0.4000	0.0000	0.0000	false	false	debuff	0
+headhunt_1	5.0000	positive	bash_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+headhunt_2	5.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+headhunt_3	5.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+headhunt_4	15.0000	positive		true	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+heavy_infantry_charge_1	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+herd_and_slaughter_1	20.0000	negative		true	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+hold_the_line_1	8.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+infantry_charge_1	6.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+inspire	30.0000	positive	cheer	false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+morale_high	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+morale_low	10.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+morale_v_high	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+morale_v_low	10.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+normal_charge_1	6.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+poison_weapon_effect	20.0000	negative		false	false	false	true	0.1000	0.0000	0.0000	false	false	debuff	0
+precision_shot_1	30.0000	positive		false	false	false	false	-0.5000	0.0000	0.0000	false	false	buff	0
+prevent_special_ability	30.0000	negative		false	false	false	false	0.0000	0.0000	30.0000	false	false	debuff	0
+quick_march_1	60.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+quick_march_2	10.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+raise_shields_1	30.0000	negative	raise_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+rapid_advance_1	30.0000	positive		false	false	false	true	0.0000	0.0000	0.0000	false	false	buff	0
+rapid_advance_2	45.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+scorpion_pot	40.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+screech	30.0000	negative	raise_weapon	false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+severe_morale_hit	20.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+ship_speed_1	20.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+ship_speed_2	40.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+ship_speed_3	60.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+snake_pot	40.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+spec_draco	30.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+spec_far_shot	30.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+spec_kill_elephants	-1.0000	positive		false	false	true	false	0.0000	0.0000	0.0000	false	true	buff	0
+spec_killing_spree_1	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+spec_killing_spree_2	20.0000	positive		true	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+spec_killing_spree_3	30.0000	negative		false	false	false	false	-1.5000	0.0000	0.0000	false	false	debuff	0
+spec_quick_reload	30.0000	positive		false	false	false	true	-0.5000	0.0000	0.0000	false	false	buff	0
+spec_rapid_advance_1	30.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+spec_rapid_advance_2	30.0000	negative		false	false	false	true	0.6000	0.0000	0.0000	false	false	debuff	0
+spec_steady_advance	30.0000	positive		true	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+spec_steady_retreat	30.0000	positive		true	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+spec_trample	30.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+spec_use_the_whip_1	30.0000	positive		false	false	false	true	-1.0000	0.0000	0.0000	false	false	buff	0
+spec_use_the_whip_2	30.0000	negative		false	false	false	false	0.8000	0.0000	0.0000	false	false	debuff	0
+speed_fast	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+speed_slow	10.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+speed_v_fast	10.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+speed_v_slow	10.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	false	debuff	0
+stress_1	-1.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0
+stress_2	8.0000	negative		false	false	false	false	0.0000	0.0000	0.0000	false	true	debuff	0
+wooden_swords_steal_hearts_1	12.0000	positive		false	false	false	false	0.0000	0.0000	0.0000	false	false	buff	0

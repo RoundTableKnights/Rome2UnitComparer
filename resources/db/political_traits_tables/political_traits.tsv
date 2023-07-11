@@ -1,0 +1,33 @@
+key	onscreen_name	description
+#political_traits_tables;0;db/political_traits_tables/political_traits		
+polit_trait_agriculturalist	Agriculturalist	+5 loyalty for having food surplus.
+polit_trait_bigot	Bigot	-1 loyalty for each province where the player's culture is not dominant.
+polit_trait_common_difficulty_level	Difficulty Level	Easy: +10 loyalty; Normal: no modifiers; Hard: -10 loyalty, Very Hard & Legendary: -25 loyalty
+polit_trait_common_general_dies_in_battle	General Dies in Battle	-10 loyalty for the party, decaying by 2 per turn
+polit_trait_common_general_wins_a_battle	General Wins Battle	Heroic victory: +5 loyalty for the party for 5 turns; Normal/major victory: +2  loyalty for the party for 5 turns; Pyrrhic victory: +3 loyalty for the party for 5 turns
+polit_trait_common_imperium_level	Imperium Level	Level 1: +20 loyalty for all parties; Level 2: +10 loyalty for all parties; Level 3:  +5 loyalty for all parties; Level 4: 0 loyalty for all parties; Level 5: -5 loyalty for all parties; Level 6: -10 loyalty for all parties; Level 7: -15 loyalty for all parties Level 8: -20 loyalty for all parties
+polit_trait_common_overcame_secession	Overcame Secession	+20 loyalty for all parties, decaying by 2 per turn.
+polit_trait_common_party_leader_dies_in_battle	Leader Dies in Battle	-20 loyalty for the party, decaying by 2 per turn
+polit_trait_common_reforming_a_government	Reforming a Government	-20 loyalty for all parties, decaying by 2 per turn
+polit_trait_common_won_civil_war	Civil War Won	+50 loyalty for all parties, decaying by 5 per turn.
+polit_trait_diplomat	Diplomat	+1 loyalty for every case where the player has more than 100 positive relations with another faction, -1 loyalty for having less than -100 relations with another faction.
+polit_trait_expansionist	Expansionist	+5 loyalty for 2 turns for each enemy settlement captured (up to +10 per turn).
+polit_trait_hates_barbarians	Hates Barbarians	-2 loyalty for each barbarian faction with which you have established diplomatic treaties (up to -10).
+polit_trait_hates_easterners	Hates Easterners	-2 loyalty for each Eastern faction with which you have established diplomatic treaties (up to -10).
+polit_trait_hates_greeks	Hates Greeks	-2 loyalty for each Greek faction with which you have established diplomatic treaties (up to -10).
+polit_trait_hates_romans	Hates Romans	-2 loyalty for each diplomatic treaty with Roman factions (up to -10).
+polit_trait_likes_barbarians	Likes Barbarians	+2 loyalty for each barbarian faction with which you have established diplomatic treaties (up to 10).
+polit_trait_likes_easterners	Likes Easterners	+2 loyalty for each Eastern faction with which you have established diplomatic treaties  (up to 10).
+polit_trait_likes_greeks	Likes Greeks	+2 loyalty for each Greek faction with which you have established diplomatic treaties  (up to 10).
+polit_trait_likes_romans	Likes Romans	+2 loyalty for each diplomatic treaty with Roman factions (up to 10).
+polit_trait_mercantile	Mercantile	+1 loyalty for each trade agreement established (up to +10).
+polit_trait_militarist	Militarist	+2 loyalty for 3 turns for each military victory (up to 6 per turn).
+polit_trait_mogul	Mogul	+2 loyalty for every province that brings more than 5000 wealth.
+polit_trait_pacifist	Pacifist	-5 loyalty per faction you are in a war with (max -15).
+polit_trait_patriot	Patriot	-5  loyalty for every enemy army present on player’s territory (up to -20 loyalty).
+polit_trait_populist	Populist	-10 loyalty for every level of taxes above average.
+polit_trait_subversive	Subversive	+1 loyalty for each agent action for 5 turns (max 4).
+polit_trait_thirst_for_power	Thirst for Power	-10 loyalty if the party’s influence is lower than the ruling party’s influence.
+polit_trait_traditionalist	Traditionalist	+1 loyalty for each province where player’s culture is dominant.
+polit_trait_xenophile	Xenophile	+2 loyalty for each faction with which you have established diplomatic treaties (up to 10).
+polit_trait_xenophobe	Xenophobe	-2 loyalty for each faction with which you have established diplomatic treaties (up to -10).

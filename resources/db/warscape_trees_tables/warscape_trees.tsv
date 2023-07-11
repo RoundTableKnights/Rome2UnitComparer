@@ -1,0 +1,4 @@
+tree	season	model_path
+#warscape_trees_tables;0;db/warscape_trees_tables/warscape_trees		
+lc_tundra-Thicket_shrub	season_summer	\lc_tundra\lc_tundra-thicket_SHRUB.spt
+lc_tundra-Thicket_shrub	season_winter	\lc_tundra\lc_tundra-thicket_SHRUB_WINTER.spt

@@ -1,0 +1,9 @@
+key	hitpoints	how	icon_name	info_pic	kill_chance	min_columns	min_rows	model	number	random_offset	spacing_x	spacing_y	stat_mod	value	recruitment_cap	max_rows	model_2	ignition_threshold
+#deployables_tables;6;db/deployables_tables/deployables																		
+deployable_barricade	800		dep_barricades	dep_barricades	0.0000	3	1	deployable_barricade	10	0.0000	0.0000	0.0000		0.0000	-1	1	deployable_barricade_2	10
+deployable_brimstone	1000		dep_brimstone	dep_brimstone	0.5000	2	1	deployable_brimstone	15	4.0000	4.0000	4.0000		40.0000	-1	5		1
+deployable_caltrop	100	mult	dep_sudes	dep_sudes	0.7500	2	2	deployable_caltrop	25	3.0000	2.0000	2.0000	stat_morale	20.0000	-1	5		0
+deployable_fireball	200	mult	dep_fireballs	dep_fireballs	0.9500	1	1	deployable_fireball	6	0.5000	3.0000	3.0000	stat_morale	40.0000	-1	1		0
+deployable_sharp_stones	-1	mult	dep_sharp_stones	dep_sharp_stones	0.0000	8	2	deployable_sharpstones_1	30	0.0000	0.0000	0.0000	stat_speed	0.0000	-1	5	deployable_sharpstones_2	0
+deployable_spiketrap	50		dep_spike_traps	dep_spike_traps	1.0000	2	1	deployable_spiketrap	15	5.0000	4.0000	4.0000		100.0000	-1	5		0
+deployable_stakes	150	mult	dep_stakes	dep_stakes	0.9500	3	1	deployable_stakes	12	0.5000	0.6000	0.6000	stat_morale	20.0000	-1	5		0

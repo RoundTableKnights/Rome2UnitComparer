@@ -1,0 +1,31 @@
+key	onscreen_name	max_value	campaign_only	sort_order
+#ui_unit_stats_tables;3;db/ui_unit_stats_tables/ui_unit_stats				
+scalar_bracing	Entity Mass	1000	false	0
+scalar_entity_acceleration_modifier	n/a	100	false	0
+scalar_entity_charge_speed_modifier	n/a	100	false	0
+scalar_entity_deceleration_modifier	n/a	100	false	0
+scalar_spotting_range	n/a	100	false	0
+stat_accuracy	Accuracy	100	false	9
+stat_ammo	Ammunition	80	false	10
+stat_armour	Armour	150	false	6
+stat_bonus_vs_cavalry	Bonus vs. Large	30	false	5
+stat_bonus_vs_elephants	Bonus vs Elephants	30	false	0
+stat_bonus_vs_infantry	Bonus vs Infantry	30	false	0
+stat_charge_bonus	Charge Bonus	110	false	4
+stat_first_strike	First Strike	100	false	0
+stat_health	Health	100	false	0
+stat_melee_attack	Melee Attack	110	false	2
+stat_melee_damage_ap	Melee Damage Ap	100	false	0
+stat_melee_damage_base	Melee Damage Base	100	false	0
+stat_melee_defence	Melee Defence	110	false	3
+stat_missile_block_chance	Missile Block	100	false	0
+stat_missile_damage	Missile Damage	50	false	10
+stat_morale	Base Morale	100	false	1
+stat_reloading	Shots Per Minute	15	false	8
+stat_shield_armour	Shield Armour	200	false	7
+stat_shield_defence	Shield Defence	100	false	0
+stat_ship_health	Ship Health	1500	false	0
+stat_ship_move_speed	Ship Speed	12	false	0
+stat_speed	Speed	12	false	10
+stat_weapon_damage	Weapon Damage	75	false	10
+stat_weapon_range	Range	600	false	7

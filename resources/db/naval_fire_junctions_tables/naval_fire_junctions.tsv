@@ -1,0 +1,14 @@
+incendiary_level	unit_category	chance_of_fire
+#naval_fire_junctions_tables;0;db/naval_fire_junctions_tables/naval_fire_junctions		
+high	heavy_ship	0.0100
+high	light_ship	0.0200
+high	medium_ship	0.0300
+low	heavy_ship	0.0005
+low	light_ship	0.0010
+low	medium_ship	0.0008
+medium	heavy_ship	0.0010
+medium	light_ship	0.0020
+medium	medium_ship	0.0015
+very_high	heavy_ship	0.0500
+very_high	light_ship	0.1000
+very_high	medium_ship	0.0750

@@ -1,0 +1,18 @@
+key	hit_points	model	battle_entity	gun_type	docking_clearance	engine	image_path	recruitment_cap	uses_8m_wall	uses_15m_wall	cost	category_image_path	special_edition_mask	ignition_threshold	attack_damage	selection_priority
+#battlefield_siege_vehicles_tables;15;db/battlefield_siege_vehicles_tables/battlefield_siege_vehicles																
+battering_ram_heavy	1800	battering_ram_heavy	battering_ram		1.0000		UI/Battle UI/siege_vehicle_icons/battering_ram_heavy.png	-1	true	true	0	UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png	0	1800	450.0000	1.0000
+battering_ram_light	1200	battering_ram_light	battering_ram		1.0000		UI/Battle UI/siege_vehicle_icons/battering_ram_light.png	-1	true	true	0	UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png	0	1200	200.0000	1.0000
+battering_ram_medium	1500	battering_ram_medium	battering_ram		1.0000		UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png	-1	true	true	0	UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png	0	1500	300.0000	1.0000
+gallery_heavy	1500	gallery_heavy	siege_gallery		2.0000		UI/Battle UI/siege_vehicle_icons/gallery_heavy.png	-1	true	true	0	UI/Battle UI/siege_vehicle_icons/gallery_cat.png	0	1000	0.0000	0.0000
+gallery_light	900	gallery_light	siege_gallery		2.0000		UI/Battle UI/siege_vehicle_icons/gallery_light.png	-1	true	true	0	UI/Battle UI/siege_vehicle_icons/gallery_cat.png	0	400	0.0000	0.0000
+gallery_medium	1000	gallery_medium	siege_gallery		2.0000		UI/Battle UI/siege_vehicle_icons/gallery_medium.png	-1	true	true	0	UI/Battle UI/siege_vehicle_icons/gallery_cat.png	0	500	0.0000	0.0000
+sambuca	1200	sambuca	sambuca		2.0000		UI/Battle UI/siege_vehicle_icons/sambuca.png	-1	true	true	0	UI/Battle UI/siege_vehicle_icons/sambuca_cat.png	0	500	0.0000	1.0000
+siege_ladder_15m	700	siege_ladder_15m	siege_ladder_15m		1.6000		UI/Battle UI/siege_vehicle_icons/ladder.png	-1	false	true	0	UI/Battle UI/siege_vehicle_icons/ladder_cat.png	0	500	0.0000	1.0000
+siege_ladder_8m	700	siege_ladder_8m	siege_ladder_8m		0.0000		UI/Battle UI/siege_vehicle_icons/ladder.png	-1	true	false	0	UI/Battle UI/siege_vehicle_icons/ladder_cat.png	0	500	0.0000	1.0000
+siege_tower_15m_heavy	1500	siege_tower_15m_heavy	siege_tower		2.5000	polybolos	UI/Battle UI/siege_vehicle_icons/siege_tower_heavy.png	-1	false	true	0	UI/Battle UI/siege_vehicle_icons/tower_cat.png	0	1300	0.0000	1.0000
+siege_tower_15m_light	900	siege_tower_15m_light	siege_tower		2.5000		UI/Battle UI/siege_vehicle_icons/siege_tower_light.png	-1	false	true	0	UI/Battle UI/siege_vehicle_icons/tower_cat.png	0	700	0.0000	1.0000
+siege_tower_15m_medium	1200	siege_tower_15m_medium	siege_tower		2.5000	polybolos	UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png	-1	false	true	0	UI/Battle UI/siege_vehicle_icons/tower_cat.png	0	1000	0.0000	1.0000
+siege_tower_8m_heavy	1500	siege_tower_8m_heavy	siege_tower		2.0000	polybolos	UI/Battle UI/siege_vehicle_icons/siege_tower_heavy.png	-1	true	false	0	UI/Battle UI/siege_vehicle_icons/tower_cat.png	0	1300	0.0000	1.0000
+siege_tower_8m_light	900	siege_tower_8m_light	siege_tower		2.0000		UI/Battle UI/siege_vehicle_icons/siege_tower_light.png	-1	true	false	0	UI/Battle UI/siege_vehicle_icons/tower_cat.png	0	700	0.0000	1.0000
+siege_tower_8m_medium	1200	siege_tower_8m_medium	siege_tower		2.0000	polybolos	UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png	-1	true	false	0	UI/Battle UI/siege_vehicle_icons/tower_cat.png	0	1000	0.0000	1.0000
+tortoise	2000	tortoise	tortoise		7.5000		UI/Battle UI/siege_vehicle_icons/tortoise.png	-1	false	true	0	UI/Battle UI/siege_vehicle_icons/tortoise_cat.png	0	1500	310.0000	1.0000

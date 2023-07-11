@@ -1,0 +1,11 @@
+ability	cannot_fail
+#abilities_tables;1;db/abilities_tables/abilities	
+assist_army	true
+assist_province	true
+command_force	false
+hinder_agent	false
+hinder_army	false
+hinder_character	false
+hinder_province	true
+hinder_settlement	false
+passive_ability	true

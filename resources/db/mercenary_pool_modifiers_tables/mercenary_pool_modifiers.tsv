@@ -1,0 +1,18 @@
+key	cost_modifier	culture_origin_match	min_pool_culture_percentaje	pool_type	replenishment_modifier
+#mercenary_pool_modifiers_tables;0;db/mercenary_pool_modifiers_tables/mercenary_pool_modifiers					
+0	1.2500	false	0	faction	0.7500
+11	1.1000	true	0	faction	0.9000
+19	0.9500	true	1	faction	1.1000
+2	1.2000	false	1	faction	0.8500
+25	0.8500	true	25	faction	1.2500
+27	0.7500	true	50	faction	1.5000
+34	1.1500	false	0	province	0.8000
+35	1.2500	false	1	province	0.7000
+42	1.3500	false	50	province	0.6000
+44	1.4500	false	100	province	0.5000
+47	1.5000	true	0	province	0.8500
+51	1.1000	true	1	province	1.1000
+54	0.8500	true	25	province	1.2500
+6	1.1500	false	50	faction	0.9500
+62	0.7500	true	50	province	1.5000
+8	1.0000	false	100	faction	1.0000

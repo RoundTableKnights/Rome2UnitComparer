@@ -1,0 +1,11 @@
+key	spot_dist_scrub	spot_dist_tree	visibility_max_spot_range	visibility_min_spot_range
+#spotting_and_hiding_values_tables;1;db/spotting_and_hiding_values_tables/spotting_and_hiding_values				
+Not_a_Scout	80	40	500	40
+average_scouting	150	100	1200	60
+elite_scouting	250	160	1800	100
+excellent_scouting	200	130	1500	80
+good_scouting	175	120	1400	80
+poor_scouting	125	80	1000	50
+superior_scouting	225	150	1600	100
+terrible_spotting	100	60	800	40
+very_poor_scouting	110	60	900	40

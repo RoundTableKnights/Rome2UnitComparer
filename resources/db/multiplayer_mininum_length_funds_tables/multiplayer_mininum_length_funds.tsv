@@ -1,0 +1,6 @@
+key	value
+#multiplayer_mininum_length_funds_tables;0;db/multiplayer_mininum_length_funds_tables/multiplayer_mininum_length_funds	
+minimum_land_battle_funds_spent	900.0000
+minimum_land_battle_length	150.0000
+minimum_naval_battle_funds_spent	1100.0000
+minimum_naval_battle_length	150.0000

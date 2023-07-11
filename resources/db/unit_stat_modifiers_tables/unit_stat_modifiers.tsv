@@ -1,0 +1,6 @@
+key	how	stat
+#unit_stat_modifiers_tables;1;db/unit_stat_modifiers_tables/unit_stat_modifiers		
+mod_armour	add	stat_armour
+mod_charge_bonus	add	stat_charge_bonus
+mod_entity_acceleration	mult	scalar_entity_acceleration_modifier
+mod_speed_scalar	mult	stat_speed

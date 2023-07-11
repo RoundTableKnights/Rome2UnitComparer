@@ -1,0 +1,14 @@
+attribute	agent	default_value
+#agent_to_agent_attributes_tables;2;db/agent_to_agent_attributes_tables/agent_to_agent_attributes		
+authority	champion	2
+authority	dignitary	2
+authority	general	3
+authority	spy	2
+subterfuge	champion	2
+subterfuge	dignitary	2
+subterfuge	general	3
+subterfuge	spy	2
+zeal	champion	2
+zeal	dignitary	2
+zeal	general	3
+zeal	spy	2

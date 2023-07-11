@@ -1,0 +1,6 @@
+key	absolute_effect	priority	relative_effect
+#cai_construction_system_synergy_levels_tables;0;db/cai_construction_system_synergy_levels_tables/cai_construction_system_synergy_levels			
+cai_cs_synergy_level_high	1082130432	30	5.0000
+cai_cs_synergy_level_low	1077936128	10	1.7500
+cai_cs_synergy_level_medium	1073741824	20	2.5000
+cai_cs_synergy_level_negative	1065353216	40	-2.0000

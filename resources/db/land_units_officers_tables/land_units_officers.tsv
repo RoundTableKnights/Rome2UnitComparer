@@ -1,0 +1,335 @@
+key	officer_1	officer_2	standard_bearer_1	standard_bearer_2	musician_1	musician_2	personality_location
+#land_units_officers_tables;2;db/land_units_officers_tables/land_units_officers							
+3c_Ala_Officer_Cav	3c_Ala_Officer_Cav						front
+3c_Ala_Officer_Cav_Axe	3c_Ala_Officer_Cav_Axe						front
+3c_Ala_Officer_Female	3c_Ala_Officer_Female						front
+3c_Ala_Officer_Inf	3c_Ala_Officer_Inf		3c_Ala_Standard_Bearer				front
+3c_Ala_Officer_Lance	3c_Ala_Officer_Lance						front
+3c_Ala_Officer_Low_Tier	3c_Ala_Officer_Low_Tier		3c_Ala_Standard_Bearer				front
+3c_Ala_Officer_Low_Tier_NoStandard	3c_Ala_Officer_Low_Tier						front
+3c_Ara_Officer_Cavalry	3c_Ara_Officer_Cavalry						front
+3c_Ara_Officer_Cavalry_Camel	3c_Ara_Officer_Cavalry_Camel						front
+3c_Ara_Officer_Infantry	3c_Ara_Officer_Infantry						front
+3c_Arm_Officer_Archer	3c_Arm_Officer_Archer						front
+3c_Arm_Officer_Archer_Armoured	3c_Sas_Officer_Archer_Armoured		3c_Arm_Standard_Bearer				front
+3c_Arm_Officer_Archer_Standard	3c_Arm_Officer_Archer		3c_Arm_Standard_Bearer_Cloak				front
+3c_Arm_Officer_Cavalry	3c_Arm_Officer_Cavalry						front
+3c_Arm_Officer_Elephants	3c_Arm_Officer_Elephants						front
+3c_Arm_Officer_Infantry	3c_Arm_Officer_Infantry		3c_Arm_Standard_Bearer				front
+3c_Arm_Officer_Lance	3c_Arm_Officer_Lance						front
+3c_Arm_Officer_Low_Tier	3c_Arm_Officer_Low_Tier		3c_Arm_Standard_Bearer_Cloak				front
+3c_Arm_Officer_Low_Tier_NoStandard	3c_Arm_Officer_Low_Tier						front
+3c_Arm_Officer_Pike	3c_Arm_Officer_Pike						back
+3c_Aux_Officer_Cavalry	3c_Aux_Officer_Cavalry						front
+3c_Aux_Officer_Eastern	3c_Aux_Officer_Eastern						front
+3c_Aux_Officer_Eastern_Cav	3c_Aux_Officer_Eastern_Cav						front
+3c_Aux_Officer_Egyptian_Pike	3c_Aux_Officer_Egyptian_Pike						front
+3c_Aux_Officer_Infantry	3c_Aux_Officer_Infantry		3c_Rom_Standard_Bearer				front
+3c_Aux_Officer_Infantry_NoStandard	3c_Aux_Officer_Infantry						front
+3c_Aux_Officer_Pike	3c_Aux_Officer_Pike						back
+3c_Cal_Officer_Cavalry	3c_Cal_Officer_Cavalry						front
+3c_Cal_Officer_Chariot	3c_Cal_Officer_Chariot						front
+3c_Cal_Officer_Infantry	3c_Cal_Officer_Infantry		3c_Cal_Standard_Bearer				front
+3c_Cal_Officer_Infantry_NoStandard	3c_Cal_Officer_LowTier						front
+3c_Cal_Officer_LowTier	3c_Cal_Officer_LowTier		3c_Cal_Standard_Bearer_LowTier				front
+3c_Cal_Officer_LowTier_NoStandard	3c_Cal_Officer_LowTier						front
+3c_Cal_Scatha_Officer	3c_Cal_Scatha_Officer		3c_Cal_Scatha_Standard_Bearer				front
+3c_Gal_Officer	3c_Gal_Officer		3c_Rom_Standard_Bearer				front
+3c_Gal_Officer_Cav	3c_Gal_Officer_Cav						front
+3c_Gal_Officer_Chariot	3c_Gal_Officer_Chariot						front
+3c_Gal_Officer_Lance	3c_Gal_Officer_Lance						front
+3c_Gal_Officer_NoStandard	3c_Gal_Officer						front
+3c_Gal_Officer_infantry_Scutum	3c_Gal_Officer_infantry_Scutum		3c_Rom_Standard_Bearer_Scutum				front
+3c_Ger_Officer_Cavalry	3c_Ger_Officer_Cavalry						front
+3c_Ger_Officer_Infantry	3c_Ger_Officer_Infantry		3c_Ger_Standard_Bearer				front
+3c_Ger_Officer_LowTier	3c_Ger_Officer_LowTier		3c_Ger_Standard_Bearer_LowTier				front
+3c_Ger_Officer_LowTier_NoStandard	3c_Ger_Officer_LowTier						front
+3c_Got_Officer_Cavalry	3c_Got_Officer_Cavalry						front
+3c_Got_Officer_Cavalry_Oval	3c_Got_Officer_Cavalry_Oval						front
+3c_Got_Officer_Female	3c_Got_Officer_Female		3c_Got_Standard_Bearer_Female				front
+3c_Got_Officer_Infantry	3c_Got_Officer_Infantry		3c_Got_Standard_Bearer				front
+3c_Got_Officer_Lance	3c_Got_Officer_Lance						front
+3c_Got_Officer_LowTier	3c_Got_Officer_LowTier						front
+3c_Got_Officer_Pike	3c_Got_Officer_Pike						back
+3c_Num_Officer_Infantry	3c_Num_Officer_Infantry						front
+3c_Pal_Infantry_Officer_Scutum	3c_Pal_Infantry_Officer_Scutum		3c_Pal_Standard_Bearer_Scutum				front
+3c_Pal_Officer	3c_Pal_Officer		3c_Pal_Standard_Bearer				front
+3c_Pal_Officer_Archer	3c_Pal_Officer_Archer						front
+3c_Pal_Officer_Archer_Standard	3c_Pal_Officer_Archer		3c_Pal_Standard_Bearer				
+3c_Pal_Officer_Cav	3c_Pal_Officer_Cav						front
+3c_Pal_Officer_Lance	3c_Pal_Officer_Lance						front
+3c_Pal_Officer_LowTier	3c_Pal_Officer_LowTier						front
+3c_Pal_Officer_LowTier_Camel	3c_Pal_Officer_LowTier_Camel						front
+3c_Pal_Officer_NoStandard	3c_Pal_Officer						front
+3c_Pal_Officer_Pike	3c_Pal_Officer_Pike						back
+3c_Pal_Officer_Skirmisher	3c_Pal_Officer_Skirmisher						front
+3c_Rom_Herculiani_Officer	3c_Rom_Herculiani_Officer		3c_Rom_Herculiani_Standard				front
+3c_Rom_Jovianii_Officer	3c_Rom_Jovianii_Officer		3c_Rom_Jovianii_Standard				front
+3c_Rom_Officer	3c_Rom_Officer		3c_Rom_Standard_Bearer				front
+3c_Rom_Officer_Archers	3c_Rom_Officer_Archers						front
+3c_Rom_Officer_Cav	3c_Rom_Officer_Cav						front
+3c_Rom_Officer_Elephants	3c_Rom_Officer_Elephants						front
+3c_Rom_Officer_Infantry_Scutum	3c_Rom_Officer_Infantry_Scutum		3c_Rom_Standard_Bearer_Scutum				front
+3c_Rom_Officer_Lance	3c_Rom_Officer_Lance						front
+3c_Rom_Officer_LowTier	3c_Rom_Officer_LowTier						front
+3c_Rom_Officer_NoStandard	3c_Rom_Officer						front
+3c_Rom_Officer_Skirmishers	3c_Rom_Officer_Skirmishers						front
+3c_Sas_Officer_Archer	3c_Sas_Officer_Archer		3c_Sas_Standard_Bearer_Cloak				front
+3c_Sas_Officer_Archer_Armoured	3c_Sas_Officer_Archer_Armoured		3c_Sas_Standard_Bearer_Cloak				front
+3c_Sas_Officer_Archer_Camel	3c_Sas_Officer_Archer_Camel						front
+3c_Sas_Officer_Archer_NoStandard	3c_Sas_Officer_Archer						front
+3c_Sas_Officer_Cav	3c_Sas_Officer_Cav						front
+3c_Sas_Officer_Cavalry_Camel	3c_Sas_Officer_Cavalry_Camel						front
+3c_Sas_Officer_Infantry_Oval	3c_Sas_Officer_Infantry_Oval		3c_Sas_Standard_Bearer_Armoured				front
+3c_Sas_Officer_Infantry_Tower	3c_Sas_Officer_Infantry_Tower		3c_Sas_Standard_Bearer				back
+3c_Sas_Officer_Lance	3c_Sas_Officer_Lance						front
+3c_Sas_Officer_Low_Tier	3c_Sas_Officer_Low_Tier		3c_Sas_Standard_Bearer_Cloak				front
+3c_Sas_Officer_Low_Tier_NoStandard	3c_Sas_Officer_Low_Tier						front
+3c_Sax_Officer_Cavalry	3c_Sax_Officer_Cavalry						front
+3c_Sax_Officer_Infantry	3c_Sax_Officer_Infantry		3c_Ger_Standard_Bearer				front
+3c_Sax_Officer_Lance	3c_Sax_Officer_Lance						front
+3c_Sax_Officer_LowTier	3c_Sax_Officer_LowTier		3c_Sax_Standard_Bearer_LowTier				front
+3c_Sax_Officer_LowTier_No_Standart	3c_Sax_Officer_LowTier						front
+3c_Zenobia_Officer	3c_Zenobia_Officer						front
+Aet_Officer	aet_officer						front
+Afr_Chariot_Officer	afr_officer_chariot						front
+Afr_Elephant_Officer	afr_officer_ele						front
+Afr_Kushite_Female_Officer	Afr_Kushite_Female_Officer						
+Afr_Officer	afr_officer						front
+Afr_Officer_Ballista	afr_officer_ballista						front
+Afr_Officer_Cherioballista	afr_officer_cheiroballista						front
+Afr_Officer_Giant_Ballista	afr_officer_giant_ballista						front
+Afr_Officer_Large_Onager	afr_officer_large_onager						front
+Afr_Officer_Onager	afr_officer_onager						front
+Afr_Officer_Scorpio	afr_officer_scorpio						front
+Ara_Camel_Officer	ara_camel_officer						front
+Ara_Officer	ara_officer						front
+Ara_Officer_Spear	ara_officer_spear						front
+Art_Ballista_Giant	rom_ballista_giant						front
+Art_Ballista_Medium	rom_ballista_med						front
+Art_Cheiroballistra	rom_cheiroballista						front
+Art_Onager	rom_onager						front
+Art_Onager_Large	rom_onager_large						front
+Art_Polybolos	rom_polybolos						front
+Art_Scorpio	rom_scorpio						front
+Bri_Infantry_Officer	bri_officer		bri_standard_bearer				front
+Bri_Officer	bri_officer						front
+Bri_Officer_Ballista	bri_officer_ballista						front
+Bri_Officer_Chariot	bri_officer_chariot						front
+Bri_Officer_Cheiroballista	bri_officer_cheiroballista						front
+Bri_Officer_Giant_Ballista	bri_officer_giant_ballista						front
+Bri_Officer_Large_Onager	bri_officer_large_onager						front
+Bri_Officer_Onager	bri_officer_onager						front
+Bri_Officer_Scorpio	bri_officer_scorpio						front
+Bri_Officer_Spear	bri_officer_spear						front
+Car_Infantry_Officer	car_officer		car_standard				front
+Car_Officer	car_officer						front
+Car_Officer_Ballista	car_officer_ballista						front
+Car_Officer_Cherioballista	car_officer_cherioballista						front
+Car_Officer_Giant_Ballista	car_officer_giant_ballista						front
+Car_Officer_Large_Onager	car_officer_large_onager						front
+Car_Officer_Onager	car_officer_onager						front
+Car_Officer_Polybolos	car_officer_polybolos						front
+Car_Officer_Scorpio	car_officer_scorpio						front
+Car_Officer_Spear	car_officer_spear						front
+Cel_Infantry_Officer	cel_officer		cel_standard_bearer				front
+Cel_Officer	cel_officer						front
+Cel_Officer_Ballista	cel_officer_ballista						front
+Cel_Officer_Cheiroballista	cel_officer_cheiroballista						front
+Cel_Officer_Giant_Ballista	cel_officer_giant_ballista						front
+Cel_Officer_Large_Onager	cel_officer_large_onager						front
+Cel_Officer_Onager	cel_officer_onager						front
+Cel_Officer_Scorpio	cel_officer_scorpio						front
+Cel_Officer_Spear	cel_officer_spear						front
+Dac_Infantry_Officer	dac_officer		dac_standard_bearer				front
+Dac_Officer	dac_officer						front
+Dac_Officer_Ballista	dac_officer_ballista						front
+Dac_Officer_Cheiroballista	dac_officer_cheiroballista						front
+Dac_Officer_Giant_Ballista	cel_officer_giant_ballista						front
+Dac_Officer_Large_Onager	dac_officer_large_onager						front
+Dac_Officer_Onager	dac_officer_onager						front
+Dac_Officer_Scorpio	dac_officer_scorpio						front
+Dac_Officer_Spear	dac_officer_spear						front
+Eas_Camel_Cataphract_Officer	eas_camel_officer						front
+Eas_Cataphract_Officer	eas_cataphract_officer						front
+Eas_Infantry_Officer	eas_officer		eas_standard_bearer				front
+Eas_Officer	eas_officer						front
+Eas_Officer_Ballista	eas_officer_ballista						front
+Eas_Officer_Cheiroballista	eas_officer_cheiroballista						front
+Eas_Officer_Ele	eas_ele_officer						front
+Eas_Officer_Giant_Ballista	eas_officer_giant_ballista						front
+Eas_Officer_Large_Onager	eas_officer_large_onager						front
+Eas_Officer_Onager	eas_officer_onager						front
+Eas_Officer_Scorpio	eas_officer_scorpio						front
+Eas_Officer_Spear	eas_officer_spear						front
+Ger_Female_Officer	Ger_Female_Officer						
+Ger_Infantry_Officer	ger_officer		ger_standard_bearer				front
+Ger_Officer	ger_officer						front
+Ger_Officer_Ballista	ger_officer_ballista						front
+Ger_Officer_Cheiroballista	ger_officer_cheiroballista						front
+Ger_Officer_Giant_Ballista	ger_officer_giant_ballista						front
+Ger_Officer_Large_Onager	ger_officer_large_onager						front
+Ger_Officer_Onager	ger_officer_onager						front
+Ger_Officer_Scorpio	ger_officer_scorpio						front
+Ger_Officer_Spear	ger_officer_spear						front
+Gre_Infantry_Officer	gre_officer		gre_standard_bearer				back
+Gre_Officer	gre_officer						front
+Gre_Officer_Ballista	gre_officer_ballista						front
+Gre_Officer_Chariot	gre_officer_chariot						front
+Gre_Officer_Cheiroballista	gre_officer_cheiroballista						front
+Gre_Officer_Ele	gre_elephant_officer						front
+Gre_Officer_Giant_Ballista	gre_officer_giant_ballista						front
+Gre_Officer_Large_Onager	gre_officer_large_onager						front
+Gre_Officer_Onager	gre_officer_onager						front
+Gre_Officer_Scorpio	gre_officer_scorpio						front
+Gre_Officer_Spear	gre_officer_spear						front
+Gre_Spartan_Officer	spa_officer		spa_standard				front
+Ibe_Female_Officer	Ibe_Female_Officer						
+Ibe_Infantry_Officer	ibe_officer		ibe_standard_bearer				front
+Ibe_Officer	ibe_officer						front
+Ibe_Officer_Ballista	ibe_officer_ballista						front
+Ibe_Officer_Cheiroballista	ibe_officer_cheiroballista						front
+Ibe_Officer_Giant_Ballista	ibe_officer_giant_ballista						front
+Ibe_Officer_Large_Onager	ibe_officer_large_onager						front
+Ibe_Officer_Onager	ibe_officer_onager						front
+Ibe_Officer_Scorpio	ibe_officer_scorpio						front
+Ibe_Officer_Spear	ibe_officer_spear						front
+Ill_Officer	ill_officer		inv_ill_standard_bearer_fake_sword				front
+Ill_Officer_Spear	ill_officer_spear		inv_ill_standard_bearer_fake_spear				front
+Ita_Officer	ita_officer						front
+Num_Officer	num_officer						front
+Pel_Gre_Cav_Officer	Pel_Gre_Cav_Officer						front
+Pel_Gre_Officer	Pel_Gre_Officer		Pel_Gre_Standard				front
+Pel_Per_Cav_Officer	Pel_Per_Cav_Officer						front
+Pel_Per_Officer	Pel_Per_Officer		Pel_Per_Standard				front
+Pel_Spa_Cav_Officer	Pel_Spa_Cav_Officer						front
+Pel_Spa_Officer	Pel_Spa_Officer		Pel_Spa_Standard				front
+Pel_Thr_Officer	Pel_Thr_Officer						front
+Rom_Elephant_Officer	rom_elephant						front
+Rom_Female_Officer	Rom_Female_Officer						
+Rom_Late_Cav_Officer	rom_cav_officer_late						front
+Rom_Officer_Chariot	rom_cavalry_officer_sword						front
+Roman_Centurion	rom_centurion		rom_standard_bearer				back
+Roman_Eagle	rom_centurion		rom_eagle_bearer				back
+Roman_Early_Cavalry_Officer	rom_cavalry_officer_spear						front
+Roman_Early_Infantry_Officer	rom_officer		rom_standard_bearer				back
+Roman_Marian_Centurion	rom_marian_centurion		rom_standard_bearer				back
+Socii_Cavalry_Officer	socii_cavalry_officer						front
+Socii_Infantry_Officer	socii_officer						front
+Spa_Female_Officer	Spa_Female_Officer						
+Ste_Officer	ste_officer						front
+Ste_Officer_Ballista	ste_officer_ballista						
+Ste_Officer_Spear	ste_officer_spear						front
+Ste_Scythian_Female_Officer	Ste_Scythian_Female_Officer						
+Test_Placeholder_nuragic_officer	Test_Placeholder_nuragic_officer						front
+Test_Placeholder_nuragic_standard	Test_Placeholder_nuragic_standard						front
+Thr_Officer	thr_officer						front
+Thr_Officer_Spear	thr_officer_spear						front
+dk_ara_chariot_officer	dk_ara_officer_high_tier_chariot						front
+dk_kush_officer_high_tier_cav	dk_kush_officer_high_tier_cav						front
+dk_kush_officer_high_tier_javelin	dk_kush_officer_high_tier_javelin		dk_kush_standard_bearer				front
+dk_kush_officer_high_tier_lance	dk_kush_officer_high_tier_lance		dk_kush_standard_bearer				front
+dk_kush_officer_high_tier_melee	dk_kush_officer_high_tier_melee		dk_kush_standard_bearer				front
+dk_kush_officer_high_tier_melee_no_banner	dk_kush_officer_high_tier_melee						front
+dk_kush_officer_high_tier_spear	dk_kush_officer_high_tier_spear		dk_kush_standard_bearer				front
+dk_kush_officer_high_tier_spear_no_banner	dk_kush_officer_high_tier_spear						front
+dk_kush_officer_low_tier_cav	dk_kush_officer_low_tier_cav						front
+dk_kush_officer_low_tier_javelin	dk_kush_officer_low_tier_javelin		dk_kush_standard_bearer				front
+dk_kush_officer_low_tier_lance	dk_kush_officer_low_tier_lance		dk_kush_standard_bearer				front
+dk_kush_officer_low_tier_melee	dk_kush_officer_low_tier_melee		dk_kush_standard_bearer				front
+dk_kush_officer_low_tier_melee_no_banner	dk_kush_officer_low_tier_melee						front
+dk_kush_officer_low_tier_spear	dk_kush_officer_low_tier_spear		dk_kush_standard_bearer				front
+dk_kush_scythed_chariot_officer	dk_kush_scythed_chariot_officer						front
+dk_nab_officer_high_tier_camel	dk_nab_officer_high_tier_camel						front
+dk_nab_officer_high_tier_cav	dk_nab_officer_high_tier_cav						front
+dk_nab_officer_high_tier_javelin	dk_nab_officer_high_tier_javelin		dk_nab_standard_bearer				front
+dk_nab_officer_high_tier_lance	dk_nab_officer_high_tier_lance						front
+dk_nab_officer_high_tier_melee	dk_nab_officer_high_tier_melee		dk_nab_standard_bearer				front
+dk_nab_officer_high_tier_spar_no_banner	dk_nab_officer_high_tier_spear						front
+dk_nab_officer_high_tier_spear	dk_nab_officer_high_tier_spear		dk_nab_standard_bearer				front
+dk_nab_officer_low_tier_camel	dk_nab_officer_low_tier_camel						front
+dk_nab_officer_low_tier_cav	dk_nab_officer_low_tier_cav						front
+dk_nab_officer_low_tier_javelin	dk_nab_officer_low_tier_javelin		dk_nab_standard_bearer				front
+dk_nab_officer_low_tier_lance	dk_nab_officer_low_tier_lance		dk_nab_standard_bearer				front
+dk_nab_officer_low_tier_melee	dk_nab_officer_low_tier_melee		dk_nab_standard_bearer				front
+dk_nab_officer_low_tier_spear	dk_nab_officer_low_tier_spear		dk_nab_standard_bearer				front
+dk_num_officer_high_tier_cav	dk_num_officer_high_tier_cav						front
+dk_num_officer_high_tier_chariot	dk_num_officer_high_tier_chariot						front
+dk_num_officer_high_tier_elephant	dk_num_officer_high_tier_elephant						front
+dk_num_officer_high_tier_javelin	dk_num_officer_high_tier_javelin		dk_num_standard_bearer				front
+dk_num_officer_high_tier_javelin_no_banner	dk_num_officer_high_tier_javelin						front
+dk_num_officer_high_tier_javelin_no_standard	dk_num_officer_high_tier_javelin						front
+dk_num_officer_high_tier_lance	dk_num_officer_high_tier_lance		dk_num_standard_bearer				front
+dk_num_officer_high_tier_melee	dk_num_officer_high_tier_melee		dk_num_standard_bearer				front
+dk_num_officer_high_tier_melee_no_banner	dk_num_officer_low_tier_melee						front
+dk_num_officer_high_tier_melee_no_standard	dk_num_officer_high_tier_melee						front
+dk_num_officer_high_tier_spear	dk_num_officer_high_tier_spear		dk_num_standard_bearer				front
+dk_num_officer_high_tier_spear_no_banner	dk_num_officer_high_tier_spear						front
+dk_num_officer_low_tier_cav	dk_num_officer_low_tier_cav						front
+dk_num_officer_low_tier_javelin	dk_num_officer_low_tier_javelin		dk_num_standard_bearer				front
+dk_num_officer_low_tier_lance	dk_num_officer_low_tier_lance		dk_num_standard_bearer				front
+dk_num_officer_low_tier_melee	dk_num_officer_low_tier_melee		dk_num_standard_bearer				front
+dk_num_officer_low_tier_spear	dk_num_officer_low_tier_spear		dk_num_standard_bearer				front
+dk_officer_high_tier_spear_no_banner	dk_kush_officer_high_tier_spear						front
+dk_saba_camel_officer	dk_saba_camel_officer						front
+dk_saba_officer_high_tier_camel	dk_saba_officer_high_tier_camel						front
+dk_saba_officer_high_tier_cav	dk_saba_officer_high_tier_cav						front
+dk_saba_officer_high_tier_javelin	dk_saba_officer_high_tier_javelin		dk_saba_standard_bearer				front
+dk_saba_officer_high_tier_lance	dk_saba_officer_high_tier_lance						front
+dk_saba_officer_high_tier_melee	dk_saba_officer_high_tier_melee		dk_saba_standard_bearer				front
+dk_saba_officer_high_tier_melee_no_banner	dk_saba_officer_high_tier_melee						front
+dk_saba_officer_high_tier_spear	dk_saba_officer_high_tier_spear		dk_saba_standard_bearer				front
+dk_saba_officer_high_tier_spear_no_banner	dk_saba_officer_high_tier_spear						front
+dk_saba_officer_low_tier_camel	dk_saba_officer_low_tier_camel						front
+dk_saba_officer_low_tier_cav	dk_saba_officer_low_tier_cav						front
+dk_saba_officer_low_tier_javelin	dk_saba_officer_low_tier_javelin		dk_saba_standard_bearer				front
+dk_saba_officer_low_tier_lance	dk_saba_officer_low_tier_lance		dk_saba_standard_bearer				front
+dk_saba_officer_low_tier_melee	dk_saba_officer_low_tier_melee		dk_saba_standard_bearer				front
+dk_saba_officer_low_tier_spear	dk_saba_officer_low_tier_spear		dk_saba_standard_bearer				front
+gre_officer_polybolos	gre_officer_polybolos						front
+inv_app_officer	inv_app_officer		inv_app_standard_bearer_sword				front
+inv_car_infantry_officer_spear	car_officer_spear		inv_car_standard_bearer_fake_spear				back
+inv_car_infantry_officer_sword	car_officer		inv_car_standard_bearer_fake_sword				front
+inv_etr_officer_ballista	inv_etr_officer_ballista						front
+inv_etr_officer_cavalry	inv_etr_officer_cavalry		inv_etr_officer_noarmor				front
+inv_etr_officer_hoplite	inv_etr_officer_hoplite		inv_etr_standard_bearer_hoplite_shield				back
+inv_etr_officer_hoplite_sword	inv_etr_officer_hoplite_sword		inv_etr_standard_bearer_hoplite_shield				back
+inv_etr_officer_noarmor	inv_etr_officer_noarmor		inv_etr_officer_noarmor				front
+inv_etr_officer_noarmor_sword	inv_etr_officer_noarmor_sword		inv_etr_standard_bearer_sword_scutum				front
+inv_etr_officer_polybolos	inv_etr_officer_polybolos						front
+inv_gre_infantry_officer_spear	gre_officer_spear		inv_gre_standard_bearer_fake_spear				back
+inv_gre_infantry_officer_sword	gre_officer		inv_gre_standard_bearer_fake_sword				back
+inv_gre_officer_cav	inv_gre_officer_cav		inv_gre_standard_bearer_fake_spear				front
+inv_iap_officer_spear	inv_iap_officer_spear		inv_app_standard_bearer_spear				front
+inv_iap_officer_sword	inv_iap_officer_sword		inv_app_standard_bearer_sword				front
+inv_ibe_infantry_officer	ibe_officer		inv_ibe_standard_bearer_fake_spear				front
+inv_iol_officer	inv_iol_officer		inv_iol_standard_bearer_fake_sword				front
+inv_iol_officer_ballista	inv_iol_officer_ballista						front
+inv_iol_officer_noarmour	inv_iol_officer_noarmour		inv_iol_standard_bearer_fake_sword				front
+inv_iol_officer_noarmour_sword	inv_iol_officer_noarmour_sword		inv_iol_standard_bearer_fake_sword				front
+inv_iol_officer_polybolos	inv_iol_officer_polybolos						front
+inv_iol_officer_sword	inv_iol_officer_sword		inv_iol_officer_noarmour_sword				front
+inv_ita_officer	inv_ita_officer		inv_ita_standard_bearer_spear				front
+inv_ita_officer_sword	inv_ita_officer_sword		inv_ita_standard_bearer_sword				front
+inv_rom_officer_ballista	inv_rom_officer_ballista						front
+inv_rom_officer_cavalry	inv_rom_officer_cavalry		inv_rom_officer_cavalry				front
+inv_rom_officer_hoplite	inv_rom_officer_hoplite		inv_rom_standard_bearer_hoplite_shield				back
+inv_rom_officer_hoplite_sword	inv_rom_officer_hoplite_sword		inv_rom_officer_noarmor_sword				back
+inv_rom_officer_noarmor	inv_rom_officer_noarmor		inv_rom_officer_noarmor				front
+inv_rom_officer_noarmor_sword	inv_rom_officer_noarmor_sword		inv_rom_officer_noarmor_sword				front
+inv_rom_officer_polybolos	inv_rom_officer_polybolos						front
+inv_rom_officer_reformed	inv_rom_officer_reformed		inv_rom_officer_noarmor				front
+inv_rom_officer_reformed_sword	inv_rom_officer_reformed_sword		inv_rom_officer_noarmor_sword				front
+inv_sam_officer	inv_sam_officer		inv_sam_standard_bearer_spear				front
+inv_sam_officer_ballista	inv_sam_officer_ballista						front
+inv_sam_officer_polybolos	inv_sam_officer_polybolos						front
+inv_sam_officer_sword	inv_sam_officer_sword		inv_sam_standard_bearer_sword				front
+inv_sen_officer	inv_sen_officer		inv_sen_standard_bearer_no_armour_spear				front
+inv_sen_officer_chariot	inv_sen_officer_chariot						front
+inv_sen_officer_noarmour	inv_sen_officer_noarmour		inv_sen_standard_bearer_no_armour_spear				front
+inv_sen_officer_noarmour_sword	inv_sen_officer_noarmour_sword		inv_sen_standard_bearer_no_armour				front
+inv_sen_officer_sword	inv_sen_officer_sword		inv_sen_standard_bearer_no_armour				front
+inv_ven_officer	inv_ven_officer		inv_ven_standard_bearer_spear				front
+inv_ven_officer_sword	inv_ven_officer_sword		inv_ven_standard_bearer_sword				front
+test_spear_shield	rom_officer_spear						front
+test_sword_shield	rom_officer						front

@@ -1,0 +1,12 @@
+unit_type	core_loading_skill	core_marksmanship	melee_attack	melee_defence	melee_weapon_type	pistols	ammo	battle_entity	soldier_model	man_animations_table	equipment_theme	armour_audio	armour	spacing	discipline	missile_type
+#unit_stats_naval_crew_tables;2;db/unit_stats_naval_crew_tables/unit_stats_naval_crew																
+arrow_marine	0	30	4	1	sabre	false	30	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	1	1.5000	5	arrow_normal
+firebomb_marine	0	0	4	1	sabre	false	30	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	1	1.5000	5	arrow_normal
+guncrew	0	0	4	1	sabre	false	0	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	3	1.5000	3	
+katana_seaman	0	0	12	2	sabre	false	0	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	3	1.5000	3	
+matchlock_marine	0	30	4	1	sabre	false	30	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	1	1.5000	5	arrow_normal
+naval_admiral	0	0	15	3	sabre	false	0	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	1	1.5000	5	
+naval_commodore	0	0	10	2	sabre	false	0	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	3	1.5000	5	
+naval_flutist	0	0	10	2	sabre	false	0	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	3	1.5000	5	
+naval_officer	0	0	10	2	sabre	false	0	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	3	1.5000	5	
+spear_seaman	0	0	12	2	sabre	false	0	rome_infantry_medium	target_marker	rome_man_sword_shield	shogun_unarmed	ph	3	1.5000	3	

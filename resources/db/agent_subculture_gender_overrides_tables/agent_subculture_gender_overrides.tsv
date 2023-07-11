@@ -1,0 +1,16 @@
+agent	gender	subculture
+#agent_subculture_gender_overrides_tables;0;db/agent_subculture_gender_overrides_tables/agent_subculture_gender_overrides		
+champion	m	sc_rom_barb_east
+champion	m	sc_rom_nuragic
+dignitary	m	sc_rom_barb_east
+dignitary	m	sc_rom_carthaginian
+dignitary	f	sc_rom_egyptian
+dignitary	b	sc_rom_germanic
+dignitary	f	sc_rom_nuragic
+dignitary	m	sc_rom_pontic
+spy	b	sc_rom_barb_east
+spy	m	sc_rom_etruscan
+spy	f	sc_rom_greek
+spy	f	sc_rom_iapygian
+spy	f	sc_rom_italic
+spy	f	sc_rom_nuragic

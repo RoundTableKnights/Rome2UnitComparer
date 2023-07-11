@@ -1,0 +1,25 @@
+key	audio_projectile_type	max_attenuation_fire	max_attenuation_impact	max_attenuation_inflight	play_incoming_sound	requires_distance	requires_speed	inflight_min_speed
+#audio_projectiles_tables;1;db/audio_projectiles_tables/audio_projectiles								
+arrow	arrow	120.0000	45.0000	40.0000	false	false	false	22.0000
+arrow_flaming	arrow_flaming	120.0000	45.0000	40.0000	false	false	false	22.0000
+arrow_whistling	arrow_whistling	120.0000	45.0000	40.0000	false	false	false	22.0000
+beehive	beehive	0.0000	325.0000	300.0000	false	true	true	10.0000
+bolt	bolt	120.0000	70.0000	120.0000	false	false	true	22.0000
+bolt_flaming	bolt_flaming	120.0000	70.0000	120.0000	false	false	true	22.0000
+bolt_large	bolt_large	120.0000	70.0000	120.0000	false	false	true	22.0000
+bolt_large_flaming	bolt_large_flaming	120.0000	70.0000	120.0000	false	false	true	22.0000
+carcass	carcass	0.0000	325.0000	300.0000	true	true	true	10.0000
+carcass_debris	carcass_debris	0.0000	20.0000	0.0000	false	false	false	10.0000
+fireball	fireball	0.0000	85.0000	80.0000	false	false	true	0.0000
+fragment	fragment	0.0000	20.0000	0.0000	false	false	false	10.0000
+javelin	javelin	120.0000	45.0000	45.0000	false	false	false	10.0000
+none	none	0.0000	0.0000	0.0000	false	false	false	0.0000
+pot	pot	0.0000	325.0000	300.0000	true	true	true	10.0000
+pot_large	pot_large	0.0000	325.0000	300.0000	true	true	true	10.0000
+rock	rock	0.0000	325.0000	300.0000	true	true	true	10.0000
+rock_flaming	rock_flaming	0.0000	325.0000	300.0000	true	true	true	10.0000
+rock_large	rock_large	0.0000	325.0000	300.0000	true	true	true	10.0000
+rock_large_flaming	rock_large_flaming	0.0000	325.0000	300.0000	true	true	true	10.0000
+small_stone	small_stone	0.0000	30.0000	25.0000	false	false	true	10.0000
+snake_pot	snake_pot	0.0000	325.0000	300.0000	false	true	true	10.0000
+torch	torch	50.0000	50.0000	50.0000	false	false	false	6.0000

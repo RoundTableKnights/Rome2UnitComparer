@@ -1,0 +1,92 @@
+key	stationary_for_turn	supersedes_ability	requires_effect_enabling	tooltip_text
+#unit_abilities_tables;4;db/unit_abilities_tables/unit_abilities				
+a_mp_test_1	false		false	Arena - Quick March||
+a_mp_test_10	false		false	Barrage||The unit increases their rate of fire, slowing specific unit types.
+a_mp_test_11	false		false	Arena - Battle Cry||Actions the casting unit into an adrenalin fuelled battle cry/scream.  This applies a moral buff to allied units with a AOE.
+a_mp_test_12	false		false	Arena - Hold the Line||The casting unit screams for men to stay in rank. All allied units in melee combat within a AOE receive a melee defence buff.
+a_mp_test_13	false		false	Arena - Wooden Swords, Steal Hearts||The casting unit is desperate and underequipped. They wear their hearts on their shoulders in a berserk like run. Outputting a high level of damage and ignoring any received damage for a period of time
+a_mp_test_14	false		false	Arena - Brace Yourself||Unit applies a braced stance which negates any charge bonus and reflects an initial attack.
+a_mp_test_15	false		false	Arena - Herd and Slaughter||A circular formation which allows entities in but not out. All entities within the formation are exposed to a devastating damage AOE.
+a_mp_test_16	false		false	Arena - Single Dismount||Actions a cavalry unit to dismount from their horses, becoming a melee infantry unit. This is an irreversible action as the horses will instant route after dismount is executed.
+a_mp_test_17	false		false	Arena - Raise Shields||The casting unit raises their shields increasing their missile deflection chance.
+a_mp_test_2	false		false	Arena - infantry_charge_1
+a_mp_test_3	false		false	Arena - heavy_infantry_charge_1
+a_mp_test_4	false		false	Arena - cavalry_charge_1
+a_mp_test_5	false		false	Arena - Bloodlust||The casting units attack speed is increased for a set period of time.
+a_mp_test_6	false		false	Arena - Make it Count||The casting unit focuses their eye firing a devastating volley.
+a_mp_test_7	false		false	Arena - Conveterani||Applies a moral buff within an AOE to any unit that has less experience than the casting unit.
+a_mp_test_8	false		false	Arena - Aquila||Applies a moral buff within an AOE. However if the casting unit routes or dies, then any units within the AOE receive a large moral debuff.
+a_mp_test_9	false		false	Arena - Stress||Torsion springs are overstrung resulting in increased range and damage at the cost of N damage to the weapon. Overuse can cause the weapon to collapse. 
+cantabrian_circle	false		false	Cantabrian Circle||The unit fires whilst riding in a circle.\n\n[[col:green]]Harder to hit, reload skill[[/col]]
+cavalry_counter_tactics	false		false	Cavalry Counter-tactics||Improves unit's ability to endure enemy cavalry charges for an extended time.\n\n[[col:green]]Bonus vs mounted units[[/col]]
+chant	false		false	Chant||Improves the morale of any friendly units within the unit's area of influence.\n\n[[col:green]]Morale[[/col]]
+com_battle_rhythm	false		true	Battle Rhythm||Target friendly units to gradually improve their combat skills for an extended time.\n\n[[col:green]]Melee attack, melee defence, weapon damage, speed[[/col]]\n\n[[col:red]]Exertion: Melee attack, melee defence, speed [[/col]]
+com_brace	false		true	Brace||Target friendly units to improve their resistance against charges for a short time.\n\n[[col:green]]Bracing, bonus vs cavalry[[/col]]
+com_fast_charge	false		false	Fast Charge||Target friendly units to improve their speed and charge for an extended period. Can only be used once per battle.\n\n[[col:green]]First phase: speed[[/col]]\n[[col:green]]Second phase: speed, charge speed, charge bonus[[/col]]
+com_force_concentration	false		false	Force Concentration||Target friendly units to greatly improve their offensive capabilities. Can only be used once per battle.\n\n[[col:green]]Attack[[/col]]
+com_inspire_group	false	com_inspire_unit	true	Inspire Group||Your general improves the combat skills of friendly units within his area of influence for a short time.\n\n[[col:green]]Melee attack, melee defence, accuracy, reload skill[[/col]]
+com_inspire_unit	false		true	Inspire||Target friendly units to improve their combat skills for a short time.\n\n[[col:green]]Melee attack, melee defence, accuracy, reload skill[[/col]]
+com_into_the_breach	false		true	Into the Breach||Target friendly units to improve their charge for a short time.\n\n[[col:green]]Charge bonus, charge speed, weapon damage[[/col]]
+com_loyalty	false		false	Loyalty||Target friendly units to greatly improve their defensive capabilities and make their morale unbreakable for an extended period. Can only be used once per battle.\n\n[[col:green]]Defence, unbreakable[[/col]]
+com_presence	false		false	Presence||Your general reduces the cooling down times for nearby units' abilities by 60 seconds. Can only be used once per battle.\n\n[[col:green]]Recharge rate[[/col]]
+com_pride	false		false	Pride||Your general greatly improves the effectiveness of a nearby unit's armour piercing capability. Can only be used once per battle.\n\n[[col:green]]AP damage[[/col]]
+com_push	false		true	Push||Target an enemy unit to reduce their defense against charges and melee defence for a short time.\n\n[[col:red]]Melee defence, bracing[[/col]]
+com_raise_banner	false		true	Raise Banner||Increases your general's area of influence and improves the army's defence for an extended period.\n\n[[col:green]]Area of influence, melee defence[[/col]]
+com_rally	false		true	Rally||Improves morale for friendly units within your general's area of influence.\n\n[[col:green]]Morale[[/col]]
+com_rally_and_inspire	false		true	Rally & Inspire||Target friendly units to improve their combat skills and morale for a short time.\n\n[[col:green]]Melee attack, melee defence, accuracy, reload skill, morale[[/col]]
+com_rally_position	false		true	Regroup Position||
+com_relentless	false		false	Relentless||Your general slightly improves the offensive capabilities of all units. Can only be used once per battle.\n\n[[col:green]]Attack[[/col]]
+com_second_wind	false		true	Second Wind||Target a friendly unit to remove any fatigue they may have.\n\n[[col:green]]Fatigue[[/col]]
+com_second_wind_group	false	com_second_wind	true	Second Wind Group||Your general removes the fatigue of any friendly units within his area of influence.\n\n[[col:green]]Fatigue[[/col]]
+com_shock_and_awe	false		false	Sea Sickness||As these men are inexperienced sailors caught up in sea combat, they suffer various penalties.
+com_spirit	false		false	Fighting Spirit||Your general makes nearby units unbreakable for an extended period. Can only be used once per battle.\n\n[[col:green]]Unbreakable[[/col]]
+com_taunt	false		true	Taunt|| Reduces the morale of nearby enemy units.\n\n[[col:red]]Morale[[/col]]
+com_taunt_group	false		true	Taunt Group|| Reduces the morale of nearby enemy units.\n\n[[col:red]]Morale[[/col]]
+com_the_fear	false		true	The Fear||Prevents any enemy units caught within your general's area of influence from activating their abilities for an extended period.\n\n[[col:red]]Ability use[[/col]]
+com_the_fear_group	false		true	Intimidate||Prevents a single enemy unit from activating its abilities for an extended period.\n\n[[col:red]]Ability use[[/col]]
+com_unity	false		false	Unity||Your general slightly improves the morale of all units for an extended period. Can only be used once per battle.\n\n[[col:green]]Morale[[/col]]
+com_war_cry	false		true	War Cry||Reduces a single enemy's morale for a short time.\n\n[[col:red]]Morale[[/col]]
+com_war_cry_group	false	com_war_cry	true	War Cry Group||Reduces the morale of enemy units within your general's area of influence for a short time.\n\n[[col:red]]Morale[[/col]]
+com_we_stand_and_fight	false		true	Stand & Fight||Boosts melee attack and defence. Only available if unit's size is below 40%.
+draco	false		false	Draco||Reduces the effectiveness against mounted units of any nearby enemies for an extended time.\n\n[[col:green]]Bonus vs cavalry, bonus vs elephants, bracing[[/col]]
+dylans_test_1	false		false	dylan test 1
+dylans_test_2	false		false	dylan test 2
+fire_and_advance	false		false	Fire & Advance||
+fire_mounted	false		false	
+fire_volley	false		false	
+focus_fire	false		false	Focus Fire
+form_cavalry_testudo	false		false	Cavalry Testudo||The unit raises their shields and turns towards the aggressor.\n\n[[col:green]]Protection against missiles[[/col]]\n\n[[col:red]]Can't move[[/col]] 
+form_diamond	false		false	Diamond||The unit moves into a diamond-shaped attack formation.\n\n[[col:green]]Charge bonus, melee attack[[/col]]\n\n[[col:red]]Acceleration, melee defence[[/col]]
+form_flying_wedge	false		false	Flying Wedge||The unit moves into a flying wedge-shaped attack formation.\n\n[[col:green]]Charge bonus, melee attack[[/col]]\n\n[[col:red]]Acceleration, melee defence[[/col]]
+form_hollow_square	false		false	Hollow Square||
+form_hoplite_phalanx	false		false	Hoplite Wall||The unit moves into close wall formation.\n\n[[col:green]]Bracing, melee defence, shield strength[[/col]]\n\n[[col:red]]Acceleration, speed[[/col]]
+form_pike_square	false		false	Square||The unit moves into a close square formation.\n\n[[col:green]]Bracing, morale, melee defence[[/col]]\n\n[[col:red]]Can't move[[/col]]
+form_pike_wall	false		false	Pike Phalanx||The unit moves into a deep, close defensive formation.\n\n[[col:green]]Bonus vs cavalry, bracing[[/col]]\n\n[[col:red]]Limited speed[[/col]]
+form_shield_screen	false		false	Shield Screen||The unit raises their shields in a static defensive formation.\n\n[[col:green]]Bracing, melee defence, shield strength[[/col]]\n\n[[col:red]]Can't move[[/col]]
+form_shield_wall	false		false	Shieldwall||The unit moves into a close formation and raises shields.\n\n[[col:green]]Armour strength, bracing, melee defence, shield strength[[/col]]\n\n[[col:red]]Limited speed[[/col]]
+form_testudo	false		false	Attacking Testudo||The troops of this unit raise their shields above their heads in a defensive formation.\n\n[[col:green]]Protection against missiles[[/col]]\n\n[[col:red]]Limited speed[[/col]]
+form_testudo_defensive	false		false	Defensive Testudo||The troops of this unit raise their shields above their heads in a static defensive formation.\n\n[[col:green]]Bracing, protection against missiles[[/col]]\n\n[[col:red]]Can't move[[/col]]
+form_wedge	false		false	Wedge||The unit moves into a wedge-shaped attack formation.\n\n[[col:green]]Charge bonus, melee attack[[/col]]\n\n[[col:red]]Acceleration, melee defence[[/col]]
+frenzied_charge	false		false	Frenzied Charge||Increases the effectiveness of the unit's charge for an extended period. The unit will suffer a large fatigue penalty after the charge is over.\n\n[[col:green]]Charge speed, charge damage, acceleration[[/col]]\n\n[[col:red]]Melee defence, fatigue[[/col]]
+frenzied_charge_inf	false		false	Frenzied Charge||Increases the effectiveness of the unit's charge for an extended period. The unit will suffer a large fatigue penalty after the charge is over.\n\n[[col:green]]Charge speed, charge damage, acceleration[[/col]]\n\n[[col:red]]Melee defence, fatigue[[/col]]
+frenzy	false		false	Frenzy||Improves a unit's charge and weapon damage for an extended period.\n\n[[col:green]]Charge damage, Weapon damage[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+hard_10	false		false	Row Hard 10||Increases speed for 10 strokes.\n\n[[col:green]]Ship speed[[/col]]
+hard_20	false		false	Row Hard 20||Increases speed for 20 strokes.\n\n[[col:green]]Ship speed[[/col]]
+hard_30	false		false	Row Hard 30||Increases speed for 30 strokes.\n\n[[col:green]]Ship speed[[/col]]
+headhunt	false		false	Headhunt||Gradual increase in effectiveness of the unit's attack.\n\n[[col:green]]Melee attack, morale[[/col]]\n\n[[col:red]]Melee defence[[/col]]
+kill_elephants	false		false	Kill Elephants||Elephant drivers will kill their mounts with spikes. To be used only if they run amok.
+killing_spree	false		false	Killing Spree||Increases weapon damage for an extended period.\n\n[[col:green]]Weapon damage[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+light_infantry_behaviour	false		false	Light Infantry Behaviour||
+manual_charge	false		false	Manual Charge
+precision_shot	false		false	Precision Shot||Improved missile weapon damage for an extended period.\n\n[[col:green]]Missile damage[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+quick_reload	false		false	Quick Reload||Improved reloading for an extended time.\n\n[[col:green]]Shots per minute[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+rapid_advance	false		false	Rapid Advance||Improved unit movement speed over an extended period.\n\n[[col:green]]Speed, acceleration, charge speed[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+rapid_volley	false		false	Rapid Volley||
+screech	false		false	Curse||Reduces the morale of nearby enemy units.\n\n[[col:red]]Morale[[/col]]
+second_wind	false		false	Second Wind||
+stampede	false		false	Stampede||Charges are more effective for an extended time.\n\n[[col:green]]Charge bonus[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+steady_advance	false		false	Steady Advance||
+steady_retreat	false		false	Steady||Improves the unit's ability to endure enemy charges.\n\n[[col:green]]Armour, melee defence[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+trample	false		false	Trample||Charges are more effective for an extended time.\n\n[[col:green]]Charge bonus[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+use_the_whip	false		false	Use the Whip||Improved attack and fatigue resistance for a short time.\n\n[[col:green]]Melee attack, weapon damage, fatigue resistance[[/col]]\n\n[[col:red]]Exertion: fatigue[[/col]]
+warcry	false		false	War Cry||

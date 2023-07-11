@@ -1,0 +1,10 @@
+subculture	chance_to_spawn	general	public_office	missions	trait
+#female_character_subculture_details_tables;1;db/female_character_subculture_details_tables/female_character_subculture_details					
+sc_rom_african_arabian	13	y	y	y	
+sc_rom_carthaginian	6	n	y	y	dk_female_family_duty
+sc_rom_eastern	6	n	y	y	dk_female_family_duty
+sc_rom_egyptian	13	y	y	y	
+sc_rom_greek	6	n	y	y	dk_female_family_duty
+sc_rom_numidian	12	y	y	y	
+sc_rom_parthian	7	n	y	y	dk_female_family_duty
+sc_rom_pontic	6	n	y	y	dk_female_family_duty

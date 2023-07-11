@@ -1,0 +1,15 @@
+pool_id	pool_posX	pool_posY	pool_radius	battle_name
+#famous_battle_pools_tables;0;db/famous_battle_pools_tables/famous_battle_pools				
+1	300.0000	253.0000	2	Battle of Chaeronea
+10	456.0000	231.0000	4	Battle of Carrhae
+11	297.0000	276.0000	2	Battle of Pydna
+12	365.0000	251.0000	3	Battle of Ipsus
+13	296.0000	264.0000	2	Battle of Cynoscephalae
+2	310.0000	252.0000	2	Battle of Marathon
+3	298.0000	258.0000	2	Battle of Thermopylae
+4	415.0000	237.0000	3	Battle of Issus
+5	483.0000	226.0000	4	Battle of Gaugamela
+6	174.0000	333.0000	2	Battle of the Trebia
+7	397.0000	166.0000	3	Battle of Raphia
+8	235.0000	285.0000	3	Battle of Cannae
+9	182.0000	205.0000	3	Battle of Zama

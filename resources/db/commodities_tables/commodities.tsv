@@ -1,0 +1,15 @@
+key	baseline_price_per_unit	price_elasticy_of_demand
+#commodities_tables;0;db/commodities_tables/commodities		
+res_rom_amber	12.0000	1.2000
+res_rom_glass	26.0000	1.0000
+res_rom_horses	8.0000	0.8000
+res_rom_iron	16.0000	1.0000
+res_rom_lead	14.0000	1.0000
+res_rom_leather	6.0000	0.8000
+res_rom_marble	10.0000	1.0000
+res_rom_oil	8.0000	0.8000
+res_rom_salt	14.0000	1.2000
+res_rom_spices	14.0000	1.2000
+res_rom_textiles	12.0000	1.2000
+res_rom_timber	5.0000	1.0000
+res_rom_wine	9.0000	0.8000

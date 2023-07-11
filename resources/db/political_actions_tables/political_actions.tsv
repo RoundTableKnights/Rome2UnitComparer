@@ -1,0 +1,36 @@
+political_action_key	onscreen_name	icon_file_path	usage_cost_multiplier
+#political_actions_tables;2;db/political_actions_tables/political_actions			
+adopt	Adopt	data/ui/skins/default/intrigues/political_action_adopt.png	1.1000
+assassinate	Assassinate	data/ui/skins/default/intrigues/political_action_assasinate.png	1.0000
+assassinate_husband	Assassinate Husband		1.0000
+assassinate_wife	Assassinate Wife		1.0000
+bribe	Bribe		1.0000
+diplomatic_marriage	Diplomatic Marriage		1.0000
+divorce	Divorce	data/ui/skins/default/intrigues/political_action_divorce.png	1.1000
+do_a_favour	Do a Favour	data/ui/skins/default/intrigues/political_action_do_a_favor.png	1.2000
+dynastic_marriage	Dynastic Marriage		1.0000
+embezzle_funds	Embezzle Funds	data/ui/skins/default/intrigues/political_action_embezzle_funds.png	1.5000
+entice	Entice	data/ui/skins/default/intrigues/political_action_entice.png	1.2000
+flirt	Flirt	data/ui/skins/default/intrigues/political_action_flirt.png	1.1000
+gather_support	Gather Support	data/ui/skins/default/intrigues/political_action_gather_support.png	1.3000
+get_into_position	Secure Promotion	data/ui/skins/default/intrigues/political_action_secure_promotion.png	1.2000
+insult	Insult	data/ui/skins/default/intrigues/political_action_insult.png	1.3000
+leisure_time	Leisure Time	data/ui/skins/default/intrigues/political_action_leisure_time.png	1.1000
+make_heir	Declare Heir	data/ui/skins/default/intrigues/political_action_make_heir.png	1.1000
+marriage	Marriage		1.0000
+organize_games	Organize Games	data/ui/skins/default/intrigues/political_action_organize_games.png	1.2000
+party_provoke	Provoke		1.0000
+party_purge	Purge		1.0000
+party_secure_loyalty	Secure Loyalty		1.0000
+political_marriage	Political Marriage	data/ui/skins/default/intrigues/political_action_political_marriage.png	1.1000
+praise	Praise	data/ui/skins/default/intrigues/political_action_praise.png	1.2000
+provoke	Provoke	data/ui/skins/default/intrigues/political_action_provoke.png	1.2000
+secure_loyalty	Improve Relations	data/ui/skins/default/intrigues/political_action_secure_loyalty.png	1.1000
+seek_spouse	Seek Spouse	data/ui/skins/default/intrigues/political_action_seek_spouse.png	1.1000
+send_diplomat	Send Diplomat	data/ui/skins/default/intrigues/political_action_send_diplomat.png	1.1000
+send_emissary	Send Emissary	data/ui/skins/default/intrigues/political_action_send_emissary.png	1.1000
+send_gift	Send Gift	data/ui/skins/default/intrigues/political_action_send_gift.png	1.6000
+send_off_for_tutoring	Educate	data/ui/skins/default/intrigues/political_action_send_off_for_tutoring.png	1.1000
+spread_rumours	Spread Rumours	data/ui/skins/default/intrigues/political_action_spread_rumors.png	1.2000
+suicide	Suicide	data/ui/skins/default/intrigues/political_action_suicide.png	1.3000
+usurp_legacy	Usurp Legacy	data/ui/skins/default/intrigues/political_action_usurp_legacy.png	1.5000

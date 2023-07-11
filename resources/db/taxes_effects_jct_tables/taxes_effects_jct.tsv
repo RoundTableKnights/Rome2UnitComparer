@@ -1,0 +1,12 @@
+tax_name	effect	ai_only	optional_campaign_key	optional_difficulty_level	effect_scope	value
+#taxes_effects_jct_tables;1;db/taxes_effects_jct_tables/taxes_effects_jct						
+lower_extortionate	rom_backend_tax_public_order	false			this_province	-20.0000
+lower_extortionate	rom_province_growth_taxes	false			this_province	-3.0000
+lower_high	rom_backend_tax_public_order	false			this_province	-12.0000
+lower_high	rom_province_growth_taxes	false			this_province	-1.0000
+lower_low	rom_backend_tax_public_order	false			this_province	-3.0000
+lower_low	rom_province_growth_taxes	false			this_province	0.0000
+lower_minimal	rom_backend_tax_public_order	false			this_province	-1.0000
+lower_minimal	rom_province_growth_taxes	false			this_province	0.0000
+lower_normal	rom_backend_tax_public_order	false			this_province	-5.0000
+lower_normal	rom_province_growth_taxes	false			this_province	0.0000

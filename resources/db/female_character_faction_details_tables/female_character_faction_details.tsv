@@ -1,0 +1,9 @@
+faction	chance_to_spawn	general	public_office	missions	trait
+#female_character_faction_details_tables;0;db/female_character_faction_details_tables/female_character_faction_details					
+3c_palmyra	6	y	y	y	r2_sp_trait_all_negotiator
+emp_egypt	16	y	y	y	r2_sp_trait_female_warrior
+rom_ardiaei	11	y	y	y	
+rom_kush	50	y	y	y	
+rom_nabatea	11	y	y	y	
+rom_ptolemaics	14	y	y	y	
+rom_saba	11	y	y	y	

@@ -1,0 +1,13 @@
+manager	behaviour	priority
+#campaign_ai_manager_behaviour_junctions_tables;0;db/campaign_ai_manager_behaviour_junctions_tables/campaign_ai_manager_behaviour_junctions		
+EMPTY	DIPLOMACY_MANAGER	0.0000
+default	CHARACTER_SKILL_MANAGEMENT	500.0000
+default	CONSTRUCTION_SYSTEM_BEHAVIOUR	500.0000
+default	DIPLOMACY_MANAGER	0.0000
+default	FORCE_LEGACY_SKILL_MANAGEMENT	500.0000
+default	MERGE_DAMAGED_SAME_TYPED_UNITS	500.0000
+default	MINIMUM_SAVING	200.0000
+default	PROVINCE_INITIATIVE_MANAGEMENT	500.0000
+default	RESEARCH_TECHNOLOGY	500.0000
+default	TASK_MANAGEMENT_SYSTEM	0.0000
+default	TAXATION	50.0000

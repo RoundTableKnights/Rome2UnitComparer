@@ -1,0 +1,2879 @@
+id	set_id	culture	faction	sub_culture	campaign
+#building_chain_availabilities_tables;1;db/building_chain_availabilities_tables/building_chain_availabilities					
+1000	rom_BARBARIAN_city_minor_limestone	rom_Barbarian			
+10001	3c_rome_lead	rom_Roman	3c_mauretania		main_3c
+10003	3c_rome_leather	rom_Roman	3c_mauretania		main_3c
+10010	3c_rome_lumber	rom_Roman	3c_mauretania		main_3c
+10018	3c_rome_marble	rom_Roman	3c_mauretania		main_3c
+10025	3c_rome_military_buff	rom_Roman	3c_mauretania		main_3c
+10032	3c_rome_military_siege	rom_Roman	3c_mauretania		main_3c
+10033	3c_rome_navalbuff	rom_Roman	3c_mauretania		main_3c
+10037	3c_rome_olive	rom_Roman	3c_mauretania		main_3c
+10042	3c_rome_purple_dye	rom_Roman	3c_mauretania		main_3c
+10045	3c_rome_silk	rom_Roman	3c_mauretania		main_3c
+10048	3c_rome_town	rom_Roman	3c_mauretania		main_3c
+10058	3c_rome_town_centre	rom_Roman	3c_mauretania		main_3c
+10064	3c_rome_wine	rom_Roman	3c_mauretania		main_3c
+10073	3c_rome_administration	rom_Roman	3c_numidia		main_3c
+10080	3c_rome_agriculture	rom_Roman	3c_numidia		main_3c
+10089	3c_rome_city_centre	rom_Roman	3c_numidia		main_3c
+10098	3c_rome_city_major	rom_Roman	3c_numidia		main_3c
+10099	3c_all_cults	rom_Roman	3c_numidia		main_3c
+1010	rom_BARBARIAN_city_minor_marble	rom_Barbarian			
+10101	3c_rome_military	rom_Roman	3c_numidia		main_3c
+10111	3c_rome_military_aux	rom_Roman	3c_numidia		main_3c
+10113	3c_rome_port	rom_Roman	3c_numidia		main_3c
+10119	3c_rome_religious	rom_Roman	3c_numidia		main_3c
+10128	3c_rome_sanitation	rom_Roman	3c_numidia		main_3c
+10134	3c_rome_amber	rom_Roman	3c_numidia		main_3c
+10137	3c_rome_glass	rom_Roman	3c_numidia		main_3c
+10145	3c_rome_gold	rom_Roman	3c_numidia		main_3c
+10149	3c_rome_grain	rom_Roman	3c_numidia		main_3c
+10155	3c_rome_horse	rom_Roman	3c_numidia		main_3c
+10158	3c_rome_industry	rom_Roman	3c_numidia		main_3c
+10162	3c_rome_iron	rom_Roman	3c_numidia		main_3c
+10167	3c_rome_lead	rom_Roman	3c_numidia		main_3c
+10170	3c_rome_leather	rom_Roman	3c_numidia		main_3c
+10176	3c_rome_lumber	rom_Roman	3c_numidia		main_3c
+10185	3c_rome_marble	rom_Roman	3c_numidia		main_3c
+10188	3c_rome_military_buff	rom_Roman	3c_numidia		main_3c
+10198	3c_rome_military_siege	rom_Roman	3c_numidia		main_3c
+10200	3c_rome_navalbuff	rom_Roman	3c_numidia		main_3c
+10210	3c_rome_olive	rom_Roman	3c_numidia		main_3c
+10219	3c_rome_purple_dye	rom_Roman	3c_numidia		main_3c
+10223	3c_rome_silk	rom_Roman	3c_numidia		main_3c
+10228	3c_rome_town	rom_Roman	3c_numidia		main_3c
+10236	3c_rome_town_centre	rom_Roman	3c_numidia		main_3c
+10244	3c_rome_wine	rom_Roman	3c_numidia		main_3c
+10250	3c_rome_administration	rom_Roman	3c_roman_pretender		main_3c
+10253	3c_rome_agriculture	rom_Roman	3c_roman_pretender		main_3c
+10258	3c_rome_city_centre	rom_Roman	3c_roman_pretender		main_3c
+10265	3c_rome_city_major	rom_Roman	3c_roman_pretender		main_3c
+10273	3c_all_cults	rom_Roman	3c_roman_pretender		main_3c
+10278	3c_rome_military	rom_Roman	3c_roman_pretender		main_3c
+10279	3c_rome_military_aux	rom_Roman	3c_roman_pretender		main_3c
+10285	3c_rome_port	rom_Roman	3c_roman_pretender		main_3c
+10289	3c_rome_religious	rom_Roman	3c_roman_pretender		main_3c
+10298	3c_rome_sanitation	rom_Roman	3c_roman_pretender		main_3c
+10308	3c_rome_amber	rom_Roman	3c_roman_pretender		main_3c
+10312	3c_rome_glass	rom_Roman	3c_roman_pretender		main_3c
+1032	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian			
+10320	3c_rome_gold	rom_Roman	3c_roman_pretender		main_3c
+10327	3c_rome_grain	rom_Roman	3c_roman_pretender		main_3c
+10330	3c_rome_horse	rom_Roman	3c_roman_pretender		main_3c
+10334	3c_rome_industry	rom_Roman	3c_roman_pretender		main_3c
+10340	3c_rome_iron	rom_Roman	3c_roman_pretender		main_3c
+10347	3c_rome_lead	rom_Roman	3c_roman_pretender		main_3c
+10348	3c_rome_leather	rom_Roman	3c_roman_pretender		main_3c
+10358	3c_rome_lumber	rom_Roman	3c_roman_pretender		main_3c
+10361	3c_rome_marble	rom_Roman	3c_roman_pretender		main_3c
+10362	3c_rome_military_buff	rom_Roman	3c_roman_pretender		main_3c
+10365	3c_rome_military_siege	rom_Roman	3c_roman_pretender		main_3c
+10371	3c_rome_navalbuff	rom_Roman	3c_roman_pretender		main_3c
+1038	rom_BARBARIAN_city_minor_silk	rom_Barbarian			
+10380	3c_rome_olive	rom_Roman	3c_roman_pretender		main_3c
+10388	3c_rome_purple_dye	rom_Roman	3c_roman_pretender		main_3c
+10396	3c_rome_silk	rom_Roman	3c_roman_pretender		main_3c
+10406	3c_rome_town	rom_Roman	3c_roman_pretender		main_3c
+10411	3c_rome_town_centre	rom_Roman	3c_roman_pretender		main_3c
+10421	3c_rome_wine	rom_Roman	3c_roman_pretender		main_3c
+1043	rom_BARBARIAN_city_minor_silver	rom_Barbarian			
+10431	3c_rome_administration	rom_Roman	3c_britannia		main_3c
+10440	3c_gallicemp_agriculture	rom_Roman	3c_britannia		main_3c
+10450	3c_rome_city_centre	rom_Roman	3c_britannia		main_3c
+10456	3c_rome_city_major	rom_Roman	3c_britannia		main_3c
+10457	3c_all_cults	rom_Roman	3c_britannia		main_3c
+10464	3c_gallicemp_military	rom_Roman	3c_britannia		main_3c
+10465	3c_rome_military_aux	rom_Roman	3c_britannia		main_3c
+10474	3c_rome_port	rom_Roman	3c_britannia		main_3c
+10475	3c_gallicemp_religious	rom_Roman	3c_britannia		main_3c
+10476	3c_rome_sanitation	rom_Roman	3c_britannia		main_3c
+10484	3c_rome_amber	rom_Roman	3c_britannia		main_3c
+10492	3c_rome_glass	rom_Roman	3c_britannia		main_3c
+10502	3c_rome_gold	rom_Roman	3c_britannia		main_3c
+10503	3c_rome_grain	rom_Roman	3c_britannia		main_3c
+10508	3c_rome_horse	rom_Roman	3c_britannia		main_3c
+10511	3c_rome_industry	rom_Roman	3c_britannia		main_3c
+10516	3c_rome_iron	rom_Roman	3c_britannia		main_3c
+10524	3c_rome_lead	rom_Roman	3c_britannia		main_3c
+10527	3c_rome_leather	rom_Roman	3c_britannia		main_3c
+10534	3c_rome_lumber	rom_Roman	3c_britannia		main_3c
+10543	3c_rome_marble	rom_Roman	3c_britannia		main_3c
+10552	3c_rome_military_buff	rom_Roman	3c_britannia		main_3c
+10557	3c_rome_military_siege	rom_Roman	3c_britannia		main_3c
+10559	3c_rome_navalbuff	rom_Roman	3c_britannia		main_3c
+10566	3c_rome_olive	rom_Roman	3c_britannia		main_3c
+10575	3c_rome_purple_dye	rom_Roman	3c_britannia		main_3c
+10582	3c_rome_silk	rom_Roman	3c_britannia		main_3c
+1059	rom_BARBARIAN_city_minor_timber	rom_Barbarian			
+10590	3c_rome_town	rom_Roman	3c_britannia		main_3c
+10593	3c_rome_town_centre	rom_Roman	3c_britannia		main_3c
+10599	3c_rome_wine	rom_Roman	3c_britannia		main_3c
+10602	3c_rome_administration	rom_Roman	3c_lusitania		main_3c
+10604	3c_gallicemp_agriculture	rom_Roman	3c_lusitania		main_3c
+10606	3c_rome_city_centre	rom_Roman	3c_lusitania		main_3c
+10615	3c_rome_city_major	rom_Roman	3c_lusitania		main_3c
+10616	3c_all_cults	rom_Roman	3c_lusitania		main_3c
+10622	3c_gallicemp_military	rom_Roman	3c_lusitania		main_3c
+10631	3c_rome_military_aux	rom_Roman	3c_lusitania		main_3c
+10638	3c_rome_port	rom_Roman	3c_lusitania		main_3c
+1064	rom_BARBARIAN_city_minor_township	rom_Barbarian			
+10642	3c_gallicemp_religious	rom_Roman	3c_lusitania		main_3c
+10648	3c_rome_sanitation	rom_Roman	3c_lusitania		main_3c
+10653	3c_rome_amber	rom_Roman	3c_lusitania		main_3c
+10656	3c_rome_glass	rom_Roman	3c_lusitania		main_3c
+10659	3c_rome_gold	rom_Roman	3c_lusitania		main_3c
+10668	3c_rome_grain	rom_Roman	3c_lusitania		main_3c
+10669	3c_rome_horse	rom_Roman	3c_lusitania		main_3c
+10679	3c_rome_industry	rom_Roman	3c_lusitania		main_3c
+10684	3c_rome_iron	rom_Roman	3c_lusitania		main_3c
+10686	3c_rome_lead	rom_Roman	3c_lusitania		main_3c
+10692	3c_rome_leather	rom_Roman	3c_lusitania		main_3c
+107	rom_ROMAN_military_buff	rom_Roman			
+10702	3c_rome_lumber	rom_Roman	3c_lusitania		main_3c
+10703	3c_rome_marble	rom_Roman	3c_lusitania		main_3c
+10705	3c_rome_military_buff	rom_Roman	3c_lusitania		main_3c
+10711	3c_rome_military_siege	rom_Roman	3c_lusitania		main_3c
+10713	3c_rome_navalbuff	rom_Roman	3c_lusitania		main_3c
+10714	3c_rome_olive	rom_Roman	3c_lusitania		main_3c
+1072	rom_BARBARIAN_city_minor_wine	rom_Barbarian			
+10723	3c_rome_purple_dye	rom_Roman	3c_lusitania		main_3c
+1073	rom_EASTERN_city_major	rom_Eastern			
+10731	3c_rome_silk	rom_Roman	3c_lusitania		main_3c
+10733	3c_rome_town	rom_Roman	3c_lusitania		main_3c
+10738	3c_rome_town_centre	rom_Roman	3c_lusitania		main_3c
+10744	3c_rome_wine	rom_Roman	3c_lusitania		main_3c
+10747	3c_rome_administration	rom_Roman	3c_hispania		main_3c
+10748	3c_gallicemp_agriculture	rom_Roman	3c_hispania		main_3c
+10754	3c_rome_city_centre	rom_Roman	3c_hispania		main_3c
+10764	3c_rome_city_major	rom_Roman	3c_hispania		main_3c
+10766	3c_all_cults	rom_Roman	3c_hispania		main_3c
+10767	3c_gallicemp_military	rom_Roman	3c_hispania		main_3c
+10773	3c_rome_military_aux	rom_Roman	3c_hispania		main_3c
+10777	3c_rome_port	rom_Roman	3c_hispania		main_3c
+1078	rom_BARBARIAN_city_major	rom_Barbarian			
+10785	3c_gallicemp_religious	rom_Roman	3c_hispania		main_3c
+10793	3c_rome_sanitation	rom_Roman	3c_hispania		main_3c
+10797	3c_rome_amber	rom_Roman	3c_hispania		main_3c
+10806	3c_rome_glass	rom_Roman	3c_hispania		main_3c
+10810	3c_rome_gold	rom_Roman	3c_hispania		main_3c
+10819	3c_rome_grain	rom_Roman	3c_hispania		main_3c
+10826	3c_rome_horse	rom_Roman	3c_hispania		main_3c
+10827	3c_rome_industry	rom_Roman	3c_hispania		main_3c
+10834	3c_rome_iron	rom_Roman	3c_hispania		main_3c
+10836	3c_rome_lead	rom_Roman	3c_hispania		main_3c
+10841	3c_rome_leather	rom_Roman	3c_hispania		main_3c
+10843	3c_rome_lumber	rom_Roman	3c_hispania		main_3c
+10852	3c_rome_marble	rom_Roman	3c_hispania		main_3c
+1086	rom_HELLENIC_city_major	rom_Hellenistic			
+10861	3c_rome_military_buff	rom_Roman	3c_hispania		main_3c
+10863	3c_rome_military_siege	rom_Roman	3c_hispania		main_3c
+10868	3c_rome_navalbuff	rom_Roman	3c_hispania		main_3c
+10872	3c_rome_olive	rom_Roman	3c_hispania		main_3c
+10873	3c_rome_purple_dye	rom_Roman	3c_hispania		main_3c
+10876	3c_rome_silk	rom_Roman	3c_hispania		main_3c
+10880	3c_rome_town	rom_Roman	3c_hispania		main_3c
+10888	3c_rome_town_centre	rom_Roman	3c_hispania		main_3c
+10893	3c_rome_wine	rom_Roman	3c_hispania		main_3c
+10906	3c_all_cults	rom_Roman	3c_palmyra		main_3c
+10910	3c_rome_military	rom_Roman	3c_palmyra		main_3c
+10912	3c_rome_military_aux	rom_Roman	3c_palmyra		main_3c
+10917	3c_rome_port	rom_Roman	3c_palmyra		main_3c
+1092	rom_EASTERN_city_slot	rom_Eastern			
+10927	3c_rome_sanitation	rom_Roman	3c_palmyra		main_3c
+10929	3c_rome_amber	rom_Roman	3c_palmyra		main_3c
+10934	3c_rome_glass	rom_Roman	3c_palmyra		main_3c
+10938	3c_rome_gold	rom_Roman	3c_palmyra		main_3c
+10941	3c_rome_grain	rom_Roman	3c_palmyra		main_3c
+10946	3c_rome_horse	rom_Roman	3c_palmyra		main_3c
+10947	3c_rome_industry	rom_Roman	3c_palmyra		main_3c
+10955	3c_rome_iron	rom_Roman	3c_palmyra		main_3c
+10960	3c_rome_lead	rom_Roman	3c_palmyra		main_3c
+10964	3c_rome_leather	rom_Roman	3c_palmyra		main_3c
+10968	3c_rome_lumber	rom_Roman	3c_palmyra		main_3c
+10974	3c_rome_marble	rom_Roman	3c_palmyra		main_3c
+1098	rom_EASTERN_levy	rom_Eastern			
+10981	3c_rome_military_buff	rom_Roman	3c_palmyra		main_3c
+10989	3c_rome_military_siege	rom_Roman	3c_palmyra		main_3c
+1099	rom_EASTERN_local_temple	rom_Eastern			
+10996	3c_rome_navalbuff	rom_Roman	3c_palmyra		main_3c
+11000	3c_rome_olive	rom_Roman	3c_palmyra		main_3c
+11008	3c_rome_purple_dye	rom_Roman	3c_palmyra		main_3c
+11017	3c_rome_silk	rom_Roman	3c_palmyra		main_3c
+11024	3c_rome_town	rom_Roman	3c_palmyra		main_3c
+11034	3c_rome_town_centre	rom_Roman	3c_palmyra		main_3c
+11040	3c_rome_wine	rom_Roman	3c_palmyra		main_3c
+11042	3c_rome_administration	rom_Roman	3c_gallicemp		main_3c
+11043	3c_gallicemp_agriculture	rom_Roman	3c_gallicemp		main_3c
+11051	3c_rome_city_centre	rom_Roman	3c_gallicemp		main_3c
+11057	3c_rome_city_major	rom_Roman	3c_gallicemp		main_3c
+11066	3c_all_cults	rom_Roman	3c_gallicemp		main_3c
+11071	3c_gallicemp_military	rom_Roman	3c_gallicemp		main_3c
+11079	3c_rome_military_aux	rom_Roman	3c_gallicemp		main_3c
+1108	rom_EASTERN_outskirts	rom_Eastern			
+11085	3c_rome_port	rom_Roman	3c_gallicemp		main_3c
+11095	3c_gallicemp_religious	rom_Roman	3c_gallicemp		main_3c
+11104	3c_rome_sanitation	rom_Roman	3c_gallicemp		main_3c
+11105	3c_rome_amber	rom_Roman	3c_gallicemp		main_3c
+11107	3c_rome_glass	rom_Roman	3c_gallicemp		main_3c
+11116	3c_rome_gold	rom_Roman	3c_gallicemp		main_3c
+11123	3c_rome_grain	rom_Roman	3c_gallicemp		main_3c
+11124	3c_rome_horse	rom_Roman	3c_gallicemp		main_3c
+11127	3c_rome_industry	rom_Roman	3c_gallicemp		main_3c
+11128	3c_rome_iron	rom_Roman	3c_gallicemp		main_3c
+11132	3c_rome_lead	rom_Roman	3c_gallicemp		main_3c
+11139	3c_rome_leather	rom_Roman	3c_gallicemp		main_3c
+11147	3c_rome_lumber	rom_Roman	3c_gallicemp		main_3c
+11149	3c_rome_marble	rom_Roman	3c_gallicemp		main_3c
+1115	rom_EASTERN_port_major	rom_Eastern			
+11155	3c_rome_military_buff	rom_Roman	3c_gallicemp		main_3c
+11162	3c_rome_military_siege	rom_Roman	3c_gallicemp		main_3c
+11166	3c_rome_navalbuff	rom_Roman	3c_gallicemp		main_3c
+11175	3c_rome_olive	rom_Roman	3c_gallicemp		main_3c
+1118	rom_EASTERN_stables	rom_Eastern			
+11185	3c_rome_purple_dye	rom_Roman	3c_gallicemp		main_3c
+11195	3c_rome_silk	rom_Roman	3c_gallicemp		main_3c
+1120	rom_HELLENIC_city_slot	rom_Hellenistic			
+11200	3c_rome_town	rom_Roman	3c_gallicemp		main_3c
+11205	3c_rome_town_centre	rom_Roman	3c_gallicemp		main_3c
+11214	3c_rome_wine	rom_Roman	3c_gallicemp		main_3c
+11224	3c_rome_administration	rom_Roman	3c_rome		main_3c
+11226	3c_rome_agriculture	rom_Roman	3c_rome		main_3c
+11231	3c_rome_city_centre	rom_Roman	3c_rome		main_3c
+11233	3c_rome_city_major	rom_Roman	3c_rome		main_3c
+11243	3c_all_cults	rom_Roman	3c_rome		main_3c
+11246	3c_rome_military	rom_Roman	3c_rome		main_3c
+11252	3c_rome_military_aux	rom_Roman	3c_rome		main_3c
+11262	3c_rome_port	rom_Roman	3c_rome		main_3c
+11270	3c_rome_religious	rom_Roman	3c_rome		main_3c
+11276	3c_rome_sanitation	rom_Roman	3c_rome		main_3c
+11279	3c_rome_amber	rom_Roman	3c_rome		main_3c
+11281	3c_rome_glass	rom_Roman	3c_rome		main_3c
+11290	3c_rome_gold	rom_Roman	3c_rome		main_3c
+11297	3c_rome_grain	rom_Roman	3c_rome		main_3c
+1130	rom_HELLENIC_military_buff	rom_Hellenistic			
+11302	3c_rome_horse	rom_Roman	3c_rome		main_3c
+11305	3c_rome_industry	rom_Roman	3c_rome		main_3c
+11309	3c_rome_iron	rom_Roman	3c_rome		main_3c
+11316	3c_rome_lead	rom_Roman	3c_rome		main_3c
+11318	3c_rome_leather	rom_Roman	3c_rome		main_3c
+11323	3c_rome_lumber	rom_Roman	3c_rome		main_3c
+11327	3c_rome_marble	rom_Roman	3c_rome		main_3c
+11335	3c_rome_military_buff	rom_Roman	3c_rome		main_3c
+11338	3c_rome_military_siege	rom_Roman	3c_rome		main_3c
+11348	3c_rome_navalbuff	rom_Roman	3c_rome		main_3c
+1135	rom_HELLENIC_military_equipment	rom_Hellenistic			
+11355	3c_rome_olive	rom_Roman	3c_rome		main_3c
+11356	3c_rome_purple_dye	rom_Roman	3c_rome		main_3c
+11359	3c_rome_silk	rom_Roman	3c_rome		main_3c
+11361	3c_rome_town	rom_Roman	3c_rome		main_3c
+11368	3c_rome_town_centre	rom_Roman	3c_rome		main_3c
+11376	3c_rome_wine	rom_Roman	3c_rome		main_3c
+11383	3c_east_administration			sc_rom_african_arabian	main_3c
+11386	3c_east_agriculture			sc_rom_african_arabian	main_3c
+11392	3c_east_amber			sc_rom_african_arabian	main_3c
+11398	3c_east_city			sc_rom_african_arabian	main_3c
+114	rom_ROMAN_military_equipment	rom_Roman			
+11404	3c_east_city_centre			sc_rom_african_arabian	main_3c
+11411	3c_east_glass			sc_rom_african_arabian	main_3c
+11414	3c_east_gold			sc_rom_african_arabian	main_3c
+1142	rom_HELLENIC_military_main	rom_Hellenistic			
+11422	3c_east_grain			sc_rom_african_arabian	main_3c
+11427	3c_east_horse			sc_rom_african_arabian	main_3c
+11437	3c_east_industry			sc_rom_african_arabian	main_3c
+11439	3c_east_iron			sc_rom_african_arabian	main_3c
+11442	3c_east_lead			sc_rom_african_arabian	main_3c
+11446	3c_east_leather			sc_rom_african_arabian	main_3c
+11455	3c_east_lumber			sc_rom_african_arabian	main_3c
+11457	3c_east_marble			sc_rom_african_arabian	main_3c
+11458	3c_east_military_buff			sc_rom_african_arabian	main_3c
+11468	3c_east_military_cav			sc_rom_african_arabian	main_3c
+11471	3c_east_military_siege			sc_rom_african_arabian	main_3c
+11478	3c_east_olive			sc_rom_african_arabian	main_3c
+1148	rom_HELLENIC_outskirts	rom_Hellenistic			
+11488	3c_east_port			sc_rom_african_arabian	main_3c
+11498	3c_east_purple_dye			sc_rom_african_arabian	main_3c
+1150	rom_HELLENIC_port_major	rom_Hellenistic			
+11505	3c_east_silk			sc_rom_african_arabian	main_3c
+11511	3c_east_town			sc_rom_african_arabian	main_3c
+11514	3c_east_town_centre			sc_rom_african_arabian	main_3c
+11520	3c_east_water			sc_rom_african_arabian	main_3c
+11529	3c_east_wine			sc_rom_african_arabian	main_3c
+11535	3c_sassanid_military			sc_rom_african_arabian	main_3c
+11544	3c_sassanid_religious			sc_rom_african_arabian	main_3c
+11546	3c_palmyra_city_major	rom_Roman	3c_palmyra		main_3c
+1155	rom_HELLENIC_port_minor	rom_Hellenistic			
+11552	3c_palmyra_religious	rom_Roman	3c_palmyra		main_3c
+11554	3c_rome_administration	rom_Roman	3c_palmyra		main_3c
+11560	3c_rome_agriculture	rom_Roman	3c_palmyra		main_3c
+11564	3c_rome_city_centre	rom_Roman	3c_palmyra		main_3c
+11565	3c_barb_mine	rom_Roman	3c_lydia		main_3c
+1157	rom_HELLENIC_sanitation	rom_Hellenistic			
+11571	3c_barb_mine	rom_Roman	3c_egypt		main_3c
+11581	3c_barb_mine	rom_Roman	3c_galatia		main_3c
+11584	3c_barb_mine	rom_Roman	3c_mauretania		main_3c
+11590	3c_barb_mine	rom_Roman	3c_numidia		main_3c
+11591	3c_barb_mine	rom_Roman	3c_britannia		main_3c
+11594	3c_barb_mine	rom_Roman	3c_lusitania		main_3c
+116	rom_ROMAN_military_main	rom_Roman			
+11602	3c_barb_mine	rom_Roman	3c_hispania		main_3c
+11609	3c_barb_mine	rom_Roman	3c_gallicemp		main_3c
+11615	3c_barb_mine	rom_Roman	3c_rome		main_3c
+11617	3c_barb_mine	rom_Roman	3c_palmyra		main_3c
+11621	3c_all_cults	rom_Barbarian		sc_rom_british	main_3c
+11628	3c_barb_agriculture	rom_Barbarian		sc_rom_british	main_3c
+11630	3c_barb_amber	rom_Barbarian		sc_rom_british	main_3c
+11631	3c_barb_artisan	rom_Barbarian		sc_rom_british	main_3c
+11641	3c_barb_city	rom_Barbarian		sc_rom_british	main_3c
+11646	3c_barb_commons	rom_Barbarian		sc_rom_british	main_3c
+11651	3c_barb_craftsmen	rom_Barbarian		sc_rom_british	main_3c
+11653	3c_barb_glass	rom_Barbarian		sc_rom_british	main_3c
+11661	3c_barb_gold	rom_Barbarian		sc_rom_british	main_3c
+1167	rom_HELLENIC_temple	rom_Hellenistic			
+11671	3c_barb_grain	rom_Barbarian		sc_rom_british	main_3c
+11675	3c_barb_horse	rom_Barbarian		sc_rom_british	main_3c
+11682	3c_barb_iron	rom_Barbarian		sc_rom_british	main_3c
+11683	3c_barb_lead	rom_Barbarian		sc_rom_british	main_3c
+11684	3c_barb_leather	rom_Barbarian		sc_rom_british	main_3c
+11690	3c_barb_lumber	rom_Barbarian		sc_rom_british	main_3c
+11691	3c_barb_marble	rom_Barbarian		sc_rom_british	main_3c
+11696	3c_barb_military_buff	rom_Barbarian		sc_rom_british	main_3c
+11699	3c_barb_mine	rom_Barbarian		sc_rom_british	main_3c
+1170	rom_ROMAN_sanitation	rom_Roman			
+11705	3c_barb_olive	rom_Barbarian		sc_rom_british	main_3c
+11712	3c_barb_port	rom_Barbarian		sc_rom_british	main_3c
+11715	3c_barb_purple_dye	rom_Barbarian		sc_rom_british	main_3c
+1172	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_celtic	
+11729	3c_all_cults	rom_Barbarian		sc_rom_germanic	main_3c
+11736	3c_barb_agriculture	rom_Barbarian		sc_rom_germanic	main_3c
+11737	3c_barb_amber	rom_Barbarian		sc_rom_germanic	main_3c
+11744	3c_barb_artisan	rom_Barbarian		sc_rom_germanic	main_3c
+11751	3c_barb_city	rom_Barbarian		sc_rom_germanic	main_3c
+11761	3c_barb_commons	rom_Barbarian		sc_rom_germanic	main_3c
+11768	3c_barb_craftsmen	rom_Barbarian		sc_rom_germanic	main_3c
+11778	3c_barb_glass	rom_Barbarian		sc_rom_germanic	main_3c
+11780	3c_barb_gold	rom_Barbarian		sc_rom_germanic	main_3c
+11789	3c_barb_grain	rom_Barbarian		sc_rom_germanic	main_3c
+11790	3c_barb_horse	rom_Barbarian		sc_rom_germanic	main_3c
+11793	3c_barb_iron	rom_Barbarian		sc_rom_germanic	main_3c
+11801	3c_barb_lead	rom_Barbarian		sc_rom_germanic	main_3c
+11804	3c_barb_leather	rom_Barbarian		sc_rom_germanic	main_3c
+11806	3c_barb_lumber	rom_Barbarian		sc_rom_germanic	main_3c
+11816	3c_barb_marble	rom_Barbarian		sc_rom_germanic	main_3c
+11821	3c_barb_military_buff	rom_Barbarian		sc_rom_germanic	main_3c
+11828	3c_barb_mine	rom_Barbarian		sc_rom_germanic	main_3c
+1183	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_celtic	
+11832	3c_barb_olive	rom_Barbarian		sc_rom_germanic	main_3c
+11837	3c_barb_port	rom_Barbarian		sc_rom_germanic	main_3c
+11844	3c_barb_purple_dye	rom_Barbarian		sc_rom_germanic	main_3c
+11851	3c_barb_silk	rom_Barbarian		sc_rom_british	main_3c
+11856	3c_barb_town	rom_Barbarian		sc_rom_british	main_3c
+11861	3c_barb_water	rom_Barbarian		sc_rom_british	main_3c
+11866	3c_barb_wine	rom_Barbarian		sc_rom_british	main_3c
+11869	3c_barb_religios_briton	rom_Barbarian		sc_rom_british	main_3c
+11875	3c_barb_silk	rom_Barbarian		sc_rom_germanic	main_3c
+11882	3c_barb_town	rom_Barbarian		sc_rom_germanic	main_3c
+11890	3c_barb_water	rom_Barbarian		sc_rom_germanic	main_3c
+11899	3c_barb_wine	rom_Barbarian		sc_rom_germanic	main_3c
+1190	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_celtic	
+11900	3c_barb_religios_germanic	rom_Barbarian		sc_rom_germanic	main_3c
+11905	3c_all_cults	rom_Eastern	3c_armenia		main_3c
+11912	3c_armenia_military	rom_Eastern	3c_armenia		main_3c
+11922	3c_barb_mine	rom_Eastern	3c_armenia		main_3c
+11923	3c_east_administration	rom_Eastern	3c_armenia		main_3c
+11931	3c_east_agriculture	rom_Eastern	3c_armenia		main_3c
+11936	3c_east_amber	rom_Eastern	3c_armenia		main_3c
+11941	3c_east_city	rom_Eastern	3c_armenia		main_3c
+11943	3c_east_city_centre	rom_Eastern	3c_armenia		main_3c
+11945	3c_east_glass	rom_Eastern	3c_armenia		main_3c
+11953	3c_east_gold	rom_Eastern	3c_armenia		main_3c
+11954	3c_east_grain	rom_Eastern	3c_armenia		main_3c
+11957	3c_east_horse	rom_Eastern	3c_armenia		main_3c
+11967	3c_east_industry	rom_Eastern	3c_armenia		main_3c
+11976	3c_east_iron	rom_Eastern	3c_armenia		main_3c
+11982	3c_east_lead	rom_Eastern	3c_armenia		main_3c
+1199	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_celtic	
+11992	3c_east_leather	rom_Eastern	3c_armenia		main_3c
+11994	3c_east_lumber	rom_Eastern	3c_armenia		main_3c
+120	rom_ROMAN_outskirts	rom_Roman			
+12003	3c_east_marble	rom_Eastern	3c_armenia		main_3c
+12005	3c_east_military_buff	rom_Eastern	3c_armenia		main_3c
+12015	3c_east_military_siege	rom_Eastern	3c_armenia		main_3c
+1202	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_celtic	
+12020	3c_east_olive	rom_Eastern	3c_armenia		main_3c
+12027	3c_east_port	rom_Eastern	3c_armenia		main_3c
+12029	3c_east_purple_dye	rom_Eastern	3c_armenia		main_3c
+12034	3c_east_silk	rom_Eastern	3c_armenia		main_3c
+1204	rom_BARBARIAN_religious_celtic	rom_Barbarian		sc_rom_celtic	
+12043	3c_east_town	rom_Eastern	3c_armenia		main_3c
+12052	3c_east_town_centre	rom_Eastern	3c_armenia		main_3c
+12060	3c_east_water	rom_Eastern	3c_armenia		main_3c
+12069	3c_east_wine	rom_Eastern	3c_armenia		main_3c
+12075	3c_sassanid_navalbuff	rom_Eastern	3c_armenia		main_3c
+12085	3c_sassanid_religious	rom_Eastern	3c_armenia		main_3c
+12086	3c_all_cults			sc_rom_african_arabian	main_3c
+12104	3c_barb_dummy_resource	rom_Barbarian		sc_rom_british	main_3c
+12106	3c_barb_dummy_resource	rom_Barbarian		sc_rom_germanic	main_3c
+12116	3c_barb_dummy_resource			sc_rom_barb_east	main_3c
+12126	3c_east_dummy_resource	rom_Eastern	3c_armenia		main_3c
+12134	3c_rom_dummy_resource	rom_Roman	3c_gallicemp		main_3c
+12141	3c_rom_dummy_resource	rom_Roman	3c_rome		main_3c
+12149	3c_rom_dummy_resource	rom_Roman	3c_palmyra		main_3c
+1215	rom_BARBARIAN_religious_celtic	rom_Barbarian		sc_rom_british	
+12151	3c_east_dummy_resource	rom_Eastern			main_3c
+12158	3c_barb_navalbuff			sc_rom_barb_east	main_3c
+12166	3c_barb_navalbuff	rom_Barbarian		sc_rom_british	main_3c
+12172	3c_barb_navalbuff	rom_Barbarian		sc_rom_germanic	main_3c
+12174	3c_sassanid_navalbuff			sc_rom_african_arabian	main_3c
+12176	rome_town	rom_Roman	pro_rome		
+12178	dk_afr_city_centre	rom_Eastern	rom_kush	sc_rom_african_arabian	
+1218	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_british	
+12180	rome_water	rom_Roman	pro_rome		
+12186	dk_all_city	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12195	dk_all_industry	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12204	dk_all_military_cavalry	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12208	dk_all_military_infantry	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12210	dk_all_minor_settlement	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12212	dk_ara_city_centre	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12216	dk_ara_town_centre	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12223	dk_gen_sanitation	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12229	dk_kush_industry	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12231	dk_kush_religious	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12240	dk_kush_town_centre	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12244	dk_military_siege	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12245	dk_military_training	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12251	dk_nabatea_religious	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12252	dk_numidia_religious	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12256	dk_saba_religious	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12266	dk_afr_city_centre	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12276	dk_ara_city_centre	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12280	dk_ara_town_centre	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12288	dk_all_industry	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12296	dk_all_industry	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+123	rom_ROMAN_temple	rom_Roman			
+12306	dk_all_city	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12307	dk_all_city	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12311	dk_all_city	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12312	dk_all_military_cavalry	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12318	dk_all_military_cavalry	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12328	dk_all_military_cavalry	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12334	dk_all_military_infantry	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12335	dk_all_military_infantry	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12345	dk_all_military_infantry	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12348	dk_all_minor_settlement	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12352	dk_all_minor_settlement	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12357	dk_all_minor_settlement	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12365	dk_gen_sanitation	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12366	dk_gen_sanitation	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12367	dk_gen_sanitation	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12373	dk_military_siege	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12374	dk_military_siege	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12380	dk_military_siege	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12383	dk_military_training	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12390	dk_military_training	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12399	dk_military_training	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12405	rom_EASTERN_city_minor_fish	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12410	rom_EASTERN_city_minor_fish	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12411	rom_EASTERN_city_minor_fish	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12419	rom_EASTERN_city_minor_fish	rom_Eastern	rom_saba	sc_rom_african_arabian	
+1242	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_british	
+12420	rom_EASTERN_port_minor	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12423	rom_EASTERN_port_minor	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12429	rom_EASTERN_port_minor	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12435	rom_EASTERN_port_minor	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12445	rom_EASTERN_port_major	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12446	rom_EASTERN_port_major	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12447	rom_EASTERN_port_major	rom_Eastern	rom_kush	sc_rom_african_arabian	
+1245	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_british	
+12453	rom_EASTERN_port_major	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12459	rom_EASTERN_city_minor_wine	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12469	rom_EASTERN_city_minor_wine	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12476	rom_EASTERN_city_minor_wine	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12479	rom_EASTERN_city_minor_wine	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+1248	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_british	
+12482	rom_EASTERN_city_minor_township	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12483	rom_EASTERN_city_minor_township	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12488	rom_EASTERN_city_minor_township	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12490	rom_EASTERN_city_minor_township	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12491	rom_EASTERN_city_minor_timber	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12500	rom_EASTERN_city_minor_timber	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12501	rom_EASTERN_city_minor_timber	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12506	rom_EASTERN_city_minor_timber	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12510	rom_EASTERN_city_minor_silver	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12514	rom_EASTERN_city_minor_silver	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12519	rom_EASTERN_city_minor_silver	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12526	rom_EASTERN_city_minor_silver	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12533	rom_EASTERN_city_minor_silk	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12540	rom_EASTERN_city_minor_silk	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12550	rom_EASTERN_city_minor_silk	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12557	rom_EASTERN_city_minor_silk	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12565	rom_EASTERN_city_minor_fish	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12572	rom_EASTERN_city_minor_glass	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+1258	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_british	
+12581	rom_EASTERN_city_minor_gold	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12588	rom_EASTERN_city_minor_grain	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12593	rom_EASTERN_city_minor_hides	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12594	rom_EASTERN_city_minor_iron	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12603	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12605	rom_EASTERN_city_minor_marble	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12615	rom_EASTERN_city_minor_olives	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12619	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12627	rom_EASTERN_city_minor_fish	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12632	rom_EASTERN_city_minor_glass	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12637	rom_EASTERN_city_minor_gold	rom_Eastern	rom_kush	sc_rom_african_arabian	
+1264	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_germanic	
+12646	rom_EASTERN_city_minor_grain	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12655	rom_EASTERN_city_minor_hides	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12665	rom_EASTERN_city_minor_iron	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12666	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12669	rom_EASTERN_city_minor_marble	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12677	rom_EASTERN_city_minor_olives	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12682	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12688	rom_EASTERN_city_minor_fish	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12689	rom_EASTERN_city_minor_glass	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12699	rom_EASTERN_city_minor_gold	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12709	rom_EASTERN_city_minor_grain	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12713	rom_EASTERN_city_minor_hides	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12723	rom_EASTERN_city_minor_iron	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12732	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12740	rom_EASTERN_city_minor_marble	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12744	rom_EASTERN_city_minor_olives	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12753	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12763	rom_EASTERN_city_minor_fish	rom_Eastern	rom_saba	sc_rom_african_arabian	
+1277	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_germanic	
+12772	rom_EASTERN_city_minor_glass	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12777	rom_EASTERN_city_minor_gold	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12782	rom_EASTERN_city_minor_grain	rom_Eastern	rom_saba	sc_rom_african_arabian	
+1279	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_germanic	
+12792	rom_EASTERN_city_minor_hides	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12794	rom_EASTERN_city_minor_iron	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12797	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12800	rom_EASTERN_city_minor_marble	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12803	rom_EASTERN_city_minor_olives	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12805	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12810	east_tax	rom_Eastern	rom_saba	sc_rom_african_arabian	
+12815	east_tax	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12824	east_tax	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12832	east_tax	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12841	east_agriculture	rom_Eastern	rom_saba	sc_rom_african_arabian	
+1285	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_germanic	
+12851	east_agriculture	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+12854	east_agriculture	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12860	east_agriculture	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+12866	east_town_centre	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+1291	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_germanic	
+12938	east_port	rom_Eastern	rom_kush	sc_rom_african_arabian	
+12943	east_port	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+1296	rom_BARBARIAN_religious_germanic	rom_Barbarian		sc_rom_germanic	
+13024	east_port	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13103	east_port	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13197	rom_ALL_industry_minor	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13201	rom_ALL_industry_minor	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13208	rom_ALL_industry_minor	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13214	rom_ALL_industry_minor	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13250	barb_mine	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13260	barb_mine	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13263	barb_mine	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13271	barb_mine	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13279	dk_saba_marib_dam	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13285	rome_spice	rom_Roman			
+13294	barb_spice	rom_Barbarian			
+13299	greek_spice	rom_Hellenistic			
+13303	east_spice	rom_Eastern			
+13321	dk_minor_amber	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13330	dk_minor_glass	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13331	dk_minor_gold	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13341	dk_minor_grain	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13348	dk_minor_horse	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13354	dk_minor_iron	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13356	dk_minor_lead	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13360	dk_minor_leather	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13365	dk_minor_lumber	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13374	dk_minor_marble	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13384	dk_minor_olive	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13387	dk_minor_purple_dye	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13394	dk_minor_silk	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13397	dk_minor_spice	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13401	dk_minor_wine	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13402	dk_minor_amber	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13410	dk_minor_glass	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13411	dk_minor_gold	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13414	dk_minor_grain	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13419	dk_minor_horse	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13428	dk_minor_iron	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13438	dk_minor_lead	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13442	dk_minor_leather	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13443	dk_minor_lumber	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13453	dk_minor_marble	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13457	dk_minor_olive	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13464	dk_minor_purple_dye	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13474	dk_minor_silk	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13476	dk_minor_spice	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13484	dk_minor_wine	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13487	dk_minor_amber	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13490	dk_minor_glass	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13499	dk_minor_gold	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13502	dk_minor_grain	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13510	dk_minor_horse	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13519	dk_minor_iron	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13523	dk_minor_lead	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13532	dk_minor_leather	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13542	dk_minor_lumber	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13548	dk_minor_marble	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13550	dk_minor_olive	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13560	dk_minor_purple_dye	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13561	dk_minor_silk	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13562	dk_minor_spice	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13565	dk_minor_amber	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13574	dk_minor_glass	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13580	dk_minor_gold	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13584	dk_minor_grain	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13585	dk_minor_horse	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13595	dk_minor_iron	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13601	dk_minor_lead	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13608	dk_minor_leather	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13614	dk_minor_lumber	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13617	dk_minor_marble	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13625	dk_minor_olive	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13633	dk_minor_purple_dye	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13634	dk_minor_silk	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13639	dk_minor_spice	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13640	dk_minor_wine	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13643	dk_minor_wine	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13650	east_military_siege	rom_Eastern	rom_kush	sc_rom_african_arabian	
+13657	east_military_siege	rom_Eastern	rom_saba	sc_rom_african_arabian	
+13659	east_military_siege	rom_Eastern	rom_nabatea	sc_rom_african_arabian	
+13662	east_military_siege	rom_Eastern	rom_masaesyli	sc_rom_numidian	
+13666	dk_numidia_religious	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13678	dk_afr_city_centre	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13683	east_industry	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13690	dk_all_city	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13692	east_military_stables	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13702	east_military_infantry	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13710	dk_all_minor_settlement	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13719	dk_gen_sanitation	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13728	dk_military_training	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13738	rom_EASTERN_city_minor_fish	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13744	rom_EASTERN_port_minor	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13754	rom_EASTERN_port_major	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13760	rom_EASTERN_city_minor_wine	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13770	rom_EASTERN_city_minor_township	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13780	rom_EASTERN_city_minor_timber	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13789	rom_EASTERN_city_minor_silver	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13799	rom_EASTERN_city_minor_silk	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13805	rom_EASTERN_city_minor_fish	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13809	rom_EASTERN_city_minor_glass	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13812	rom_EASTERN_city_minor_gold	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13815	rom_EASTERN_city_minor_grain	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13823	rom_EASTERN_city_minor_hides	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13833	rom_EASTERN_city_minor_iron	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13836	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13843	rom_EASTERN_city_minor_marble	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13848	rom_EASTERN_city_minor_olives	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13851	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13852	east_tax	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13854	east_agriculture	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13858	east_town_centre	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13868	east_port	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13878	rom_ALL_industry_minor	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13882	barb_mine	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13892	dk_minor_amber	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13898	dk_minor_glass	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13899	dk_minor_gold	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13909	dk_minor_grain	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13917	dk_minor_horse	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13921	dk_minor_iron	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13930	dk_minor_lead	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13939	dk_minor_leather	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13947	dk_minor_lumber	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13949	dk_minor_marble	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13956	dk_minor_olive	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13962	dk_minor_purple_dye	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13966	dk_minor_silk	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13972	dk_minor_spice	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13978	dk_minor_wine	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13988	east_military_siege	rom_Eastern	rom_garamantia	sc_rom_numidian	
+13992	dk_numidia_religious	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14002	dk_afr_city_centre	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14005	east_industry	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14010	dk_all_city	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14019	east_military_stables	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14022	east_military_infantry	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14026	dk_all_minor_settlement	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14035	dk_gen_sanitation	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14045	dk_military_training	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14050	rom_EASTERN_city_minor_fish	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14055	rom_EASTERN_port_minor	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14059	rom_EASTERN_port_major	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14067	rom_EASTERN_city_minor_wine	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14072	rom_EASTERN_city_minor_township	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14073	rom_EASTERN_city_minor_timber	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14081	rom_EASTERN_city_minor_silver	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14082	rom_EASTERN_city_minor_silk	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14091	rom_EASTERN_city_minor_fish	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14095	rom_EASTERN_city_minor_glass	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14103	rom_EASTERN_city_minor_gold	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14111	rom_EASTERN_city_minor_grain	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14113	rom_EASTERN_city_minor_hides	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14119	rom_EASTERN_city_minor_iron	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14124	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14131	rom_EASTERN_city_minor_marble	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14136	rom_EASTERN_city_minor_olives	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14138	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14148	east_tax	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14156	east_agriculture	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14162	east_town_centre	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14167	east_port	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14176	rom_ALL_industry_minor	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14177	barb_mine	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14180	dk_minor_amber	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14186	dk_minor_glass	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14196	dk_minor_gold	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14199	dk_minor_grain	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14207	dk_minor_horse	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14210	dk_minor_iron	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14213	dk_minor_lead	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14218	dk_minor_leather	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14226	dk_minor_lumber	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14232	dk_minor_marble	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14238	dk_minor_olive	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14240	dk_minor_purple_dye	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14246	dk_minor_silk	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14249	dk_minor_spice	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14257	dk_minor_wine	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14262	east_military_siege	rom_Eastern	rom_gaetuli	sc_rom_numidian	
+14276	dk_all_industry	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14285	east_military_stables	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14295	east_military_infantry	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14300	dk_all_minor_settlement	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14309	dk_ara_city_centre	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14314	east_town_centre	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14318	dk_gen_sanitation	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14319	dk_military_training	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14321	dk_saba_religious	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14328	dk_all_city	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14338	rom_EASTERN_city_minor_fish	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14348	rom_EASTERN_port_minor	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14351	rom_EASTERN_port_major	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14360	rom_EASTERN_city_minor_wine	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14370	rom_EASTERN_city_minor_township	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14377	rom_EASTERN_city_minor_timber	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14383	rom_EASTERN_city_minor_silver	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14393	rom_EASTERN_city_minor_silk	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14396	rom_EASTERN_city_minor_fish	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14397	rom_EASTERN_city_minor_glass	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14402	rom_EASTERN_city_minor_gold	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14403	rom_EASTERN_city_minor_grain	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14406	rom_EASTERN_city_minor_hides	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14411	rom_EASTERN_city_minor_iron	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14417	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14420	rom_EASTERN_city_minor_marble	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14428	rom_EASTERN_city_minor_olives	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14438	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14448	east_tax	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14453	east_agriculture	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14460	east_port	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14468	rom_ALL_industry_minor	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14471	barb_mine	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14479	dk_saba_marib_dam	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14482	dk_minor_amber	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14485	dk_minor_glass	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14486	dk_minor_gold	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14493	dk_minor_grain	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14497	dk_minor_horse	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14505	dk_minor_iron	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14507	dk_minor_lead	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14511	dk_minor_leather	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14517	dk_minor_lumber	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14518	dk_minor_marble	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14525	dk_minor_olive	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14534	dk_minor_purple_dye	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14538	dk_minor_silk	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14547	dk_minor_spice	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14556	dk_minor_wine	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14565	east_military_siege	rom_Eastern	rom_gerrhaea	sc_rom_african_arabian	
+14575	dk_all_industry	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14578	east_military_stables	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14581	east_military_infantry	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14582	dk_all_minor_settlement	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14589	dk_ara_city_centre	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14593	east_town_centre	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14601	dk_gen_sanitation	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14611	dk_military_training	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14612	dk_saba_religious	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14621	dk_all_city	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14626	rom_EASTERN_city_minor_fish	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14636	rom_EASTERN_port_minor	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14637	rom_EASTERN_port_major	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14638	rom_EASTERN_city_minor_wine	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14647	rom_EASTERN_city_minor_township	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14655	rom_EASTERN_city_minor_timber	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14661	rom_EASTERN_city_minor_silver	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14665	rom_EASTERN_city_minor_silk	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14671	rom_EASTERN_city_minor_fish	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14674	rom_EASTERN_city_minor_glass	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14678	rom_EASTERN_city_minor_gold	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14687	rom_EASTERN_city_minor_grain	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14694	rom_EASTERN_city_minor_hides	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14695	rom_EASTERN_city_minor_iron	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14703	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14705	rom_EASTERN_city_minor_marble	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14712	rom_EASTERN_city_minor_olives	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14716	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14722	east_tax	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14730	east_agriculture	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14737	east_port	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14740	rom_ALL_industry_minor	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14743	barb_mine	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14750	dk_saba_marib_dam	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14758	dk_minor_amber	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14766	dk_minor_glass	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14774	dk_minor_gold	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14784	dk_minor_grain	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14785	dk_minor_horse	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14790	dk_minor_iron	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14794	dk_minor_lead	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14802	dk_minor_leather	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14803	dk_minor_lumber	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14809	dk_minor_marble	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14816	dk_minor_olive	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14824	dk_minor_purple_dye	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14832	dk_minor_silk	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14842	dk_minor_spice	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14852	dk_minor_wine	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14859	east_military_siege	rom_Eastern	rom_himyar	sc_rom_african_arabian	
+14866	dk_all_industry	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14872	east_military_stables	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14878	east_military_infantry	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14888	dk_all_minor_settlement	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14890	dk_ara_city_centre	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14899	east_town_centre	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14903	dk_gen_sanitation	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14909	dk_military_training	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14918	dk_saba_religious	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14921	dk_all_city	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14923	rom_EASTERN_city_minor_fish	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14926	rom_EASTERN_port_minor	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14928	rom_EASTERN_port_major	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14937	rom_EASTERN_city_minor_wine	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14944	rom_EASTERN_city_minor_township	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14945	rom_EASTERN_city_minor_timber	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14953	rom_EASTERN_city_minor_silver	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14955	rom_EASTERN_city_minor_silk	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14961	rom_EASTERN_city_minor_fish	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14968	rom_EASTERN_city_minor_glass	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14977	rom_EASTERN_city_minor_gold	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14979	rom_EASTERN_city_minor_grain	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14980	rom_EASTERN_city_minor_hides	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14982	rom_EASTERN_city_minor_iron	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14984	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14986	rom_EASTERN_city_minor_marble	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14987	rom_EASTERN_city_minor_olives	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14991	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+14998	east_tax	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15003	east_agriculture	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15006	east_port	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15016	rom_ALL_industry_minor	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15024	barb_mine	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15034	dk_saba_marib_dam	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15039	dk_minor_amber	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15047	dk_minor_glass	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15053	dk_minor_gold	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15061	dk_minor_grain	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15069	dk_minor_horse	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15072	dk_minor_iron	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15079	dk_minor_lead	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15084	dk_minor_leather	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15091	dk_minor_lumber	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15097	dk_minor_marble	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15099	dk_minor_olive	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15104	dk_minor_purple_dye	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15107	dk_minor_silk	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15108	dk_minor_spice	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15109	dk_minor_wine	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15119	east_military_siege	rom_Eastern	rom_ma_in	sc_rom_african_arabian	
+15122	dk_all_industry	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15128	east_military_stables	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15137	east_military_infantry	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15140	dk_all_minor_settlement	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15147	dk_ara_city_centre	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15151	east_town_centre	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15154	dk_gen_sanitation	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15160	dk_military_training	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15169	dk_saba_religious	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15175	dk_all_city	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15180	rom_EASTERN_city_minor_fish	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15183	rom_EASTERN_port_minor	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15185	rom_EASTERN_port_major	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15191	rom_EASTERN_city_minor_wine	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15192	rom_EASTERN_city_minor_township	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15197	rom_EASTERN_city_minor_timber	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15206	rom_EASTERN_city_minor_silver	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15210	rom_EASTERN_city_minor_silk	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15216	rom_EASTERN_city_minor_fish	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15223	rom_EASTERN_city_minor_glass	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15225	rom_EASTERN_city_minor_gold	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15232	rom_EASTERN_city_minor_grain	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15238	rom_EASTERN_city_minor_hides	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15245	rom_EASTERN_city_minor_iron	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15246	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15256	rom_EASTERN_city_minor_marble	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15265	rom_EASTERN_city_minor_olives	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15271	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15273	east_tax	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15279	east_agriculture	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15286	east_port	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15293	rom_ALL_industry_minor	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15294	barb_mine	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15299	dk_saba_marib_dam	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15303	dk_minor_amber	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15313	dk_minor_glass	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15314	dk_minor_gold	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15317	dk_minor_grain	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15326	dk_minor_horse	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15331	dk_minor_iron	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15336	dk_minor_lead	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15341	dk_minor_leather	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15349	dk_minor_lumber	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15350	dk_minor_marble	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15351	dk_minor_olive	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15354	dk_minor_purple_dye	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15355	dk_minor_silk	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15357	dk_minor_spice	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15366	dk_minor_wine	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15372	east_military_siege	rom_Eastern	rom_mascat	sc_rom_african_arabian	
+15374	dk_all_industry	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15380	east_military_stables	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15386	east_military_infantry	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15389	dk_all_minor_settlement	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15391	dk_ara_city_centre	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15396	east_town_centre	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15404	dk_gen_sanitation	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15414	dk_military_training	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15416	dk_saba_religious	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15426	dk_all_city	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15429	rom_EASTERN_city_minor_fish	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15435	rom_EASTERN_port_minor	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15439	rom_EASTERN_port_major	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15447	rom_EASTERN_city_minor_wine	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15457	rom_EASTERN_city_minor_township	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15463	rom_EASTERN_city_minor_timber	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15464	rom_EASTERN_city_minor_silver	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15465	rom_EASTERN_city_minor_silk	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15468	rom_EASTERN_city_minor_fish	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15474	rom_EASTERN_city_minor_glass	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15478	rom_EASTERN_city_minor_gold	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15482	rom_EASTERN_city_minor_grain	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15483	rom_EASTERN_city_minor_hides	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15493	rom_EASTERN_city_minor_iron	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15499	rom_EASTERN_city_minor_limestone	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15507	rom_EASTERN_city_minor_marble	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15509	rom_EASTERN_city_minor_olives	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15517	rom_EASTERN_city_minor_purple_dye	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15519	east_tax	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15520	east_agriculture	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15527	east_port	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15536	rom_ALL_industry_minor	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15544	barb_mine	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15553	dk_saba_marib_dam	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15560	dk_minor_amber	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15567	dk_minor_glass	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15576	dk_minor_gold	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15583	dk_minor_grain	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15585	dk_minor_horse	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15587	dk_minor_iron	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15590	dk_minor_lead	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15599	dk_minor_leather	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+156	rom_ROMAN_city_major	rom_Roman			
+15601	dk_minor_lumber	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15605	dk_minor_marble	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15607	dk_minor_olive	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15616	dk_minor_purple_dye	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15623	dk_minor_silk	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15625	dk_minor_spice	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15629	dk_minor_wine	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15637	east_military_siege	rom_Eastern	rom_qidri	sc_rom_african_arabian	
+15642	greek_spice	rom_Hellenistic		sc_rom_egyptian	
+15646	greek_spice	rom_Hellenistic	rom_ptolemaics		
+15650	barb_spice	rom_Barbarian	rom_odryssia		
+15659	greek_spice	rom_Hellenistic	rom_macedon		
+15664	greek_spice	rom_Hellenistic	emp_egypt		
+15669	barb_spice	rom_Barbarian			
+15679	barb_spice	rom_Barbarian		sc_rom_british	
+15688	barb_spice	rom_Barbarian		sc_rom_daco_thracian	
+15698	barb_spice	rom_Barbarian		sc_rom_gaul	
+15701	barb_spice	rom_Barbarian		sc_rom_germanic	
+15709	barb_spice	rom_Barbarian		sc_rom_celtiberian	
+15711	barb_spice	rom_Barbarian		sc_rom_illyrian	
+15716	barb_spice	rom_Barbarian		sc_rom_barb_east	
+15721	barb_spice	rom_Barbarian	rom_odryssia		
+15722	east_spice	rom_Eastern			
+15727	greek_spice	rom_Hellenistic			
+15729	greek_spice	rom_Hellenistic		sc_rom_carthaginian	
+15732	greek_spice	rom_Hellenistic		sc_rom_egyptian	
+15736	rome_spice	rom_Roman			
+15745	barb_spice	rom_Barbarian		sc_rom_celtic	
+15751	greek_spice	rom_Hellenistic	rom_macedon		
+15755	greek_spice	rom_Hellenistic	emp_egypt		
+15758	barb_spice	rom_Barbarian	emp_thrace		
+1576	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_celtic	
+15766	greek_spice	rom_Hellenistic	rom_ptolemaics		
+1594	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_celtic	
+1602	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_celtic	
+1607	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_celtic	
+16071	inv_ven_agriculture		inv_veneti		main_invasion
+16072	inv_ven_military_recruitment		inv_veneti		main_invasion
+16081	inv_ven_military_industry		inv_veneti		main_invasion
+16091	inv_ven_religious		inv_veneti		main_invasion
+16097	inv_ven_sanitation		inv_veneti		main_invasion
+16106	inv_ven_city_centre		inv_veneti		main_invasion
+16112	inv_ven_industry		inv_veneti		main_invasion
+16113	inv_ven_port		inv_veneti		main_invasion
+16121	inv_ven_minor_town		inv_veneti		main_invasion
+16127	inv_ven_major_town		inv_veneti		main_invasion
+1615	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_celtic	
+16243	inv_ita_agriculture			sc_rom_italic	main_invasion
+16244	inv_ita_industry_major			sc_rom_italic	main_invasion
+16257	inv_ita_major_city			sc_rom_italic	main_invasion
+16266	inv_ita_major_city_centre			sc_rom_italic	main_invasion
+16269	inv_ita_military_buff			sc_rom_italic	main_invasion
+1627	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_celtic	
+16275	inv_ita_military_recruitment			sc_rom_italic	main_invasion
+16283	inv_ita_minor_town			sc_rom_italic	main_invasion
+16291	inv_ita_minor_town_centre			sc_rom_italic	main_invasion
+16295	inv_ita_port			sc_rom_italic	main_invasion
+16299	inv_ita_religious			sc_rom_italic	main_invasion
+16304	inv_ita_sanitation			sc_rom_italic	main_invasion
+1637	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_celtic	
+1648	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_celtic	
+165	rom_ROMAN_port_minor	rom_Roman			
+1652	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_celtic	
+16686	inv_nur_agriculture			sc_rom_nuragic	main_invasion
+16694	inv_nur_industry_major			sc_rom_nuragic	main_invasion
+16697	inv_nur_major_city			sc_rom_nuragic	main_invasion
+16698	inv_nur_major_city_centre			sc_rom_nuragic	main_invasion
+1670	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_celtic	
+16705	inv_nur_military			sc_rom_nuragic	main_invasion
+16715	inv_nur_minor_town			sc_rom_nuragic	main_invasion
+16724	inv_nur_port			sc_rom_nuragic	main_invasion
+16725	inv_nur_religious			sc_rom_nuragic	main_invasion
+16733	inv_nur_sanitation			sc_rom_nuragic	main_invasion
+16742	inv_car_agriculture	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16747	inv_car_amber	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16756	inv_car_city	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16762	inv_car_city_centre	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16770	inv_car_glass	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16774	inv_car_gold	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16778	inv_car_grain	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16783	inv_car_horse	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16787	inv_car_industrial	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16794	inv_car_iron	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+1680	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_celtic	
+16803	inv_car_lead	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16812	inv_car_leather	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16813	inv_car_lumber	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16819	inv_car_marble	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+1682	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_celtic	
+16824	inv_car_military	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16834	inv_car_military_buff	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16838	inv_car_military_siege	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16840	inv_car_olive	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16846	inv_car_port	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16851	inv_car_purple_dye	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16858	inv_car_religious	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16864	inv_car_silk	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16871	inv_car_spice	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16878	inv_car_town	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+16879	inv_car_water	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+1710	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_celtic	
+1714	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_celtic	
+17223	inv_rom_amber	rom_Roman			main_invasion
+17228	inv_rom_gold	rom_Roman			main_invasion
+17229	inv_rom_grain	rom_Roman			main_invasion
+17232	inv_rom_horse	rom_Roman			main_invasion
+1724	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_celtic	
+17240	inv_rom_iron	rom_Roman			main_invasion
+17244	inv_rom_lead	rom_Roman			main_invasion
+17250	inv_rom_leather	rom_Roman			main_invasion
+17258	inv_rom_lumber	rom_Roman			main_invasion
+1726	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_celtic	
+17263	inv_rom_marble	rom_Roman			main_invasion
+17272	inv_rom_olive	rom_Roman			main_invasion
+17281	inv_rom_purple_dye	rom_Roman			main_invasion
+17290	inv_rom_wine	rom_Roman			main_invasion
+17298	inv_rom_salt	rom_Roman			main_invasion
+1730	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_british	
+1736	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_british	
+1738	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_british	
+1748	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_british	
+1751	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_british	
+1755	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_british	
+1762	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_british	
+17696	inv_rom_amber			sc_rom_italic	main_invasion
+1770	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_british	
+17704	inv_rom_gold			sc_rom_italic	main_invasion
+17708	inv_rom_grain			sc_rom_italic	main_invasion
+17709	inv_rom_horse			sc_rom_italic	main_invasion
+17715	inv_rom_iron			sc_rom_italic	main_invasion
+17720	inv_rom_lead			sc_rom_italic	main_invasion
+17727	inv_rom_leather			sc_rom_italic	main_invasion
+17737	inv_rom_lumber			sc_rom_italic	main_invasion
+17746	inv_rom_marble			sc_rom_italic	main_invasion
+17747	inv_rom_olive			sc_rom_italic	main_invasion
+17753	inv_rom_purple_dye			sc_rom_italic	main_invasion
+17760	inv_rom_wine			sc_rom_italic	main_invasion
+17763	inv_rom_salt			sc_rom_italic	main_invasion
+1779	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_british	
+1786	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_british	
+1787	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_british	
+1793	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_british	
+17930	inv_barb_amber		inv_veneti		main_invasion
+17931	inv_barb_gold		inv_veneti		main_invasion
+17939	inv_barb_grain		inv_veneti		main_invasion
+17947	inv_barb_horse		inv_veneti		main_invasion
+17949	inv_barb_iron		inv_veneti		main_invasion
+17952	inv_barb_lead		inv_veneti		main_invasion
+17958	inv_barb_leather		inv_veneti		main_invasion
+17962	inv_barb_lumber		inv_veneti		main_invasion
+17967	inv_barb_marble		inv_veneti		main_invasion
+17969	inv_barb_olive		inv_veneti		main_invasion
+17971	inv_barb_purple_dye		inv_veneti		main_invasion
+17976	inv_barb_wine		inv_veneti		main_invasion
+17982	inv_barb_salt		inv_veneti		main_invasion
+17989	inv_barb_amber			sc_rom_nuragic	main_invasion
+17998	inv_barb_gold			sc_rom_nuragic	main_invasion
+18007	inv_barb_grain			sc_rom_nuragic	main_invasion
+18016	inv_barb_horse			sc_rom_nuragic	main_invasion
+18018	inv_barb_iron			sc_rom_nuragic	main_invasion
+18026	inv_barb_lead			sc_rom_nuragic	main_invasion
+18029	inv_barb_leather			sc_rom_nuragic	main_invasion
+18030	inv_barb_lumber			sc_rom_nuragic	main_invasion
+18033	inv_barb_marble			sc_rom_nuragic	main_invasion
+18043	inv_barb_olive			sc_rom_nuragic	main_invasion
+18051	inv_barb_purple_dye			sc_rom_nuragic	main_invasion
+18059	inv_barb_wine			sc_rom_nuragic	main_invasion
+1806	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_british	
+18065	inv_barb_salt			sc_rom_nuragic	main_invasion
+1808	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_british	
+1815	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_british	
+1818	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_british	
+1828	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_germanic	
+1838	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_germanic	
+1846	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_germanic	
+1850	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_germanic	
+1855	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_germanic	
+1871	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_germanic	
+1879	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_germanic	
+1889	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_germanic	
+1891	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_germanic	
+1898	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_germanic	
+1899	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_germanic	
+1908	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_germanic	
+19134	inv_gre_agriculture	rom_Hellenistic			main_invasion
+19136	inv_gre_city_centre	rom_Hellenistic			main_invasion
+19149	inv_gre_industry_major	rom_Hellenistic			main_invasion
+19161	inv_gre_major_town	rom_Hellenistic			main_invasion
+19169	inv_gre_military_buff	rom_Hellenistic			main_invasion
+19176	inv_gre_military_recruitment	rom_Hellenistic			main_invasion
+19179	inv_gre_minor_town	rom_Hellenistic			main_invasion
+19187	inv_gre_minor_town_centre	rom_Hellenistic			main_invasion
+19190	inv_gre_port	rom_Hellenistic			main_invasion
+19191	inv_gre_religious	rom_Hellenistic			main_invasion
+19199	inv_gre_sanitation	rom_Hellenistic			main_invasion
+19206	inv_greek_amber	rom_Hellenistic			main_invasion
+19208	inv_greek_gold	rom_Hellenistic			main_invasion
+19213	inv_greek_grain	rom_Hellenistic			main_invasion
+19221	inv_greek_horse	rom_Hellenistic			main_invasion
+19230	inv_greek_iron	rom_Hellenistic			main_invasion
+19232	inv_greek_lead	rom_Hellenistic			main_invasion
+1924	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_germanic	
+19240	inv_greek_leather	rom_Hellenistic			main_invasion
+19249	inv_greek_lumber	rom_Hellenistic			main_invasion
+1925	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_germanic	
+19252	inv_greek_marble	rom_Hellenistic			main_invasion
+19256	inv_greek_olive	rom_Hellenistic			main_invasion
+19262	inv_greek_purple_dye	rom_Hellenistic			main_invasion
+19271	inv_greek_salt	rom_Hellenistic			main_invasion
+19276	inv_greek_wine	rom_Hellenistic			main_invasion
+1928	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_germanic	
+19286	inv_gre_agriculture		inv_syracuse		main_invasion
+19291	inv_gre_city_centre		inv_syracuse		main_invasion
+19300	inv_gre_industry_major		inv_syracuse		main_invasion
+19307	inv_gre_major_town		inv_syracuse		main_invasion
+19316	inv_gre_military_buff		inv_syracuse		main_invasion
+19325	inv_gre_military_recruitment		inv_syracuse		main_invasion
+19330	inv_gre_minor_town		inv_syracuse		main_invasion
+19334	inv_gre_minor_town_centre		inv_syracuse		main_invasion
+19344	inv_gre_port		inv_syracuse		main_invasion
+19349	inv_gre_religious		inv_syracuse		main_invasion
+19358	inv_gre_sanitation		inv_syracuse		main_invasion
+19365	inv_greek_amber		inv_syracuse		main_invasion
+19366	inv_greek_gold		inv_syracuse		main_invasion
+19368	inv_greek_grain		inv_syracuse		main_invasion
+19378	inv_greek_horse		inv_syracuse		main_invasion
+1938	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_germanic	
+19384	inv_greek_iron		inv_syracuse		main_invasion
+19387	inv_greek_lead		inv_syracuse		main_invasion
+19388	inv_greek_leather		inv_syracuse		main_invasion
+19392	inv_greek_lumber		inv_syracuse		main_invasion
+19401	inv_greek_marble		inv_syracuse		main_invasion
+19408	inv_greek_olive		inv_syracuse		main_invasion
+19415	inv_greek_purple_dye		inv_syracuse		main_invasion
+19416	inv_greek_salt		inv_syracuse		main_invasion
+19426	inv_greek_wine		inv_syracuse		main_invasion
+19433	inv_gre_agriculture		inv_taranto		main_invasion
+19435	inv_gre_city_centre_taranto		inv_taranto		main_invasion
+19442	inv_gre_industry_major		inv_taranto		main_invasion
+19447	inv_gre_major_town		inv_taranto		main_invasion
+1945	rom_BARBARIAN_artisans_major	rom_Barbarian			
+19450	inv_gre_military_buff		inv_taranto		main_invasion
+19455	inv_gre_military_recruitment		inv_taranto		main_invasion
+19460	inv_gre_minor_town		inv_taranto		main_invasion
+19462	inv_gre_minor_town_centre		inv_taranto		main_invasion
+19470	inv_gre_port		inv_taranto		main_invasion
+19471	inv_gre_religious		inv_taranto		main_invasion
+19473	inv_gre_sanitation		inv_taranto		main_invasion
+19476	inv_greek_amber		inv_taranto		main_invasion
+19485	inv_greek_gold		inv_taranto		main_invasion
+19488	inv_greek_grain		inv_taranto		main_invasion
+19497	inv_greek_horse		inv_taranto		main_invasion
+19503	inv_greek_iron		inv_taranto		main_invasion
+19505	inv_greek_lead		inv_taranto		main_invasion
+19515	inv_greek_leather		inv_taranto		main_invasion
+19521	inv_greek_lumber		inv_taranto		main_invasion
+19525	inv_greek_marble		inv_taranto		main_invasion
+19530	inv_greek_olive		inv_taranto		main_invasion
+19538	inv_greek_purple_dye		inv_taranto		main_invasion
+19548	inv_greek_salt		inv_taranto		main_invasion
+19557	inv_greek_wine		inv_taranto		main_invasion
+1956	rom_BARBARIAN_commons	rom_Barbarian			
+19567	inv_new_etr_amber			sc_rom_etruscan	main_invasion
+19575	inv_new_etr_gold			sc_rom_etruscan	main_invasion
+19581	inv_new_etr_grain			sc_rom_etruscan	main_invasion
+19589	inv_new_etr_horse			sc_rom_etruscan	main_invasion
+19590	inv_new_etr_iron			sc_rom_etruscan	main_invasion
+19595	inv_new_etr_lead			sc_rom_etruscan	main_invasion
+19597	inv_new_etr_leather			sc_rom_etruscan	main_invasion
+1960	rom_BARBARIAN_enclosure	rom_Barbarian			
+19601	inv_new_etr_lumber			sc_rom_etruscan	main_invasion
+19602	inv_new_etr_main_administration			sc_rom_etruscan	main_invasion
+19606	inv_new_etr_main_agriculture			sc_rom_etruscan	main_invasion
+19608	inv_new_etr_main_city			sc_rom_etruscan	main_invasion
+19615	inv_new_etr_main_military			sc_rom_etruscan	main_invasion
+19620	inv_new_etr_port			sc_rom_etruscan	main_invasion
+19626	inv_new_etr_main_religion			sc_rom_etruscan	main_invasion
+19630	inv_new_etr_marble			sc_rom_etruscan	main_invasion
+19638	inv_new_etr_minor_agriculture			sc_rom_etruscan	main_invasion
+19644	inv_new_etr_minor_military			sc_rom_etruscan	main_invasion
+19650	inv_new_etr_minor_religion			sc_rom_etruscan	main_invasion
+19654	inv_new_etr_minor_town			sc_rom_etruscan	main_invasion
+1966	rom_BARBARIAN_port_major	rom_Barbarian			
+19663	inv_new_etr_olive			sc_rom_etruscan	main_invasion
+1967	rom_BARBARIAN_port_minor	rom_Barbarian			
+19670	inv_new_etr_purple_dye			sc_rom_etruscan	main_invasion
+19680	inv_new_etr_salt			sc_rom_etruscan	main_invasion
+19689	inv_new_etr_wine			sc_rom_etruscan	main_invasion
+19696	inv_greek_wine	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+19703	barb_mine		inv_veneti		main_invasion
+19707	barb_mine	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+19721	barb_mine		inv_taranto		main_invasion
+19726	barb_mine		inv_syracuse		main_invasion
+19732	barb_mine	rom_Hellenistic			main_invasion
+19744	barb_mine			sc_rom_nuragic	main_invasion
+19750	barb_mine			sc_rom_celtic	main_invasion
+19753	barb_mine			sc_rom_italic	main_invasion
+19762	3c_barb_dummy_resource	rom_Barbarian			main_invasion
+19771	3c_rom_dummy_resource	rom_Roman			main_invasion
+19778	3c_rom_dummy_resource	rom_Hellenistic			main_invasion
+1981	rom_EASTERN_port_minor	rom_Eastern			
+19819	inv_all_capitoline_hill		inv_veneti		main_invasion
+19828	inv_all_capitoline_hill	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+19831	inv_all_capitoline_hill		inv_taranto		main_invasion
+19832	inv_all_capitoline_hill		inv_syracuse		main_invasion
+19836	inv_all_capitoline_hill	rom_Hellenistic			main_invasion
+19844	inv_all_capitoline_hill			sc_rom_nuragic	main_invasion
+19851	inv_all_capitoline_hill			sc_rom_celtic	main_invasion
+19855	inv_all_capitoline_hill			sc_rom_italic	main_invasion
+19888	inv_all_carthago		inv_veneti		main_invasion
+19896	inv_all_carthago	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+19899	inv_all_carthago		inv_taranto		main_invasion
+19904	inv_all_carthago		inv_syracuse		main_invasion
+19910	inv_all_carthago	rom_Hellenistic			main_invasion
+19914	inv_all_carthago			sc_rom_nuragic	main_invasion
+19917	inv_all_carthago			sc_rom_celtic	main_invasion
+19925	inv_all_carthago			sc_rom_italic	main_invasion
+1994	rom_ROMAN_city_minor_fish	rom_Roman			
+19949	inv_all_carthago		inv_veneti		main_invasion
+19956	inv_all_carthago	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+19961	inv_all_carthago		inv_taranto		main_invasion
+19964	inv_all_carthago		inv_syracuse		main_invasion
+19966	inv_all_carthago	rom_Hellenistic			main_invasion
+19975	inv_all_carthago			sc_rom_nuragic	main_invasion
+1998	rom_ROMAN_city_minor_glass	rom_Roman			
+19984	inv_all_carthago			sc_rom_celtic	main_invasion
+1999	rom_ROMAN_city_minor_gold	rom_Roman			
+19992	inv_all_carthago			sc_rom_italic	main_invasion
+20021	inv_all_capitoline_hill		inv_veneti		main_invasion
+20029	inv_all_capitoline_hill	rom_Hellenistic		sc_rom_carthaginian	main_invasion
+20038	inv_all_capitoline_hill		inv_taranto		main_invasion
+20048	inv_all_capitoline_hill		inv_syracuse		main_invasion
+20051	inv_all_capitoline_hill	rom_Hellenistic			main_invasion
+20064	inv_all_capitoline_hill			sc_rom_nuragic	main_invasion
+2007	rom_ROMAN_city_minor_grain	rom_Roman			
+20073	inv_all_capitoline_hill			sc_rom_celtic	main_invasion
+20078	inv_all_capitoline_hill			sc_rom_italic	main_invasion
+20107	inv_rome_resource_building_drummy		inv_syracuse		main_invasion
+20117	inv_rome_resource_building_drummy		inv_taranto		main_invasion
+20123	inv_rome_resource_building_drummy		inv_veneti		main_invasion
+20150	inv_rome_resource_building_drummy			sc_rom_italic	main_invasion
+20157	inv_rome_resource_building_drummy			sc_rom_nuragic	main_invasion
+20159	inv_all_capitoline_hill			sc_rom_etruscan	main_invasion
+20163	inv_all_carthago			sc_rom_etruscan	main_invasion
+2019	rom_ROMAN_city_minor_hides	rom_Roman			
+2036	rom_ROMAN_city_minor_iron	rom_Roman			
+2045	rom_ROMAN_city_minor_limestone	rom_Roman			
+2048	rom_ROMAN_city_minor_marble	rom_Roman			
+2054	rom_ROMAN_city_minor_olives	rom_Roman			
+2065	rom_ROMAN_city_minor_purple_dye	rom_Roman			
+2072	rom_ROMAN_city_minor_silk	rom_Roman			
+2075	rom_ROMAN_city_minor_silver	rom_Roman			
+2091	rom_ROMAN_city_minor_timber	rom_Roman			
+2093	rom_ROMAN_city_minor_township	rom_Roman			
+2094	rom_ROMAN_city_minor_wine	rom_Roman			
+2095	rom_ROMAN_city_slot	rom_Roman			
+2098	rom_ROMAN_military_buff	rom_Roman			
+2099	rom_ROMAN_military_equipment	rom_Roman			
+2107	rom_ROMAN_military_main	rom_Roman			
+2116	rom_ROMAN_outskirts	rom_Roman			
+21173	inv_gre_agriculture		inv_syracuse_civil_war		main_invasion
+21182	inv_gre_city_centre		inv_syracuse_civil_war		main_invasion
+21191	inv_gre_industry_major		inv_syracuse_civil_war		main_invasion
+21199	inv_gre_major_town		inv_syracuse_civil_war		main_invasion
+21203	inv_gre_military_buff		inv_syracuse_civil_war		main_invasion
+21213	inv_gre_military_recruitment		inv_syracuse_civil_war		main_invasion
+21214	inv_gre_minor_town		inv_syracuse_civil_war		main_invasion
+21215	inv_gre_minor_town_centre		inv_syracuse_civil_war		main_invasion
+21225	inv_gre_port		inv_syracuse_civil_war		main_invasion
+21227	inv_gre_religious		inv_syracuse_civil_war		main_invasion
+21236	inv_gre_sanitation		inv_syracuse_civil_war		main_invasion
+21239	inv_greek_amber		inv_syracuse_civil_war		main_invasion
+21241	inv_greek_gold		inv_syracuse_civil_war		main_invasion
+21247	inv_greek_grain		inv_syracuse_civil_war		main_invasion
+21257	inv_greek_horse		inv_syracuse_civil_war		main_invasion
+21259	inv_greek_iron		inv_syracuse_civil_war		main_invasion
+21269	inv_greek_lead		inv_syracuse_civil_war		main_invasion
+21273	inv_greek_leather		inv_syracuse_civil_war		main_invasion
+21278	inv_greek_lumber		inv_syracuse_civil_war		main_invasion
+21279	inv_greek_marble		inv_syracuse_civil_war		main_invasion
+21282	inv_greek_olive		inv_syracuse_civil_war		main_invasion
+21289	inv_greek_purple_dye		inv_syracuse_civil_war		main_invasion
+21292	inv_greek_salt		inv_syracuse_civil_war		main_invasion
+21301	inv_greek_wine		inv_syracuse_civil_war		main_invasion
+21308	barb_mine		inv_syracuse_civil_war		main_invasion
+21312	inv_all_capitoline_hill		inv_syracuse_civil_war		main_invasion
+21314	inv_all_carthago		inv_syracuse_civil_war		main_invasion
+21318	inv_all_carthago		inv_syracuse_civil_war		main_invasion
+21327	inv_all_capitoline_hill		inv_syracuse_civil_war		main_invasion
+21331	inv_rome_resource_building_drummy		inv_syracuse_civil_war		main_invasion
+21333	inv_gre_agriculture		inv_syracuse_secession		main_invasion
+21338	inv_gre_city_centre		inv_syracuse_secession		main_invasion
+21340	inv_gre_industry_major		inv_syracuse_secession		main_invasion
+21347	inv_gre_major_town		inv_syracuse_secession		main_invasion
+21348	inv_gre_military_buff		inv_syracuse_secession		main_invasion
+21352	inv_gre_military_recruitment		inv_syracuse_secession		main_invasion
+21355	inv_gre_minor_town		inv_syracuse_secession		main_invasion
+21357	inv_gre_minor_town_centre		inv_syracuse_secession		main_invasion
+21358	inv_gre_port		inv_syracuse_secession		main_invasion
+21368	inv_gre_religious		inv_syracuse_secession		main_invasion
+2137	rom_ROMAN_sanitation	rom_Roman			
+21373	inv_gre_sanitation		inv_syracuse_secession		main_invasion
+21376	inv_greek_amber		inv_syracuse_secession		main_invasion
+21379	inv_greek_gold		inv_syracuse_secession		main_invasion
+21383	inv_greek_grain		inv_syracuse_secession		main_invasion
+21387	inv_greek_horse		inv_syracuse_secession		main_invasion
+21394	inv_greek_iron		inv_syracuse_secession		main_invasion
+21397	inv_greek_lead		inv_syracuse_secession		main_invasion
+21400	inv_greek_leather		inv_syracuse_secession		main_invasion
+21402	inv_greek_lumber		inv_syracuse_secession		main_invasion
+21407	inv_greek_marble		inv_syracuse_secession		main_invasion
+21415	inv_greek_olive		inv_syracuse_secession		main_invasion
+21416	inv_greek_purple_dye		inv_syracuse_secession		main_invasion
+21426	inv_greek_salt		inv_syracuse_secession		main_invasion
+21434	inv_greek_wine		inv_syracuse_secession		main_invasion
+21442	barb_mine		inv_syracuse_secession		main_invasion
+21444	inv_all_capitoline_hill		inv_syracuse_secession		main_invasion
+21447	inv_all_carthago		inv_syracuse_secession		main_invasion
+21449	inv_all_carthago		inv_syracuse_secession		main_invasion
+21459	inv_all_capitoline_hill		inv_syracuse_secession		main_invasion
+2146	rom_ROMAN_temple	rom_Roman			
+21464	inv_rome_resource_building_drummy		inv_syracuse_secession		main_invasion
+21472	inv_gre_agriculture		inv_taranto_civil_war		main_invasion
+21473	inv_gre_city_centre_taranto		inv_taranto_civil_war		main_invasion
+21481	inv_gre_industry_major		inv_taranto_civil_war		main_invasion
+21487	inv_gre_major_town		inv_taranto_civil_war		main_invasion
+21491	inv_gre_military_buff		inv_taranto_civil_war		main_invasion
+21492	inv_gre_military_recruitment		inv_taranto_civil_war		main_invasion
+21498	inv_gre_minor_town		inv_taranto_civil_war		main_invasion
+21504	inv_gre_minor_town_centre		inv_taranto_civil_war		main_invasion
+21512	inv_gre_port		inv_taranto_civil_war		main_invasion
+21518	inv_gre_religious		inv_taranto_civil_war		main_invasion
+21523	inv_gre_sanitation		inv_taranto_civil_war		main_invasion
+21533	inv_greek_amber		inv_taranto_civil_war		main_invasion
+21541	inv_greek_gold		inv_taranto_civil_war		main_invasion
+21549	inv_greek_grain		inv_taranto_civil_war		main_invasion
+21553	inv_greek_horse		inv_taranto_civil_war		main_invasion
+21560	inv_greek_iron		inv_taranto_civil_war		main_invasion
+21570	inv_greek_lead		inv_taranto_civil_war		main_invasion
+21571	inv_greek_leather		inv_taranto_civil_war		main_invasion
+21579	inv_greek_lumber		inv_taranto_civil_war		main_invasion
+21588	inv_greek_marble		inv_taranto_civil_war		main_invasion
+2159	rom_ROMAN_temple_minor	rom_Roman			
+21595	inv_greek_olive		inv_taranto_civil_war		main_invasion
+21596	inv_greek_purple_dye		inv_taranto_civil_war		main_invasion
+21603	inv_greek_salt		inv_taranto_civil_war		main_invasion
+21607	inv_greek_wine		inv_taranto_civil_war		main_invasion
+21610	barb_mine		inv_taranto_civil_war		main_invasion
+21611	inv_all_capitoline_hill		inv_taranto_civil_war		main_invasion
+21618	inv_all_carthago		inv_taranto_civil_war		main_invasion
+2162	rom_EASTERN_outskirts_minor	rom_Eastern			
+21622	inv_all_carthago		inv_taranto_civil_war		main_invasion
+21627	inv_all_capitoline_hill		inv_taranto_civil_war		main_invasion
+21628	inv_rome_resource_building_drummy		inv_taranto_civil_war		main_invasion
+21633	inv_ven_agriculture		inv_veneti_civil_war		main_invasion
+21638	inv_ven_military_recruitment		inv_veneti_civil_war		main_invasion
+2164	rom_EASTERN_buff	rom_Eastern			
+21644	inv_ven_military_industry		inv_veneti_civil_war		main_invasion
+21649	inv_ven_religious		inv_veneti_civil_war		main_invasion
+2165	rom_ROMAN_outskirts_minor	rom_Roman			
+21655	inv_ven_sanitation		inv_veneti_civil_war		main_invasion
+21664	inv_ven_city_centre		inv_veneti_civil_war		main_invasion
+21672	inv_ven_industry		inv_veneti_civil_war		main_invasion
+21679	inv_ven_port		inv_veneti_civil_war		main_invasion
+21681	inv_ven_minor_town		inv_veneti_civil_war		main_invasion
+21686	inv_ven_major_town		inv_veneti_civil_war		main_invasion
+21688	inv_barb_amber		inv_veneti_civil_war		main_invasion
+21698	inv_barb_gold		inv_veneti_civil_war		main_invasion
+21706	inv_barb_grain		inv_veneti_civil_war		main_invasion
+21711	inv_barb_horse		inv_veneti_civil_war		main_invasion
+21715	inv_barb_iron		inv_veneti_civil_war		main_invasion
+21724	inv_barb_lead		inv_veneti_civil_war		main_invasion
+21726	inv_barb_leather		inv_veneti_civil_war		main_invasion
+2173	rom_HELLENIC_temple_minor	rom_Hellenistic			
+21732	inv_barb_lumber		inv_veneti_civil_war		main_invasion
+21734	inv_barb_marble		inv_veneti_civil_war		main_invasion
+21739	inv_barb_olive		inv_veneti_civil_war		main_invasion
+21743	inv_barb_purple_dye		inv_veneti_civil_war		main_invasion
+21752	inv_barb_wine		inv_veneti_civil_war		main_invasion
+21755	inv_barb_salt		inv_veneti_civil_war		main_invasion
+21760	barb_mine		inv_veneti_civil_war		main_invasion
+21766	inv_all_capitoline_hill		inv_veneti_civil_war		main_invasion
+21770	inv_all_carthago		inv_veneti_civil_war		main_invasion
+21776	inv_all_carthago		inv_veneti_civil_war		main_invasion
+2178	rom_HELLENIC_outskirts_minor	rom_Hellenistic			
+21781	inv_all_capitoline_hill		inv_veneti_civil_war		main_invasion
+21782	inv_rome_resource_building_drummy		inv_veneti_civil_war		main_invasion
+21787	inv_ven_agriculture		inv_veneti_secession		main_invasion
+21797	inv_ven_military_recruitment		inv_veneti_secession		main_invasion
+21805	inv_ven_military_industry		inv_veneti_secession		main_invasion
+21813	inv_ven_religious		inv_veneti_secession		main_invasion
+21819	inv_ven_sanitation		inv_veneti_secession		main_invasion
+2182	rom_EASTERN_local_temple_minor	rom_Eastern			
+21824	inv_ven_city_centre		inv_veneti_secession		main_invasion
+21834	inv_ven_industry		inv_veneti_secession		main_invasion
+21842	inv_ven_port		inv_veneti_secession		main_invasion
+21847	inv_ven_minor_town		inv_veneti_secession		main_invasion
+21856	inv_ven_major_town		inv_veneti_secession		main_invasion
+21861	inv_barb_amber		inv_veneti_secession		main_invasion
+21866	inv_barb_gold		inv_veneti_secession		main_invasion
+21869	inv_barb_grain		inv_veneti_secession		main_invasion
+21874	inv_barb_horse		inv_veneti_secession		main_invasion
+21878	inv_barb_iron		inv_veneti_secession		main_invasion
+21879	inv_barb_lead		inv_veneti_secession		main_invasion
+21885	inv_barb_leather		inv_veneti_secession		main_invasion
+21892	inv_barb_lumber		inv_veneti_secession		main_invasion
+21899	inv_barb_marble		inv_veneti_secession		main_invasion
+2190	rom_BARBARIAN_enclosure_minor	rom_Barbarian			
+21902	inv_barb_olive		inv_veneti_secession		main_invasion
+21906	inv_barb_purple_dye		inv_veneti_secession		main_invasion
+21910	inv_barb_wine		inv_veneti_secession		main_invasion
+21911	inv_barb_salt		inv_veneti_secession		main_invasion
+21915	barb_mine		inv_veneti_secession		main_invasion
+21918	inv_all_capitoline_hill		inv_veneti_secession		main_invasion
+21927	inv_all_carthago		inv_veneti_secession		main_invasion
+21936	inv_all_carthago		inv_veneti_secession		main_invasion
+21941	inv_all_capitoline_hill		inv_veneti_secession		main_invasion
+21951	inv_rome_resource_building_drummy		inv_veneti_secession		main_invasion
+2196	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_celtic	
+21962	inv_new_barb_agriculture	rom_Barbarian			main_invasion
+21967	inv_barb_amber	rom_Barbarian			main_invasion
+21974	inv_new_barb_city_centre	rom_Barbarian			main_invasion
+21984	inv_barb_gold	rom_Barbarian			main_invasion
+21988	inv_barb_grain	rom_Barbarian			main_invasion
+21992	inv_barb_horse	rom_Barbarian			main_invasion
+21999	inv_barb_iron	rom_Barbarian			main_invasion
+2200	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_british	
+22000	inv_barb_lead	rom_Barbarian			main_invasion
+22001	inv_barb_leather	rom_Barbarian			main_invasion
+22006	inv_barb_lumber	rom_Barbarian			main_invasion
+2201	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_germanic	
+22014	inv_new_barb_minor_town	rom_Barbarian			main_invasion
+22024	inv_barb_marble	rom_Barbarian			main_invasion
+22048	inv_new_barb_city	rom_Barbarian			main_invasion
+22053	inv_barb_olive	rom_Barbarian			main_invasion
+22063	inv_new_barb_port	rom_Barbarian			main_invasion
+22066	inv_barb_purple_dye	rom_Barbarian			main_invasion
+22068	inv_new_barb_religious	rom_Barbarian			main_invasion
+22072	inv_barb_salt	rom_Barbarian			main_invasion
+22082	inv_new_barb_water	rom_Barbarian			main_invasion
+2209	rom_HELLENIC_city_major	rom_Hellenistic	rom_macedon		
+22090	inv_barb_wine	rom_Barbarian			main_invasion
+2213	rom_HELLENIC_city_slot	rom_Hellenistic	rom_macedon		
+2222	rom_HELLENIC_military_buff	rom_Hellenistic	rom_macedon		
+22257	inv_all_capitoline_hill	rom_Barbarian			main_invasion
+22260	inv_all_carthago	rom_Barbarian			main_invasion
+2232	rom_HELLENIC_military_equipment	rom_Hellenistic	rom_macedon		
+2242	rom_HELLENIC_military_main	rom_Hellenistic	rom_macedon		
+2245	rom_HELLENIC_outskirts	rom_Hellenistic			
+2246	rom_HELLENIC_port_major	rom_Hellenistic	rom_macedon		
+2247	rom_HELLENIC_port_minor	rom_Hellenistic	rom_macedon		
+2250	rom_HELLENIC_sanitation	rom_Hellenistic	rom_macedon		
+22546	inv_rom_agriculture			sc_rom_roman	main_invasion
+22550	inv_rom_capital			sc_rom_roman	main_invasion
+22557	inv_rom_city_centre			sc_rom_roman	main_invasion
+22566	inv_rom_industry_major			sc_rom_roman	main_invasion
+22575	inv_rom_military_buff			sc_rom_roman	main_invasion
+22585	inv_rom_military_recruitment			sc_rom_roman	main_invasion
+2259	rom_HELLENIC_temple	rom_Hellenistic	rom_macedon		
+22595	inv_rom_minor_town			sc_rom_roman	main_invasion
+22597	inv_rom_port			sc_rom_roman	main_invasion
+22599	inv_rom_religious			sc_rom_roman	main_invasion
+22608	inv_rom_sanitation			sc_rom_roman	main_invasion
+22612	inv_rom_town_centre			sc_rom_roman	main_invasion
+22617	inv_rom_amber			sc_rom_roman	main_invasion
+22623	inv_rom_gold			sc_rom_roman	main_invasion
+22627	inv_rom_grain			sc_rom_roman	main_invasion
+22630	inv_rom_horse			sc_rom_roman	main_invasion
+22639	inv_rom_iron			sc_rom_roman	main_invasion
+22645	inv_rom_lead			sc_rom_roman	main_invasion
+22655	inv_rom_leather			sc_rom_roman	main_invasion
+22664	inv_rom_lumber			sc_rom_roman	main_invasion
+2267	rom_HELLENIC_temple_minor	rom_Hellenistic	rom_macedon		
+22673	inv_rom_marble			sc_rom_roman	main_invasion
+2268	rom_HELLENIC_outskirts_minor_MACEDON	rom_Hellenistic	rom_macedon		
+22682	inv_rom_olive			sc_rom_roman	main_invasion
+22692	inv_rom_purple_dye			sc_rom_roman	main_invasion
+22697	inv_rom_wine			sc_rom_roman	main_invasion
+22702	inv_rom_salt			sc_rom_roman	main_invasion
+22705	barb_mine			sc_rom_roman	main_invasion
+22710	inv_all_capitoline_hill			sc_rom_roman	main_invasion
+22719	inv_all_carthago			sc_rom_roman	main_invasion
+22725	inv_all_carthago			sc_rom_roman	main_invasion
+22727	inv_all_capitoline_hill			sc_rom_roman	main_invasion
+22730	inv_rome_resource_building_drummy			sc_rom_roman	main_invasion
+22739	inv_rome_resource_building_drummy	rom_Barbarian			main_invasion
+22750	inv_new_barb_military_buff	rom_Barbarian			main_invasion
+22758	inv_new_barb_minor_industry	rom_Barbarian			main_invasion
+22759	inv_new_barb_industry	rom_Barbarian			main_invasion
+22761	inv_new_barb_military_recruitment	rom_Barbarian			main_invasion
+22763	inv_new_barb_agriculture_minor	rom_Barbarian			main_invasion
+22768	inv_new_etr_main_industry			sc_rom_etruscan	main_invasion
+2277	rom_HELLENIC_city_minor_olives	rom_Hellenistic	rom_macedon		
+22778	inv_new_etr_minor_industry			sc_rom_etruscan	main_invasion
+22784	greek_city	rom_Hellenistic			main_punic
+22788	greek_town	rom_Hellenistic			main_punic
+22790	greek_amber	rom_Hellenistic			main_punic
+22798	greek_glass	rom_Hellenistic			main_punic
+22802	greek_gold	rom_Hellenistic			main_punic
+22812	greek_grain	rom_Hellenistic			main_punic
+22820	greek_horse	rom_Hellenistic			main_punic
+22830	greek_iron	rom_Hellenistic			main_punic
+22833	greek_lead	rom_Hellenistic			main_punic
+22834	greek_leather	rom_Hellenistic			main_punic
+22835	greek_lumber	rom_Hellenistic			main_punic
+22843	greek_marble	rom_Hellenistic			main_punic
+22850	greek_olive	rom_Hellenistic			main_punic
+22855	greek_purple_dye	rom_Hellenistic			main_punic
+22858	greek_silk	rom_Hellenistic			main_punic
+22862	greek_wine	rom_Hellenistic			main_punic
+22867	greek_port	rom_Hellenistic			main_punic
+2287	rom_HELLENIC_city_minor_fish	rom_Hellenistic	rom_macedon		
+22875	greek_city_centre	rom_Hellenistic			main_punic
+22885	greek_military	rom_Hellenistic			main_punic
+22893	greek_military_siege	rom_Hellenistic			main_punic
+22899	greek_military_buff	rom_Hellenistic			main_punic
+22902	greek_industrial	rom_Hellenistic			main_punic
+22910	greek_water	rom_Hellenistic			main_punic
+22916	pun_greek_town_centre	rom_Hellenistic			main_punic
+22923	greek_agriculture	rom_Hellenistic			main_punic
+22926	greek_religious	rom_Hellenistic			main_punic
+2293	rom_HELLENIC_city_minor_glass	rom_Hellenistic	rom_macedon		
+22936	greek_city	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22938	greek_town	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22941	greek_amber	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22946	greek_glass	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22948	greek_gold	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22950	greek_grain	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22952	greek_horse	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22955	greek_iron	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22960	greek_lead	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22970	greek_leather	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22977	greek_lumber	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22978	greek_marble	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22980	greek_olive	rom_Hellenistic		sc_rom_carthaginian	main_punic
+22990	greek_purple_dye	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23000	greek_silk	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23006	greek_wine	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23009	greek_port	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23015	greek_city_centre	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23016	greek_military	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23018	greek_military_siege	rom_Hellenistic		sc_rom_carthaginian	main_punic
+2302	rom_HELLENIC_city_minor_gold	rom_Hellenistic	rom_macedon		
+23028	greek_military_buff	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23036	greek_industrial	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23039	greek_water	rom_Hellenistic		sc_rom_carthaginian	main_punic
+2304	rom_HELLENIC_city_minor_grain	rom_Hellenistic	rom_macedon		
+23043	pun_greek_town_centre	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23050	greek_agriculture	rom_Hellenistic		sc_rom_carthaginian	main_punic
+23059	greek_religious_punic	rom_Hellenistic		sc_rom_carthaginian	main_punic
+2307	rom_HELLENIC_city_minor_hides	rom_Hellenistic	rom_macedon		
+2309	rom_HELLENIC_city_minor_iron	rom_Hellenistic	rom_macedon		
+2313	rom_HELLENIC_city_minor_limestone	rom_Hellenistic	rom_macedon		
+2320	rom_HELLENIC_city_minor_marble	rom_Hellenistic	rom_macedon		
+2321	rom_HELLENIC_city_minor_purple_dye	rom_Hellenistic	rom_macedon		
+2323	rom_HELLENIC_city_minor_silk	rom_Hellenistic	rom_macedon		
+2325	rom_HELLENIC_city_minor_silver	rom_Hellenistic	rom_macedon		
+2326	rom_HELLENIC_city_minor_timber	rom_Hellenistic	rom_macedon		
+2330	rom_HELLENIC_city_minor_township	rom_Hellenistic	rom_macedon		
+2332	rom_HELLENIC_city_minor_wine	rom_Hellenistic	rom_macedon		
+2336	rom_HELLENIC_city_major	rom_Hellenistic	rom_ptolemaics		
+2337	rom_HELLENIC_city_slot	rom_Hellenistic	rom_ptolemaics		
+2346	rom_HELLENIC_military_buff	rom_Hellenistic	rom_ptolemaics		
+2355	rom_HELLENIC_military_equipment	rom_Hellenistic	rom_ptolemaics		
+2362	rom_HELLENIC_military_main	rom_Hellenistic	rom_ptolemaics		
+2372	rom_HELLENIC_outskirts	rom_Hellenistic	rom_ptolemaics		
+2377	rom_HELLENIC_port_major	rom_Hellenistic	rom_ptolemaics		
+2385	rom_HELLENIC_port_minor	rom_Hellenistic	rom_ptolemaics		
+2393	rom_HELLENIC_sanitation	rom_Hellenistic	rom_ptolemaics		
+2403	rom_HELLENIC_temple_PTOLEMAIC	rom_Hellenistic	rom_ptolemaics		
+2410	rom_HELLENIC_temple_minor_PTOLEMAIC	rom_Hellenistic	rom_ptolemaics		
+2415	rom_HELLENIC_outskirts_minor	rom_Hellenistic	rom_ptolemaics		
+2428	rom_HELLENIC_city_minor_olives	rom_Hellenistic	rom_ptolemaics		
+2431	rom_HELLENIC_city_minor_fish	rom_Hellenistic	rom_ptolemaics		
+2434	rom_HELLENIC_city_minor_glass	rom_Hellenistic	rom_ptolemaics		
+2444	rom_HELLENIC_city_minor_gold	rom_Hellenistic	rom_ptolemaics		
+2454	rom_HELLENIC_city_minor_grain	rom_Hellenistic	rom_ptolemaics		
+2461	rom_HELLENIC_city_minor_hides	rom_Hellenistic	rom_ptolemaics		
+2469	rom_HELLENIC_city_minor_iron	rom_Hellenistic	rom_ptolemaics		
+2479	rom_HELLENIC_city_minor_limestone	rom_Hellenistic	rom_ptolemaics		
+2483	rom_HELLENIC_city_minor_marble	rom_Hellenistic	rom_ptolemaics		
+2485	rom_HELLENIC_city_minor_purple_dye	rom_Hellenistic	rom_ptolemaics		
+2488	rom_HELLENIC_city_minor_silk	rom_Hellenistic	rom_ptolemaics		
+2497	rom_HELLENIC_city_minor_silver	rom_Hellenistic	rom_ptolemaics		
+2504	rom_HELLENIC_city_minor_timber	rom_Hellenistic	rom_ptolemaics		
+2514	rom_HELLENIC_city_minor_township	rom_Hellenistic	rom_ptolemaics		
+2523	rom_HELLENIC_city_minor_wine	rom_Hellenistic	rom_ptolemaics		
+2524	rom_HELLENIC_city_major	rom_Hellenistic		sc_rom_carthaginian	
+2526	rom_HELLENIC_city_slot	rom_Hellenistic		sc_rom_carthaginian	
+2531	rom_HELLENIC_military_buff	rom_Hellenistic		sc_rom_carthaginian	
+2534	rom_HELLENIC_military_equipment	rom_Hellenistic		sc_rom_carthaginian	
+2536	rom_HELLENIC_military_main_PUNIC	rom_Hellenistic		sc_rom_carthaginian	
+2539	rom_HELLENIC_outskirts	rom_Hellenistic		sc_rom_carthaginian	
+2547	rom_HELLENIC_port_major	rom_Hellenistic		sc_rom_carthaginian	
+2557	rom_HELLENIC_port_minor	rom_Hellenistic		sc_rom_carthaginian	
+2562	rom_HELLENIC_sanitation_PUNIC	rom_Hellenistic		sc_rom_carthaginian	
+2564	rom_HELLENIC_temple_PUNIC	rom_Hellenistic		sc_rom_carthaginian	
+2568	rom_HELLENIC_temple_minor_PUNIC	rom_Hellenistic		sc_rom_carthaginian	
+2578	rom_HELLENIC_outskirts_minor	rom_Hellenistic		sc_rom_carthaginian	
+2592	rom_HELLENIC_outskirts	rom_Hellenistic		sc_rom_carthaginian	
+2594	rom_HELLENIC_city_minor_olives	rom_Hellenistic		sc_rom_carthaginian	
+2597	rom_HELLENIC_city_minor_fish	rom_Hellenistic		sc_rom_carthaginian	
+2607	rom_HELLENIC_city_minor_glass	rom_Hellenistic		sc_rom_carthaginian	
+2616	rom_HELLENIC_city_minor_gold	rom_Hellenistic		sc_rom_carthaginian	
+2624	rom_HELLENIC_city_minor_grain	rom_Hellenistic		sc_rom_carthaginian	
+2632	rom_HELLENIC_city_minor_hides	rom_Hellenistic		sc_rom_carthaginian	
+2641	rom_HELLENIC_city_minor_iron	rom_Hellenistic		sc_rom_carthaginian	
+2643	rom_HELLENIC_city_minor_limestone	rom_Hellenistic		sc_rom_carthaginian	
+2646	rom_HELLENIC_city_minor_marble	rom_Hellenistic		sc_rom_carthaginian	
+2651	rom_HELLENIC_city_minor_purple_dye	rom_Hellenistic		sc_rom_carthaginian	
+2654	rom_HELLENIC_city_minor_silk	rom_Hellenistic		sc_rom_carthaginian	
+2663	rom_HELLENIC_city_minor_silver	rom_Hellenistic		sc_rom_carthaginian	
+2664	rom_HELLENIC_city_minor_timber	rom_Hellenistic		sc_rom_carthaginian	
+2666	rom_HELLENIC_city_minor_township	rom_Hellenistic		sc_rom_carthaginian	
+2676	rom_HELLENIC_city_minor_wine	rom_Hellenistic		sc_rom_carthaginian	
+2682	pro_ROMAN_city_major	rom_Roman	pro_rome		
+2686	pro_ROMAN_military_equipment	rom_Roman	pro_rome		
+2688	rom_ROMAN_city_minor_fish	rom_Roman	pro_rome		
+2697	rom_ROMAN_city_minor_glass	rom_Roman	pro_rome		
+2707	rom_ROMAN_city_minor_gold	rom_Roman	pro_rome		
+2709	rom_ROMAN_city_minor_grain	rom_Roman	pro_rome		
+2717	rom_ROMAN_city_minor_hides	rom_Roman	pro_rome		
+2723	rom_ROMAN_city_minor_iron	rom_Roman	pro_rome		
+2731	rom_ROMAN_city_minor_limestone	rom_Roman	pro_rome		
+2737	rom_ROMAN_city_minor_marble	rom_Roman	pro_rome		
+2744	rom_ROMAN_city_minor_olives	rom_Roman	pro_rome		
+2752	rom_ROMAN_city_minor_purple_dye	rom_Roman	pro_rome		
+2755	rom_ROMAN_city_minor_silk	rom_Roman	pro_rome		
+2761	rom_ROMAN_city_minor_silver	rom_Roman	pro_rome		
+2767	rom_ROMAN_city_minor_timber	rom_Roman	pro_rome		
+277	rom_ROMAN_city_minor_olives	rom_Roman			
+2774	rom_ROMAN_city_minor_township	rom_Roman	pro_rome		
+2781	rom_ROMAN_city_minor_wine	rom_Roman	pro_rome		
+2790	rom_ROMAN_city_slot	rom_Roman	pro_rome		
+2795	rom_ROMAN_military_buff	rom_Roman	pro_rome		
+2807	rom_ROMAN_military_main	rom_Roman	pro_rome		
+2818	rom_ROMAN_outskirts	rom_Roman	pro_rome		
+2823	rom_ROMAN_outskirts_minor	rom_Roman	pro_rome		
+2828	rom_ROMAN_port_major	rom_Roman	pro_rome		
+2832	rom_ROMAN_port_minor	rom_Roman	pro_rome		
+2839	rom_ROMAN_sanitation	rom_Roman	pro_rome		
+2843	rom_ROMAN_temple	rom_Roman	pro_rome		
+2853	rom_ROMAN_temple_minor	rom_Roman	pro_rome		
+2860	rom_Slum	rom_Roman	pro_rome		
+2865	rom_HELLENIC_outskirts	rom_Hellenistic	rom_macedon		
+2881	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_gaul	
+2885	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_celtiberian	
+2891	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_celtiberian	
+2892	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_gaul	
+2895	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_gaul	
+2896	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_gaul	
+2898	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_celtiberian	
+2900	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_celtiberian	
+2902	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_gaul	
+2905	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_celtiberian	
+2907	rom_BARBARIAN_religious_celtic	rom_Barbarian		sc_rom_gaul	
+2913	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_gaul	
+2919	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_celtiberian	
+2920	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_celtiberian	
+2921	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_celtiberian	
+2923	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_gaul	
+2928	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_celtiberian	
+2929	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_gaul	
+2934	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_gaul	
+2935	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_celtiberian	
+2936	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_gaul	
+2938	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_celtiberian	
+2941	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_celtiberian	
+2943	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_gaul	
+2951	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_celtiberian	
+2952	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_gaul	
+2954	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_celtiberian	
+2957	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_celtiberian	
+2959	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_gaul	
+296	rom_ROMAN_city_slot	rom_Roman			
+2960	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_gaul	
+2964	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_celtiberian	
+2965	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_gaul	
+2968	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_celtiberian	
+2974	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_gaul	
+2975	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_celtiberian	
+2977	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_celtiberian	
+2978	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_gaul	
+2982	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_celtiberian	
+2985	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_celtiberian	
+2987	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_gaul	
+2990	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_gaul	
+2994	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_gaul	
+2995	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_celtiberian	
+2999	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_gaul	
+3004	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_gaul	
+3005	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_gaul	
+3006	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_gaul	
+3013	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_gaul	
+3015	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_celtiberian	
+3023	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_celtiberian	
+3024	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_gaul	
+3025	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_gaul	
+3026	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_celtiberian	
+3028	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_celtiberian	
+303	rom_ROMAN_military_buff	rom_Roman			
+3031	rom_BARBARIAN_religious_celtic	rom_Barbarian		sc_rom_gaul	
+3032	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_gaul	
+3035	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_gaul	
+3036	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_gaul	
+3038	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_celtiberian	
+3043	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_gaul	
+3044	rom_BARBARIAN_religious_iberian	rom_Barbarian		sc_rom_celtiberian	
+3045	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_gaul	
+3048	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_celtiberian	
+3049	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_celtiberian	
+3050	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_gaul	
+3056	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_celtiberian	
+3058	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_gaul	
+3063	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_gaul	
+3065	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_celtiberian	
+3070	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_gaul	
+3074	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_celtiberian	
+3075	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_celtiberian	
+3077	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_celtiberian	
+3078	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_gaul	
+3079	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_celtiberian	
+3080	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_gaul	
+3081	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_gaul	
+3082	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_gaul	
+3085	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_celtiberian	
+3086	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_gaul	
+3091	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_celtiberian	
+3095	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_gaul	
+3096	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_celtiberian	
+310	rom_ROMAN_military_equipment	rom_Roman			
+3101	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_gaul	
+3102	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_gaul	
+3103	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_celtiberian	
+3109	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_celtiberian	
+3114	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_celtiberian	
+3120	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_celtiberian	
+3129	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_celtiberian	
+3132	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_celtiberian	
+320	rom_ROMAN_military_main	rom_Roman			
+322	rom_ROMAN_outskirts	rom_Roman			
+3286	rom_BARBARIAN_religious_celtic_minor	rom_Barbarian		sc_rom_celtic	
+3287	rom_BARBARIAN_religious_celtic_minor	rom_Barbarian		sc_rom_british	
+3292	rom_BARBARIAN_religious_germanic_minor	rom_Barbarian		sc_rom_germanic	
+3297	rom_BARBARIAN_religious_celtic_minor	rom_Barbarian		sc_rom_gaul	
+331	rom_ROMAN_temple	rom_Roman			
+3314	rom_BARBARIAN_religious_celtic_minor	rom_Barbarian		sc_rom_gaul	
+3322	rom_BARBARIAN_religious_iberian_minor	rom_Barbarian		sc_rom_celtiberian	
+334	rom_ROMAN_city_major	rom_Roman			
+3344	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_barb_east	
+3346	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_barb_east	
+3356	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_barb_east	
+3363	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_barb_east	
+3369	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_barb_east	
+3377	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_barb_east	
+3384	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_barb_east	
+3388	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_barb_east	
+3398	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_barb_east	
+3405	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_barb_east	
+3407	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_barb_east	
+3408	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_barb_east	
+3412	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_barb_east	
+3416	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_barb_east	
+3422	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_barb_east	
+3426	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_barb_east	
+3433	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_barb_east	
+3442	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_barb_east	
+3451	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_barb_east	
+3456	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_barb_east	
+3463	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_barb_east	
+3468	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_barb_east	
+3473	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_barb_east	
+3483	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_barb_east	
+3493	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_barb_east	
+3496	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_barb_east	
+3499	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_barb_east	
+3512	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_barb_east	
+3518	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_barb_east	
+3519	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_barb_east	
+3523	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_barb_east	
+3528	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_barb_east	
+3530	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_barb_east	
+3535	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_barb_east	
+3545	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_barb_east	
+3551	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_barb_east	
+3559	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_barb_east	
+3560	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_barb_east	
+3569	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_barb_east	
+3577	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_barb_east	
+3580	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_barb_east	
+3589	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_barb_east	
+3592	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_barb_east	
+3597	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_barb_east	
+36	rom_ROMAN_city_major	rom_Roman			
+3606	rom_BARBARIAN_religious_nomad	rom_Barbarian		sc_rom_barb_east	
+3613	rom_BARBARIAN_religious_nomad_minor	rom_Barbarian		sc_rom_barb_east	
+3622	rom_ALL_industry_minor	rom_Barbarian			
+3631	rom_ALL_industry_minor	rom_Eastern			
+3635	rom_ALL_industry_minor	rom_Hellenistic			
+3636	rom_ALL_industry_minor	rom_Roman			
+3645	rom_ALL_industry_minor	rom_Barbarian		sc_rom_germanic	
+3646	rom_ALL_industry_minor	rom_Barbarian		sc_rom_gaul	
+3651	rom_ALL_industry_minor	rom_Barbarian		sc_rom_celtic	
+3658	rom_ALL_industry_minor	rom_Barbarian		sc_rom_celtiberian	
+3667	rom_ALL_industry_minor	rom_Barbarian		sc_rom_british	
+3675	rom_ALL_industry_minor	rom_Barbarian		sc_rom_barb_east	
+3678	rom_ALL_industry_minor	rom_Hellenistic	rom_ptolemaics		
+3692	rom_ALL_industry_minor	rom_Hellenistic	rom_macedon		
+3696	rom_ALL_industry_minor	rom_Hellenistic		sc_rom_carthaginian	
+3703	rom_ALL_industry_minor	rom_Roman	pro_rome		
+3727	rom_ROMAN_port_major	rom_Roman			main_punic
+3737	rom_ROMAN_city_slot	rom_Roman			main_punic
+3742	rom_ROMAN_military_buff	rom_Roman			main_punic
+3752	rom_ROMAN_military_equipment	rom_Roman			main_punic
+3766	rom_ROMAN_outskirts	rom_Roman			main_punic
+3774	rom_ROMAN_temple	rom_Roman			main_punic
+3787	rom_ROMAN_port_minor	rom_Roman			main_punic
+3792	rom_ROMAN_city_minor_olives	rom_Roman			main_punic
+3832	rom_ROMAN_city_major	rom_Roman			main_punic
+3835	rom_ROMAN_city_minor_fish	rom_Roman			main_punic
+3837	rom_ROMAN_city_minor_glass	rom_Roman			main_punic
+3842	rom_ROMAN_city_minor_gold	rom_Roman			main_punic
+3849	rom_ROMAN_city_minor_grain	rom_Roman			main_punic
+3857	rom_ROMAN_city_minor_hides	rom_Roman			main_punic
+3862	rom_ROMAN_city_minor_iron	rom_Roman			main_punic
+3865	rom_ROMAN_city_minor_limestone	rom_Roman			main_punic
+3869	rom_ROMAN_city_minor_marble	rom_Roman			main_punic
+3870	rom_ROMAN_city_minor_purple_dye	rom_Roman			main_punic
+3874	rom_ROMAN_city_minor_silk	rom_Roman			main_punic
+3881	rom_ROMAN_city_minor_silver	rom_Roman			main_punic
+3890	rom_ROMAN_city_minor_timber	rom_Roman			main_punic
+3892	rom_ROMAN_city_minor_township	rom_Roman			main_punic
+3897	rom_ROMAN_city_minor_wine	rom_Roman			main_punic
+3901	rom_ROMAN_sanitation	rom_Roman			main_punic
+4023	pun_ROMAN_military_main	rom_Roman			main_punic
+4050	rom_ROMAN_temple_minor	rom_Roman			main_punic
+4058	rom_ROMAN_outskirts_minor	rom_Roman			main_punic
+4062	rom_ALL_industry_minor	rom_Roman			main_punic
+4069	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_illyrian	
+4077	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_illyrian	
+4085	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_illyrian	
+4095	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_illyrian	
+4104	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_illyrian	
+4114	rom_BARBARIAN_religious_illyrian	rom_Barbarian		sc_rom_illyrian	
+412	rom_ROMAN_city_minor_fish	rom_Roman			
+4122	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_illyrian	
+4131	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_illyrian	
+4140	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_illyrian	
+4147	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_illyrian	
+4155	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_illyrian	
+4164	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_illyrian	
+4169	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_illyrian	
+4171	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_illyrian	
+4178	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_illyrian	
+4184	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_illyrian	
+4186	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_illyrian	
+4188	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_illyrian	
+4189	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_illyrian	
+4198	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_illyrian	
+4207	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_illyrian	
+4208	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_illyrian	
+4214	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_illyrian	
+4223	rom_BARBARIAN_religious_illyrian_minor	rom_Barbarian		sc_rom_illyrian	
+4227	rom_ALL_industry_minor	rom_Barbarian		sc_rom_illyrian	
+4231	rom_BARBARIAN_artisans_major	rom_Barbarian		sc_rom_daco_thracian	
+4236	rom_BARBARIAN_commons	rom_Barbarian		sc_rom_daco_thracian	
+4240	rom_BARBARIAN_enclosure	rom_Barbarian		sc_rom_daco_thracian	
+4244	rom_BARBARIAN_port_major	rom_Barbarian		sc_rom_daco_thracian	
+425	rom_ROMAN_city_minor_glass	rom_Roman			
+4252	rom_BARBARIAN_port_minor	rom_Barbarian		sc_rom_daco_thracian	
+4255	rom_BARBARIAN_religious_dacian	rom_Barbarian		sc_rom_daco_thracian	
+4264	rom_BARBARIAN_city_minor_olives	rom_Barbarian		sc_rom_daco_thracian	
+4265	rom_BARBARIAN_city_minor_fish	rom_Barbarian		sc_rom_daco_thracian	
+4272	rom_BARBARIAN_city_minor_glass	rom_Barbarian		sc_rom_daco_thracian	
+4280	rom_BARBARIAN_city_minor_gold	rom_Barbarian		sc_rom_daco_thracian	
+4282	rom_BARBARIAN_city_minor_grain	rom_Barbarian		sc_rom_daco_thracian	
+4291	rom_BARBARIAN_city_minor_hides	rom_Barbarian		sc_rom_daco_thracian	
+4295	rom_BARBARIAN_city_minor_iron	rom_Barbarian		sc_rom_daco_thracian	
+4305	rom_BARBARIAN_city_minor_limestone	rom_Barbarian		sc_rom_daco_thracian	
+4314	rom_BARBARIAN_city_minor_marble	rom_Barbarian		sc_rom_daco_thracian	
+4316	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian		sc_rom_daco_thracian	
+4326	rom_BARBARIAN_city_minor_silk	rom_Barbarian		sc_rom_daco_thracian	
+4329	rom_BARBARIAN_city_minor_silver	rom_Barbarian		sc_rom_daco_thracian	
+4338	rom_BARBARIAN_city_minor_timber	rom_Barbarian		sc_rom_daco_thracian	
+4342	rom_BARBARIAN_city_minor_township	rom_Barbarian		sc_rom_daco_thracian	
+4351	rom_BARBARIAN_city_minor_wine	rom_Barbarian		sc_rom_daco_thracian	
+4358	rom_BARBARIAN_city_major	rom_Barbarian		sc_rom_daco_thracian	
+4365	rom_BARBARIAN_enclosure_minor	rom_Barbarian		sc_rom_daco_thracian	
+4367	rom_BARBARIAN_religious_dacian_minor	rom_Barbarian		sc_rom_daco_thracian	
+4376	rom_ALL_industry_minor	rom_Barbarian		sc_rom_daco_thracian	
+4379	rom_BARBARIAN_artisans_major	rom_Barbarian	rom_odryssia		
+4383	rom_BARBARIAN_commons	rom_Barbarian	rom_odryssia		
+4388	rom_BARBARIAN_enclosure	rom_Barbarian	rom_odryssia		
+4392	rom_BARBARIAN_port_major	rom_Barbarian	rom_odryssia		
+4402	rom_BARBARIAN_port_minor	rom_Barbarian	rom_odryssia		
+4411	rom_BARBARIAN_religious_thracian	rom_Barbarian	rom_odryssia		
+4413	rom_BARBARIAN_city_minor_olives	rom_Barbarian	rom_odryssia		
+4416	rom_BARBARIAN_city_minor_fish	rom_Barbarian	rom_odryssia		
+4419	rom_BARBARIAN_city_minor_glass	rom_Barbarian	rom_odryssia		
+4427	rom_BARBARIAN_city_minor_gold	rom_Barbarian	rom_odryssia		
+4428	rom_BARBARIAN_city_minor_grain	rom_Barbarian	rom_odryssia		
+4429	rom_BARBARIAN_city_minor_hides	rom_Barbarian	rom_odryssia		
+4433	rom_BARBARIAN_city_minor_iron	rom_Barbarian	rom_odryssia		
+4439	rom_BARBARIAN_city_minor_limestone	rom_Barbarian	rom_odryssia		
+4449	rom_BARBARIAN_city_minor_marble	rom_Barbarian	rom_odryssia		
+4457	rom_BARBARIAN_city_minor_purple_dye	rom_Barbarian	rom_odryssia		
+4458	rom_BARBARIAN_city_minor_silk	rom_Barbarian	rom_odryssia		
+4468	rom_BARBARIAN_city_minor_silver	rom_Barbarian	rom_odryssia		
+4473	rom_BARBARIAN_city_minor_timber	rom_Barbarian	rom_odryssia		
+4475	rom_BARBARIAN_city_minor_township	rom_Barbarian	rom_odryssia		
+4484	rom_BARBARIAN_city_minor_wine	rom_Barbarian	rom_odryssia		
+4493	rom_BARBARIAN_city_major	rom_Barbarian	rom_odryssia		
+4502	rom_BARBARIAN_enclosure_minor	rom_Barbarian	rom_odryssia		
+4508	rom_BARBARIAN_religious_thracian_minor	rom_Barbarian	rom_odryssia		
+4518	rom_ALL_industry_minor	rom_Barbarian	rom_odryssia		
+4524	barb_city	rom_Barbarian			
+453	rom_ROMAN_city_minor_gold	rom_Roman			
+4533	barb_town	rom_Barbarian			
+4539	barb_amber	rom_Barbarian			
+4549	barb_glass	rom_Barbarian			
+4559	barb_gold	rom_Barbarian			
+4562	barb_grain	rom_Barbarian			
+4569	barb_horse	rom_Barbarian			
+4571	barb_iron	rom_Barbarian			
+4581	barb_lead	rom_Barbarian			
+4587	barb_leather	rom_Barbarian			
+4595	barb_lumber	rom_Barbarian			
+4596	barb_marble	rom_Barbarian			
+4597	barb_olive	rom_Barbarian			
+4601	barb_purple_dye	rom_Barbarian			
+4603	barb_silk	rom_Barbarian			
+4612	barb_wine	rom_Barbarian			
+4619	barb_mine	rom_Barbarian			
+4629	barb_port	rom_Barbarian			
+4639	barb_commons	rom_Barbarian			
+4648	barb_military_buff	rom_Barbarian			
+465	rom_ROMAN_city_minor_grain	rom_Roman			
+4654	barb_artisan	rom_Barbarian			
+4657	barb_craftsmen	rom_Barbarian			
+4663	barb_agriculture	rom_Barbarian			
+4665	barb_water	rom_Barbarian			
+4674	barb_religious	rom_Barbarian			
+4676	barb_city	rom_Barbarian		sc_rom_british	
+4682	barb_town	rom_Barbarian		sc_rom_british	
+4692	barb_amber	rom_Barbarian		sc_rom_british	
+4695	barb_glass	rom_Barbarian		sc_rom_british	
+4700	barb_gold	rom_Barbarian		sc_rom_british	
+4708	barb_grain	rom_Barbarian		sc_rom_british	
+4715	barb_horse	rom_Barbarian		sc_rom_british	
+4720	barb_iron	rom_Barbarian		sc_rom_british	
+4727	barb_lead	rom_Barbarian		sc_rom_british	
+4729	barb_leather	rom_Barbarian		sc_rom_british	
+4731	barb_lumber	rom_Barbarian		sc_rom_british	
+4734	barb_marble	rom_Barbarian		sc_rom_british	
+4740	barb_olive	rom_Barbarian		sc_rom_british	
+4749	barb_purple_dye	rom_Barbarian		sc_rom_british	
+4755	barb_silk	rom_Barbarian		sc_rom_british	
+4758	barb_wine	rom_Barbarian		sc_rom_british	
+4759	barb_mine	rom_Barbarian		sc_rom_british	
+4767	barb_port	rom_Barbarian		sc_rom_british	
+4773	barb_commons	rom_Barbarian		sc_rom_british	
+4776	barb_military_buff	rom_Barbarian		sc_rom_british	
+4780	barb_artisan	rom_Barbarian		sc_rom_british	
+4783	barb_craftsmen	rom_Barbarian		sc_rom_british	
+4792	barb_agriculture	rom_Barbarian		sc_rom_british	
+4793	barb_water	rom_Barbarian		sc_rom_british	
+4794	barb_religious_briton	rom_Barbarian		sc_rom_british	
+4801	barb_city	rom_Barbarian		sc_rom_daco_thracian	
+4806	barb_town	rom_Barbarian		sc_rom_daco_thracian	
+4811	barb_amber	rom_Barbarian		sc_rom_daco_thracian	
+4821	barb_glass	rom_Barbarian		sc_rom_daco_thracian	
+4822	barb_gold	rom_Barbarian		sc_rom_daco_thracian	
+4829	barb_grain	rom_Barbarian		sc_rom_daco_thracian	
+4837	barb_horse	rom_Barbarian		sc_rom_daco_thracian	
+4841	barb_iron	rom_Barbarian		sc_rom_daco_thracian	
+4847	barb_lead	rom_Barbarian		sc_rom_daco_thracian	
+4848	barb_leather	rom_Barbarian		sc_rom_daco_thracian	
+4856	barb_lumber	rom_Barbarian		sc_rom_daco_thracian	
+4864	barb_marble	rom_Barbarian		sc_rom_daco_thracian	
+4871	barb_olive	rom_Barbarian		sc_rom_daco_thracian	
+4880	barb_purple_dye	rom_Barbarian		sc_rom_daco_thracian	
+4886	barb_silk	rom_Barbarian		sc_rom_daco_thracian	
+4891	barb_wine	rom_Barbarian		sc_rom_daco_thracian	
+4900	barb_mine	rom_Barbarian		sc_rom_daco_thracian	
+4905	barb_port	rom_Barbarian		sc_rom_daco_thracian	
+4913	barb_commons	rom_Barbarian		sc_rom_daco_thracian	
+4918	barb_military_buff	rom_Barbarian		sc_rom_daco_thracian	
+4926	barb_artisan	rom_Barbarian		sc_rom_daco_thracian	
+4934	barb_craftsmen	rom_Barbarian		sc_rom_daco_thracian	
+4938	barb_agriculture	rom_Barbarian		sc_rom_daco_thracian	
+4943	barb_water	rom_Barbarian		sc_rom_daco_thracian	
+4946	barb_religious_dacian	rom_Barbarian		sc_rom_daco_thracian	
+4949	barb_city	rom_Barbarian		sc_rom_gaul	
+4955	barb_town	rom_Barbarian		sc_rom_gaul	
+4956	barb_amber	rom_Barbarian		sc_rom_gaul	
+4961	barb_glass	rom_Barbarian		sc_rom_gaul	
+4963	barb_gold	rom_Barbarian		sc_rom_gaul	
+4966	barb_grain	rom_Barbarian		sc_rom_gaul	
+4975	barb_horse	rom_Barbarian		sc_rom_gaul	
+4985	barb_iron	rom_Barbarian		sc_rom_gaul	
+4988	barb_lead	rom_Barbarian		sc_rom_gaul	
+4991	barb_leather	rom_Barbarian		sc_rom_gaul	
+5000	barb_lumber	rom_Barbarian		sc_rom_gaul	
+5010	barb_marble	rom_Barbarian		sc_rom_gaul	
+5016	barb_olive	rom_Barbarian		sc_rom_gaul	
+5025	barb_purple_dye	rom_Barbarian		sc_rom_gaul	
+5028	barb_silk	rom_Barbarian		sc_rom_gaul	
+503	rom_ROMAN_city_minor_hides	rom_Roman			
+5035	barb_wine	rom_Barbarian		sc_rom_gaul	
+5038	barb_mine	rom_Barbarian		sc_rom_gaul	
+5039	barb_port	rom_Barbarian		sc_rom_gaul	
+5048	barb_commons	rom_Barbarian		sc_rom_gaul	
+5050	barb_military_buff	rom_Barbarian		sc_rom_gaul	
+5053	barb_artisan	rom_Barbarian		sc_rom_gaul	
+5057	barb_craftsmen	rom_Barbarian		sc_rom_gaul	
+5059	barb_agriculture	rom_Barbarian		sc_rom_gaul	
+5063	barb_water	rom_Barbarian		sc_rom_gaul	
+5070	barb_religious_gaul	rom_Barbarian		sc_rom_gaul	
+5080	barb_city	rom_Barbarian		sc_rom_germanic	
+5083	barb_town	rom_Barbarian		sc_rom_germanic	
+5084	barb_amber	rom_Barbarian		sc_rom_germanic	
+5091	barb_glass	rom_Barbarian		sc_rom_germanic	
+5094	barb_gold	rom_Barbarian		sc_rom_germanic	
+5098	barb_grain	rom_Barbarian		sc_rom_germanic	
+5105	barb_horse	rom_Barbarian		sc_rom_germanic	
+5113	barb_iron	rom_Barbarian		sc_rom_germanic	
+5121	barb_lead	rom_Barbarian		sc_rom_germanic	
+5129	barb_leather	rom_Barbarian		sc_rom_germanic	
+5137	barb_lumber	rom_Barbarian		sc_rom_germanic	
+5140	barb_marble	rom_Barbarian		sc_rom_germanic	
+5142	barb_olive	rom_Barbarian		sc_rom_germanic	
+5151	barb_purple_dye	rom_Barbarian		sc_rom_germanic	
+5159	barb_silk	rom_Barbarian		sc_rom_germanic	
+5168	barb_wine	rom_Barbarian		sc_rom_germanic	
+5175	barb_mine	rom_Barbarian		sc_rom_germanic	
+5182	barb_port	rom_Barbarian		sc_rom_germanic	
+5187	barb_commons	rom_Barbarian		sc_rom_germanic	
+5191	barb_military_buff	rom_Barbarian		sc_rom_germanic	
+5192	barb_artisan	rom_Barbarian		sc_rom_germanic	
+5193	barb_craftsmen	rom_Barbarian		sc_rom_germanic	
+5202	barb_agriculture	rom_Barbarian		sc_rom_germanic	
+5205	barb_water	rom_Barbarian		sc_rom_germanic	
+5209	barb_religious_german	rom_Barbarian		sc_rom_germanic	
+5218	barb_city	rom_Barbarian		sc_rom_celtiberian	
+5221	barb_town	rom_Barbarian		sc_rom_celtiberian	
+5227	barb_amber	rom_Barbarian		sc_rom_celtiberian	
+5233	barb_glass	rom_Barbarian		sc_rom_celtiberian	
+5239	barb_gold	rom_Barbarian		sc_rom_celtiberian	
+5248	barb_grain	rom_Barbarian		sc_rom_celtiberian	
+5257	barb_horse	rom_Barbarian		sc_rom_celtiberian	
+5258	barb_iron	rom_Barbarian		sc_rom_celtiberian	
+5266	barb_lead	rom_Barbarian		sc_rom_celtiberian	
+5273	barb_leather	rom_Barbarian		sc_rom_celtiberian	
+5278	barb_lumber	rom_Barbarian		sc_rom_celtiberian	
+5281	barb_marble	rom_Barbarian		sc_rom_celtiberian	
+5286	barb_olive	rom_Barbarian		sc_rom_celtiberian	
+5291	barb_purple_dye	rom_Barbarian		sc_rom_celtiberian	
+53	rom_Slum				
+5300	barb_silk	rom_Barbarian		sc_rom_celtiberian	
+5309	barb_wine	rom_Barbarian		sc_rom_celtiberian	
+531	rom_ROMAN_city_minor_iron	rom_Roman			
+5314	barb_mine	rom_Barbarian		sc_rom_celtiberian	
+5322	barb_port	rom_Barbarian		sc_rom_celtiberian	
+5326	barb_commons	rom_Barbarian		sc_rom_celtiberian	
+5333	barb_military_buff	rom_Barbarian		sc_rom_celtiberian	
+5334	barb_artisan	rom_Barbarian		sc_rom_celtiberian	
+5336	barb_craftsmen	rom_Barbarian		sc_rom_celtiberian	
+5343	barb_agriculture	rom_Barbarian		sc_rom_celtiberian	
+5344	barb_water	rom_Barbarian		sc_rom_celtiberian	
+5349	barb_religious_iberian	rom_Barbarian		sc_rom_celtiberian	
+5355	barb_city	rom_Barbarian		sc_rom_illyrian	
+5356	barb_town	rom_Barbarian		sc_rom_illyrian	
+5364	barb_amber	rom_Barbarian		sc_rom_illyrian	
+5373	barb_glass	rom_Barbarian		sc_rom_illyrian	
+5380	barb_gold	rom_Barbarian		sc_rom_illyrian	
+5387	barb_grain	rom_Barbarian		sc_rom_illyrian	
+5390	barb_horse	rom_Barbarian		sc_rom_illyrian	
+5393	barb_iron	rom_Barbarian		sc_rom_illyrian	
+5398	barb_lead	rom_Barbarian		sc_rom_illyrian	
+5407	barb_leather	rom_Barbarian		sc_rom_illyrian	
+5411	barb_lumber	rom_Barbarian		sc_rom_illyrian	
+5416	barb_marble	rom_Barbarian		sc_rom_illyrian	
+5424	barb_olive	rom_Barbarian		sc_rom_illyrian	
+5430	barb_purple_dye	rom_Barbarian		sc_rom_illyrian	
+5440	barb_silk	rom_Barbarian		sc_rom_illyrian	
+5450	barb_wine	rom_Barbarian		sc_rom_illyrian	
+5457	barb_mine	rom_Barbarian		sc_rom_illyrian	
+5467	barb_port	rom_Barbarian		sc_rom_illyrian	
+5468	barb_commons	rom_Barbarian		sc_rom_illyrian	
+5474	barb_military_buff	rom_Barbarian		sc_rom_illyrian	
+5483	barb_artisan	rom_Barbarian		sc_rom_illyrian	
+5485	barb_craftsmen	rom_Barbarian		sc_rom_illyrian	
+5495	barb_agriculture	rom_Barbarian		sc_rom_illyrian	
+550	rom_ROMAN_city_minor_limestone	rom_Roman			
+5503	barb_water	rom_Barbarian		sc_rom_illyrian	
+5511	barb_religious_illyrian	rom_Barbarian		sc_rom_illyrian	
+5519	barb_city	rom_Barbarian		sc_rom_barb_east	
+5521	barb_town	rom_Barbarian		sc_rom_barb_east	
+5529	barb_amber	rom_Barbarian		sc_rom_barb_east	
+5536	barb_glass	rom_Barbarian		sc_rom_barb_east	
+5543	barb_gold	rom_Barbarian		sc_rom_barb_east	
+5551	barb_grain	rom_Barbarian		sc_rom_barb_east	
+5553	barb_horse	rom_Barbarian		sc_rom_barb_east	
+5561	barb_iron	rom_Barbarian		sc_rom_barb_east	
+5563	barb_lead	rom_Barbarian		sc_rom_barb_east	
+5572	barb_leather	rom_Barbarian		sc_rom_barb_east	
+5573	barb_lumber	rom_Barbarian		sc_rom_barb_east	
+5579	barb_marble	rom_Barbarian		sc_rom_barb_east	
+5589	barb_olive	rom_Barbarian		sc_rom_barb_east	
+5598	barb_purple_dye	rom_Barbarian		sc_rom_barb_east	
+5601	barb_silk	rom_Barbarian		sc_rom_barb_east	
+5606	barb_wine	rom_Barbarian		sc_rom_barb_east	
+5612	barb_mine	rom_Barbarian		sc_rom_barb_east	
+5620	barb_port	rom_Barbarian		sc_rom_barb_east	
+5627	barb_commons_nomad	rom_Barbarian		sc_rom_barb_east	
+5631	barb_military_buff	rom_Barbarian		sc_rom_barb_east	
+5641	barb_artisan	rom_Barbarian		sc_rom_barb_east	
+5643	barb_craftsmen	rom_Barbarian		sc_rom_barb_east	
+5648	barb_agriculture_nomad	rom_Barbarian		sc_rom_barb_east	
+5654	barb_water	rom_Barbarian		sc_rom_barb_east	
+5661	barb_religious_nomad	rom_Barbarian		sc_rom_barb_east	
+5671	barb_city	rom_Barbarian	rom_odryssia		
+568	rom_ROMAN_city_minor_marble	rom_Roman			
+5680	barb_town	rom_Barbarian	rom_odryssia		
+5681	barb_amber	rom_Barbarian	rom_odryssia		
+5690	barb_glass	rom_Barbarian	rom_odryssia		
+5692	barb_gold	rom_Barbarian	rom_odryssia		
+5698	barb_grain	rom_Barbarian	rom_odryssia		
+5700	barb_horse	rom_Barbarian	rom_odryssia		
+5704	barb_iron	rom_Barbarian	rom_odryssia		
+5706	barb_lead	rom_Barbarian	rom_odryssia		
+5714	barb_leather	rom_Barbarian	rom_odryssia		
+5722	barb_lumber	rom_Barbarian	rom_odryssia		
+5724	barb_marble	rom_Barbarian	rom_odryssia		
+5728	barb_olive	rom_Barbarian	rom_odryssia		
+5732	barb_purple_dye	rom_Barbarian	rom_odryssia		
+5739	barb_silk	rom_Barbarian	rom_odryssia		
+5744	barb_wine	rom_Barbarian	rom_odryssia		
+5753	barb_mine	rom_Barbarian	rom_odryssia		
+5760	barb_port	rom_Barbarian	rom_odryssia		
+5766	barb_commons	rom_Barbarian	rom_odryssia		
+5768	barb_military_buff	rom_Barbarian	rom_odryssia		
+5777	barb_artisan	rom_Barbarian	rom_odryssia		
+5780	barb_craftsmen	rom_Barbarian	rom_odryssia		
+5788	barb_agriculture	rom_Barbarian	rom_odryssia		
+5793	barb_water	rom_Barbarian	rom_odryssia		
+5801	barb_religious_thrace	rom_Barbarian	rom_odryssia		
+5810	east_city	rom_Eastern			
+5811	east_town	rom_Eastern			
+5816	east_amber	rom_Eastern			
+5823	east_glass	rom_Eastern			
+5832	east_gold	rom_Eastern			
+5841	east_grain	rom_Eastern			
+5851	east_horse	rom_Eastern			
+5861	east_iron	rom_Eastern			
+5868	east_lead	rom_Eastern			
+5876	east_leather	rom_Eastern			
+5879	east_lumber	rom_Eastern			
+5887	east_marble	rom_Eastern			
+5895	east_olive	rom_Eastern			
+5897	east_purple_dye	rom_Eastern			
+5900	east_silk	rom_Eastern			
+5903	east_wine	rom_Eastern			
+5913	barb_mine	rom_Eastern			
+5919	east_port	rom_Eastern			
+5925	east_city_centre	rom_Eastern			
+5928	east_military_infantry	rom_Eastern			
+5938	east_military_stables	rom_Eastern			
+5946	east_military_siege	rom_Eastern			
+5950	east_military_buff	rom_Eastern			
+5958	east_industry	rom_Eastern			
+5961	east_water	rom_Eastern			
+5968	east_town_centre	rom_Eastern			
+5976	east_tax	rom_Eastern			
+5986	east_agriculture	rom_Eastern			
+5989	east_religious	rom_Eastern			
+5999	greek_city	rom_Hellenistic			
+60	rom_ROMAN_city_major	rom_Roman			
+6002	greek_town	rom_Hellenistic			
+6007	greek_amber	rom_Hellenistic			
+6008	greek_glass	rom_Hellenistic			
+6017	greek_gold	rom_Hellenistic			
+6026	greek_grain	rom_Hellenistic			
+6032	greek_horse	rom_Hellenistic			
+6039	greek_iron	rom_Hellenistic			
+6042	greek_lead	rom_Hellenistic			
+6050	greek_leather	rom_Hellenistic			
+6056	greek_lumber	rom_Hellenistic			
+6063	greek_marble	rom_Hellenistic			
+6068	greek_olive	rom_Hellenistic			
+6070	greek_purple_dye	rom_Hellenistic			
+6078	greek_silk	rom_Hellenistic			
+6083	greek_wine	rom_Hellenistic			
+6087	greek_port	rom_Hellenistic			
+6089	greek_city_centre	rom_Hellenistic			
+6090	greek_military	rom_Hellenistic			
+6100	greek_military_siege	rom_Hellenistic			
+6108	greek_military_buff	rom_Hellenistic			
+6112	greek_industrial	rom_Hellenistic			
+6117	greek_water	rom_Hellenistic			
+6126	greek_town_centre	rom_Hellenistic			
+6132	greek_agriculture	rom_Hellenistic			
+6138	greek_religious	rom_Hellenistic			
+6141	greek_city	rom_Hellenistic		sc_rom_carthaginian	
+6145	greek_town	rom_Hellenistic		sc_rom_carthaginian	
+6153	greek_amber	rom_Hellenistic		sc_rom_carthaginian	
+6161	greek_glass	rom_Hellenistic		sc_rom_carthaginian	
+6167	greek_gold	rom_Hellenistic		sc_rom_carthaginian	
+6173	greek_grain	rom_Hellenistic		sc_rom_carthaginian	
+6182	greek_horse	rom_Hellenistic		sc_rom_carthaginian	
+6188	greek_iron	rom_Hellenistic		sc_rom_carthaginian	
+6190	greek_lead	rom_Hellenistic		sc_rom_carthaginian	
+6192	greek_leather	rom_Hellenistic		sc_rom_carthaginian	
+6194	greek_lumber	rom_Hellenistic		sc_rom_carthaginian	
+620	rom_ROMAN_city_minor_purple_dye	rom_Roman			
+6204	greek_marble	rom_Hellenistic		sc_rom_carthaginian	
+6206	greek_olive	rom_Hellenistic		sc_rom_carthaginian	
+6210	greek_purple_dye	rom_Hellenistic		sc_rom_carthaginian	
+6213	greek_silk	rom_Hellenistic		sc_rom_carthaginian	
+6222	greek_wine	rom_Hellenistic		sc_rom_carthaginian	
+6232	greek_port	rom_Hellenistic		sc_rom_carthaginian	
+6234	greek_city_centre	rom_Hellenistic		sc_rom_carthaginian	
+6235	greek_military	rom_Hellenistic		sc_rom_carthaginian	
+6242	greek_military_siege	rom_Hellenistic		sc_rom_carthaginian	
+6249	greek_military_buff	rom_Hellenistic		sc_rom_carthaginian	
+6252	greek_industrial	rom_Hellenistic		sc_rom_carthaginian	
+6259	greek_water	rom_Hellenistic		sc_rom_carthaginian	
+6263	greek_town_centre	rom_Hellenistic		sc_rom_carthaginian	
+6264	greek_agriculture	rom_Hellenistic		sc_rom_carthaginian	
+6266	greek_religious_punic	rom_Hellenistic		sc_rom_carthaginian	
+6272	greek_city	rom_Hellenistic		sc_rom_egyptian	
+6278	greek_town	rom_Hellenistic		sc_rom_egyptian	
+6287	greek_amber	rom_Hellenistic		sc_rom_egyptian	
+6292	greek_glass	rom_Hellenistic		sc_rom_egyptian	
+6301	greek_gold	rom_Hellenistic		sc_rom_egyptian	
+6310	greek_grain	rom_Hellenistic		sc_rom_egyptian	
+6315	greek_horse	rom_Hellenistic		sc_rom_egyptian	
+6323	greek_iron	rom_Hellenistic		sc_rom_egyptian	
+6329	greek_lead	rom_Hellenistic		sc_rom_egyptian	
+6337	greek_leather	rom_Hellenistic		sc_rom_egyptian	
+6339	greek_lumber	rom_Hellenistic		sc_rom_egyptian	
+6347	greek_marble	rom_Hellenistic		sc_rom_egyptian	
+635	rom_ROMAN_city_minor_silk	rom_Roman			
+6351	greek_olive	rom_Hellenistic		sc_rom_egyptian	
+6360	greek_purple_dye	rom_Hellenistic		sc_rom_egyptian	
+6370	greek_silk	rom_Hellenistic		sc_rom_egyptian	
+6374	greek_wine	rom_Hellenistic		sc_rom_egyptian	
+6375	greek_port	rom_Hellenistic		sc_rom_egyptian	
+6383	greek_city_centre	rom_Hellenistic		sc_rom_egyptian	
+6388	greek_military	rom_Hellenistic		sc_rom_egyptian	
+6389	greek_military_siege	rom_Hellenistic		sc_rom_egyptian	
+6394	greek_military_buff	rom_Hellenistic		sc_rom_egyptian	
+6399	greek_industrial	rom_Hellenistic		sc_rom_egyptian	
+6405	greek_water	rom_Hellenistic		sc_rom_egyptian	
+6414	greek_town_centre	rom_Hellenistic		sc_rom_egyptian	
+6415	greek_agriculture	rom_Hellenistic		sc_rom_egyptian	
+6417	greek_religious_egypt	rom_Hellenistic		sc_rom_egyptian	
+647	rom_ROMAN_city_minor_silver	rom_Roman			
+6716	barb_mine	rom_Hellenistic			
+6722	barb_mine	rom_Hellenistic		sc_rom_carthaginian	
+6728	barb_mine	rom_Hellenistic		sc_rom_egyptian	
+6729	barb_mine	rom_Roman			
+6738	rome_city	rom_Roman			
+6740	rome_town	rom_Roman			
+6742	rome_amber	rom_Roman			
+6747	rome_glass	rom_Roman			
+6749	rome_gold	rom_Roman			
+6753	rome_grain	rom_Roman			
+6760	rome_horse	rom_Roman			
+6761	rome_iron	rom_Roman			
+6765	rome_lead	rom_Roman			
+6766	rome_leather	rom_Roman			
+6771	rome_lumber	rom_Roman			
+6778	rome_marble	rom_Roman			
+6780	rome_olive	rom_Roman			
+6782	rome_purple_dye	rom_Roman			
+6787	rome_silk	rom_Roman			
+6791	rome_wine	rom_Roman			
+6796	rome_port	rom_Roman			
+6797	rome_city_centre	rom_Roman			
+6806	rome_military	rom_Roman			
+6810	rome_military_siege	rom_Roman			
+6813	rome_military_buff	rom_Roman			
+6823	rome_industry	rom_Roman			
+6828	rome_water	rom_Roman			
+6838	rome_town_centre	rom_Roman			
+6845	rome_agriculture	rom_Roman			
+6854	rome_religious	rom_Roman			
+6855	barb_mine	rom_Roman			main_punic
+6860	rome_city	rom_Roman			main_punic
+6862	rome_town	rom_Roman			main_punic
+6869	rome_amber	rom_Roman			main_punic
+6875	rome_glass	rom_Roman			main_punic
+6878	rome_gold	rom_Roman			main_punic
+6885	rome_grain	rom_Roman			main_punic
+6890	rome_horse	rom_Roman			main_punic
+6895	rome_iron	rom_Roman			main_punic
+6899	rome_lead	rom_Roman			main_punic
+6904	rome_leather	rom_Roman			main_punic
+6911	rome_lumber	rom_Roman			main_punic
+6916	rome_marble	rom_Roman			main_punic
+6923	rome_olive	rom_Roman			main_punic
+6932	rome_purple_dye	rom_Roman			main_punic
+6936	rome_silk	rom_Roman			main_punic
+6939	rome_wine	rom_Roman			main_punic
+6942	rome_port	rom_Roman			main_punic
+6950	rome_city_centre	rom_Roman			main_punic
+6957	rome_military_pun	rom_Roman			main_punic
+6958	rome_military_siege	rom_Roman			main_punic
+6961	rome_military_buff	rom_Roman			main_punic
+6962	rome_industry	rom_Roman			main_punic
+6967	rome_water	rom_Roman			main_punic
+6974	pun_rome_town_centre	rom_Roman			main_punic
+6978	rome_agriculture	rom_Roman			main_punic
+698	rom_ROMAN_city_minor_timber	rom_Roman			
+6980	rome_religious	rom_Roman			main_punic
+71	rom_ROMAN_port_major	rom_Roman			
+7107	barb_city	rom_Barbarian		sc_rom_celtic	
+7113	barb_town	rom_Barbarian		sc_rom_celtic	
+7122	barb_amber	rom_Barbarian		sc_rom_celtic	
+7126	barb_glass	rom_Barbarian		sc_rom_celtic	
+713	rom_ROMAN_city_minor_township	rom_Roman			
+7133	barb_gold	rom_Barbarian		sc_rom_celtic	
+7138	barb_grain	rom_Barbarian		sc_rom_celtic	
+7141	barb_horse	rom_Barbarian		sc_rom_celtic	
+7149	barb_iron	rom_Barbarian		sc_rom_celtic	
+7153	barb_lead	rom_Barbarian		sc_rom_celtic	
+7158	barb_leather	rom_Barbarian		sc_rom_celtic	
+7161	barb_lumber	rom_Barbarian		sc_rom_celtic	
+7166	barb_marble	rom_Barbarian		sc_rom_celtic	
+7171	barb_olive	rom_Barbarian		sc_rom_celtic	
+7179	barb_purple_dye	rom_Barbarian		sc_rom_celtic	
+718	rom_ROMAN_city_minor_wine	rom_Roman			
+7181	barb_silk	rom_Barbarian		sc_rom_celtic	
+719	rom_HELLENIC_city_minor_olives	rom_Hellenistic			
+7190	barb_wine	rom_Barbarian		sc_rom_celtic	
+7191	barb_mine	rom_Barbarian		sc_rom_celtic	
+7201	barb_port	rom_Barbarian		sc_rom_celtic	
+7206	barb_commons	rom_Barbarian		sc_rom_celtic	
+7211	barb_military_buff	rom_Barbarian		sc_rom_celtic	
+7219	barb_artisan	rom_Barbarian		sc_rom_celtic	
+7221	barb_craftsmen	rom_Barbarian		sc_rom_celtic	
+7223	barb_agriculture	rom_Barbarian		sc_rom_celtic	
+7225	barb_water	rom_Barbarian		sc_rom_celtic	
+7232	barb_religious	rom_Barbarian		sc_rom_celtic	
+7236	greek_city	rom_Hellenistic	rom_macedon		
+7237	greek_town	rom_Hellenistic	rom_macedon		
+724	rom_HELLENIC_city_minor_fish	rom_Hellenistic			
+7244	greek_amber	rom_Hellenistic	rom_macedon		
+7245	greek_glass	rom_Hellenistic	rom_macedon		
+7250	greek_gold	rom_Hellenistic	rom_macedon		
+7252	greek_grain	rom_Hellenistic	rom_macedon		
+7254	greek_horse	rom_Hellenistic	rom_macedon		
+7264	greek_iron	rom_Hellenistic	rom_macedon		
+727	rom_HELLENIC_city_minor_glass	rom_Hellenistic			
+7274	greek_lead	rom_Hellenistic	rom_macedon		
+7275	greek_leather	rom_Hellenistic	rom_macedon		
+7279	greek_lumber	rom_Hellenistic	rom_macedon		
+7287	greek_marble	rom_Hellenistic	rom_macedon		
+7295	greek_olive	rom_Hellenistic	rom_macedon		
+7297	greek_purple_dye	rom_Hellenistic	rom_macedon		
+7301	greek_silk	rom_Hellenistic	rom_macedon		
+7305	greek_wine	rom_Hellenistic	rom_macedon		
+7312	greek_port	rom_Hellenistic	rom_macedon		
+7322	greek_city_centre	rom_Hellenistic	rom_macedon		
+7332	greek_military	rom_Hellenistic	rom_macedon		
+7341	greek_military_siege	rom_Hellenistic	rom_macedon		
+7346	greek_military_buff	rom_Hellenistic	rom_macedon		
+7349	greek_industrial	rom_Hellenistic	rom_macedon		
+7353	greek_water	rom_Hellenistic	rom_macedon		
+7363	greek_town_centre	rom_Hellenistic	rom_macedon		
+7369	greek_agriculture	rom_Hellenistic	rom_macedon		
+737	rom_HELLENIC_city_minor_gold	rom_Hellenistic			
+7370	greek_religious	rom_Hellenistic	rom_macedon		
+7371	barb_agriculture_minor	rom_Barbarian			
+7373	greek_city	rom_Hellenistic	emp_egypt		
+7377	barb_agriculture_minor	rom_Barbarian		sc_rom_british	
+7378	greek_town	rom_Hellenistic	emp_egypt		
+7379	barb_agriculture_minor	rom_Barbarian		sc_rom_daco_thracian	
+738	rom_HELLENIC_city_minor_grain	rom_Hellenistic			
+7381	greek_amber	rom_Hellenistic	emp_egypt		
+7382	greek_glass	rom_Hellenistic	emp_egypt		
+7388	greek_gold	rom_Hellenistic	emp_egypt		
+7389	greek_grain	rom_Hellenistic	emp_egypt		
+7391	barb_agriculture_minor	rom_Barbarian		sc_rom_germanic	
+7396	greek_horse	rom_Hellenistic	emp_egypt		
+7401	barb_agriculture_minor	rom_Barbarian		sc_rom_celtiberian	
+7405	greek_iron	rom_Hellenistic	emp_egypt		
+7409	greek_lead	rom_Hellenistic	emp_egypt		
+7416	barb_agriculture_minor_nomad	rom_Barbarian		sc_rom_barb_east	
+7418	barb_agriculture_minor	rom_Barbarian	rom_odryssia		
+7419	greek_leather	rom_Hellenistic	emp_egypt		
+7426	barb_agriculture_minor	rom_Barbarian		sc_rom_celtic	
+7427	greek_lumber	rom_Hellenistic	emp_egypt		
+7434	greek_marble	rom_Hellenistic	emp_egypt		
+7441	greek_olive	rom_Hellenistic	emp_egypt		
+7442	greek_purple_dye	rom_Hellenistic	emp_egypt		
+7448	greek_silk	rom_Hellenistic	emp_egypt		
+7456	greek_wine	rom_Hellenistic	emp_egypt		
+7465	greek_port	rom_Hellenistic	emp_egypt		
+7469	greek_city_centre	rom_Hellenistic	emp_egypt		
+7474	greek_military	rom_Hellenistic	emp_egypt		
+7477	greek_military_siege	rom_Hellenistic	emp_egypt		
+7478	greek_military_buff	rom_Hellenistic	emp_egypt		
+7479	greek_industrial	rom_Hellenistic	emp_egypt		
+7481	greek_water	rom_Hellenistic	emp_egypt		
+7486	greek_town_centre	rom_Hellenistic	emp_egypt		
+7489	greek_agriculture	rom_Hellenistic	emp_egypt		
+7492	greek_religious_egypt	rom_Hellenistic	emp_egypt		
+7500	barb_city	rom_Barbarian	emp_thrace		
+7503	barb_town	rom_Barbarian	emp_thrace		
+7506	barb_amber	rom_Barbarian	emp_thrace		
+7509	barb_glass	rom_Barbarian	emp_thrace		
+751	rom_HELLENIC_city_minor_hides	rom_Hellenistic			
+7519	barb_gold	rom_Barbarian	emp_thrace		
+7527	barb_grain	rom_Barbarian	emp_thrace		
+7536	barb_horse	rom_Barbarian	emp_thrace		
+7541	barb_iron	rom_Barbarian	emp_thrace		
+7544	barb_lead	rom_Barbarian	emp_thrace		
+755	rom_HELLENIC_city_minor_iron	rom_Hellenistic			
+7551	barb_leather	rom_Barbarian	emp_thrace		
+7561	barb_lumber	rom_Barbarian	emp_thrace		
+7570	barb_marble	rom_Barbarian	emp_thrace		
+7580	barb_olive	rom_Barbarian	emp_thrace		
+7585	barb_purple_dye	rom_Barbarian	emp_thrace		
+7588	barb_silk	rom_Barbarian	emp_thrace		
+7592	barb_wine	rom_Barbarian	emp_thrace		
+760	rom_HELLENIC_city_minor_limestone	rom_Hellenistic			
+7600	barb_mine	rom_Barbarian	emp_thrace		
+7601	barb_port	rom_Barbarian	emp_thrace		
+7603	barb_commons	rom_Barbarian	emp_thrace		
+7608	barb_military_buff	rom_Barbarian	emp_thrace		
+7609	barb_artisan	rom_Barbarian	emp_thrace		
+7618	barb_craftsmen	rom_Barbarian	emp_thrace		
+7624	barb_agriculture	rom_Barbarian	emp_thrace		
+7629	barb_water	rom_Barbarian	emp_thrace		
+7636	barb_religious_thrace	rom_Barbarian	emp_thrace		
+7639	barb_agriculture_minor	rom_Barbarian	emp_thrace		
+7643	barb_agriculture_minor	rom_Barbarian		sc_rom_gaul	
+7645	barb_agriculture_minor	rom_Barbarian		sc_rom_illyrian	
+765	rom_HELLENIC_city_minor_marble	rom_Hellenistic			
+7650	barb_mine	rom_Hellenistic	rom_macedon		
+7656	greek_city	rom_Hellenistic	rom_ptolemaics		
+7659	pel_agriculture	rom_Hellenistic			main_greek
+7665	greek_town	rom_Hellenistic	rom_ptolemaics		
+7666	pel_buff	rom_Hellenistic			main_greek
+7667	pel_city	rom_Hellenistic			main_greek
+7669	greek_amber	rom_Hellenistic	rom_ptolemaics		
+7674	greek_glass	rom_Hellenistic	rom_ptolemaics		
+7676	pel_city_centre	rom_Hellenistic			main_greek
+7684	greek_gold	rom_Hellenistic	rom_ptolemaics		
+7686	pel_industry	rom_Hellenistic			main_greek
+7687	greek_grain	rom_Hellenistic	rom_ptolemaics		
+7690	greek_horse	rom_Hellenistic	rom_ptolemaics		
+7691	greek_iron	rom_Hellenistic	rom_ptolemaics		
+7694	pel_military	rom_Hellenistic			main_greek
+7698	greek_lead	rom_Hellenistic	rom_ptolemaics		
+7704	pel_port	rom_Hellenistic			main_greek
+7708	greek_leather	rom_Hellenistic	rom_ptolemaics		
+7710	greek_lumber	rom_Hellenistic	rom_ptolemaics		
+7711	greek_marble	rom_Hellenistic	rom_ptolemaics		
+7712	greek_olive	rom_Hellenistic	rom_ptolemaics		
+7713	pel_religious	rom_Hellenistic			main_greek
+7714	pel_town	rom_Hellenistic			main_greek
+7721	pel_town_bronze	rom_Hellenistic			main_greek
+7722	greek_purple_dye	rom_Hellenistic	rom_ptolemaics		
+7724	pel_town_centre	rom_Hellenistic			main_greek
+7727	greek_silk	rom_Hellenistic	rom_ptolemaics		
+7732	greek_wine	rom_Hellenistic	rom_ptolemaics		
+7733	pel_town_glass	rom_Hellenistic			main_greek
+7738	pel_town_gold	rom_Hellenistic			main_greek
+7739	greek_port	rom_Hellenistic	rom_ptolemaics		
+7744	pel_town_grain	rom_Hellenistic			main_greek
+7746	greek_city_centre	rom_Hellenistic	rom_ptolemaics		
+7747	greek_military	rom_Hellenistic	rom_ptolemaics		
+7751	pel_town_horse	rom_Hellenistic			main_greek
+7752	greek_military_siege	rom_Hellenistic	rom_ptolemaics		
+7755	pel_town_lead	rom_Hellenistic			main_greek
+7759	pel_town_marble	rom_Hellenistic			main_greek
+7760	pel_town_olive	rom_Hellenistic			main_greek
+7762	greek_military_buff	rom_Hellenistic	rom_ptolemaics		
+7765	pel_town_timber	rom_Hellenistic			main_greek
+7766	pel_town_wine	rom_Hellenistic			main_greek
+7768	greek_industrial	rom_Hellenistic	rom_ptolemaics		
+777	rom_HELLENIC_city_minor_purple_dye	rom_Hellenistic			
+7775	pel_water	rom_Hellenistic			main_greek
+7777	greek_water	rom_Hellenistic	rom_ptolemaics		
+7782	greek_town_centre	rom_Hellenistic	rom_ptolemaics		
+7783	greek_agriculture	rom_Hellenistic	rom_ptolemaics		
+7785	greek_religious_egypt	rom_Hellenistic	rom_ptolemaics		
+779	rom_HELLENIC_city_minor_silk	rom_Hellenistic			
+7791	barb_city			sc_rom_daco_thracian	main_greek
+7797	pel_barb_town			sc_rom_daco_thracian	main_greek
+7799	barb_glass			sc_rom_daco_thracian	main_greek
+7803	barb_gold			sc_rom_daco_thracian	main_greek
+7812	pel_town_grain_barb			sc_rom_daco_thracian	main_greek
+7819	pel_town_horse_barb			sc_rom_daco_thracian	main_greek
+7821	barb_iron			sc_rom_daco_thracian	main_greek
+7828	barb_lead			sc_rom_daco_thracian	main_greek
+7830	barb_lumber			sc_rom_daco_thracian	main_greek
+7837	barb_marble			sc_rom_daco_thracian	main_greek
+7839	pel_town_olive_barb			sc_rom_daco_thracian	main_greek
+784	rom_HELLENIC_city_minor_silver	rom_Hellenistic			
+7840	barb_wine			sc_rom_daco_thracian	main_greek
+7846	barb_mine			sc_rom_daco_thracian	main_greek
+7852	pel_barb_commons			sc_rom_daco_thracian	main_greek
+7854	barb_military_buff			sc_rom_daco_thracian	main_greek
+7856	pel_barb_artisan			sc_rom_daco_thracian	main_greek
+7865	pel_barb_water			sc_rom_daco_thracian	main_greek
+7880	east_city	rom_Eastern			main_greek
+7881	east_town	rom_Eastern			main_greek
+7888	east_glass	rom_Eastern			main_greek
+7898	east_gold	rom_Eastern			main_greek
+7901	pel_town_grain_east	rom_Eastern			main_greek
+7909	pel_town_horse_east	rom_Eastern			main_greek
+791	rom_HELLENIC_city_minor_timber	rom_Hellenistic			
+7917	east_iron	rom_Eastern			main_greek
+7927	east_lead	rom_Eastern			main_greek
+7931	east_lumber	rom_Eastern			main_greek
+7932	east_marble	rom_Eastern			main_greek
+7940	pel_town_olive_east	rom_Eastern			main_greek
+7944	east_wine	rom_Eastern			main_greek
+7947	barb_mine	rom_Eastern			main_greek
+795	rom_HELLENIC_city_minor_township	rom_Hellenistic			
+7955	east_port	rom_Eastern			main_greek
+7957	pel_east_city_centre	rom_Eastern			main_greek
+7959	east_military_infantry	rom_Eastern			main_greek
+7969	east_military_buff	rom_Eastern			main_greek
+7978	east_industry	rom_Eastern			main_greek
+7988	pel_east_water	rom_Eastern			main_greek
+7989	east_town_centre	rom_Eastern			main_greek
+799	rom_HELLENIC_city_minor_wine	rom_Hellenistic			
+7999	east_tax	rom_Eastern			main_greek
+8011	barb_mine	rom_Hellenistic			main_greek
+8017	pel_port_barb			sc_rom_daco_thracian	main_greek
+8027	pel_port_east	rom_Eastern			main_greek
+8033	pel_agriculture_barb			sc_rom_daco_thracian	main_greek
+8039	pel_agriculture_east	rom_Eastern			main_greek
+8047	pel_religious_barb			sc_rom_daco_thracian	main_greek
+8052	pel_religious_east	rom_Eastern			main_greek
+8057	barb_mine	rom_Hellenistic	emp_egypt		
+8065	barb_mine	rom_Hellenistic	rom_ptolemaics		
+8067	3c_rome_administration	rom_Roman			main_3c
+810	rom_EASTERN_city_minor_olives	rom_Eastern			
+8225	3c_rome_religious	rom_Roman			main_3c
+8226	3c_rome_city_major	rom_Roman			main_3c
+8233	3c_rome_navalbuff	rom_Roman			main_3c
+8251	3c_barb_agriculture	rom_Barbarian			main_3c
+8258	3c_barb_agriculture_nomad			sc_rom_barb_east	main_3c
+826	rom_EASTERN_city_minor_fish	rom_Eastern			
+829	rom_EASTERN_city_minor_glass	rom_Eastern			
+838	rom_EASTERN_city_minor_gold	rom_Eastern			
+8431	3c_barb_religios_briton	rom_Barbarian			main_3c
+8432	3c_barb_religios_germanic	rom_Barbarian			main_3c
+8436	3c_barb_religios_nomad			sc_rom_barb_east	main_3c
+847	rom_EASTERN_city_minor_grain	rom_Eastern			
+851	rom_EASTERN_city_minor_hides	rom_Eastern			
+860	rom_EASTERN_city_minor_iron	rom_Eastern			
+863	rom_EASTERN_city_minor_limestone	rom_Eastern			
+867	rom_EASTERN_city_minor_marble	rom_Eastern			
+8748	3c_rome_military	rom_Roman			main_3c
+8756	3c_rome_military_aux	rom_Roman			main_3c
+8757	3c_gallicemp_military	rom_Roman			main_3c
+8763	3c_gallicemp_agriculture	rom_Roman			main_3c
+8768	3c_rome_agriculture	rom_Roman			main_3c
+8774	3c_rome_sanitation	rom_Roman			main_3c
+8781	3c_rome_city_centre	rom_Roman			main_3c
+8785	3c_palmyra_city_major	rom_Roman			main_3c
+8789	3c_rome_port	rom_Roman			main_3c
+8793	3c_gallicemp_religious	rom_Roman			main_3c
+8801	3c_palmyra_religious	rom_Roman			main_3c
+8802	3c_sassanid_navalbuff	rom_Eastern			main_3c
+8828	3c_sassanid_religious	rom_Eastern			main_3c
+8832	3c_east_administration	rom_Eastern			main_3c
+8839	3c_east_water	rom_Eastern			main_3c
+8843	3c_east_military_cav	rom_Eastern			main_3c
+886	rom_EASTERN_city_minor_purple_dye	rom_Eastern			
+8860	3c_sassanid_military	rom_Eastern			main_3c
+8865	3c_barb_port	rom_Barbarian			main_3c
+8874	3c_barb_port			sc_rom_barb_east	main_3c
+8879	3c_barb_commons_nomad			sc_rom_barb_east	main_3c
+8888	3c_barb_artisan	rom_Barbarian			main_3c
+8891	3c_barb_craftsmen	rom_Barbarian			main_3c
+8898	3c_barb_military_buff	rom_Barbarian			main_3c
+890	rom_EASTERN_city_minor_silk	rom_Eastern			
+8903	3c_barb_artisan			sc_rom_barb_east	main_3c
+891	rom_EASTERN_city_minor_silver	rom_Eastern			
+8910	3c_barb_craftsmen			sc_rom_barb_east	main_3c
+8915	3c_barb_military_buff			sc_rom_barb_east	main_3c
+8917	3c_barb_commons	rom_Barbarian			main_3c
+8923	3c_all_cults	rom_Barbarian			main_3c
+8930	3c_all_cults	rom_Eastern			main_3c
+8931	3c_all_cults	rom_Roman			main_3c
+8947	3c_all_cults			sc_rom_barb_east	main_3c
+8974	3c_east_town_centre	rom_Eastern			main_3c
+8978	3c_rome_town_centre	rom_Roman			main_3c
+8987	3c_rome_industry	rom_Roman			main_3c
+8991	3c_rome_military_buff	rom_Roman			main_3c
+8998	3c_rome_military_siege	rom_Roman			main_3c
+9002	3c_rome_wine	rom_Roman			main_3c
+9004	3c_rome_silk	rom_Roman			main_3c
+9010	3c_rome_purple_dye	rom_Roman			main_3c
+9015	3c_rome_olive	rom_Roman			main_3c
+9025	3c_rome_marble	rom_Roman			main_3c
+9027	3c_rome_lumber	rom_Roman			main_3c
+9035	3c_rome_leather	rom_Roman			main_3c
+9036	3c_rome_lead	rom_Roman			main_3c
+9041	3c_rome_iron	rom_Roman			main_3c
+9042	3c_rome_horse	rom_Roman			main_3c
+9049	3c_rome_grain	rom_Roman			main_3c
+9058	3c_rome_gold	rom_Roman			main_3c
+9061	3c_rome_glass	rom_Roman			main_3c
+9067	3c_rome_amber	rom_Roman			main_3c
+9068	3c_rome_town	rom_Roman			main_3c
+9071	3c_barb_mine	rom_Barbarian			main_3c
+9078	3c_barb_amber	rom_Barbarian			main_3c
+9088	3c_barb_city	rom_Barbarian			main_3c
+9091	3c_barb_glass	rom_Barbarian			main_3c
+9093	3c_barb_gold	rom_Barbarian			main_3c
+9103	3c_barb_grain	rom_Barbarian			main_3c
+9112	3c_barb_horse	rom_Barbarian			main_3c
+9115	3c_barb_iron	rom_Barbarian			main_3c
+9116	3c_barb_lead	rom_Barbarian			main_3c
+9125	3c_barb_leather	rom_Barbarian			main_3c
+9126	3c_barb_lumber	rom_Barbarian			main_3c
+9132	3c_barb_marble	rom_Barbarian			main_3c
+9141	3c_barb_olive	rom_Barbarian			main_3c
+9149	3c_barb_purple_dye	rom_Barbarian			main_3c
+9154	3c_barb_silk	rom_Barbarian			main_3c
+916	rom_EASTERN_city_minor_timber	rom_Eastern			
+9162	3c_barb_town	rom_Barbarian			main_3c
+9169	3c_barb_water	rom_Barbarian			main_3c
+9171	3c_barb_wine	rom_Barbarian			main_3c
+9178	3c_east_city	rom_Eastern			main_3c
+9181	3c_east_town	rom_Eastern			main_3c
+9183	3c_east_amber	rom_Eastern			main_3c
+9193	3c_east_glass	rom_Eastern			main_3c
+9197	3c_east_gold	rom_Eastern			main_3c
+92	rom_ROMAN_city_slot	rom_Roman			
+9205	3c_east_grain	rom_Eastern			main_3c
+9210	3c_east_horse	rom_Eastern			main_3c
+9212	3c_east_iron	rom_Eastern			main_3c
+9221	3c_east_lead	rom_Eastern			main_3c
+9226	3c_east_leather	rom_Eastern			main_3c
+9228	3c_east_lumber	rom_Eastern			main_3c
+9236	3c_east_marble	rom_Eastern			main_3c
+9238	3c_east_olive	rom_Eastern			main_3c
+9243	3c_east_purple_dye	rom_Eastern			main_3c
+9248	3c_east_silk	rom_Eastern			main_3c
+9258	3c_east_wine	rom_Eastern			main_3c
+926	rom_EASTERN_city_minor_township	rom_Eastern			
+9265	3c_east_port	rom_Eastern			main_3c
+9271	3c_east_city_centre	rom_Eastern			main_3c
+9274	3c_east_military_siege	rom_Eastern			main_3c
+9282	3c_east_military_buff	rom_Eastern			main_3c
+9292	3c_east_industry	rom_Eastern			main_3c
+9302	3c_east_agriculture	rom_Eastern			main_3c
+9305	3c_barb_mine			sc_rom_barb_east	main_3c
+9308	3c_barb_amber			sc_rom_barb_east	main_3c
+9314	3c_barb_city			sc_rom_barb_east	main_3c
+9323	3c_barb_glass			sc_rom_barb_east	main_3c
+9331	3c_barb_gold			sc_rom_barb_east	main_3c
+9339	3c_barb_grain			sc_rom_barb_east	main_3c
+934	rom_EASTERN_city_minor_wine	rom_Eastern			
+9346	3c_barb_horse			sc_rom_barb_east	main_3c
+9347	3c_barb_iron			sc_rom_barb_east	main_3c
+9350	3c_barb_lead			sc_rom_barb_east	main_3c
+9360	3c_barb_leather			sc_rom_barb_east	main_3c
+9366	3c_barb_lumber			sc_rom_barb_east	main_3c
+9371	3c_barb_marble			sc_rom_barb_east	main_3c
+9380	3c_barb_olive			sc_rom_barb_east	main_3c
+9389	3c_barb_purple_dye			sc_rom_barb_east	main_3c
+9399	3c_barb_silk			sc_rom_barb_east	main_3c
+9401	3c_barb_town			sc_rom_barb_east	main_3c
+9403	3c_barb_water			sc_rom_barb_east	main_3c
+9408	3c_barb_wine			sc_rom_barb_east	main_3c
+9415	3c_barb_mine	rom_Eastern			main_3c
+9422	3c_barb_mine	rom_Roman			main_3c
+9424	3c_rome_administration	rom_Roman	3c_lydia		main_3c
+9425	3c_rome_agriculture	rom_Roman	3c_lydia		main_3c
+9432	3c_rome_city_centre	rom_Roman	3c_lydia		main_3c
+9438	3c_rome_city_major	rom_Roman	3c_lydia		main_3c
+9439	3c_all_cults	rom_Roman	3c_lydia		main_3c
+9443	3c_rome_military	rom_Roman	3c_lydia		main_3c
+9447	3c_rome_military_aux	rom_Roman	3c_lydia		main_3c
+945	rom_BARBARIAN_city_minor_olives	rom_Barbarian			
+9456	3c_rome_port	rom_Roman	3c_lydia		main_3c
+9462	3c_rome_religious	rom_Roman	3c_lydia		main_3c
+9468	3c_rome_sanitation	rom_Roman	3c_lydia		main_3c
+9473	3c_rome_amber	rom_Roman	3c_lydia		main_3c
+9482	3c_rome_glass	rom_Roman	3c_lydia		main_3c
+9487	3c_rome_gold	rom_Roman	3c_lydia		main_3c
+9497	3c_rome_grain	rom_Roman	3c_lydia		main_3c
+9501	3c_rome_horse	rom_Roman	3c_lydia		main_3c
+9506	3c_rome_industry	rom_Roman	3c_lydia		main_3c
+9507	3c_rome_iron	rom_Roman	3c_lydia		main_3c
+9517	3c_rome_lead	rom_Roman	3c_lydia		main_3c
+9525	3c_rome_leather	rom_Roman	3c_lydia		main_3c
+9533	3c_rome_lumber	rom_Roman	3c_lydia		main_3c
+9541	3c_rome_marble	rom_Roman	3c_lydia		main_3c
+9543	3c_rome_military_buff	rom_Roman	3c_lydia		main_3c
+9545	3c_rome_military_siege	rom_Roman	3c_lydia		main_3c
+9549	3c_rome_navalbuff	rom_Roman	3c_lydia		main_3c
+9557	3c_rome_olive	rom_Roman	3c_lydia		main_3c
+9560	3c_rome_purple_dye	rom_Roman	3c_lydia		main_3c
+9570	3c_rome_silk	rom_Roman	3c_lydia		main_3c
+9571	3c_rome_town	rom_Roman	3c_lydia		main_3c
+9577	3c_rome_town_centre	rom_Roman	3c_lydia		main_3c
+9578	3c_rome_wine	rom_Roman	3c_lydia		main_3c
+9584	3c_rome_administration	rom_Roman	3c_egypt		main_3c
+9589	3c_rome_agriculture	rom_Roman	3c_egypt		main_3c
+959	rom_BARBARIAN_city_minor_fish	rom_Barbarian			
+9590	3c_rome_city_centre	rom_Roman	3c_egypt		main_3c
+9591	3c_rome_city_major	rom_Roman	3c_egypt		main_3c
+9601	3c_all_cults	rom_Roman	3c_egypt		main_3c
+9602	3c_rome_military	rom_Roman	3c_egypt		main_3c
+9611	3c_rome_military_aux	rom_Roman	3c_egypt		main_3c
+9620	3c_rome_port	rom_Roman	3c_egypt		main_3c
+9622	3c_rome_religious	rom_Roman	3c_egypt		main_3c
+9624	3c_rome_sanitation	rom_Roman	3c_egypt		main_3c
+963	rom_BARBARIAN_city_minor_glass	rom_Barbarian			
+9634	3c_rome_amber	rom_Roman	3c_egypt		main_3c
+964	rom_BARBARIAN_city_minor_gold	rom_Barbarian			
+9640	3c_rome_glass	rom_Roman	3c_egypt		main_3c
+9648	3c_rome_gold	rom_Roman	3c_egypt		main_3c
+9654	3c_rome_grain	rom_Roman	3c_egypt		main_3c
+9662	3c_rome_horse	rom_Roman	3c_egypt		main_3c
+9671	3c_rome_industry	rom_Roman	3c_egypt		main_3c
+9677	3c_rome_iron	rom_Roman	3c_egypt		main_3c
+9678	3c_rome_lead	rom_Roman	3c_egypt		main_3c
+9684	3c_rome_leather	rom_Roman	3c_egypt		main_3c
+9690	3c_rome_lumber	rom_Roman	3c_egypt		main_3c
+9699	3c_rome_marble	rom_Roman	3c_egypt		main_3c
+9700	3c_rome_military_buff	rom_Roman	3c_egypt		main_3c
+9706	3c_rome_military_siege	rom_Roman	3c_egypt		main_3c
+9710	3c_rome_navalbuff	rom_Roman	3c_egypt		main_3c
+9717	3c_rome_olive	rom_Roman	3c_egypt		main_3c
+9718	3c_rome_purple_dye	rom_Roman	3c_egypt		main_3c
+9727	3c_rome_silk	rom_Roman	3c_egypt		main_3c
+973	rom_BARBARIAN_city_minor_grain	rom_Barbarian			
+9734	3c_rome_town	rom_Roman	3c_egypt		main_3c
+9736	3c_rome_town_centre	rom_Roman	3c_egypt		main_3c
+9741	3c_rome_wine	rom_Roman	3c_egypt		main_3c
+9749	3c_rome_administration	rom_Roman	3c_galatia		main_3c
+9757	3c_rome_agriculture	rom_Roman	3c_galatia		main_3c
+9758	3c_rome_city_centre	rom_Roman	3c_galatia		main_3c
+9766	3c_rome_city_major	rom_Roman	3c_galatia		main_3c
+9770	3c_all_cults	rom_Roman	3c_galatia		main_3c
+9779	3c_rome_military	rom_Roman	3c_galatia		main_3c
+9784	3c_rome_military_aux	rom_Roman	3c_galatia		main_3c
+9792	3c_rome_port	rom_Roman	3c_galatia		main_3c
+9798	3c_rome_religious	rom_Roman	3c_galatia		main_3c
+9803	3c_rome_sanitation	rom_Roman	3c_galatia		main_3c
+981	rom_BARBARIAN_city_minor_hides	rom_Barbarian			
+9810	3c_rome_amber	rom_Roman	3c_galatia		main_3c
+9820	3c_rome_glass	rom_Roman	3c_galatia		main_3c
+9821	3c_rome_gold	rom_Roman	3c_galatia		main_3c
+9827	3c_rome_grain	rom_Roman	3c_galatia		main_3c
+9830	3c_rome_horse	rom_Roman	3c_galatia		main_3c
+9839	3c_rome_industry	rom_Roman	3c_galatia		main_3c
+9842	3c_rome_iron	rom_Roman	3c_galatia		main_3c
+9843	3c_rome_lead	rom_Roman	3c_galatia		main_3c
+9849	3c_rome_leather	rom_Roman	3c_galatia		main_3c
+9857	3c_rome_lumber	rom_Roman	3c_galatia		main_3c
+9867	3c_rome_marble	rom_Roman	3c_galatia		main_3c
+9872	3c_rome_military_buff	rom_Roman	3c_galatia		main_3c
+9882	3c_rome_military_siege	rom_Roman	3c_galatia		main_3c
+9883	3c_rome_navalbuff	rom_Roman	3c_galatia		main_3c
+9891	3c_rome_olive	rom_Roman	3c_galatia		main_3c
+9899	3c_rome_purple_dye	rom_Roman	3c_galatia		main_3c
+9905	3c_rome_silk	rom_Roman	3c_galatia		main_3c
+991	rom_BARBARIAN_city_minor_iron	rom_Barbarian			
+9910	3c_rome_town	rom_Roman	3c_galatia		main_3c
+9911	3c_rome_town_centre	rom_Roman	3c_galatia		main_3c
+9913	3c_rome_wine	rom_Roman	3c_galatia		main_3c
+9915	3c_rome_administration	rom_Roman	3c_mauretania		main_3c
+9916	3c_rome_agriculture	rom_Roman	3c_mauretania		main_3c
+9924	3c_rome_city_centre	rom_Roman	3c_mauretania		main_3c
+9934	3c_rome_city_major	rom_Roman	3c_mauretania		main_3c
+9936	3c_all_cults	rom_Roman	3c_mauretania		main_3c
+9944	3c_rome_military	rom_Roman	3c_mauretania		main_3c
+9947	3c_rome_military_aux	rom_Roman	3c_mauretania		main_3c
+9949	3c_rome_port	rom_Roman	3c_mauretania		main_3c
+9952	3c_rome_religious	rom_Roman	3c_mauretania		main_3c
+9959	3c_rome_sanitation	rom_Roman	3c_mauretania		main_3c
+9966	3c_rome_amber	rom_Roman	3c_mauretania		main_3c
+9969	3c_rome_glass	rom_Roman	3c_mauretania		main_3c
+9976	3c_rome_gold	rom_Roman	3c_mauretania		main_3c
+9980	3c_rome_grain	rom_Roman	3c_mauretania		main_3c
+9985	3c_rome_horse	rom_Roman	3c_mauretania		main_3c
+9990	3c_rome_industry	rom_Roman	3c_mauretania		main_3c
+9996	3c_rome_iron	rom_Roman	3c_mauretania		main_3c

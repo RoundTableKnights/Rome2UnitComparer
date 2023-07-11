@@ -1,0 +1,45 @@
+name	category	head_node	hips_node	left_arm_node	left_foot_node	left_hand_node	left_leg_node	left_shoulder_node	left_upleg_node	left_wheel_node	neck_node	right_arm_node	right_foot_node	right_hand_node	right_leg_node	right_shoulder_node	right_upleg_node	right_wheel_node	root	scale	scale_deviation	spine_node	weapon1_node	weapon2_node	weapon3_node	weapon4_node	weapon5_node	left_finger_node	right_finger_node	left_toe_node	right_toe_node
+#battle_skeletons_tables;1;db/battle_skeletons_tables/battle_skeletons																															
+ballista_giant	engine																		bone_giantballista_base	1.0000	0.0000										
+ballista_medium	engine									bone_wheel_left								bone_wheel_right	bone_mballista_base	1.0000	0.0000										
+bandogge_mastiff	fauna_quadruped	head	hips	leftarm	leftfoot	lefthand	leftleg	leftshoulder	leftupleg		neck	rightarm	rightfoot	righthand	rightleg	rightshoulder	rightupleg		hips	1.0000	0.0000	spine						leftfingerbase	rightfingerbase	lefttoeBase	righttoebase
+boar	fauna_quadruped	Head	Hips	LeftArm	LeftFoot	LeftHand	LeftLeg	LeftShoulder	LeftUpLeg		Neck	RightArm	RightFoot	RightHand	RightLeg	RightShoulder	RightUpLeg		Hips	1.0000	0.0000	Spine						LeftFingerbase	RightFingerbase	LeftToeBase	RightToeBase
+camel	mount	bn_head1	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine						bn_leftfingerbase	bn_rightfingerbase	bn_lefttoebase	bn_righttoebase
+champion_female	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+champion_male	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+chariot_celtic	chariot									bone_left_wheel								bone_right_wheel	bone_base	1.0000	0.0000										
+chariot_generic	chariot									bone_left_wheel								bone_right_wheel	bone_base	1.0000	0.0000										
+chariot_roman	chariot									bone_left_wheel								bone_right_wheel	bone_base	1.0000	0.0000										
+cheiroballistra	engine									left_wheel								right_wheel	bone_cherio_base	1.0000	0.0000										
+dignitary_female	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+dignitary_male	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+elephant	mount	bn_head	bn_hip	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hip	1.0000	0.0000	bn_spine						bn_leftfinger1	bn_rightfinger1	bn_leftfoot	bn_rightfoot
+engine	engine																		bone_cannon_base	1.0000	0.0000										
+fauna_bear	fauna_biped	head	Hips	LeftArm	LeftFoot	LeftHand	LeftLeg	LeftShoulder	LeftUpLeg		neck	RightArm	RightFoot	RightHand	RightLeg	RightShoulder	RightUpLeg		Hips	1.0000	0.0000	spine						LeftFingerbase	RightFingerbase	LeftToeBase	RightToeBase
+fauna_bird	fauna_bird		hips																hips	1.0000	0.0000										
+fauna_deer	fauna_quadruped	head	hips	LeftArm	LeftFoot	LeftHand	LeftLeg	LeftShoulder	LeftUpLeg		neck	RightArm	RightFoot	RightHand	RightLeg	RightShoulder	RightUpLeg		hips	1.0000	0.0000	spine						LeftFingerbase	RightFingerbase	LeftToeBase	RightToeBase
+fauna_shark_r2	fauna_fish		bn_hips																bn_hips	1.0000	0.0000										
+fauna_whale	fauna_fish		pelvis																pelvis	1.0000	0.0000										
+fire_raiser	engine									bone_wheel_left								bone_wheel_right	bone_fireraiser_base	1.0000	0.0000										
+flock_birds_low	fauna_bird		bn_root																bn_root	1.0000	0.0000										
+harpax	engine																		be_root	1.0000	0.0000										
+hellenic_dignitary_female	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+horse_r2	mount	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine						bn_leftfingerbase	bn_rightfingerbase	bn_lefttoebase	bn_righttoebase
+lion	fauna_quadruped	bn_head	bn_hips	bn_rightarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_leftarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine						bn_lefthandfingerbase	bn_righthandfingerbase	bn_leftfootfingerbase	bn_rightfootfingerbase
+man_shogun	man		Hips																Hips	1.0000	0.0000										
+onager	engine									bone_wheel_left								bone_wheel_right	bone_onager_base	1.0000	0.0000										
+onager_large	engine									bone_wheel_left								bone_wheel_right	bone_onager_base	1.0000	0.0000										
+polybolos	engine																		bone_polybolos_base	1.0000	0.0000										
+roman_dignitary_male	man	bn_head	bn_hips	bn_rightarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_leftarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+rome_man	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+rome_man_game	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+scorpio	engine																		bone_scorpio_base	1.0000	0.0000										
+ship_large_destruction1_ropes	engine		be_root																bn_root	1.0000	0.0000										
+spy_female	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+spy_male	man	bn_head	bn_hips	bn_leftarm	bn_leftfoot	bn_lefthand	bn_leftleg	bn_leftshoulder	bn_leftupleg		bn_neck	bn_rightarm	bn_rightfoot	bn_righthand	bn_rightleg	bn_rightshoulder	bn_rightupleg		bn_hips	1.0000	0.0000	bn_spine	bn_weapon_01	bn_weapon_02	bn_weapon_03	bn_weapon_04	bn_weapon_05			bn_lefttoebase	bn_righttoebase
+trireme_agent01	man		be_root																be_root	1.0000	0.0000										
+trireme_army01	man		be_root																be_root	1.0000	0.0000										
+trireme_fleet01	man		be_root																be_root	1.0000	0.0000										
+trireme_low	man		bn_root																bn_root	1.0000	0.0000										
+trireme_trade01	man		be_root																be_root	1.0000	0.0000										
+wolf	fauna_quadruped	Head	hips	leftarm	leftfoot	lefthand	leftleg	leftshoulder	leftupleg		Neck	rightarm	rightfoot	righthand	rightleg	rightshoulder	rightupleg		hips	1.0000	0.0000	spine						leftfingerbase	rightfingerbase	lefttoeBase	righttoebase

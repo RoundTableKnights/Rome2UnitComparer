@@ -1,0 +1,27 @@
+key	value
+#_kv_key_buildings_tables;0;db/_kv_key_buildings_tables/_kv_key_buildings	
+archery_dojo_ammo_replenish_rate_local_modifier	0.0700
+archery_dojo_reload_skill_global_modifier	20.0000
+farmhouse_fatigue_modifier	-0.3500
+farmhouse_speed_global_modifier	0.1500
+fort_tower_fire_frequency_large	4.0000
+fort_tower_fire_frequency_medium	6.0000
+fort_tower_fire_frequency_small	8.0000
+fort_tower_fire_frequency_ultra	2.0000
+gate_capture_time	20.0000
+keep_capture_time	60.0000
+key_building_capture_time	110.0000
+local_bonus_radius	55.0000
+settlement_location_capture_time	60.0000
+settlement_victory_condition_time	30.0000
+shrine_morale_global_modifier	4.0000
+shrine_morale_local_modifier	0.0000
+sword_dojo_charge_bonus_global_modifier	5.0000
+sword_dojo_charge_bonus_local_modifier	0.0000
+sword_dojo_melee_attack_global_modifier	2.0000
+sword_dojo_melee_attack_local_modifier	0.0000
+tower_capture_time	30.0000
+workshop_armour_global_modifier	2.0000
+workshop_armour_local_modifier	0.0000
+workshop_defence_global_modifier	3.0000
+workshop_defence_local_modifier	0.0000

@@ -1,0 +1,365 @@
+campaign_difficulty_handicap	human	effect	effect_scope	effect_value	optional_campaign_key
+#campaign_difficulty_handicap_effects_tables;0;db/campaign_difficulty_handicap_effects_tables/campaign_difficulty_handicap_effects					
+-1	false	inv_dismantle_cost_ai	in_all_your_regions	-100.0000	main_invasion
+-1	false	inv_etr_main_building_reduction_for_AI	in_all_your_regions	-40.0000	main_invasion
+-1	false	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+-1	false	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+-1	false	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+-1	false	rom_agent_action_cost_mod	all_agents	50.0000	main_gaul
+-1	false	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	2.0000	
+-1	false	rom_agent_action_success_chance_mod_hinder_character	all_agents	0.0000	
+-1	false	rom_building_recruitment_points	in_all_your_provinces	3.0000	
+-1	false	rom_building_recruitment_points_naval	in_all_your_sea_regions	3.0000	
+-1	false	rom_building_research_cost_mod	this_faction	-50.0000	main_gaul
+-1	false	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+-1	false	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+-1	false	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+-1	false	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+-1	false	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+-1	false	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+-1	false	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+-1	false	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+-1	false	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+-1	false	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+-1	false	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+-1	false	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+-1	false	rom_faction_public_order_difficulty_level	in_all_your_provinces	10.0000	
+-1	false	rom_force_campaign_mod_replenishment_rate	in_all_your_regions	5.0000	
+-1	false	rom_tech_agent_champion_success_mod	all_agents	-15.0000	prologue_03
+-1	false	rom_tech_agent_cost_mod	in_all_your_provinces	50.0000	main_gaul
+-1	false	rom_tech_agent_dignitary_success_mod	all_agents	-15.0000	prologue_03
+-1	false	rom_tech_agent_scout_success_mod	all_agents	-15.0000	prologue_03
+-1	false	rom_tech_civil_economy_administration_cost_mod	this_faction	45.0000	
+-1	false	rom_tech_civil_economy_tax_mod	this_faction	10.0000	
+-1	false	rom_tech_military_management_mercenary_upkeep	in_all_your_forces	-5.0000	
+-1	false	rom_tech_military_management_upkeep_mod	in_all_your_forces	0.0000	
+-1	true	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+-1	true	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+-1	true	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+-1	true	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	-2.0000	
+-1	true	rom_agent_action_success_chance_mod_hinder_character	all_agents	-12.0000	
+-1	true	rom_building_recruitment_points	in_all_your_provinces	3.0000	
+-1	true	rom_building_recruitment_points_naval	in_all_your_sea_regions	3.0000	
+-1	true	rom_building_research_points	this_faction	0.0000	main_rome
+-1	true	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+-1	true	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+-1	true	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+-1	true	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+-1	true	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+-1	true	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+-1	true	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+-1	true	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+-1	true	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+-1	true	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+-1	true	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+-1	true	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+-1	true	rom_faction_public_order_difficulty_level	in_all_your_provinces	2.0000	
+-1	true	rom_force_campaign_mod_line_of_sight	all_your_generals	100.0000	main_punic
+-2	false	inv_dismantle_cost_ai	in_all_your_regions	-100.0000	main_invasion
+-2	false	inv_etr_main_building_reduction_for_AI	in_all_your_regions	-40.0000	main_invasion
+-2	false	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+-2	false	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+-2	false	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+-2	true	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+-2	true	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+-2	true	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+-2	true	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	0.0000	
+-2	true	rom_agent_action_success_chance_mod_hinder_character	all_agents	-8.0000	
+-2	true	rom_building_recruitment_points	in_all_your_provinces	3.0000	
+-2	true	rom_building_recruitment_points_naval	in_all_your_sea_regions	3.0000	
+-2	true	rom_building_research_points	this_faction	0.0000	main_rome
+-2	true	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+-2	true	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+-2	true	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+-2	true	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+-2	true	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+-2	true	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+-2	true	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+-2	true	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+-2	true	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+-2	true	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+-2	true	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+-2	true	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+-2	true	rom_force_campaign_mod_line_of_sight	all_your_generals	100.0000	main_punic
+-3	false	inv_dismantle_cost_ai	in_all_your_regions	-100.0000	main_invasion
+-3	false	inv_etr_main_building_reduction_for_AI	in_all_your_regions	-40.0000	main_invasion
+-3	false	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+-3	false	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+-3	false	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+-3	true	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+-3	true	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+-3	true	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+-3	true	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	2.0000	
+-3	true	rom_agent_action_success_chance_mod_hinder_character	all_agents	0.0000	
+-3	true	rom_building_recruitment_points	in_all_your_provinces	3.0000	
+-3	true	rom_building_recruitment_points_naval	in_all_your_sea_regions	3.0000	
+-3	true	rom_building_research_points	this_faction	0.0000	main_rome
+-3	true	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+-3	true	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+-3	true	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+-3	true	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+-3	true	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+-3	true	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+-3	true	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+-3	true	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+-3	true	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+-3	true	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+-3	true	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+-3	true	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+-3	true	rom_force_campaign_mod_line_of_sight	all_your_generals	100.0000	main_punic
+0	false	inv_etr_main_building_reduction_for_AI	in_all_your_regions	-40.0000	main_invasion
+0	false	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+0	false	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+0	false	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+0	false	rom_agent_action_cost_mod	all_agents	50.0000	main_gaul
+0	false	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	0.0000	
+0	false	rom_agent_action_success_chance_mod_hinder_character	all_agents	-8.0000	
+0	false	rom_building_recruitment_points	in_all_your_provinces	3.0000	
+0	false	rom_building_recruitment_points_naval	in_all_your_sea_regions	3.0000	
+0	false	rom_building_research_cost_mod	this_faction	-50.0000	main_gaul
+0	false	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+0	false	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+0	false	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+0	false	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+0	false	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+0	false	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+0	false	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+0	false	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+0	false	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+0	false	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+0	false	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+0	false	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+0	false	rom_faction_public_order_difficulty_level	in_all_your_provinces	14.0000	
+0	false	rom_force_campaign_mod_replenishment_rate	in_all_your_regions	5.0000	
+0	false	rom_tech_agent_champion_success_mod	all_agents	-10.0000	prologue_03
+0	false	rom_tech_agent_cost_mod	in_all_your_provinces	50.0000	main_gaul
+0	false	rom_tech_agent_dignitary_success_mod	all_agents	-10.0000	prologue_03
+0	false	rom_tech_agent_scout_success_mod	all_agents	-10.0000	prologue_03
+0	false	rom_tech_civil_economy_administration_cost_mod	this_faction	60.0000	
+0	false	rom_tech_civil_economy_tax_mod	this_faction	15.0000	
+0	false	rom_tech_military_management_mercenary_upkeep	in_all_your_forces	-10.0000	
+0	false	rom_tech_military_management_upkeep_mod	in_all_your_forces	-5.0000	
+0	true	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+0	true	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+0	true	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+0	true	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	-4.0000	
+0	true	rom_agent_action_success_chance_mod_hinder_character	all_agents	-14.0000	
+0	true	rom_building_recruitment_points	in_all_your_provinces	3.0000	
+0	true	rom_building_recruitment_points_naval	in_all_your_sea_regions	3.0000	
+0	true	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+0	true	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+0	true	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+0	true	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+0	true	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+0	true	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+0	true	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+0	true	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+0	true	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+0	true	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+0	true	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+0	true	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+0	true	rom_faction_public_order_difficulty_level	in_all_your_provinces	5.0000	
+0	true	rom_force_campaign_mod_line_of_sight	all_your_generals	100.0000	main_punic
+1	false	inv_dismantle_cost_ai	in_all_your_regions	-100.0000	main_invasion
+1	false	inv_etr_main_building_reduction_for_AI	in_all_your_regions	-40.0000	main_invasion
+1	false	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+1	false	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+1	false	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+1	false	rom_agent_action_cost_mod	all_agents	50.0000	main_gaul
+1	false	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	-2.0000	
+1	false	rom_agent_action_success_chance_mod_hinder_character	all_agents	-12.0000	
+1	false	rom_building_recruitment_points	in_all_your_provinces	3.0000	
+1	false	rom_building_recruitment_points_naval	in_all_your_sea_regions	3.0000	
+1	false	rom_building_research_cost_mod	this_faction	-50.0000	main_gaul
+1	false	rom_building_research_points	this_faction	10.0000	
+1	false	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+1	false	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+1	false	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+1	false	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+1	false	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+1	false	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+1	false	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+1	false	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+1	false	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+1	false	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+1	false	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+1	false	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+1	false	rom_faction_public_order_difficulty_level	in_all_your_provinces	16.0000	
+1	false	rom_force_campaign_mod_replenishment_rate	in_all_your_regions	5.0000	
+1	false	rom_tech_agent_champion_success_mod	all_agents	-10.0000	prologue_03
+1	false	rom_tech_agent_cost_mod	this_faction	25.0000	main_gaul
+1	false	rom_tech_agent_dignitary_success_mod	all_agents	-10.0000	prologue_03
+1	false	rom_tech_agent_scout_success_mod	all_agents	-10.0000	prologue_03
+1	false	rom_tech_civil_economy_administration_cost_mod	this_faction	90.0000	
+1	false	rom_tech_civil_economy_tax_mod	this_faction	25.0000	
+1	false	rom_tech_military_management_mercenary_upkeep	in_all_your_forces	-15.0000	
+1	false	rom_tech_military_management_upkeep_mod	in_all_your_forces	-10.0000	
+1	true	inv_force_number_ladders	in_all_your_forces	-3.0000	main_invasion
+1	true	inv_force_number_siege_engines	in_all_your_forces	-2.0000	main_invasion
+1	true	inv_force_number_siege_gallery	in_all_your_forces	-4.0000	main_invasion
+1	true	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	-6.0000	
+1	true	rom_agent_action_success_chance_mod_hinder_character	all_agents	-15.0000	
+1	true	rom_any_corruption_mod_global	this_faction	-30.0000	
+1	true	rom_building_recruitment_points	in_all_your_provinces	3.0000	
+1	true	rom_building_recruitment_points_naval	in_all_your_sea_regions	3.0000	
+1	true	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+1	true	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+1	true	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+1	true	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+1	true	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+1	true	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+1	true	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+1	true	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+1	true	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+1	true	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+1	true	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+1	true	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+1	true	rom_faction_public_order_difficulty_level	in_all_your_provinces	10.0000	
+1	true	rom_force_campaign_mod_line_of_sight	all_your_generals	100.0000	main_punic
+1	true	rom_general_force_mod_resistance_to_occupation	this_faction	-30.0000	
+1	true	rom_tech_military_management_mercenary_upkeep	in_all_your_forces	-10.0000	
+1	true	rom_tech_military_management_upkeep_mod	in_all_your_forces	-10.0000	
+2	false	inv_dismantle_cost_ai	in_all_your_regions	-100.0000	main_invasion
+2	false	inv_etr_main_building_reduction_for_AI	in_all_your_regions	-40.0000	main_invasion
+2	false	rom_agent_action_cost_mod	all_agents	50.0000	main_gaul
+2	false	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	-4.0000	
+2	false	rom_agent_action_success_chance_mod_hinder_character	all_agents	-14.0000	
+2	false	rom_building_recruitment_points	in_all_your_provinces	4.0000	
+2	false	rom_building_recruitment_points_naval	in_all_your_sea_regions	4.0000	
+2	false	rom_building_research_cost_mod	this_faction	-50.0000	main_gaul
+2	false	rom_building_research_points	this_faction	20.0000	
+2	false	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+2	false	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+2	false	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+2	false	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+2	false	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+2	false	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+2	false	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+2	false	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+2	false	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+2	false	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+2	false	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+2	false	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+2	false	rom_faction_public_order_difficulty_level	in_all_your_provinces	18.0000	
+2	false	rom_force_campaign_mod_replenishment_rate	in_all_your_regions	7.0000	
+2	false	rom_tech_agent_champion_success_mod	all_agents	-10.0000	prologue_03
+2	false	rom_tech_agent_cost_mod	in_all_your_provinces	12.0000	main_gaul
+2	false	rom_tech_agent_dignitary_success_mod	all_agents	-10.0000	prologue_03
+2	false	rom_tech_agent_scout_success_mod	all_agents	-10.0000	prologue_03
+2	false	rom_tech_civil_economy_administration_cost_mod	this_faction	100.0000	
+2	false	rom_tech_civil_economy_tax_mod	this_faction	35.0000	
+2	false	rom_tech_military_management_mercenary_cost	this_faction	-10.0000	
+2	false	rom_tech_military_management_mercenary_upkeep	in_all_your_forces	-20.0000	
+2	false	rom_tech_military_management_unit_cost_mod	in_all_your_provinces	-10.0000	
+2	false	rom_tech_military_management_upkeep_mod	in_all_your_forces	-15.0000	
+3	false	inv_dismantle_cost_ai	in_all_your_regions	-100.0000	main_invasion
+3	false	inv_etr_main_building_reduction_for_AI	in_all_your_regions	-40.0000	main_invasion
+3	false	rom_agent_action_success_chance_critical_mod_hinder_character	all_agents	-6.0000	
+3	false	rom_agent_action_success_chance_mod_hinder_character	all_agents	-15.0000	
+3	false	rom_building_recruitment_points	in_all_your_provinces	5.0000	
+3	false	rom_building_recruitment_points_naval	in_all_your_sea_regions	5.0000	
+3	false	rom_building_research_cost_mod	this_faction	-50.0000	main_gaul
+3	false	rom_building_research_points	this_faction	20.0000	
+3	false	rom_building_spy_availibility	in_all_your_provinces	1.0000	
+3	false	rom_building_trade_route_sea_cap	in_all_your_regions	500.0000	
+3	false	rom_deployable_siege_engine_enable_gallery_light	in_all_your_forces	1.0000	
+3	false	rom_deployable_siege_engine_enable_siege_ladder_15m	in_all_your_forces	1.0000	
+3	false	rom_deployable_siege_engine_enable_siege_ladder_8m	in_all_your_forces	1.0000	
+3	false	rom_deployable_siege_engine_number_battering_ram_heavy	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_battering_ram_light	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_battering_ram_medium	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_gallery_heavy	in_all_your_forces	4.0000	
+3	false	rom_deployable_siege_engine_number_gallery_light	in_all_your_forces	4.0000	
+3	false	rom_deployable_siege_engine_number_gallery_medium	in_all_your_forces	4.0000	
+3	false	rom_deployable_siege_engine_number_siege_ladder_15m	in_all_your_forces	4.0000	
+3	false	rom_deployable_siege_engine_number_siege_ladder_8m	in_all_your_forces	4.0000	
+3	false	rom_deployable_siege_engine_number_siege_tower_15m_heavy	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_siege_tower_15m_light	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_siege_tower_15m_medium	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_siege_tower_8m_heavy	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_siege_tower_8m_light	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_siege_tower_8m_medium	in_all_your_forces	2.0000	
+3	false	rom_deployable_siege_engine_number_tortoise	in_all_your_forces	1.0000	
+3	false	rom_faction_public_order_difficulty_level	in_all_your_provinces	22.0000	
+3	false	rom_force_campaign_mod_replenishment_rate	in_all_your_regions	9.0000	
+3	false	rom_tech_agent_champion_success_mod	all_agents	-10.0000	prologue_03
+3	false	rom_tech_agent_dignitary_success_mod	all_agents	-10.0000	prologue_03
+3	false	rom_tech_agent_scout_success_mod	all_agents	-10.0000	prologue_03
+3	false	rom_tech_civil_economy_administration_cost_mod	this_faction	100.0000	
+3	false	rom_tech_civil_economy_tax_mod	this_faction	50.0000	
+3	false	rom_tech_military_management_mercenary_cost	this_faction	-20.0000	
+3	false	rom_tech_military_management_mercenary_upkeep	in_all_your_forces	-25.0000	
+3	false	rom_tech_military_management_unit_cost_mod	in_all_your_provinces	-20.0000	
+3	false	rom_tech_military_management_upkeep_mod	in_all_your_forces	-25.0000	

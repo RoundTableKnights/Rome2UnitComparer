@@ -1,0 +1,194 @@
+key	nobility	gender	agent_type	faction	spawning_window_start	spawning_window_end	spawn_conditions	name_key	surname_key	art_set_id	clan_name_key	other_name_key	political_party	age_start
+#historical_characters_tables;7;db/historical_characters_tables/historical_characters														
+10	false	m	general	rom_rome	647	680	1	2147319538		Rom_General_09	2147328045		rom_politics_rome_council	0
+100	false	m	general	gaul_rome	690	691	1	2147319523		Mark_Antony_EE	2147326108		gaul_politics_rome_caesar	0
+1000	false	m	general	rom_suebi	647	680	1	2147333123		Ger_General_05				22
+1001	false	m	general	rom_athens	647	680	1	2147319727		Gre_General_15				16
+1002	false	m	general	rom_suebi	647	680	1	2147325104		Eas_General_12				16
+1003	false	m	general	rom_rome	647	680	1	2147319523		Rom_General_05				25
+101	false	m	general	gaul_rome	687	700	1	2147319515	2147328251	Rom_General_04	2147326896		gaul_politics_rome_senate	0
+102	false	m	general	gaul_rome	671	705	1	2147319538	2147328233	Rom_General_05	2147327653		gaul_politics_rome_caesar	0
+103	false	m	general	gaul_rome	673	705	1	2147343311		Rom_General_20	2147326870		gaul_politics_rome_caesar	0
+104	false	m	general	gaul_rome	681	700	1	2147319505	2147328791	Rom_General_17	2147343844		gaul_politics_rome_caesar	0
+105	false	m	general	gaul_rome	688	705	1	2147319523	2147328251	Rom_General_11	2147326896		gaul_politics_rome_senate	0
+106	false	m	general	gaul_rome	686	705	1	2147319519	2147329343	Rom_General_14	2147327868		gaul_politics_rome_caesar	0
+11	false	m	general	rom_rome	667	705	1	2147337832	2147328244	Rom_General_10	2147327285		rom_politics_rome_council	0
+13	false	m	general	rom_rome	658	700	1	2147319523	2147328251	Rom_General_11	2147326896		rom_politics_rome_council	0
+15	false	m	dignitary	rom_rome	678	707	1	2147319523	2147328303	rom_agent_roman_dignitary_male_01	2147343323		rom_politics_rome_council	0
+16	false	m	general	rom_rome	710	767	1	2147319519	2147343322	Rom_General_13	2147319590		rom_politics_rome_julia	0
+17	false	m	dignitary	rom_rome	708	745	1	2147319538	2147319618	rom_agent_roman_dignitary_male_01	2147326818		rom_politics_rome_council	0
+18	false	m	dignitary	rom_rome	714	770	1	2147343311	2147343320	rom_agent_roman_dignitary_male_01	2147326900		rom_politics_rome_council	0
+19	false	m	general	rom_rome	690	723	1	2147319523		Mark_Antony_EE	2147326108		rom_politics_rome_julia	0
+2	false	m	general	rom_rome	481	503	1	2147319523	2147329361	Rom_General_02	2147326163		rom_politics_rome_council	0
+20	false	m	general	rom_rome	709	741	1	2147319523	2147328371	Rom_General_15	2147343310		rom_politics_rome_julia	0
+2000	false	m	general	inv_taranto	1	1	1	2147349101		inv_iphicrades				28
+2001	false	m	general	inv_taranto	1	1	1	2147319696		inv_xenophon				42
+2002	false	m	general	inv_taranto	1	1	1	2147349107		inv_epaminondas				31
+201	false	m	general	pel_rebels_dorian	310	312	1	2147346203						0
+202	false	m	general	pel_rebels_dorian	314	316	1	2147346218						0
+203	false	m	general	pel_rebels_dorian	318	320	1	2147346838						0
+204	false	m	general	pel_rebels_dorian	322	324	1	2147345693						0
+205	false	m	general	pel_rebels_dorian	326	328	1	2147346847						0
+206	false	m	general	pel_rebels_dorian	330	332	1	2147345625						0
+207	false	m	general	pel_rebels_dorian	334	336	1	2147345548						0
+208	false	m	general	pel_rebels_dorian	338	340	1	2147345849						0
+209	false	m	general	pel_rebels_dorian	342	344	1	2147345983						0
+21	false	m	champion	rom_rome	703	738	1	2147319523	2147343294	rom_agent_roman_champion_male_01	2147327850		rom_politics_rome_council	0
+22	false	m	general	rom_rome	706	718	1	2147319537	2147328244	Rom_General_01	2147327285		rom_politics_rome_council	0
+23	false	m	dignitary	rom_rome	730	770	1	2147319515	2147329170	rom_agent_roman_dignitary_male_01	2147343300		rom_politics_rome_council	0
+24	false	m	dignitary	rom_rome	703	734	1	2147319515	2147329104	rom_agent_roman_dignitary_male_01	2147327759		rom_politics_rome_council	0
+25	false	m	general	rom_rome	693	710	1	2147319515	2147328870	Rom_General_02	2147319553		rom_politics_rome_cornelia	0
+26	false	m	general	rom_rome	698	708	1	2147337832		Rom_General_03	2147327285		rom_politics_rome_council	0
+27	false	m	general	rom_rome	713	763	1	2147319505		Rom_General_04	2147343290		rom_politics_rome_council	0
+28	false	m	general	rom_rome	709	761	1	2147319523	2147329141	Rom_General_05	2147327720		rom_politics_rome_council	0
+29	false	m	general	rom_rome	698	757	1	2147319519	2147343294	Rom_General_06	2147326158		rom_politics_rome_council	0
+3	false	m	general	rom_rome	673	709	1	2147319519	2147328243	Caesar_General	2147326845		rom_politics_rome_julia	0
+30	false	m	general	rom_epirus	481	501	1	2147343283		Gre_General_07			rom_politics_epirus_ruler	0
+301	false	m	general	pel_rebels_dorian	322	324	1	2147346048						0
+302	false	m	general	pel_rebels_dorian	326	328	1	2147346004						0
+303	false	m	general	pel_rebels_dorian	330	332	1	2147346113						0
+304	false	m	general	pel_rebels_dorian	334	336	1	2147345748						0
+305	false	m	general	pel_rebels_dorian	338	340	1	2147346224						0
+306	false	m	general	pel_rebels_dorian	342	344	1	2147346166						0
+307	false	m	general	pel_rebels_dorian	346	348	1	2147345367						0
+308	false	m	general	pel_rebels_dorian	350	352	1	2147345642						0
+31	false	m	general	rom_carthage	497	525	1	2147331963	2147343273	Car_General_02			rom_politics_carthage_barcid	0
+32	false	m	general	rom_pergamon	503	556	1	2147343271		Gre_General_16		2147319898	rom_politics_pergammon_ruler	0
+33	false	m	general	rom_athens	481	501	1	2147340586		Gre_General_24			rom_politics_athens_ruler	0
+34	false	m	general	rom_pontus	485	503	1	2147343265		Gre_General_03			rom_politics_pontus_mithridatic	0
+35	false	m	dignitary	rom_syracuse	486	541	1	2147320222		rom_agent_hellenic_dignitary_male_01				0
+36	false	f	dignitary	rom_ptolemaics	704	723	1	2147322221		rom_agent_hellenic_dignitary_female		2147319905		0
+37	false	m	general	rom_ptolemaics	690	706	1	2147321377	2147319974	Gre_General_03		2147319905	rom_politics_egypt_ptolemaic	0
+38	false	m	general	rom_syracuse	478	538	1	2147343262		Gre_General_20			rom_politics_syracuse_ruler	0
+39	false	m	general	rom_sparta	481	491	1	2147343258		Gre_General_10			rom_politics_sparta_ruler	0
+4	false	m	general	rom_rome	616	667	1	2147319519		Rom_General_04	2147326995		rom_politics_rome_council	0
+40	false	m	general	rom_macedon	561	587	1	2147343255		Gre_General_17			rom_politics_macedon_antigonid	0
+401	false	m	general	pel_rebels_dorian	321	323	1	2147346059						0
+402	false	m	general	pel_rebels_dorian	323	325	1	2147346084						0
+403	false	m	general	pel_rebels_dorian	325	327	1	2147346176						0
+404	false	m	general	pel_rebels_dorian	327	329	1	2147345596						0
+405	false	m	general	pel_rebels_dorian	329	331	1	2147346155						0
+406	false	m	general	pel_rebels_dorian	331	333	1	2147346075						0
+407	false	m	general	pel_rebels_dorian	333	335	1	2147346155						0
+408	false	m	general	pel_rebels_dorian	335	337	1	2147345481						0
+409	false	m	general	pel_rebels_dorian	337	339	1	2147345413						0
+41	false	m	general	rom_seleucid	558	589	1	2147319729		Gre_General_21		2147319914	rom_politics_seleucid_seleucids	0
+410	false	m	general	pel_rebels_dorian	339	341	1	2147345718						0
+411	false	m	general	pel_rebels_dorian	341	343	1	2147345809						0
+412	false	m	general	pel_rebels_dorian	343	345	1	2147346202						0
+413	false	m	general	pel_rebels_dorian	345	347	1	2147345962						0
+414	false	m	general	pel_rebels_dorian	347	349	1	2147346302						0
+415	false	m	general	pel_rebels_dorian	349	351	1	2147345377						0
+416	false	m	general	pel_rebels_dorian	351	353	1	2147345771						0
+42	false	m	general	rom_cimbri	638	653	1	2147343252		Ger_General_01				0
+43	false	m	general	rom_arverni	691	707	1	2147323926		Cel_General_01			rom_politics_arverni_ruler	0
+44	false	m	general	rom_iceni	693	728	1	2147343249		Bri_General_25			rom_politics_iceni_council	0
+45	false	m	general	rom_parthia	689	701	1	2147342944		Eas_General_01			rom_politics_parthia_arsacid	0
+46	false	m	general	rom_parthia	716	751	1	2147325679		Eas_General_01			rom_politics_parthia_arsacid	0
+47	false	m	general	rom_parthia	708	723	1	2147342970		Eas_General_01			rom_politics_parthia_arsacid	0
+48	false	m	champion	rom_parthia	763	786	1	2147342977		rom_agent_eastern_champion_male_01				0
+49	false	m	champion	rom_parthia	763	786	1	2147342982		rom_agent_eastern_champion_male_01				0
+50	false	m	general	rom_parthia	696	715	1	2147343211		Eas_General_01			rom_politics_parthia_arsacid	0
+501	false	m	general	pel_rebels_dorian	321	323	1	2147345550						0
+502	false	m	general	pel_rebels_dorian	323	325	1	2147345962						0
+503	false	m	general	pel_rebels_dorian	325	327	1	2147345874						0
+504	false	m	general	pel_rebels_dorian	327	329	1	2147346234						0
+505	false	m	general	pel_rebels_dorian	329	331	1	2147346124						0
+506	false	m	general	pel_rebels_dorian	331	333	1	2147345891						0
+507	false	m	general	pel_rebels_dorian	333	335	1	2147345778						0
+508	false	m	general	pel_rebels_dorian	335	337	1	2147346032						0
+509	false	m	general	pel_rebels_dorian	337	339	1	2147345550						0
+51	false	m	general	rom_arverni	701	711	1	2147343144		Cel_General_02			rom_politics_arverni_ruler	0
+510	false	m	general	pel_rebels_dorian	339	341	1	2147345596						0
+511	false	m	general	pel_rebels_dorian	341	343	1	2147345849						0
+512	false	m	general	pel_rebels_dorian	343	345	1	2147345360						0
+513	false	m	general	pel_rebels_dorian	345	347	1	2147345874						0
+514	false	m	general	pel_rebels_dorian	347	349	1	2147345336						0
+515	false	m	general	pel_rebels_dorian	349	351	1	2147345478						0
+516	false	m	general	pel_rebels_dorian	351	353	1	2147345961						0
+52	false	m	general	rom_arverni	694	703	1	2147343243		Cel_General_03			rom_politics_arverni_ruler	0
+53	false	m	general	rom_sequani	694	703	1	2147343101		Cel_General_04				0
+54	false	m	general	rom_sequani	673	728	1	2147343117		Cel_General_05				0
+55	false	m	dignitary	rom_aedui	695	723	1	2147343139		rom_agent_barbarian_dignitary_male_gaul_01				0
+56	false	m	dignitary	rom_aedui	689	718	1	2147343237		rom_agent_barbarian_dignitary_male_gaul_01				0
+57	false	m	general	rom_carthage	526	570	1	2147331980	2147343273	Car_General_02			rom_politics_carthage_barcid	0
+6	false	m	general	rom_rome	544	593	1	2147319505	2147319639	Rom_General_05	2147319579		rom_politics_rome_council	0
+600	false	m	general	pel_athenai	343	344	1	2147345292						0
+601	false	m	general	pel_athenai	337	338	1	2147345354					pel_politics_athenai_alkmaionid	0
+602	false	m	general	pel_athenai	350	351	1	2147345818						0
+603	false	m	general	pel_athenai	322	323	1	2147346302						0
+604	false	m	general	pel_athenai	336	337	1	2147346859					pel_politics_athenai_populist	0
+605	false	m	general	pel_sparta	344	345	1	2147346858						0
+606	false	m	general	pel_boiotia	341	342	1	2147346914					pel_politics_boiotia_thebai	0
+607	false	m	general	pel_sparta	342	343	1	2147346852						0
+608	false	m	general	pel_sparta	336	337	1	2147346882						0
+609	false	m	general	pel_sparta	332	333	1	2147346889						0
+610	false	m	general	pel_sparta	340	341	1	2147346922						0
+666	false	m	general	3c_palmyra	1031	1031	1	2147346945		3c_Vaballathus			3c_politics_palmyra_ruler	0
+667	false	m	general	3c_palmyra	1031	1031	1	2147346945		3c_Vaballathus			3c_politics_palmyra_ruler	0
+668	false	m	general	3c_palmyra	1031	1031	1	2147346945		3c_Vaballathus			3c_politics_palmyra_ruler	0
+669	false	m	general	3c_palmyra	1031	1031	1	2147346945		3c_Vaballathus			3c_politics_palmyra_ruler	0
+7	false	m	general	rom_rome	635	675	1	2147319505	2147328227	Rom_General_06	2147319553		rom_politics_rome_cornelia	0
+700	false	f	general	rom_iceni	565	580	1	2147335504						20
+701	false	f	general	rom_nabatea	588	624	1	2147347949						19
+702	false	f	general	rom_persia	588	624	1	2147324734						19
+703	false	f	general	rom_athens	588	624	1	2147341641						25
+704	false	f	general	rom_rome	588	624	1	2147330618						24
+705	false	f	general	rom_iceni	588	624	1	2147335338						21
+706	false	f	general	rom_kush	588	624	1	2147347620						22
+707	false	f	general	rom_ptolemaics	588	624	1	2147321668						19
+708	false	f	general	rom_ardiaei	588	624	1	2147335182						19
+709	false	f	general	rom_kush	588	624	1	2147347962						19
+710	false	f	general	rom_parthia	588	624	1	2147325868						19
+711	false	f	general	rom_athens	588	624	1	2147341895						19
+712	false	f	general	rom_rome	588	624	1	2147330930						20
+713	false	f	general	rom_boii	588	624	1	2147335432						22
+714	false	f	general	rom_kush	588	624	1	2147324586						22
+715	false	f	general	rom_persia	588	624	1	2147325707						23
+716	false	f	general	rom_athens	588	624	1	2147342900						22
+717	false	f	general	rom_rome	588	624	1	2147331104						25
+718	false	f	general	rom_iceni	588	624	1	2147323529						20
+719	false	f	general	rom_kush	588	624	1	2147324638						20
+720	false	f	general	rom_ptolemaics	588	624	1	2147322163						20
+721	false	f	general	rom_iceni	588	624	1	2147323906						20
+722	false	f	general	rom_kush	588	624	1	2147324638						20
+723	false	f	general	rom_persia	588	624	1	2147325861						20
+724	false	f	general	rom_athens	588	624	1	2147342916						20
+725	false	f	general	rom_rome	588	624	1	2147331124						22
+726	false	f	general	rom_iceni	588	624	1	2147335315						25
+727	false	f	general	rom_kush	588	624	1	2147324586						26
+728	false	f	general	rom_persia	588	624	1	2147326022						25
+729	false	f	general	rom_athens	588	624	1	2147342106						24
+730	false	f	general	rom_rome	588	624	1	2147331241						27
+731	false	f	general	rom_boii	588	624	1	2147335712						21
+732	false	f	general	rom_kush	588	624	1	2147347971						21
+733	false	f	general	rom_ptolemaics	588	624	1	2147341574						21
+8	false	m	general	rom_rome	624	666	1	2147319538	2147328700	Rom_General_07	2147326956		rom_politics_rome_council	0
+800	false	f	general	rom_iceni	1	1	1	2147348012		FemGen_Boudica				17
+801	false	f	general	emp_iceni	1	1	1	2147348012		FemGen_Boudica				17
+9	false	m	general	rom_rome	588	624	1	2147319515	2147319597	Scipio_Africanus_Punic	2147319553		rom_politics_rome_cornelia	0
+901	false	f	general	rom_ptolemaics	1	1	1	2147321706		dk_fem_egy_general_01			rom_politics_egypt_ptolemaic	20
+902	false	f	general	rom_ptolemaics	1	1	1	2147322221		dk_fem_egy_general_01			rom_politics_egypt_ptolemaic	18
+903	false	f	general	rom_ptolemaics	1	1	1	2147348243		dk_fem_egy_general_02			rom_politics_egypt_ptolemaic	23
+904	false	f	general	rom_ptolemaics	610	640	1	2147322221		dk_fem_egy_general_01			rom_politics_egypt_ptolemaic	0
+905	false	f	general	rom_ptolemaics	680	710	1	2147322221		dk_fem_egy_general_02			rom_politics_egypt_ptolemaic	0
+906	false	f	general	rom_ptolemaics	1	1	1	2147322191		dk_fem_egy_general_01			rom_politics_egypt_ptolemaic	27
+907	false	f	general	rom_seleucid	1	1	1	2147348257		dk_fem_hel_general_01			rom_politics_seleucid_seleucids	23
+908	false	f	general	rom_bithynia	450	505	1	2147348100						0
+909	false	f	general	rom_epirus	1	1	1	2147319809		dk_fem_hel_general_02				24
+910	false	f	general	rom_pontus	1	1	1	2147321696		dk_fem_hel_general_03			rom_politics_pontus_mithridatic	22
+911	false	f	general	rom_pontus	1	1	1	2147321696		dk_fem_hel_general_01			rom_politics_pontus_mithridatic	24
+912	false	f	general	rom_kush	700	750	1	2147324296					rom_politics_kush_ruler	0
+913	false	f	general	emp_meroe	750	800	1	2147324296						0
+914	false	f	general	emp_meroe	735	765	1	2147324615						0
+916	false	f	general	emp_armenia	1	1	1	2147348263		dk_fem_east_general_01				19
+917	false	f	general	emp_pontus	762	800	1	2147348109						0
+918	false	f	general	emp_parthia	1	1	1	2147348120		dk_fem_hel_general_02				22
+919	false	f	general	emp_pontus	763	800	1	2147348127						0
+920	false	f	general	emp_thrace	781	810	1	2147348132						0
+921	false	f	general	rom_kush	1	1	1	2147348280					rom_politics_kush_ruler	24
+922	false	f	general	rom_kush	742	770	1	2147324615					rom_politics_kush_ruler	0
+923	false	f	general	rom_kush	1	1	1	2147324621		dk_fem_kush_general_01			rom_politics_kush_ruler	25
+924	false	f	general	3c_meroe	1042	1070	1	2147324356						0
+925	false	f	general	rom_cimmeria	686	710	1	2147348150					rom_politics_cimmeria_ruler	0
+926	false	f	general	emp_pontus	712	740	1	2147348150						0

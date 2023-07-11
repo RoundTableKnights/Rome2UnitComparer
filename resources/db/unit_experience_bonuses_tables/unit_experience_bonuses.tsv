@@ -1,0 +1,7 @@
+stat	value	growth_rate	growth_scalar
+#unit_experience_bonuses_tables;1;db/unit_experience_bonuses_tables/unit_experience_bonuses			
+stat_accuracy	0	0.7500	0.5000
+stat_melee_attack	0	0.3000	0.6500
+stat_melee_defence	0	0.3000	0.6500
+stat_morale	0	0.1000	1.2500
+stat_reloading	0	0.3000	0.6500

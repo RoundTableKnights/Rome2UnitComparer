@@ -1,0 +1,6 @@
+key	is_naval	model	optional_following_model	optional_following_model_distance
+#trade_display_trade_models_tables;1;db/trade_display_trade_models_tables/trade_display_trade_models				
+trade_camel	false	campaign_trader_villager		0.6000
+trade_ox	false	trade_ox	trade_ox_cart	0.3000
+trade_ship	true	campaign_trader_trade_ship		0.6000
+trade_ship_barbarian	true	trade_ship_barbarian		0.6000

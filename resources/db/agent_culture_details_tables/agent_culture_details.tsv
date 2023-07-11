@@ -1,0 +1,24 @@
+key	agent	culture	associated_unit	season	level	equipement_theme	agent_recruited_movie	gender
+#agent_culture_details_tables;5;db/agent_culture_details_tables/agent_culture_details								
+225	colonel	rom_Hellenistic			0			m
+270	colonel	rom_Roman			0			m
+287	minister	rom_Roman			0			m
+288	general	rom_Roman	Rom_General		0			m
+290	general	rom_Hellenistic	Rom_General		0			m
+291	champion	rom_Hellenistic			0			m
+297	champion	rom_Roman			0			m
+305	dignitary	rom_Hellenistic			0			b
+310	dignitary	rom_Roman			0			m
+319	spy	rom_Hellenistic			0			b
+322	spy	rom_Roman			0			f
+333	recruitment_pool_agent	rom_Hellenistic			0			m
+336	colonel	rom_Barbarian			0			m
+341	colonel	rom_Eastern			0			m
+342	general	rom_Barbarian	Rom_General		0			m
+350	general	rom_Eastern	Rom_General		0			m
+351	dignitary	rom_Eastern			0			m
+357	spy	rom_Eastern			0			b
+359	champion	rom_Eastern			0			m
+365	dignitary	rom_Barbarian			0			b
+367	spy	rom_Barbarian			0			m
+372	champion	rom_Barbarian			0			b

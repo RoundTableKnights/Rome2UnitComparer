@@ -1,0 +1,1621 @@
+building_chain	building_level	building_set	exclude
+#building_set_to_building_junctions_tables;0;db/building_set_to_building_junctions_tables/building_set_to_building_junctions			
+	3c_rome_administration_1	3c_building_set_admin	false
+	3c_rome_administration_security_2	3c_building_set_admin	false
+	3c_rome_administration_security_3	3c_building_set_admin	false
+	3c_rome_administration_spies_2	3c_building_set_admin	false
+	3c_rome_administration_spies_3	3c_building_set_admin	false
+	3c_rome_administration_taxes_2	3c_building_set_admin	false
+	3c_rome_administration_taxes_3	3c_building_set_admin	false
+	3c_rome_cult_christ_2	3c_building_set_christ_cult	false
+	3c_rome_cult_christ_3	3c_building_set_christ_cult	false
+	3c_rome_cult_christ_4	3c_building_set_christ_cult	false
+	3c_sassanid_religious_christ_2	3c_building_set_christian	false
+	3c_sassanid_religious_christ_3	3c_building_set_christian	false
+	3c_sassanid_religious_christ_4	3c_building_set_christian	false
+	3c_sassanid_religious_christ_5	3c_building_set_christian	false
+3c_barb_commons		3c_building_set_city_centre	false
+	3c_rome_cult_1	3c_building_set_cults	false
+	3c_rome_cult_christ_2	3c_building_set_cults	false
+	3c_rome_cult_christ_3	3c_building_set_cults	false
+	3c_rome_cult_christ_4	3c_building_set_cults	false
+	3c_rome_cult_manich_2	3c_building_set_cults	false
+	3c_rome_cult_manich_3	3c_building_set_cults	false
+	3c_rome_cult_manich_4	3c_building_set_cults	false
+	3c_rome_cult_mithra_2	3c_building_set_cults	false
+	3c_rome_cult_mithra_3	3c_building_set_cults	false
+	3c_rome_cult_mithra_4	3c_building_set_cults	false
+	3c_barb_agriculture_1	3c_building_set_farms	false
+	3c_barb_agriculture_farm_2	3c_building_set_farms	false
+	3c_barb_agriculture_farm_3	3c_building_set_farms	false
+	3c_barb_agriculture_farm_4	3c_building_set_farms	false
+	3c_rome_city_centre_circus_5	3c_building_set_gallic_entertainment	false
+	3c_rome_city_centre_gladiator_2	3c_building_set_gallic_entertainment	false
+	3c_rome_city_centre_gladiator_3	3c_building_set_gallic_entertainment	false
+	3c_rome_city_centre_gladiator_4	3c_building_set_gallic_entertainment	false
+	3c_rome_city_centre_gladiator_5	3c_building_set_gallic_entertainment	false
+	3c_rome_sanitation_baths_2	3c_building_set_gallic_entertainment	false
+	3c_rome_sanitation_baths_3	3c_building_set_gallic_entertainment	false
+	3c_rome_sanitation_baths_4	3c_building_set_gallic_entertainment	false
+	3c_rome_town_centre_theatre_2	3c_building_set_gallic_entertainment	false
+	3c_rome_town_centre_theatre_3	3c_building_set_gallic_entertainment	false
+	3c_rome_town_centre_theatre_4	3c_building_set_gallic_entertainment	false
+	3c_rome_cult_manich_2	3c_building_set_manichean	false
+	3c_rome_cult_manich_3	3c_building_set_manichean	false
+	3c_rome_cult_manich_4	3c_building_set_manichean	false
+	3c_rome_cult_mithra_2	3c_building_set_mithraic	false
+	3c_rome_cult_mithra_3	3c_building_set_mithraic	false
+	3c_rome_cult_mithra_4	3c_building_set_mithraic	false
+3c_gallicemp_agriculture		3c_building_set_roman_civil	false
+3c_gallicemp_religious		3c_building_set_roman_civil	false
+3c_palmyra_religious		3c_building_set_roman_civil	false
+3c_rome_administration		3c_building_set_roman_civil	false
+3c_rome_agriculture		3c_building_set_roman_civil	false
+3c_rome_city_centre		3c_building_set_roman_civil	false
+3c_rome_industry		3c_building_set_roman_civil	false
+	3c_rome_port_1	3c_building_set_roman_civil	false
+	3c_rome_port_fish_2	3c_building_set_roman_civil	false
+	3c_rome_port_fish_3	3c_building_set_roman_civil	false
+	3c_rome_port_fish_4	3c_building_set_roman_civil	false
+	3c_rome_port_trade_2	3c_building_set_roman_civil	false
+	3c_rome_port_trade_3	3c_building_set_roman_civil	false
+	3c_rome_port_trade_4	3c_building_set_roman_civil	false
+3c_rome_religious		3c_building_set_roman_civil	false
+3c_rome_sanitation		3c_building_set_roman_civil	false
+3c_rome_town_centre		3c_building_set_roman_civil	false
+	3c_rome_religious_sol_invictus_2	3c_building_set_sol_invictus	false
+	3c_rome_religious_sol_invictus_3	3c_building_set_sol_invictus	false
+	3c_rome_religious_sol_invictus_4	3c_building_set_sol_invictus	false
+	3c_rome_religious_sol_invictus_5	3c_building_set_sol_invictus	false
+	3c_barb_religious_german_wodanaz_2	3c_building_set_wodanaz	false
+	3c_barb_religious_german_wodanaz_3	3c_building_set_wodanaz	false
+	3c_barb_religious_german_wodanaz_4	3c_building_set_wodanaz	false
+	3c_barb_agriculture_nomad_weaver_2	3c_builidng_set_nomad_sheep	false
+	3c_barb_agriculture_nomad_weaver_3	3c_builidng_set_nomad_sheep	false
+	3c_barb_agriculture_nomad_weaver_4	3c_builidng_set_nomad_sheep	false
+3c_all_cults		dk_building_set_all	false
+3c_armenia_military		dk_building_set_all	false
+3c_barb_agriculture		dk_building_set_all	false
+3c_barb_agriculture_nomad		dk_building_set_all	false
+3c_barb_amber		dk_building_set_all	false
+3c_barb_artisan		dk_building_set_all	false
+3c_barb_city		dk_building_set_all	false
+3c_barb_commons		dk_building_set_all	false
+3c_barb_commons_nomad		dk_building_set_all	false
+3c_barb_craftsmen		dk_building_set_all	false
+3c_barb_glass		dk_building_set_all	false
+3c_barb_gold		dk_building_set_all	false
+3c_barb_grain		dk_building_set_all	false
+3c_barb_horse		dk_building_set_all	false
+3c_barb_iron		dk_building_set_all	false
+3c_barb_lead		dk_building_set_all	false
+3c_barb_leather		dk_building_set_all	false
+3c_barb_lumber		dk_building_set_all	false
+3c_barb_marble		dk_building_set_all	false
+3c_barb_mine		dk_building_set_all	false
+3c_barb_navalbuff		dk_building_set_all	false
+3c_barb_olive		dk_building_set_all	false
+3c_barb_port		dk_building_set_all	false
+3c_barb_purple_dye		dk_building_set_all	false
+3c_barb_religious		dk_building_set_all	false
+3c_barb_religious_briton		dk_building_set_all	false
+3c_barb_religious_german		dk_building_set_all	false
+3c_barb_religious_nomad		dk_building_set_all	false
+3c_barb_resource_dummy		dk_building_set_all	false
+3c_barb_silk		dk_building_set_all	false
+3c_barb_town		dk_building_set_all	false
+3c_barb_water		dk_building_set_all	false
+3c_barb_wine		dk_building_set_all	false
+3c_barbarian_cults		dk_building_set_all	false
+3c_east_administration		dk_building_set_all	false
+3c_east_agriculture		dk_building_set_all	false
+3c_east_amber		dk_building_set_all	false
+3c_east_city		dk_building_set_all	false
+3c_east_city_centre		dk_building_set_all	false
+3c_east_glass		dk_building_set_all	false
+3c_east_gold		dk_building_set_all	false
+3c_east_grain		dk_building_set_all	false
+3c_east_horse		dk_building_set_all	false
+3c_east_industry		dk_building_set_all	false
+3c_east_iron		dk_building_set_all	false
+3c_east_lead		dk_building_set_all	false
+3c_east_leather		dk_building_set_all	false
+3c_east_lumber		dk_building_set_all	false
+3c_east_marble		dk_building_set_all	false
+3c_east_military_buff		dk_building_set_all	false
+3c_east_military_cav		dk_building_set_all	false
+3c_east_military_siege		dk_building_set_all	false
+3c_east_olive		dk_building_set_all	false
+3c_east_port		dk_building_set_all	false
+3c_east_purple_dye		dk_building_set_all	false
+3c_east_resource_dummy		dk_building_set_all	false
+3c_east_silk		dk_building_set_all	false
+3c_east_town		dk_building_set_all	false
+3c_east_town_centre		dk_building_set_all	false
+3c_east_water		dk_building_set_all	false
+3c_east_wine		dk_building_set_all	false
+3c_eastern_cults		dk_building_set_all	false
+3c_gallicemp_agriculture		dk_building_set_all	false
+3c_gallicemp_military		dk_building_set_all	false
+3c_gallicemp_religious		dk_building_set_all	false
+3c_palmyra_city_major		dk_building_set_all	false
+3c_palmyra_religious		dk_building_set_all	false
+3c_rom_resource_dummy		dk_building_set_all	false
+3c_rome_administration		dk_building_set_all	false
+3c_rome_agriculture		dk_building_set_all	false
+3c_rome_amber		dk_building_set_all	false
+3c_rome_city_centre		dk_building_set_all	false
+3c_rome_city_major		dk_building_set_all	false
+3c_rome_glass		dk_building_set_all	false
+3c_rome_gold		dk_building_set_all	false
+3c_rome_grain		dk_building_set_all	false
+3c_rome_horse		dk_building_set_all	false
+3c_rome_industry		dk_building_set_all	false
+3c_rome_iron		dk_building_set_all	false
+3c_rome_lead		dk_building_set_all	false
+3c_rome_leather		dk_building_set_all	false
+3c_rome_lumber		dk_building_set_all	false
+3c_rome_marble		dk_building_set_all	false
+3c_rome_military		dk_building_set_all	false
+3c_rome_military_aux		dk_building_set_all	false
+3c_rome_military_buff		dk_building_set_all	false
+3c_rome_military_siege		dk_building_set_all	false
+3c_rome_navalbuff		dk_building_set_all	false
+3c_rome_olive		dk_building_set_all	false
+3c_rome_port		dk_building_set_all	false
+3c_rome_purple_dye		dk_building_set_all	false
+3c_rome_religious		dk_building_set_all	false
+3c_rome_sanitation		dk_building_set_all	false
+3c_rome_silk		dk_building_set_all	false
+3c_rome_town		dk_building_set_all	false
+3c_rome_town_centre		dk_building_set_all	false
+3c_rome_wine		dk_building_set_all	false
+3c_sassanid_military		dk_building_set_all	false
+3c_sassanid_navalbuff		dk_building_set_all	false
+3c_sassanid_religious		dk_building_set_all	false
+all_mine		dk_building_set_all	false
+barb_agriculture		dk_building_set_all	false
+barb_agriculture_minor		dk_building_set_all	false
+barb_agriculture_minor_nomad		dk_building_set_all	false
+barb_agriculture_nomad		dk_building_set_all	false
+barb_amber		dk_building_set_all	false
+barb_artisan		dk_building_set_all	false
+barb_city		dk_building_set_all	false
+barb_commons		dk_building_set_all	false
+barb_commons_nomad		dk_building_set_all	false
+barb_craftsmen		dk_building_set_all	false
+barb_glass		dk_building_set_all	false
+barb_gold		dk_building_set_all	false
+barb_grain		dk_building_set_all	false
+barb_horse		dk_building_set_all	false
+barb_iron		dk_building_set_all	false
+barb_lead		dk_building_set_all	false
+barb_leather		dk_building_set_all	false
+barb_lumber		dk_building_set_all	false
+barb_marble		dk_building_set_all	false
+barb_olive		dk_building_set_all	false
+barb_port		dk_building_set_all	false
+barb_purple_dye		dk_building_set_all	false
+barb_religious		dk_building_set_all	false
+barb_religious_briton		dk_building_set_all	false
+barb_religious_dacian		dk_building_set_all	false
+barb_religious_gaul		dk_building_set_all	false
+barb_religious_german		dk_building_set_all	false
+barb_religious_iberian		dk_building_set_all	false
+barb_religious_illyrian		dk_building_set_all	false
+barb_religious_nomad		dk_building_set_all	false
+barb_religious_thrace		dk_building_set_all	false
+barb_silk		dk_building_set_all	false
+barb_spice		dk_building_set_all	false
+barb_town		dk_building_set_all	false
+barb_water		dk_building_set_all	false
+barb_wine		dk_building_set_all	false
+dk_afr_city_centre		dk_building_set_all	false
+dk_all_city		dk_building_set_all	false
+dk_all_industry		dk_building_set_all	false
+dk_all_military_cavalry		dk_building_set_all	false
+dk_all_military_infantry		dk_building_set_all	false
+dk_all_minor_settlement		dk_building_set_all	false
+dk_ara_city_centre		dk_building_set_all	false
+dk_ara_town_centre		dk_building_set_all	false
+dk_gen_sanitation		dk_building_set_all	false
+dk_kush_industry		dk_building_set_all	false
+dk_kush_religious		dk_building_set_all	false
+dk_kush_town_centre		dk_building_set_all	false
+dk_military_siege		dk_building_set_all	false
+dk_military_training		dk_building_set_all	false
+dk_minor_amber		dk_building_set_all	false
+dk_minor_glass		dk_building_set_all	false
+dk_minor_gold		dk_building_set_all	false
+dk_minor_grain		dk_building_set_all	false
+dk_minor_horse		dk_building_set_all	false
+dk_minor_iron		dk_building_set_all	false
+dk_minor_lead		dk_building_set_all	false
+dk_minor_leather		dk_building_set_all	false
+dk_minor_lumber		dk_building_set_all	false
+dk_minor_marble		dk_building_set_all	false
+dk_minor_olive		dk_building_set_all	false
+dk_minor_purple_dye		dk_building_set_all	false
+dk_minor_silk		dk_building_set_all	false
+dk_minor_spice		dk_building_set_all	false
+dk_minor_wine		dk_building_set_all	false
+dk_nabatea_religious		dk_building_set_all	false
+dk_numidia_religious		dk_building_set_all	false
+dk_saba_marib_dam		dk_building_set_all	false
+dk_saba_religious		dk_building_set_all	false
+east_agriculture		dk_building_set_all	false
+east_amber		dk_building_set_all	false
+east_city		dk_building_set_all	false
+east_city_centre		dk_building_set_all	false
+east_glass		dk_building_set_all	false
+east_gold		dk_building_set_all	false
+east_grain		dk_building_set_all	false
+east_horse		dk_building_set_all	false
+east_industry		dk_building_set_all	false
+east_iron		dk_building_set_all	false
+east_lead		dk_building_set_all	false
+east_leather		dk_building_set_all	false
+east_lumber		dk_building_set_all	false
+east_marble		dk_building_set_all	false
+east_military_buff		dk_building_set_all	false
+east_military_infantry		dk_building_set_all	false
+east_military_siege		dk_building_set_all	false
+east_military_stables		dk_building_set_all	false
+east_olive		dk_building_set_all	false
+east_port		dk_building_set_all	false
+east_purple_dye		dk_building_set_all	false
+east_religious		dk_building_set_all	false
+east_silk		dk_building_set_all	false
+east_spice		dk_building_set_all	false
+east_tax		dk_building_set_all	false
+east_town		dk_building_set_all	false
+east_town_centre		dk_building_set_all	false
+east_water		dk_building_set_all	false
+east_wine		dk_building_set_all	false
+greek_agriculture		dk_building_set_all	false
+greek_amber		dk_building_set_all	false
+greek_city		dk_building_set_all	false
+greek_city_centre		dk_building_set_all	false
+greek_glass		dk_building_set_all	false
+greek_gold		dk_building_set_all	false
+greek_grain		dk_building_set_all	false
+greek_horse		dk_building_set_all	false
+greek_industrial		dk_building_set_all	false
+greek_iron		dk_building_set_all	false
+greek_lead		dk_building_set_all	false
+greek_leather		dk_building_set_all	false
+greek_lumber		dk_building_set_all	false
+greek_marble		dk_building_set_all	false
+greek_military		dk_building_set_all	false
+greek_military_buff		dk_building_set_all	false
+greek_military_siege		dk_building_set_all	false
+greek_olive		dk_building_set_all	false
+greek_port		dk_building_set_all	false
+greek_purple_dye		dk_building_set_all	false
+greek_religious		dk_building_set_all	false
+greek_religious_egypt		dk_building_set_all	false
+greek_religious_punic		dk_building_set_all	false
+greek_silk		dk_building_set_all	false
+greek_spice		dk_building_set_all	false
+greek_town		dk_building_set_all	false
+greek_town_centre		dk_building_set_all	false
+greek_water		dk_building_set_all	false
+greek_wine		dk_building_set_all	false
+inv_all_carthago		dk_building_set_all	false
+inv_car_agriculture		dk_building_set_all	false
+inv_car_amber		dk_building_set_all	false
+inv_car_city		dk_building_set_all	false
+inv_car_city_centre		dk_building_set_all	false
+inv_car_glass		dk_building_set_all	false
+inv_car_gold		dk_building_set_all	false
+inv_car_grain		dk_building_set_all	false
+inv_car_horse		dk_building_set_all	false
+inv_car_industrial		dk_building_set_all	false
+inv_car_iron		dk_building_set_all	false
+inv_car_lead		dk_building_set_all	false
+inv_car_leather		dk_building_set_all	false
+inv_car_lumber		dk_building_set_all	false
+inv_car_marble		dk_building_set_all	false
+inv_car_military		dk_building_set_all	false
+inv_car_military_buff		dk_building_set_all	false
+inv_car_military_siege		dk_building_set_all	false
+inv_car_olive		dk_building_set_all	false
+inv_car_port		dk_building_set_all	false
+inv_car_purple_dye		dk_building_set_all	false
+inv_car_religious		dk_building_set_all	false
+inv_car_silk		dk_building_set_all	false
+inv_car_spice		dk_building_set_all	false
+inv_car_town		dk_building_set_all	false
+inv_car_water		dk_building_set_all	false
+inv_gre_agriculture		dk_building_set_all	false
+inv_gre_city_centre		dk_building_set_all	false
+inv_gre_city_centre_taranto		dk_building_set_all	false
+inv_gre_industry_major		dk_building_set_all	false
+inv_gre_industry_minor		dk_building_set_all	false
+inv_gre_major_town		dk_building_set_all	false
+inv_gre_military_buff		dk_building_set_all	false
+inv_gre_military_recruitment		dk_building_set_all	false
+inv_gre_minor_town		dk_building_set_all	false
+inv_gre_minor_town_centre		dk_building_set_all	false
+inv_gre_port		dk_building_set_all	false
+inv_gre_religious		dk_building_set_all	false
+inv_gre_sanitation		dk_building_set_all	false
+inv_greek_amber		dk_building_set_all	false
+inv_greek_gold		dk_building_set_all	false
+inv_greek_grain		dk_building_set_all	false
+inv_greek_horse		dk_building_set_all	false
+inv_greek_iron		dk_building_set_all	false
+inv_greek_lead		dk_building_set_all	false
+inv_greek_leather		dk_building_set_all	false
+inv_greek_lumber		dk_building_set_all	false
+inv_greek_marble		dk_building_set_all	false
+inv_greek_olive		dk_building_set_all	false
+inv_greek_purple_dye		dk_building_set_all	false
+inv_greek_salt		dk_building_set_all	false
+inv_greek_wine		dk_building_set_all	false
+inv_ita_agriculture		dk_building_set_all	false
+inv_ita_industry_major		dk_building_set_all	false
+inv_ita_industry_minor		dk_building_set_all	false
+inv_ita_major_city		dk_building_set_all	false
+inv_ita_major_city_centre		dk_building_set_all	false
+inv_ita_military_buff		dk_building_set_all	false
+inv_ita_military_recruitment		dk_building_set_all	false
+inv_ita_minor_town		dk_building_set_all	false
+inv_ita_minor_town_centre		dk_building_set_all	false
+inv_ita_port		dk_building_set_all	false
+inv_ita_religious		dk_building_set_all	false
+inv_ita_sanitation		dk_building_set_all	false
+inv_new_etr_amber		dk_building_set_all	false
+inv_new_etr_gold		dk_building_set_all	false
+inv_new_etr_grain		dk_building_set_all	false
+inv_new_etr_horse		dk_building_set_all	false
+inv_new_etr_iron		dk_building_set_all	false
+inv_new_etr_lead		dk_building_set_all	false
+inv_new_etr_leather		dk_building_set_all	false
+inv_new_etr_lumber		dk_building_set_all	false
+inv_new_etr_main_administration		dk_building_set_all	false
+inv_new_etr_main_agriculture		dk_building_set_all	false
+inv_new_etr_main_city		dk_building_set_all	false
+inv_new_etr_main_military		dk_building_set_all	false
+inv_new_etr_main_religion		dk_building_set_all	false
+inv_new_etr_marble		dk_building_set_all	false
+inv_new_etr_minor_agriculture		dk_building_set_all	false
+inv_new_etr_minor_military		dk_building_set_all	false
+inv_new_etr_minor_religion		dk_building_set_all	false
+inv_new_etr_minor_town		dk_building_set_all	false
+inv_new_etr_olive		dk_building_set_all	false
+inv_new_etr_port		dk_building_set_all	false
+inv_new_etr_purple_dye		dk_building_set_all	false
+inv_new_etr_salt		dk_building_set_all	false
+inv_new_etr_wine		dk_building_set_all	false
+inv_nur_agriculture		dk_building_set_all	false
+inv_nur_industry_major		dk_building_set_all	false
+inv_nur_major_city		dk_building_set_all	false
+inv_nur_major_city_centre		dk_building_set_all	false
+inv_nur_military		dk_building_set_all	false
+inv_nur_minor_town		dk_building_set_all	false
+inv_nur_port		dk_building_set_all	false
+inv_nur_religious		dk_building_set_all	false
+inv_nur_sanitation		dk_building_set_all	false
+inv_rom_agriculture		dk_building_set_all	false
+inv_rom_amber		dk_building_set_all	false
+inv_rom_capital		dk_building_set_all	false
+inv_rom_city_centre		dk_building_set_all	false
+inv_rom_gold		dk_building_set_all	false
+inv_rom_grain		dk_building_set_all	false
+inv_rom_horse		dk_building_set_all	false
+inv_rom_industry_major		dk_building_set_all	false
+inv_rom_iron		dk_building_set_all	false
+inv_rom_lead		dk_building_set_all	false
+inv_rom_leather		dk_building_set_all	false
+inv_rom_lumber		dk_building_set_all	false
+inv_rom_marble		dk_building_set_all	false
+inv_rom_military_buff		dk_building_set_all	false
+inv_rom_military_recruitment		dk_building_set_all	false
+inv_rom_minor_town		dk_building_set_all	false
+inv_rom_olive		dk_building_set_all	false
+inv_rom_port		dk_building_set_all	false
+inv_rom_purple_dye		dk_building_set_all	false
+inv_rom_religious		dk_building_set_all	false
+inv_rom_salt		dk_building_set_all	false
+inv_rom_sanitation		dk_building_set_all	false
+inv_rom_town_centre		dk_building_set_all	false
+inv_rom_wine		dk_building_set_all	false
+inv_rome_resource_building_dummy		dk_building_set_all	false
+inv_ven_agriculture		dk_building_set_all	false
+inv_ven_city_centre		dk_building_set_all	false
+inv_ven_industry		dk_building_set_all	false
+inv_ven_major_town		dk_building_set_all	false
+inv_ven_military_industry		dk_building_set_all	false
+inv_ven_military_recruitment		dk_building_set_all	false
+inv_ven_minor_town		dk_building_set_all	false
+inv_ven_port		dk_building_set_all	false
+inv_ven_religious		dk_building_set_all	false
+inv_ven_sanitation		dk_building_set_all	false
+pel_agriculture		dk_building_set_all	false
+pel_agriculture_barb		dk_building_set_all	false
+pel_agriculture_east		dk_building_set_all	false
+pel_barb_artisan		dk_building_set_all	false
+pel_barb_commons		dk_building_set_all	false
+pel_barb_port		dk_building_set_all	false
+pel_barb_town		dk_building_set_all	false
+pel_barb_water		dk_building_set_all	false
+pel_buff		dk_building_set_all	false
+pel_city		dk_building_set_all	false
+pel_city_centre		dk_building_set_all	false
+pel_east_city_centre		dk_building_set_all	false
+pel_east_port		dk_building_set_all	false
+pel_east_water		dk_building_set_all	false
+pel_industry		dk_building_set_all	false
+pel_military		dk_building_set_all	false
+pel_port		dk_building_set_all	false
+pel_religious		dk_building_set_all	false
+pel_religious_barb		dk_building_set_all	false
+pel_religious_east		dk_building_set_all	false
+pel_town		dk_building_set_all	false
+pel_town_bronze		dk_building_set_all	false
+pel_town_centre		dk_building_set_all	false
+pel_town_glass		dk_building_set_all	false
+pel_town_gold		dk_building_set_all	false
+pel_town_grain		dk_building_set_all	false
+pel_town_grain_barb		dk_building_set_all	false
+pel_town_grain_east		dk_building_set_all	false
+pel_town_horse		dk_building_set_all	false
+pel_town_horse_barb		dk_building_set_all	false
+pel_town_horse_east		dk_building_set_all	false
+pel_town_lead		dk_building_set_all	false
+pel_town_marble		dk_building_set_all	false
+pel_town_olive		dk_building_set_all	false
+pel_town_olive_barb		dk_building_set_all	false
+pel_town_olive_east		dk_building_set_all	false
+pel_town_timber		dk_building_set_all	false
+pel_town_wine		dk_building_set_all	false
+pel_water		dk_building_set_all	false
+pro_ROMAN_city_major		dk_building_set_all	false
+pro_ROMAN_military_equipment		dk_building_set_all	false
+pun_ROMAN_military_main		dk_building_set_all	false
+rom_ALL_industry_minor		dk_building_set_all	false
+rom_BARBARIAN_artisans_major		dk_building_set_all	false
+rom_BARBARIAN_city_major		dk_building_set_all	false
+rom_BARBARIAN_city_minor_fish		dk_building_set_all	false
+rom_BARBARIAN_city_minor_glass		dk_building_set_all	false
+rom_BARBARIAN_city_minor_gold		dk_building_set_all	false
+rom_BARBARIAN_city_minor_grain		dk_building_set_all	false
+rom_BARBARIAN_city_minor_hides		dk_building_set_all	false
+rom_BARBARIAN_city_minor_iron		dk_building_set_all	false
+rom_BARBARIAN_city_minor_limestone		dk_building_set_all	false
+rom_BARBARIAN_city_minor_marble		dk_building_set_all	false
+rom_BARBARIAN_city_minor_olives		dk_building_set_all	false
+rom_BARBARIAN_city_minor_purple_dye		dk_building_set_all	false
+rom_BARBARIAN_city_minor_silk		dk_building_set_all	false
+rom_BARBARIAN_city_minor_silver		dk_building_set_all	false
+rom_BARBARIAN_city_minor_timber		dk_building_set_all	false
+rom_BARBARIAN_city_minor_township		dk_building_set_all	false
+rom_BARBARIAN_city_minor_wine		dk_building_set_all	false
+rom_BARBARIAN_commons		dk_building_set_all	false
+rom_BARBARIAN_enclosure		dk_building_set_all	false
+rom_BARBARIAN_enclosure_minor		dk_building_set_all	false
+rom_BARBARIAN_port_major		dk_building_set_all	false
+rom_BARBARIAN_port_minor		dk_building_set_all	false
+rom_BARBARIAN_religious_celtic		dk_building_set_all	false
+rom_BARBARIAN_religious_celtic_minor		dk_building_set_all	false
+rom_BARBARIAN_religious_dacian		dk_building_set_all	false
+rom_BARBARIAN_religious_dacian_minor		dk_building_set_all	false
+rom_BARBARIAN_religious_germanic		dk_building_set_all	false
+rom_BARBARIAN_religious_germanic_minor		dk_building_set_all	false
+rom_BARBARIAN_religious_iberian		dk_building_set_all	false
+rom_BARBARIAN_religious_iberian_minor		dk_building_set_all	false
+rom_BARBARIAN_religious_illyrian		dk_building_set_all	false
+rom_BARBARIAN_religious_illyrian_minor		dk_building_set_all	false
+rom_BARBARIAN_religious_nomad		dk_building_set_all	false
+rom_BARBARIAN_religious_nomad_minor		dk_building_set_all	false
+rom_BARBARIAN_religious_thracian		dk_building_set_all	false
+rom_BARBARIAN_religious_thracian_minor		dk_building_set_all	false
+rom_EASTERN_buff		dk_building_set_all	false
+rom_EASTERN_city_major		dk_building_set_all	false
+rom_EASTERN_city_minor_fish		dk_building_set_all	false
+rom_EASTERN_city_minor_glass		dk_building_set_all	false
+rom_EASTERN_city_minor_gold		dk_building_set_all	false
+rom_EASTERN_city_minor_grain		dk_building_set_all	false
+rom_EASTERN_city_minor_hides		dk_building_set_all	false
+rom_EASTERN_city_minor_iron		dk_building_set_all	false
+rom_EASTERN_city_minor_limestone		dk_building_set_all	false
+rom_EASTERN_city_minor_marble		dk_building_set_all	false
+rom_EASTERN_city_minor_olives		dk_building_set_all	false
+rom_EASTERN_city_minor_purple_dye		dk_building_set_all	false
+rom_EASTERN_city_minor_silk		dk_building_set_all	false
+rom_EASTERN_city_minor_silver		dk_building_set_all	false
+rom_EASTERN_city_minor_timber		dk_building_set_all	false
+rom_EASTERN_city_minor_township		dk_building_set_all	false
+rom_EASTERN_city_minor_wine		dk_building_set_all	false
+rom_EASTERN_city_slot		dk_building_set_all	false
+rom_EASTERN_levy		dk_building_set_all	false
+rom_EASTERN_local_temple		dk_building_set_all	false
+rom_EASTERN_local_temple_minor		dk_building_set_all	false
+rom_EASTERN_outskirts		dk_building_set_all	false
+rom_EASTERN_outskirts_minor		dk_building_set_all	false
+rom_EASTERN_port_major		dk_building_set_all	false
+rom_EASTERN_port_minor		dk_building_set_all	false
+rom_EASTERN_stables		dk_building_set_all	false
+rom_HELLENIC_city_major		dk_building_set_all	false
+rom_HELLENIC_city_minor_fish		dk_building_set_all	false
+rom_HELLENIC_city_minor_glass		dk_building_set_all	false
+rom_HELLENIC_city_minor_gold		dk_building_set_all	false
+rom_HELLENIC_city_minor_grain		dk_building_set_all	false
+rom_HELLENIC_city_minor_hides		dk_building_set_all	false
+rom_HELLENIC_city_minor_iron		dk_building_set_all	false
+rom_HELLENIC_city_minor_limestone		dk_building_set_all	false
+rom_HELLENIC_city_minor_marble		dk_building_set_all	false
+rom_HELLENIC_city_minor_military_tradition		dk_building_set_all	false
+rom_HELLENIC_city_minor_olives		dk_building_set_all	false
+rom_HELLENIC_city_minor_purple_dye		dk_building_set_all	false
+rom_HELLENIC_city_minor_silk		dk_building_set_all	false
+rom_HELLENIC_city_minor_silver		dk_building_set_all	false
+rom_HELLENIC_city_minor_timber		dk_building_set_all	false
+rom_HELLENIC_city_minor_township		dk_building_set_all	false
+rom_HELLENIC_city_minor_wine		dk_building_set_all	false
+rom_HELLENIC_city_slot		dk_building_set_all	false
+rom_HELLENIC_military_buff		dk_building_set_all	false
+rom_HELLENIC_military_equipment		dk_building_set_all	false
+rom_HELLENIC_military_main		dk_building_set_all	false
+rom_HELLENIC_military_main_PUNIC		dk_building_set_all	false
+rom_HELLENIC_outskirts		dk_building_set_all	false
+rom_HELLENIC_outskirts_minor		dk_building_set_all	false
+rom_HELLENIC_outskirts_minor_MACEDON		dk_building_set_all	false
+rom_HELLENIC_port_major		dk_building_set_all	false
+rom_HELLENIC_port_minor		dk_building_set_all	false
+rom_HELLENIC_sanitation		dk_building_set_all	false
+rom_HELLENIC_sanitation_PUNIC		dk_building_set_all	false
+rom_HELLENIC_temple		dk_building_set_all	false
+rom_HELLENIC_temple_PTOLEMAIC		dk_building_set_all	false
+rom_HELLENIC_temple_PUNIC		dk_building_set_all	false
+rom_HELLENIC_temple_minor		dk_building_set_all	false
+rom_HELLENIC_temple_minor_PTOLEMAIC		dk_building_set_all	false
+rom_HELLENIC_temple_minor_PUNIC		dk_building_set_all	false
+rom_ROMAN_city_major		dk_building_set_all	false
+rom_ROMAN_city_minor_fish		dk_building_set_all	false
+rom_ROMAN_city_minor_glass		dk_building_set_all	false
+rom_ROMAN_city_minor_gold		dk_building_set_all	false
+rom_ROMAN_city_minor_grain		dk_building_set_all	false
+rom_ROMAN_city_minor_hides		dk_building_set_all	false
+rom_ROMAN_city_minor_iron		dk_building_set_all	false
+rom_ROMAN_city_minor_limestone		dk_building_set_all	false
+rom_ROMAN_city_minor_marble		dk_building_set_all	false
+rom_ROMAN_city_minor_olives		dk_building_set_all	false
+rom_ROMAN_city_minor_purple_dye		dk_building_set_all	false
+rom_ROMAN_city_minor_silk		dk_building_set_all	false
+rom_ROMAN_city_minor_silver		dk_building_set_all	false
+rom_ROMAN_city_minor_timber		dk_building_set_all	false
+rom_ROMAN_city_minor_township		dk_building_set_all	false
+rom_ROMAN_city_minor_wine		dk_building_set_all	false
+rom_ROMAN_city_slot		dk_building_set_all	false
+rom_ROMAN_military_buff		dk_building_set_all	false
+rom_ROMAN_military_equipment		dk_building_set_all	false
+rom_ROMAN_military_main		dk_building_set_all	false
+rom_ROMAN_outskirts		dk_building_set_all	false
+rom_ROMAN_outskirts_minor		dk_building_set_all	false
+rom_ROMAN_port_major		dk_building_set_all	false
+rom_ROMAN_port_minor		dk_building_set_all	false
+rom_ROMAN_sanitation		dk_building_set_all	false
+rom_ROMAN_temple		dk_building_set_all	false
+rom_ROMAN_temple_minor		dk_building_set_all	false
+rom_Slum		dk_building_set_all	false
+rome_agriculture		dk_building_set_all	false
+rome_amber		dk_building_set_all	false
+rome_city		dk_building_set_all	false
+rome_city_centre		dk_building_set_all	false
+rome_glass		dk_building_set_all	false
+rome_gold		dk_building_set_all	false
+rome_grain		dk_building_set_all	false
+rome_horse		dk_building_set_all	false
+rome_industry		dk_building_set_all	false
+rome_iron		dk_building_set_all	false
+rome_lead		dk_building_set_all	false
+rome_leather		dk_building_set_all	false
+rome_lumber		dk_building_set_all	false
+rome_marble		dk_building_set_all	false
+rome_military		dk_building_set_all	false
+rome_military_buff		dk_building_set_all	false
+rome_military_pun		dk_building_set_all	false
+rome_military_siege		dk_building_set_all	false
+rome_olive		dk_building_set_all	false
+rome_port		dk_building_set_all	false
+rome_purple_dye		dk_building_set_all	false
+rome_religious		dk_building_set_all	false
+rome_silk		dk_building_set_all	false
+rome_spice		dk_building_set_all	false
+rome_town		dk_building_set_all	false
+rome_town_centre		dk_building_set_all	false
+rome_water		dk_building_set_all	false
+rome_wine		dk_building_set_all	false
+inv_all_capitoline_hill		inv_all_buildings	false
+inv_all_carthago		inv_all_buildings	false
+inv_barb_amber		inv_all_buildings	false
+inv_barb_gold		inv_all_buildings	false
+inv_barb_grain		inv_all_buildings	false
+inv_barb_horse		inv_all_buildings	false
+inv_barb_iron		inv_all_buildings	false
+inv_barb_lead		inv_all_buildings	false
+inv_barb_leather		inv_all_buildings	false
+inv_barb_lumber		inv_all_buildings	false
+inv_barb_marble		inv_all_buildings	false
+inv_barb_olive		inv_all_buildings	false
+inv_barb_purple_dye		inv_all_buildings	false
+inv_barb_salt		inv_all_buildings	false
+inv_barb_wine		inv_all_buildings	false
+inv_car_agriculture		inv_all_buildings	false
+inv_car_amber		inv_all_buildings	false
+inv_car_city		inv_all_buildings	false
+inv_car_city_centre		inv_all_buildings	false
+inv_car_glass		inv_all_buildings	false
+inv_car_gold		inv_all_buildings	false
+inv_car_grain		inv_all_buildings	false
+inv_car_horse		inv_all_buildings	false
+inv_car_industrial		inv_all_buildings	false
+inv_car_iron		inv_all_buildings	false
+inv_car_lead		inv_all_buildings	false
+inv_car_leather		inv_all_buildings	false
+inv_car_lumber		inv_all_buildings	false
+inv_car_marble		inv_all_buildings	false
+inv_car_military		inv_all_buildings	false
+inv_car_military_buff		inv_all_buildings	false
+inv_car_military_siege		inv_all_buildings	false
+inv_car_olive		inv_all_buildings	false
+inv_car_port		inv_all_buildings	false
+inv_car_purple_dye		inv_all_buildings	false
+inv_car_religious		inv_all_buildings	false
+inv_car_silk		inv_all_buildings	false
+inv_car_spice		inv_all_buildings	false
+inv_car_town		inv_all_buildings	false
+inv_car_water		inv_all_buildings	false
+inv_gre_agriculture		inv_all_buildings	false
+inv_gre_city_centre		inv_all_buildings	false
+inv_gre_city_centre_taranto		inv_all_buildings	false
+inv_gre_industry_major		inv_all_buildings	false
+inv_gre_industry_minor		inv_all_buildings	false
+inv_gre_major_town		inv_all_buildings	false
+inv_gre_military_buff		inv_all_buildings	false
+inv_gre_military_recruitment		inv_all_buildings	false
+inv_gre_minor_town		inv_all_buildings	false
+inv_gre_minor_town_centre		inv_all_buildings	false
+inv_gre_port		inv_all_buildings	false
+inv_gre_religious		inv_all_buildings	false
+inv_gre_sanitation		inv_all_buildings	false
+inv_greek_amber		inv_all_buildings	false
+inv_greek_gold		inv_all_buildings	false
+inv_greek_grain		inv_all_buildings	false
+inv_greek_horse		inv_all_buildings	false
+inv_greek_iron		inv_all_buildings	false
+inv_greek_lead		inv_all_buildings	false
+inv_greek_leather		inv_all_buildings	false
+inv_greek_lumber		inv_all_buildings	false
+inv_greek_marble		inv_all_buildings	false
+inv_greek_olive		inv_all_buildings	false
+inv_greek_purple_dye		inv_all_buildings	false
+inv_greek_salt		inv_all_buildings	false
+inv_greek_wine		inv_all_buildings	false
+inv_ita_agriculture		inv_all_buildings	false
+inv_ita_industry_major		inv_all_buildings	false
+inv_ita_industry_minor		inv_all_buildings	false
+inv_ita_major_city		inv_all_buildings	false
+inv_ita_major_city_centre		inv_all_buildings	false
+inv_ita_military_buff		inv_all_buildings	false
+inv_ita_military_recruitment		inv_all_buildings	false
+inv_ita_minor_town		inv_all_buildings	false
+inv_ita_minor_town_centre		inv_all_buildings	false
+inv_ita_port		inv_all_buildings	false
+inv_ita_religious		inv_all_buildings	false
+inv_ita_sanitation		inv_all_buildings	false
+inv_new_barb_agriculture		inv_all_buildings	false
+inv_new_barb_agriculture_minor		inv_all_buildings	false
+inv_new_barb_city		inv_all_buildings	false
+inv_new_barb_city_centre		inv_all_buildings	false
+inv_new_barb_industry		inv_all_buildings	false
+inv_new_barb_military_buff		inv_all_buildings	false
+inv_new_barb_military_recruitment		inv_all_buildings	false
+inv_new_barb_minor_industry		inv_all_buildings	false
+inv_new_barb_minor_town		inv_all_buildings	false
+inv_new_barb_port		inv_all_buildings	false
+inv_new_barb_religious		inv_all_buildings	false
+inv_new_barb_water		inv_all_buildings	false
+inv_new_etr_amber		inv_all_buildings	false
+inv_new_etr_gold		inv_all_buildings	false
+inv_new_etr_grain		inv_all_buildings	false
+inv_new_etr_horse		inv_all_buildings	false
+inv_new_etr_iron		inv_all_buildings	false
+inv_new_etr_lead		inv_all_buildings	false
+inv_new_etr_leather		inv_all_buildings	false
+inv_new_etr_lumber		inv_all_buildings	false
+inv_new_etr_main_administration		inv_all_buildings	false
+inv_new_etr_main_agriculture		inv_all_buildings	false
+inv_new_etr_main_city		inv_all_buildings	false
+inv_new_etr_main_industry		inv_all_buildings	false
+inv_new_etr_main_military		inv_all_buildings	false
+inv_new_etr_main_religion		inv_all_buildings	false
+inv_new_etr_marble		inv_all_buildings	false
+inv_new_etr_minor_agriculture		inv_all_buildings	false
+inv_new_etr_minor_industry		inv_all_buildings	false
+inv_new_etr_minor_military		inv_all_buildings	false
+inv_new_etr_minor_religion		inv_all_buildings	false
+inv_new_etr_minor_town		inv_all_buildings	false
+inv_new_etr_olive		inv_all_buildings	false
+inv_new_etr_port		inv_all_buildings	false
+inv_new_etr_purple_dye		inv_all_buildings	false
+inv_new_etr_salt		inv_all_buildings	false
+inv_new_etr_wine		inv_all_buildings	false
+inv_nur_agriculture		inv_all_buildings	false
+inv_nur_industry_major		inv_all_buildings	false
+inv_nur_major_city		inv_all_buildings	false
+inv_nur_major_city_centre		inv_all_buildings	false
+inv_nur_military		inv_all_buildings	false
+inv_nur_minor_town		inv_all_buildings	false
+inv_nur_port		inv_all_buildings	false
+inv_nur_religious		inv_all_buildings	false
+inv_nur_sanitation		inv_all_buildings	false
+inv_rom_agriculture		inv_all_buildings	false
+inv_rom_amber		inv_all_buildings	false
+inv_rom_capital		inv_all_buildings	false
+inv_rom_city_centre		inv_all_buildings	false
+inv_rom_gold		inv_all_buildings	false
+inv_rom_grain		inv_all_buildings	false
+inv_rom_horse		inv_all_buildings	false
+inv_rom_industry_major		inv_all_buildings	false
+inv_rom_iron		inv_all_buildings	false
+inv_rom_lead		inv_all_buildings	false
+inv_rom_leather		inv_all_buildings	false
+inv_rom_lumber		inv_all_buildings	false
+inv_rom_marble		inv_all_buildings	false
+inv_rom_military_buff		inv_all_buildings	false
+inv_rom_military_recruitment		inv_all_buildings	false
+inv_rom_minor_town		inv_all_buildings	false
+inv_rom_olive		inv_all_buildings	false
+inv_rom_port		inv_all_buildings	false
+inv_rom_purple_dye		inv_all_buildings	false
+inv_rom_religious		inv_all_buildings	false
+inv_rom_salt		inv_all_buildings	false
+inv_rom_sanitation		inv_all_buildings	false
+inv_rom_town_centre		inv_all_buildings	false
+inv_rom_wine		inv_all_buildings	false
+inv_rome_resource_building_dummy		inv_all_buildings	false
+inv_ven_agriculture		inv_all_buildings	false
+inv_ven_city_centre		inv_all_buildings	false
+inv_ven_industry		inv_all_buildings	false
+inv_ven_major_town		inv_all_buildings	false
+inv_ven_military_industry		inv_all_buildings	false
+inv_ven_military_recruitment		inv_all_buildings	false
+inv_ven_minor_town		inv_all_buildings	false
+inv_ven_port		inv_all_buildings	false
+inv_ven_religious		inv_all_buildings	false
+inv_ven_sanitation		inv_all_buildings	false
+inv_barb_grain		inv_all_farms	false
+inv_car_agriculture		inv_all_farms	false
+inv_car_grain		inv_all_farms	false
+inv_gre_agriculture		inv_all_farms	false
+inv_greek_grain		inv_all_farms	false
+inv_ita_agriculture		inv_all_farms	false
+inv_new_barb_agriculture		inv_all_farms	false
+inv_new_etr_grain		inv_all_farms	false
+inv_new_etr_main_agriculture		inv_all_farms	false
+inv_new_etr_minor_agriculture		inv_all_farms	false
+inv_nur_agriculture		inv_all_farms	false
+inv_rom_agriculture		inv_all_farms	false
+inv_rom_grain		inv_all_farms	false
+inv_ven_agriculture		inv_all_farms	false
+inv_car_port		inv_all_ports	false
+inv_gre_port		inv_all_ports	false
+inv_ita_port		inv_all_ports	false
+inv_new_barb_port		inv_all_ports	false
+inv_new_etr_port		inv_all_ports	false
+inv_nur_port		inv_all_ports	false
+inv_rom_port		inv_all_ports	false
+inv_ven_port		inv_all_ports	false
+inv_barb_amber		inv_barb_amber_buildings	false
+inv_barb_lead		inv_barb_lead_buildings	false
+inv_barb_leather		inv_barb_leather_buildings	false
+	inv_new_barb_agriculture_1	inv_barb_set_farms	false
+	inv_new_barb_agriculture_farm_2	inv_barb_set_farms	false
+	inv_new_barb_agriculture_farm_3	inv_barb_set_farms	false
+	inv_new_barb_agriculture_farm_4	inv_barb_set_farms	false
+	inv_new_barb_agriculture_herd_2	inv_barb_set_farms	false
+	inv_new_barb_agriculture_herd_3	inv_barb_set_farms	false
+	inv_new_barb_agriculture_herd_4	inv_barb_set_farms	false
+	inv_new_barb_agriculture_horses_2	inv_barb_set_farms	false
+	inv_new_barb_agriculture_horses_3	inv_barb_set_farms	false
+	inv_new_barb_agriculture_horses_4	inv_barb_set_farms	false
+	inv_barb_wine_1	inv_building_set_all_wine	false
+	inv_barb_wine_2	inv_building_set_all_wine	false
+	inv_barb_wine_3	inv_building_set_all_wine	false
+	inv_barb_wine_4	inv_building_set_all_wine	false
+	inv_car_city_centre_wine_2	inv_building_set_all_wine	false
+	inv_car_city_centre_wine_3	inv_building_set_all_wine	false
+	inv_car_city_centre_wine_4	inv_building_set_all_wine	false
+	inv_greek_wine_1	inv_building_set_all_wine	false
+	inv_greek_wine_2	inv_building_set_all_wine	false
+	inv_greek_wine_3	inv_building_set_all_wine	false
+	inv_greek_wine_4	inv_building_set_all_wine	false
+	inv_new_etr_wine_1	inv_building_set_all_wine	false
+	inv_new_etr_wine_2	inv_building_set_all_wine	false
+	inv_new_etr_wine_3	inv_building_set_all_wine	false
+	inv_new_etr_wine_4	inv_building_set_all_wine	false
+	inv_new_etr_wine_5	inv_building_set_all_wine	false
+	inv_new_etr_wine_6	inv_building_set_all_wine	false
+	inv_rom_wine_1	inv_building_set_all_wine	false
+	inv_rom_wine_2	inv_building_set_all_wine	false
+	inv_rom_wine_3	inv_building_set_all_wine	false
+	inv_rom_wine_4	inv_building_set_all_wine	false
+	3c_armenia_military_cavalry_4	inv_building_set_culture_greek	false
+	inv_gre_city_centre_library_2	inv_building_set_culture_greek	false
+	inv_gre_city_centre_library_3	inv_building_set_culture_greek	false
+	inv_gre_city_centre_library_4	inv_building_set_culture_greek	false
+	inv_gre_city_centre_library_taranto_2	inv_building_set_culture_greek	false
+	inv_gre_city_centre_library_taranto_3	inv_building_set_culture_greek	false
+	inv_gre_city_centre_library_taranto_4	inv_building_set_culture_greek	false
+	inv_gre_city_centre_taranto_library_2	inv_building_set_culture_greek	false
+	inv_gre_city_centre_taranto_library_3	inv_building_set_culture_greek	false
+	inv_gre_city_centre_taranto_library_4	inv_building_set_culture_greek	false
+	inv_gre_city_centre_taranto_theatre_2	inv_building_set_culture_greek	false
+	inv_gre_city_centre_taranto_theatre_3	inv_building_set_culture_greek	false
+	inv_gre_city_centre_theatre_2	inv_building_set_culture_greek	false
+	inv_gre_city_centre_theatre_3	inv_building_set_culture_greek	false
+	inv_gre_city_centre_theatre_4	inv_building_set_culture_greek	false
+	inv_new_etr_main_adiministration_growth_4	inv_etr_major_all	false
+	inv_new_etr_main_adiministration_growth_5	inv_etr_major_all	false
+	inv_new_etr_main_adiministration_growth_6	inv_etr_major_all	false
+	inv_new_etr_main_adiministration_wealth_3	inv_etr_major_all	false
+	inv_new_etr_main_adiministration_wealth_4	inv_etr_major_all	false
+	inv_new_etr_main_adiministration_wealth_5	inv_etr_major_all	false
+	inv_new_etr_main_adiministration_wealth_6	inv_etr_major_all	false
+	inv_new_etr_main_agriculture_3	inv_etr_major_all	false
+	inv_new_etr_main_agriculture_food_4	inv_etr_major_all	false
+	inv_new_etr_main_agriculture_food_5	inv_etr_major_all	false
+	inv_new_etr_main_agriculture_food_6	inv_etr_major_all	false
+	inv_new_etr_main_agriculture_wealth_4	inv_etr_major_all	false
+	inv_new_etr_main_agriculture_wealth_5	inv_etr_major_all	false
+	inv_new_etr_main_agriculture_wealth_6	inv_etr_major_all	false
+	inv_new_etr_main_city_2	inv_etr_major_all	false
+	inv_new_etr_main_city_3	inv_etr_major_all	false
+	inv_new_etr_main_city_4	inv_etr_major_all	false
+	inv_new_etr_main_city_5	inv_etr_major_all	false
+	inv_new_etr_main_city_6	inv_etr_major_all	false
+	inv_new_etr_main_industry_3	inv_etr_major_all	false
+	inv_new_etr_main_industry_amphora_4	inv_etr_major_all	false
+	inv_new_etr_main_industry_amphora_5	inv_etr_major_all	false
+	inv_new_etr_main_industry_amphora_6	inv_etr_major_all	false
+	inv_new_etr_main_industry_mint_4	inv_etr_major_all	false
+	inv_new_etr_main_industry_mint_5	inv_etr_major_all	false
+	inv_new_etr_main_industry_mint_6	inv_etr_major_all	false
+	inv_new_etr_main_military_3	inv_etr_major_all	false
+	inv_new_etr_main_military_buff_4	inv_etr_major_all	false
+	inv_new_etr_main_military_buff_5	inv_etr_major_all	false
+	inv_new_etr_main_military_buff_6	inv_etr_major_all	false
+	inv_new_etr_main_military_recruit_4	inv_etr_major_all	false
+	inv_new_etr_main_military_recruit_5	inv_etr_major_all	false
+	inv_new_etr_main_military_recruit_6	inv_etr_major_all	false
+	inv_new_etr_main_religion_3	inv_etr_major_all	false
+	inv_new_etr_main_religion_agriculture_4	inv_etr_major_all	false
+	inv_new_etr_main_religion_agriculture_5	inv_etr_major_all	false
+	inv_new_etr_main_religion_agriculture_6	inv_etr_major_all	false
+	inv_new_etr_main_religion_military_4	inv_etr_major_all	false
+	inv_new_etr_main_religion_military_5	inv_etr_major_all	false
+	inv_new_etr_main_religion_military_6	inv_etr_major_all	false
+	inv_new_etr_main_religion_port_4	inv_etr_major_all	false
+	inv_new_etr_main_religion_port_5	inv_etr_major_all	false
+	inv_new_etr_main_religion_port_6	inv_etr_major_all	false
+	inv_new_etr_main_religion_research_4	inv_etr_major_all	false
+	inv_new_etr_main_religion_research_5	inv_etr_major_all	false
+	inv_new_etr_main_religion_research_6	inv_etr_major_all	false
+inv_new_etr_minor_agriculture		inv_etr_minor_agriculture	false
+inv_new_etr_port		inv_etr_minor_port	false
+inv_new_etr_minor_military		inv_etr_minor_religion	false
+inv_barb_amber		inv_insubres_all_buildings	false
+inv_barb_gold		inv_insubres_all_buildings	false
+inv_barb_grain		inv_insubres_all_buildings	false
+inv_barb_horse		inv_insubres_all_buildings	false
+inv_barb_iron		inv_insubres_all_buildings	false
+inv_barb_lead		inv_insubres_all_buildings	false
+inv_barb_leather		inv_insubres_all_buildings	false
+inv_barb_lumber		inv_insubres_all_buildings	false
+inv_barb_marble		inv_insubres_all_buildings	false
+inv_barb_olive		inv_insubres_all_buildings	false
+inv_barb_purple_dye		inv_insubres_all_buildings	false
+inv_barb_salt		inv_insubres_all_buildings	false
+inv_barb_wine		inv_insubres_all_buildings	false
+inv_new_barb_agriculture		inv_insubres_all_buildings	false
+inv_new_barb_city		inv_insubres_all_buildings	false
+inv_new_barb_city_centre		inv_insubres_all_buildings	false
+inv_new_barb_industry		inv_insubres_all_buildings	false
+inv_new_barb_military_buff		inv_insubres_all_buildings	false
+inv_new_barb_military_recruitment		inv_insubres_all_buildings	false
+inv_new_barb_minor_industry		inv_insubres_all_buildings	false
+inv_new_barb_minor_town		inv_insubres_all_buildings	false
+inv_new_barb_port		inv_insubres_all_buildings	false
+inv_new_barb_religious		inv_insubres_all_buildings	false
+inv_new_barb_water		inv_insubres_all_buildings	false
+inv_barb_amber		inv_nur_minor_settlement	false
+inv_barb_gold		inv_nur_minor_settlement	false
+inv_barb_grain		inv_nur_minor_settlement	false
+inv_barb_horse		inv_nur_minor_settlement	false
+inv_barb_iron		inv_nur_minor_settlement	false
+inv_barb_lead		inv_nur_minor_settlement	false
+inv_barb_leather		inv_nur_minor_settlement	false
+inv_barb_lumber		inv_nur_minor_settlement	false
+inv_barb_marble		inv_nur_minor_settlement	false
+inv_barb_olive		inv_nur_minor_settlement	false
+inv_barb_purple_dye		inv_nur_minor_settlement	false
+inv_barb_salt		inv_nur_minor_settlement	false
+inv_barb_wine		inv_nur_minor_settlement	false
+inv_nur_agriculture		inv_nur_minor_settlement	false
+inv_nur_minor_town		inv_nur_minor_settlement	false
+inv_nur_sanitation		inv_nur_minor_settlement	false
+inv_nur_agriculture		inv_nur_set_farms	false
+inv_barb_amber		inv_senones_all_buildings	false
+inv_barb_gold		inv_senones_all_buildings	false
+inv_barb_grain		inv_senones_all_buildings	false
+inv_barb_horse		inv_senones_all_buildings	false
+inv_barb_iron		inv_senones_all_buildings	false
+inv_barb_lead		inv_senones_all_buildings	false
+inv_barb_leather		inv_senones_all_buildings	false
+inv_barb_lumber		inv_senones_all_buildings	false
+inv_barb_marble		inv_senones_all_buildings	false
+inv_barb_olive		inv_senones_all_buildings	false
+inv_barb_purple_dye		inv_senones_all_buildings	false
+inv_barb_salt		inv_senones_all_buildings	false
+inv_barb_wine		inv_senones_all_buildings	false
+inv_new_barb_agriculture		inv_senones_all_buildings	false
+inv_new_barb_city		inv_senones_all_buildings	false
+inv_new_barb_city_centre		inv_senones_all_buildings	false
+inv_new_barb_industry		inv_senones_all_buildings	false
+inv_new_barb_military_buff		inv_senones_all_buildings	false
+inv_new_barb_military_recruitment		inv_senones_all_buildings	false
+inv_new_barb_minor_industry		inv_senones_all_buildings	false
+inv_new_barb_minor_town		inv_senones_all_buildings	false
+inv_new_barb_port		inv_senones_all_buildings	false
+inv_new_barb_religious		inv_senones_all_buildings	false
+inv_new_barb_water		inv_senones_all_buildings	false
+	pel_city_centre_2_theatre	pel_building_set_theatres	false
+	pel_city_centre_3_theatre	pel_building_set_theatres	false
+	pel_city_centre_4_theatre	pel_building_set_theatres	false
+barb_agriculture		rom_building_set_agriculture	false
+barb_agriculture_minor		rom_building_set_agriculture	false
+barb_agriculture_minor_nomad		rom_building_set_agriculture	false
+barb_agriculture_nomad		rom_building_set_agriculture	false
+east_agriculture		rom_building_set_agriculture	false
+greek_agriculture		rom_building_set_agriculture	false
+inv_gre_agriculture		rom_building_set_agriculture	false
+inv_greek_grain		rom_building_set_agriculture	false
+inv_new_barb_agriculture		rom_building_set_agriculture	false
+inv_new_etr_main_agriculture		rom_building_set_agriculture	false
+inv_new_etr_minor_agriculture		rom_building_set_agriculture	false
+pel_agriculture		rom_building_set_agriculture	false
+pel_agriculture_barb		rom_building_set_agriculture	false
+pel_agriculture_east		rom_building_set_agriculture	false
+rom_BARBARIAN_enclosure		rom_building_set_agriculture	false
+rom_BARBARIAN_enclosure_minor		rom_building_set_agriculture	false
+rom_EASTERN_outskirts_minor		rom_building_set_agriculture	false
+rom_HELLENIC_outskirts_minor		rom_building_set_agriculture	false
+rom_HELLENIC_outskirts_minor_MACEDON		rom_building_set_agriculture	false
+rom_ROMAN_outskirts_minor		rom_building_set_agriculture	false
+rome_agriculture		rom_building_set_agriculture	false
+3c_barb_amber		rom_building_set_capital	false
+3c_barb_city		rom_building_set_capital	false
+3c_barb_glass		rom_building_set_capital	false
+3c_barb_gold		rom_building_set_capital	false
+3c_barb_grain		rom_building_set_capital	false
+3c_barb_horse		rom_building_set_capital	false
+3c_barb_iron		rom_building_set_capital	false
+3c_barb_lead		rom_building_set_capital	false
+3c_barb_leather		rom_building_set_capital	false
+3c_barb_lumber		rom_building_set_capital	false
+3c_barb_marble		rom_building_set_capital	false
+3c_barb_olive		rom_building_set_capital	false
+3c_barb_purple_dye		rom_building_set_capital	false
+3c_barb_silk		rom_building_set_capital	false
+3c_barb_town		rom_building_set_capital	false
+3c_barb_wine		rom_building_set_capital	false
+3c_east_amber		rom_building_set_capital	false
+3c_east_city		rom_building_set_capital	false
+3c_east_glass		rom_building_set_capital	false
+3c_east_gold		rom_building_set_capital	false
+3c_east_grain		rom_building_set_capital	false
+3c_east_horse		rom_building_set_capital	false
+3c_east_iron		rom_building_set_capital	false
+3c_east_lead		rom_building_set_capital	false
+3c_east_leather		rom_building_set_capital	false
+3c_east_lumber		rom_building_set_capital	false
+3c_east_marble		rom_building_set_capital	false
+3c_east_olive		rom_building_set_capital	false
+3c_east_purple_dye		rom_building_set_capital	false
+3c_east_silk		rom_building_set_capital	false
+3c_east_town		rom_building_set_capital	false
+3c_east_wine		rom_building_set_capital	false
+3c_palmyra_city_major		rom_building_set_capital	false
+3c_rome_amber		rom_building_set_capital	false
+3c_rome_city_major		rom_building_set_capital	false
+3c_rome_glass		rom_building_set_capital	false
+3c_rome_gold		rom_building_set_capital	false
+3c_rome_grain		rom_building_set_capital	false
+3c_rome_horse		rom_building_set_capital	false
+3c_rome_iron		rom_building_set_capital	false
+3c_rome_lead		rom_building_set_capital	false
+3c_rome_leather		rom_building_set_capital	false
+3c_rome_lumber		rom_building_set_capital	false
+3c_rome_marble		rom_building_set_capital	false
+3c_rome_olive		rom_building_set_capital	false
+3c_rome_purple_dye		rom_building_set_capital	false
+3c_rome_silk		rom_building_set_capital	false
+3c_rome_town		rom_building_set_capital	false
+3c_rome_wine		rom_building_set_capital	false
+inv_gre_major_town		rom_building_set_capital	false
+inv_gre_minor_town		rom_building_set_capital	false
+rom_BARBARIAN_city_major		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_fish		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_glass		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_gold		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_grain		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_hides		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_iron		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_limestone		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_marble		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_olives		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_purple_dye		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_silk		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_silver		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_timber		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_township		rom_building_set_capital	false
+rom_BARBARIAN_city_minor_wine		rom_building_set_capital	false
+rom_EASTERN_city_major		rom_building_set_capital	false
+rom_EASTERN_city_minor_fish		rom_building_set_capital	false
+rom_EASTERN_city_minor_glass		rom_building_set_capital	false
+rom_EASTERN_city_minor_gold		rom_building_set_capital	false
+rom_EASTERN_city_minor_grain		rom_building_set_capital	false
+rom_EASTERN_city_minor_hides		rom_building_set_capital	false
+rom_EASTERN_city_minor_iron		rom_building_set_capital	false
+rom_EASTERN_city_minor_limestone		rom_building_set_capital	false
+rom_EASTERN_city_minor_marble		rom_building_set_capital	false
+rom_EASTERN_city_minor_olives		rom_building_set_capital	false
+rom_EASTERN_city_minor_purple_dye		rom_building_set_capital	false
+rom_EASTERN_city_minor_silk		rom_building_set_capital	false
+rom_EASTERN_city_minor_silver		rom_building_set_capital	false
+rom_EASTERN_city_minor_timber		rom_building_set_capital	false
+rom_EASTERN_city_minor_township		rom_building_set_capital	false
+rom_EASTERN_city_minor_wine		rom_building_set_capital	false
+rom_HELLENIC_city_major		rom_building_set_capital	false
+rom_HELLENIC_city_minor_fish		rom_building_set_capital	false
+rom_HELLENIC_city_minor_glass		rom_building_set_capital	false
+rom_HELLENIC_city_minor_gold		rom_building_set_capital	false
+rom_HELLENIC_city_minor_grain		rom_building_set_capital	false
+rom_HELLENIC_city_minor_hides		rom_building_set_capital	false
+rom_HELLENIC_city_minor_iron		rom_building_set_capital	false
+rom_HELLENIC_city_minor_limestone		rom_building_set_capital	false
+rom_HELLENIC_city_minor_marble		rom_building_set_capital	false
+rom_HELLENIC_city_minor_military_tradition		rom_building_set_capital	false
+rom_HELLENIC_city_minor_olives		rom_building_set_capital	false
+rom_HELLENIC_city_minor_purple_dye		rom_building_set_capital	false
+rom_HELLENIC_city_minor_silk		rom_building_set_capital	false
+rom_HELLENIC_city_minor_silver		rom_building_set_capital	false
+rom_HELLENIC_city_minor_timber		rom_building_set_capital	false
+rom_HELLENIC_city_minor_township		rom_building_set_capital	false
+rom_HELLENIC_city_minor_wine		rom_building_set_capital	false
+rom_ROMAN_city_major		rom_building_set_capital	false
+rom_ROMAN_city_minor_fish		rom_building_set_capital	false
+rom_ROMAN_city_minor_glass		rom_building_set_capital	false
+rom_ROMAN_city_minor_gold		rom_building_set_capital	false
+rom_ROMAN_city_minor_grain		rom_building_set_capital	false
+rom_ROMAN_city_minor_hides		rom_building_set_capital	false
+rom_ROMAN_city_minor_iron		rom_building_set_capital	false
+rom_ROMAN_city_minor_limestone		rom_building_set_capital	false
+rom_ROMAN_city_minor_marble		rom_building_set_capital	false
+rom_ROMAN_city_minor_olives		rom_building_set_capital	false
+rom_ROMAN_city_minor_purple_dye		rom_building_set_capital	false
+rom_ROMAN_city_minor_silk		rom_building_set_capital	false
+rom_ROMAN_city_minor_silver		rom_building_set_capital	false
+rom_ROMAN_city_minor_timber		rom_building_set_capital	false
+rom_ROMAN_city_minor_township		rom_building_set_capital	false
+rom_ROMAN_city_minor_wine		rom_building_set_capital	false
+3c_barb_commons		rom_building_set_city_centre	false
+3c_barb_commons_nomad		rom_building_set_city_centre	false
+3c_east_city_centre		rom_building_set_city_centre	false
+3c_rome_city_centre		rom_building_set_city_centre	false
+barb_commons		rom_building_set_city_centre	false
+barb_commons_nomad		rom_building_set_city_centre	false
+dk_afr_city_centre		rom_building_set_city_centre	false
+dk_ara_city_centre		rom_building_set_city_centre	false
+dk_ara_town_centre		rom_building_set_city_centre	false
+dk_kush_town_centre		rom_building_set_city_centre	false
+east_city_centre		rom_building_set_city_centre	false
+east_tax		rom_building_set_city_centre	false
+east_town_centre		rom_building_set_city_centre	false
+greek_city_centre		rom_building_set_city_centre	false
+greek_town_centre		rom_building_set_city_centre	false
+inv_gre_city_centre		rom_building_set_city_centre	false
+inv_new_etr_main_administration		rom_building_set_city_centre	false
+pel_city_centre		rom_building_set_city_centre	false
+pel_town_centre		rom_building_set_city_centre	false
+rom_BARBARIAN_commons		rom_building_set_city_centre	false
+rom_EASTERN_city_slot		rom_building_set_city_centre	false
+rom_HELLENIC_city_slot		rom_building_set_city_centre	false
+rom_ROMAN_city_slot		rom_building_set_city_centre	false
+rome_city_centre		rom_building_set_city_centre	false
+rome_town_centre		rom_building_set_city_centre	false
+barb_city		rom_building_set_city_major	false
+dk_all_city		rom_building_set_city_major	false
+east_city		rom_building_set_city_major	false
+greek_city		rom_building_set_city_major	false
+inv_gre_major_town		rom_building_set_city_major	false
+inv_new_etr_main_city		rom_building_set_city_major	false
+inv_rom_capital		rom_building_set_city_major	false
+pel_city		rom_building_set_city_major	false
+rom_BARBARIAN_city_major		rom_building_set_city_major	false
+rom_EASTERN_city_major		rom_building_set_city_major	false
+rom_HELLENIC_city_major		rom_building_set_city_major	false
+rom_ROMAN_city_major		rom_building_set_city_major	false
+rome_city		rom_building_set_city_major	false
+barb_amber		rom_building_set_city_minor	false
+barb_glass		rom_building_set_city_minor	false
+barb_gold		rom_building_set_city_minor	false
+barb_grain		rom_building_set_city_minor	false
+barb_horse		rom_building_set_city_minor	false
+barb_iron		rom_building_set_city_minor	false
+barb_lead		rom_building_set_city_minor	false
+barb_leather		rom_building_set_city_minor	false
+barb_lumber		rom_building_set_city_minor	false
+barb_marble		rom_building_set_city_minor	false
+barb_olive		rom_building_set_city_minor	false
+barb_purple_dye		rom_building_set_city_minor	false
+barb_silk		rom_building_set_city_minor	false
+barb_town		rom_building_set_city_minor	false
+barb_wine		rom_building_set_city_minor	false
+dk_all_minor_settlement		rom_building_set_city_minor	false
+dk_minor_amber		rom_building_set_city_minor	false
+dk_minor_glass		rom_building_set_city_minor	false
+dk_minor_gold		rom_building_set_city_minor	false
+dk_minor_grain		rom_building_set_city_minor	false
+dk_minor_horse		rom_building_set_city_minor	false
+dk_minor_iron		rom_building_set_city_minor	false
+dk_minor_lead		rom_building_set_city_minor	false
+dk_minor_leather		rom_building_set_city_minor	false
+dk_minor_lumber		rom_building_set_city_minor	false
+dk_minor_marble		rom_building_set_city_minor	false
+dk_minor_olive		rom_building_set_city_minor	false
+dk_minor_purple_dye		rom_building_set_city_minor	false
+dk_minor_silk		rom_building_set_city_minor	false
+dk_minor_spice		rom_building_set_city_minor	false
+dk_minor_wine		rom_building_set_city_minor	false
+east_amber		rom_building_set_city_minor	false
+east_glass		rom_building_set_city_minor	false
+east_gold		rom_building_set_city_minor	false
+east_grain		rom_building_set_city_minor	false
+east_horse		rom_building_set_city_minor	false
+east_iron		rom_building_set_city_minor	false
+east_lead		rom_building_set_city_minor	false
+east_leather		rom_building_set_city_minor	false
+east_lumber		rom_building_set_city_minor	false
+east_marble		rom_building_set_city_minor	false
+east_olive		rom_building_set_city_minor	false
+east_purple_dye		rom_building_set_city_minor	false
+east_silk		rom_building_set_city_minor	false
+east_town		rom_building_set_city_minor	false
+east_wine		rom_building_set_city_minor	false
+greek_amber		rom_building_set_city_minor	false
+greek_glass		rom_building_set_city_minor	false
+greek_gold		rom_building_set_city_minor	false
+greek_grain		rom_building_set_city_minor	false
+greek_horse		rom_building_set_city_minor	false
+greek_iron		rom_building_set_city_minor	false
+greek_lead		rom_building_set_city_minor	false
+greek_leather		rom_building_set_city_minor	false
+greek_lumber		rom_building_set_city_minor	false
+greek_marble		rom_building_set_city_minor	false
+greek_olive		rom_building_set_city_minor	false
+greek_purple_dye		rom_building_set_city_minor	false
+greek_silk		rom_building_set_city_minor	false
+greek_town		rom_building_set_city_minor	false
+greek_wine		rom_building_set_city_minor	false
+inv_barb_amber	inv_barb_amber_1	rom_building_set_city_minor	false
+inv_barb_amber	inv_barb_amber_2	rom_building_set_city_minor	false
+inv_barb_amber	inv_barb_amber_3	rom_building_set_city_minor	false
+inv_barb_amber	inv_barb_amber_4	rom_building_set_city_minor	false
+inv_barb_gold	inv_barb_gold_1	rom_building_set_city_minor	false
+inv_barb_gold	inv_barb_gold_2	rom_building_set_city_minor	false
+inv_barb_gold	inv_barb_gold_3	rom_building_set_city_minor	false
+inv_barb_gold	inv_barb_gold_4	rom_building_set_city_minor	false
+inv_barb_grain	inv_barb_grain_1	rom_building_set_city_minor	false
+inv_barb_grain	inv_barb_grain_2	rom_building_set_city_minor	false
+inv_barb_grain	inv_barb_grain_3	rom_building_set_city_minor	false
+inv_barb_grain	inv_barb_grain_4	rom_building_set_city_minor	false
+inv_barb_horse	inv_barb_horse_1	rom_building_set_city_minor	false
+inv_barb_horse	inv_barb_horse_2	rom_building_set_city_minor	false
+inv_barb_horse	inv_barb_horse_3	rom_building_set_city_minor	false
+inv_barb_iron	inv_barb_iron_1	rom_building_set_city_minor	false
+inv_barb_iron	inv_barb_iron_armour_2	rom_building_set_city_minor	false
+inv_barb_iron	inv_barb_iron_armour_3	rom_building_set_city_minor	false
+inv_barb_iron	inv_barb_iron_weapon_2	rom_building_set_city_minor	false
+inv_barb_iron	inv_barb_iron_weapon_3	rom_building_set_city_minor	false
+inv_barb_lead	inv_barb_lead_1	rom_building_set_city_minor	false
+inv_barb_lead	inv_barb_lead_2	rom_building_set_city_minor	false
+inv_barb_lead	inv_barb_lead_3	rom_building_set_city_minor	false
+inv_barb_lead	inv_barb_lead_4	rom_building_set_city_minor	false
+inv_barb_leather	inv_barb_leather_1	rom_building_set_city_minor	false
+inv_barb_leather	inv_barb_leather_2	rom_building_set_city_minor	false
+inv_barb_leather	inv_barb_leather_3	rom_building_set_city_minor	false
+inv_barb_leather	inv_barb_leather_4	rom_building_set_city_minor	false
+inv_barb_lumber	inv_barb_lumber_1	rom_building_set_city_minor	false
+inv_barb_lumber	inv_barb_lumber_2	rom_building_set_city_minor	false
+inv_barb_lumber	inv_barb_lumber_3	rom_building_set_city_minor	false
+inv_barb_lumber	inv_barb_lumber_4	rom_building_set_city_minor	false
+inv_barb_marble	inv_barb_marble_1	rom_building_set_city_minor	false
+inv_barb_marble	inv_barb_marble_2	rom_building_set_city_minor	false
+inv_barb_marble	inv_barb_marble_3	rom_building_set_city_minor	false
+inv_barb_marble	inv_barb_marble_4	rom_building_set_city_minor	false
+inv_barb_olive	inv_barb_olive_1	rom_building_set_city_minor	false
+inv_barb_olive	inv_barb_olive_2	rom_building_set_city_minor	false
+inv_barb_olive	inv_barb_olive_3	rom_building_set_city_minor	false
+inv_barb_olive	inv_barb_olive_4	rom_building_set_city_minor	false
+inv_barb_purple_dye	inv_barb_purple_dye_1	rom_building_set_city_minor	false
+inv_barb_purple_dye	inv_barb_purple_dye_2	rom_building_set_city_minor	false
+inv_barb_purple_dye	inv_barb_purple_dye_3	rom_building_set_city_minor	false
+inv_barb_purple_dye	inv_barb_purple_dye_4	rom_building_set_city_minor	false
+inv_barb_salt	inv_barb_salt_1	rom_building_set_city_minor	false
+inv_barb_salt	inv_barb_salt_2	rom_building_set_city_minor	false
+inv_barb_salt	inv_barb_salt_3	rom_building_set_city_minor	false
+inv_barb_salt	inv_barb_salt_4	rom_building_set_city_minor	false
+inv_barb_wine	inv_barb_wine_1	rom_building_set_city_minor	false
+inv_barb_wine	inv_barb_wine_2	rom_building_set_city_minor	false
+inv_barb_wine	inv_barb_wine_3	rom_building_set_city_minor	false
+inv_barb_wine	inv_barb_wine_4	rom_building_set_city_minor	false
+inv_gre_minor_town		rom_building_set_city_minor	false
+inv_greek_amber	inv_greek_amber_1	rom_building_set_city_minor	false
+inv_greek_amber	inv_greek_amber_2	rom_building_set_city_minor	false
+inv_greek_amber	inv_greek_amber_3	rom_building_set_city_minor	false
+inv_greek_amber	inv_greek_amber_4	rom_building_set_city_minor	false
+inv_greek_gold	inv_greek_gold_1	rom_building_set_city_minor	false
+inv_greek_gold	inv_greek_gold_2	rom_building_set_city_minor	false
+inv_greek_gold	inv_greek_gold_3	rom_building_set_city_minor	false
+inv_greek_gold	inv_greek_gold_4	rom_building_set_city_minor	false
+inv_greek_grain	inv_greek_grain_1	rom_building_set_city_minor	false
+inv_greek_grain	inv_greek_grain_2	rom_building_set_city_minor	false
+inv_greek_grain	inv_greek_grain_3	rom_building_set_city_minor	false
+inv_greek_grain	inv_greek_grain_4	rom_building_set_city_minor	false
+inv_greek_horse	inv_greek_horse_1	rom_building_set_city_minor	false
+inv_greek_horse	inv_greek_horse_2	rom_building_set_city_minor	false
+inv_greek_horse	inv_greek_horse_3	rom_building_set_city_minor	false
+inv_greek_iron	inv_greek_iron_1	rom_building_set_city_minor	false
+inv_greek_iron	inv_greek_iron_armour_2	rom_building_set_city_minor	false
+inv_greek_iron	inv_greek_iron_armour_3	rom_building_set_city_minor	false
+inv_greek_iron	inv_greek_iron_weapon_2	rom_building_set_city_minor	false
+inv_greek_iron	inv_greek_iron_weapon_3	rom_building_set_city_minor	false
+inv_greek_lead	inv_greek_lead_1	rom_building_set_city_minor	false
+inv_greek_lead	inv_greek_lead_2	rom_building_set_city_minor	false
+inv_greek_lead	inv_greek_lead_3	rom_building_set_city_minor	false
+inv_greek_lead	inv_greek_lead_4	rom_building_set_city_minor	false
+inv_greek_leather	inv_greek_leather_1	rom_building_set_city_minor	false
+inv_greek_leather	inv_greek_leather_2	rom_building_set_city_minor	false
+inv_greek_leather	inv_greek_leather_3	rom_building_set_city_minor	false
+inv_greek_leather	inv_greek_leather_4	rom_building_set_city_minor	false
+inv_greek_lumber	inv_greek_lumber_1	rom_building_set_city_minor	false
+inv_greek_lumber	inv_greek_lumber_2	rom_building_set_city_minor	false
+inv_greek_lumber	inv_greek_lumber_3	rom_building_set_city_minor	false
+inv_greek_lumber	inv_greek_lumber_4	rom_building_set_city_minor	false
+inv_greek_marble	inv_greek_marble_1	rom_building_set_city_minor	false
+inv_greek_marble	inv_greek_marble_2	rom_building_set_city_minor	false
+inv_greek_marble	inv_greek_marble_3	rom_building_set_city_minor	false
+inv_greek_marble	inv_greek_marble_4	rom_building_set_city_minor	false
+inv_greek_olive	inv_greek_olive_1	rom_building_set_city_minor	false
+inv_greek_olive	inv_greek_olive_2	rom_building_set_city_minor	false
+inv_greek_olive	inv_greek_olive_3	rom_building_set_city_minor	false
+inv_greek_olive	inv_greek_olive_4	rom_building_set_city_minor	false
+inv_greek_purple_dye	inv_greek_purple_dye_1	rom_building_set_city_minor	false
+inv_greek_purple_dye	inv_greek_purple_dye_2	rom_building_set_city_minor	false
+inv_greek_purple_dye	inv_greek_purple_dye_3	rom_building_set_city_minor	false
+inv_greek_purple_dye	inv_greek_purple_dye_4	rom_building_set_city_minor	false
+inv_greek_salt	inv_greek_salt_1	rom_building_set_city_minor	false
+inv_greek_salt	inv_greek_salt_2	rom_building_set_city_minor	false
+inv_greek_salt	inv_greek_salt_3	rom_building_set_city_minor	false
+inv_greek_salt	inv_greek_salt_4	rom_building_set_city_minor	false
+inv_greek_wine	inv_greek_wine_1	rom_building_set_city_minor	false
+inv_greek_wine	inv_greek_wine_2	rom_building_set_city_minor	false
+inv_greek_wine	inv_greek_wine_3	rom_building_set_city_minor	false
+inv_greek_wine	inv_greek_wine_4	rom_building_set_city_minor	false
+inv_new_etr_amber		rom_building_set_city_minor	false
+inv_new_etr_gold		rom_building_set_city_minor	false
+inv_new_etr_grain		rom_building_set_city_minor	false
+inv_new_etr_horse		rom_building_set_city_minor	false
+inv_new_etr_iron		rom_building_set_city_minor	false
+inv_new_etr_lead		rom_building_set_city_minor	false
+inv_new_etr_leather		rom_building_set_city_minor	false
+inv_new_etr_lumber		rom_building_set_city_minor	false
+inv_new_etr_marble		rom_building_set_city_minor	false
+inv_new_etr_minor_town		rom_building_set_city_minor	false
+inv_new_etr_olive		rom_building_set_city_minor	false
+inv_new_etr_purple_dye		rom_building_set_city_minor	false
+inv_new_etr_salt		rom_building_set_city_minor	false
+inv_new_etr_wine		rom_building_set_city_minor	false
+inv_rom_amber	inv_rom_amber_1	rom_building_set_city_minor	false
+inv_rom_amber	inv_rom_amber_2	rom_building_set_city_minor	false
+inv_rom_amber	inv_rom_amber_3	rom_building_set_city_minor	false
+inv_rom_amber	inv_rom_amber_4	rom_building_set_city_minor	false
+inv_rom_gold	inv_rom_gold_1	rom_building_set_city_minor	false
+inv_rom_gold	inv_rom_gold_2	rom_building_set_city_minor	false
+inv_rom_gold	inv_rom_gold_3	rom_building_set_city_minor	false
+inv_rom_gold	inv_rom_gold_4	rom_building_set_city_minor	false
+inv_rom_grain	inv_rom_grain_1	rom_building_set_city_minor	false
+inv_rom_grain	inv_rom_grain_2	rom_building_set_city_minor	false
+inv_rom_grain	inv_rom_grain_3	rom_building_set_city_minor	false
+inv_rom_grain	inv_rom_grain_4	rom_building_set_city_minor	false
+inv_rom_horse	inv_rom_horse_1	rom_building_set_city_minor	false
+inv_rom_horse	inv_rom_horse_2	rom_building_set_city_minor	false
+inv_rom_horse	inv_rom_horse_3	rom_building_set_city_minor	false
+inv_rom_iron	inv_rom_iron_1	rom_building_set_city_minor	false
+inv_rom_iron	inv_rom_iron_armour_2	rom_building_set_city_minor	false
+inv_rom_iron	inv_rom_iron_armour_3	rom_building_set_city_minor	false
+inv_rom_iron	inv_rom_iron_weapon_2	rom_building_set_city_minor	false
+inv_rom_iron	inv_rom_iron_weapon_3	rom_building_set_city_minor	false
+inv_rom_lead	inv_rom_lead_1	rom_building_set_city_minor	false
+inv_rom_lead	inv_rom_lead_2	rom_building_set_city_minor	false
+inv_rom_lead	inv_rom_lead_3	rom_building_set_city_minor	false
+inv_rom_lead	inv_rom_lead_4	rom_building_set_city_minor	false
+inv_rom_leather	inv_rom_leather_1	rom_building_set_city_minor	false
+inv_rom_leather	inv_rom_leather_2	rom_building_set_city_minor	false
+inv_rom_leather	inv_rom_leather_3	rom_building_set_city_minor	false
+inv_rom_leather	inv_rom_leather_4	rom_building_set_city_minor	false
+inv_rom_lumber	inv_rom_lumber_1	rom_building_set_city_minor	false
+inv_rom_lumber	inv_rom_lumber_2	rom_building_set_city_minor	false
+inv_rom_lumber	inv_rom_lumber_3	rom_building_set_city_minor	false
+inv_rom_lumber	inv_rom_lumber_4	rom_building_set_city_minor	false
+inv_rom_marble	inv_rom_marble_1	rom_building_set_city_minor	false
+inv_rom_marble	inv_rom_marble_2	rom_building_set_city_minor	false
+inv_rom_marble	inv_rom_marble_3	rom_building_set_city_minor	false
+inv_rom_marble	inv_rom_marble_4	rom_building_set_city_minor	false
+inv_rom_minor_town		rom_building_set_city_minor	false
+inv_rom_olive	inv_rom_olive_1	rom_building_set_city_minor	false
+inv_rom_olive	inv_rom_olive_2	rom_building_set_city_minor	false
+inv_rom_olive	inv_rom_olive_3	rom_building_set_city_minor	false
+inv_rom_olive	inv_rom_olive_4	rom_building_set_city_minor	false
+inv_rom_purple_dye	inv_rom_purple_dye_1	rom_building_set_city_minor	false
+inv_rom_purple_dye	inv_rom_purple_dye_2	rom_building_set_city_minor	false
+inv_rom_purple_dye	inv_rom_purple_dye_3	rom_building_set_city_minor	false
+inv_rom_purple_dye	inv_rom_purple_dye_4	rom_building_set_city_minor	false
+inv_rom_salt	inv_rom_salt_1	rom_building_set_city_minor	false
+inv_rom_salt	inv_rom_salt_2	rom_building_set_city_minor	false
+inv_rom_salt	inv_rom_salt_3	rom_building_set_city_minor	false
+inv_rom_salt	inv_rom_salt_4	rom_building_set_city_minor	false
+inv_rom_wine	inv_rom_wine_1	rom_building_set_city_minor	false
+inv_rom_wine	inv_rom_wine_2	rom_building_set_city_minor	false
+inv_rom_wine	inv_rom_wine_3	rom_building_set_city_minor	false
+inv_rom_wine	inv_rom_wine_4	rom_building_set_city_minor	false
+pel_town		rom_building_set_city_minor	false
+pel_town_bronze		rom_building_set_city_minor	false
+pel_town_glass		rom_building_set_city_minor	false
+pel_town_gold		rom_building_set_city_minor	false
+pel_town_grain		rom_building_set_city_minor	false
+pel_town_horse		rom_building_set_city_minor	false
+pel_town_lead		rom_building_set_city_minor	false
+pel_town_marble		rom_building_set_city_minor	false
+pel_town_olive		rom_building_set_city_minor	false
+pel_town_timber		rom_building_set_city_minor	false
+pel_town_wine		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_fish		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_glass		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_gold		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_grain		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_hides		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_iron		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_limestone		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_marble		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_olives		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_purple_dye		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_silk		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_silver		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_timber		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_township		rom_building_set_city_minor	false
+rom_BARBARIAN_city_minor_wine		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_fish		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_glass		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_gold		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_grain		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_hides		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_iron		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_limestone		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_marble		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_olives		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_purple_dye		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_silk		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_silver		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_timber		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_township		rom_building_set_city_minor	false
+rom_EASTERN_city_minor_wine		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_fish		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_glass		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_gold		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_grain		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_hides		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_iron		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_limestone		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_marble		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_military_tradition		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_olives		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_purple_dye		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_silk		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_silver		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_timber		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_township		rom_building_set_city_minor	false
+rom_HELLENIC_city_minor_wine		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_fish		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_glass		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_gold		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_grain		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_hides		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_iron		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_limestone		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_marble		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_olives		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_purple_dye		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_silk		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_silver		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_timber		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_township		rom_building_set_city_minor	false
+rom_ROMAN_city_minor_wine		rom_building_set_city_minor	false
+rome_amber		rom_building_set_city_minor	false
+rome_glass		rom_building_set_city_minor	false
+rome_gold		rom_building_set_city_minor	false
+rome_grain		rom_building_set_city_minor	false
+rome_horse		rom_building_set_city_minor	false
+rome_iron		rom_building_set_city_minor	false
+rome_lead		rom_building_set_city_minor	false
+rome_leather		rom_building_set_city_minor	false
+rome_lumber		rom_building_set_city_minor	false
+rome_marble		rom_building_set_city_minor	false
+rome_olive		rom_building_set_city_minor	false
+rome_purple_dye		rom_building_set_city_minor	false
+rome_silk		rom_building_set_city_minor	false
+rome_town		rom_building_set_city_minor	false
+rome_wine		rom_building_set_city_minor	false
+	rom_BARBARIAN_artisans_major_gold_2	rom_building_set_gold	false
+	rom_BARBARIAN_artisans_major_gold_3	rom_building_set_gold	false
+	rom_BARBARIAN_artisans_major_gold_4	rom_building_set_gold	false
+rom_BARBARIAN_city_minor_gold		rom_building_set_gold	false
+rom_EASTERN_city_minor_gold		rom_building_set_gold	false
+rom_HELLENIC_city_minor_gold		rom_building_set_gold	false
+rom_ROMAN_city_minor_gold		rom_building_set_gold	false
+all_mine		rom_building_set_industry	false
+barb_artisan		rom_building_set_industry	false
+barb_craftsmen		rom_building_set_industry	false
+dk_all_industry		rom_building_set_industry	false
+dk_kush_industry		rom_building_set_industry	false
+east_industry		rom_building_set_industry	false
+greek_industrial		rom_building_set_industry	false
+inv_gre_industry_major		rom_building_set_industry	false
+inv_gre_industry_minor		rom_building_set_industry	false
+pel_industry		rom_building_set_industry	false
+rom_BARBARIAN_artisans_major		rom_building_set_industry	false
+rom_EASTERN_outskirts		rom_building_set_industry	false
+rom_HELLENIC_outskirts		rom_building_set_industry	false
+rom_ROMAN_outskirts		rom_building_set_industry	false
+rome_industry		rom_building_set_industry	false
+3c_armenia_military		rom_building_set_military	false
+3c_barb_artisan		rom_building_set_military	false
+3c_barb_craftsmen		rom_building_set_military	false
+	3c_barb_port_military_2	rom_building_set_military	false
+	3c_barb_port_military_3	rom_building_set_military	false
+	3c_barb_port_military_4	rom_building_set_military	false
+3c_east_military_buff		rom_building_set_military	false
+3c_east_military_cav		rom_building_set_military	false
+	3c_east_port_military_2	rom_building_set_military	false
+	3c_east_port_military_3	rom_building_set_military	false
+	3c_east_port_military_4	rom_building_set_military	false
+3c_rome_navalbuff		rom_building_set_military	false
+3c_sassanid_military		rom_building_set_military	false
+dk_all_military_cavalry		rom_building_set_military	false
+dk_all_military_infantry		rom_building_set_military	false
+dk_military_siege		rom_building_set_military	false
+dk_military_training		rom_building_set_military	false
+east_military_buff		rom_building_set_military	false
+east_military_infantry		rom_building_set_military	false
+east_military_siege		rom_building_set_military	false
+east_military_stables		rom_building_set_military	false
+greek_military		rom_building_set_military	false
+greek_military_buff		rom_building_set_military	false
+greek_military_siege		rom_building_set_military	false
+inv_gre_military_buff		rom_building_set_military	false
+inv_gre_military_recruitment		rom_building_set_military	false
+inv_new_etr_main_military		rom_building_set_military	false
+inv_new_etr_minor_military		rom_building_set_military	false
+pel_buff		rom_building_set_military	false
+pel_military		rom_building_set_military	false
+pro_ROMAN_military_equipment		rom_building_set_military	false
+pun_ROMAN_military_main		rom_building_set_military	false
+rom_EASTERN_buff		rom_building_set_military	false
+rom_EASTERN_levy		rom_building_set_military	false
+rom_HELLENIC_military_buff		rom_building_set_military	false
+rom_HELLENIC_military_equipment		rom_building_set_military	false
+rom_HELLENIC_military_main		rom_building_set_military	false
+rom_ROMAN_military_buff		rom_building_set_military	false
+rom_ROMAN_military_equipment		rom_building_set_military	false
+rom_ROMAN_military_main		rom_building_set_military	false
+rome_military		rom_building_set_military	false
+rome_military_buff		rom_building_set_military	false
+rome_military_pun		rom_building_set_military	false
+rome_military_siege		rom_building_set_military	false
+3c_barb_port		rom_building_set_port	false
+3c_east_port		rom_building_set_port	false
+3c_rome_port		rom_building_set_port	false
+barb_port		rom_building_set_port	false
+east_port		rom_building_set_port	false
+greek_port		rom_building_set_port	false
+inv_gre_port		rom_building_set_port	false
+inv_new_etr_port		rom_building_set_port	false
+pel_barb_port		rom_building_set_port	false
+pel_east_port		rom_building_set_port	false
+pel_port		rom_building_set_port	false
+rom_BARBARIAN_port_major		rom_building_set_port	false
+rom_BARBARIAN_port_minor		rom_building_set_port	false
+rom_EASTERN_port_major		rom_building_set_port	false
+rom_EASTERN_port_minor		rom_building_set_port	false
+rom_HELLENIC_port_major		rom_building_set_port	false
+rom_HELLENIC_port_minor		rom_building_set_port	false
+rom_ROMAN_port_major		rom_building_set_port	false
+rom_ROMAN_port_minor		rom_building_set_port	false
+rome_port		rom_building_set_port	false
+3c_barb_religious_briton		rom_building_set_religion	false
+barb_religious		rom_building_set_religion	false
+barb_religious_briton		rom_building_set_religion	false
+barb_religious_dacian		rom_building_set_religion	false
+barb_religious_gaul		rom_building_set_religion	false
+barb_religious_german		rom_building_set_religion	false
+barb_religious_iberian		rom_building_set_religion	false
+barb_religious_illyrian		rom_building_set_religion	false
+barb_religious_nomad		rom_building_set_religion	false
+barb_religious_thrace		rom_building_set_religion	false
+dk_kush_religious		rom_building_set_religion	false
+dk_nabatea_religious		rom_building_set_religion	false
+dk_numidia_religious		rom_building_set_religion	false
+dk_saba_religious		rom_building_set_religion	false
+east_religious		rom_building_set_religion	false
+greek_religious		rom_building_set_religion	false
+greek_religious_egypt		rom_building_set_religion	false
+greek_religious_punic		rom_building_set_religion	false
+inv_gre_religious		rom_building_set_religion	false
+inv_ita_religious		rom_building_set_religion	false
+inv_new_etr_main_religion		rom_building_set_religion	false
+inv_new_etr_minor_religion		rom_building_set_religion	false
+inv_rom_religious		rom_building_set_religion	false
+inv_ven_religious		rom_building_set_religion	false
+pel_religious		rom_building_set_religion	false
+pel_religious_barb		rom_building_set_religion	false
+pel_religious_east		rom_building_set_religion	false
+rom_BARBARIAN_religious_celtic		rom_building_set_religion	false
+rom_BARBARIAN_religious_celtic_minor		rom_building_set_religion	false
+rom_BARBARIAN_religious_dacian		rom_building_set_religion	false
+rom_BARBARIAN_religious_dacian_minor		rom_building_set_religion	false
+rom_BARBARIAN_religious_germanic		rom_building_set_religion	false
+rom_BARBARIAN_religious_germanic_minor		rom_building_set_religion	false
+rom_BARBARIAN_religious_iberian		rom_building_set_religion	false
+rom_BARBARIAN_religious_iberian_minor		rom_building_set_religion	false
+rom_BARBARIAN_religious_illyrian		rom_building_set_religion	false
+rom_BARBARIAN_religious_illyrian_minor		rom_building_set_religion	false
+rom_BARBARIAN_religious_nomad		rom_building_set_religion	false
+rom_BARBARIAN_religious_nomad_minor		rom_building_set_religion	false
+rom_BARBARIAN_religious_thracian		rom_building_set_religion	false
+rom_BARBARIAN_religious_thracian_minor		rom_building_set_religion	false
+rom_EASTERN_local_temple		rom_building_set_religion	false
+rom_EASTERN_local_temple_minor		rom_building_set_religion	false
+rom_HELLENIC_temple		rom_building_set_religion	false
+rom_HELLENIC_temple_PTOLEMAIC		rom_building_set_religion	false
+rom_HELLENIC_temple_PUNIC		rom_building_set_religion	false
+rom_HELLENIC_temple_minor		rom_building_set_religion	false
+rom_HELLENIC_temple_minor_PTOLEMAIC		rom_building_set_religion	false
+rom_HELLENIC_temple_minor_PUNIC		rom_building_set_religion	false
+rom_ROMAN_temple		rom_building_set_religion	false
+rom_ROMAN_temple_minor		rom_building_set_religion	false
+rome_religious		rom_building_set_religion	false
+barb_water		rom_building_set_sanitation	false
+dk_gen_sanitation		rom_building_set_sanitation	false
+dk_saba_marib_dam		rom_building_set_sanitation	false
+east_water		rom_building_set_sanitation	false
+greek_water		rom_building_set_sanitation	false
+inv_gre_sanitation		rom_building_set_sanitation	false
+pel_water		rom_building_set_sanitation	false
+rom_HELLENIC_sanitation		rom_building_set_sanitation	false
+rom_HELLENIC_sanitation_PUNIC		rom_building_set_sanitation	false
+rom_ROMAN_sanitation		rom_building_set_sanitation	false
+rome_water		rom_building_set_sanitation	false

@@ -1,0 +1,5 @@
+number	battle_key	campaign_key	is_battle	banner
+#prologue_chapters_tables;1;db/prologue_chapters_tables/prologue_chapters				
+1	Capua		true	UI/prologue/fe_banner_01.png
+2		prologue_01	false	UI/prologue/fe_banner_02.png
+3		prologue_02	false	UI/prologue/fe_banner_03.png

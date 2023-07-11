@@ -1,0 +1,18 @@
+type	movement_cost	can_ambush	is_sea	icon
+#campaign_ground_types_tables;6;db/campaign_ground_types_tables/campaign_ground_types				
+dense_forest	325	true	false	terrain_dense_forest.png
+desert	118	true	false	terrain_desert.png
+grassland	100	true	false	terrain_grassland_plains.png
+hills	200	true	false	terrain_hills.png
+hilly_light_forest	200	true	false	terrain_hilly_light_forest.png
+jungle	325	true	false	terrain_dense_forest.png
+light_forest	130	true	false	terrain_light_forest.png
+marsh	163	true	false	terrain_marsh.png
+mountain	325	true	false	terrain_mountains.png
+plains	100	true	false	terrain_grassland_plains.png
+river	2100	false	false	terrain_shallow_water_lake_coast.png
+sea_coast	140	false	true	terrain_shallow_water_lake_coast.png
+sea_lake	70	false	true	terrain_shallow_water_lake_coast.png
+sea_ocean	380	false	true	terrain_ocean.png
+swamp	325	true	false	terrain_marsh.png
+tundra	118	true	false	terrain_desert.png

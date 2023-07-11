@@ -1,0 +1,189 @@
+key	agent_key	campaign_key	faction_key	subculture	for_army	for_navy
+#character_skill_node_sets_tables;1;db/character_skill_node_sets_tables/character_skill_node_sets						
+3c_alani_army_legacy		main_3c	3c_alani		true	false
+3c_alani_navy_legacy		main_3c	3c_alani		false	true
+3c_armenia_army_legacy		main_3c	3c_armenia		true	false
+3c_armenia_navy_legacy		main_3c	3c_armenia		false	true
+3c_caledoni_army_legacy		main_3c	3c_caledoni		true	false
+3c_caledoni_navy_legacy		main_3c	3c_caledoni		false	true
+3c_gallicemp_army_legacy		main_3c	3c_gallicemp		true	false
+3c_gallicemp_navy_legacy		main_3c	3c_gallicemp		false	true
+3c_general_skills	general	main_3c			false	false
+3c_gothi_army_legacy		main_3c	3c_gothi		true	false
+3c_gothi_navy_legacy		main_3c	3c_gothi		false	true
+3c_marcomanni_army_legacy		main_3c	3c_marcomanni		true	false
+3c_marcomanni_navy_legacy		main_3c	3c_marcomanni		false	true
+3c_palmyra_army_legacy		main_3c	3c_palmyra		true	false
+3c_palmyra_navy_legacy		main_3c	3c_palmyra		false	true
+3c_rom_army_legacy		main_3c	3c_rome		true	false
+3c_rom_navy_legacy		main_3c	3c_rome		false	true
+3c_sassanid_army_legacy		main_3c	3c_sassanid		true	false
+3c_sassanid_navy_legacy		main_3c	3c_sassanid		false	true
+3c_saxoni_army_legacy		main_3c	3c_saxoni		true	false
+3c_saxoni_navy_legacy		main_3c	3c_saxoni		false	true
+age_champion_barbarian_british_skills	champion			sc_rom_british	false	false
+age_champion_barbarian_celtiberian_skills	champion			sc_rom_celtiberian	false	false
+age_champion_barbarian_celtic_skills	champion			sc_rom_celtic	false	false
+age_champion_barbarian_dacothracian_skills	champion			sc_rom_daco_thracian	false	false
+age_champion_barbarian_east_skills	champion			sc_rom_barb_east	false	false
+age_champion_barbarian_gaul_skills	champion			sc_rom_gaul	false	false
+age_champion_barbarian_germanic_skills	champion			sc_rom_germanic	false	false
+age_champion_barbarian_illyrian_skills	champion			sc_rom_illyrian	false	false
+age_champion_barbarian_italic_skills	champion			sc_rom_italic	false	false
+age_champion_barbarian_nuragic_skills	champion			sc_rom_nuragic	false	false
+age_champion_eastern_african_skills	champion			sc_rom_african_arabian	false	false
+age_champion_eastern_numidian_skills	champion			sc_rom_numidian	false	false
+age_champion_eastern_parthian_skills	champion			sc_rom_parthian	false	false
+age_champion_eastern_skills	champion			sc_rom_eastern	false	false
+age_champion_hellenic_carthaginian_skills	champion			sc_rom_carthaginian	false	false
+age_champion_hellenic_egyptian_skills	champion			sc_rom_egyptian	false	false
+age_champion_hellenic_etruscan_skills	champion			sc_rom_etruscan	false	false
+age_champion_hellenic_greek_skills	champion			sc_rom_greek	false	false
+age_champion_hellenic_iapygian_skills	champion			sc_rom_iapygian	false	false
+age_champion_hellenic_pontic_skills	champion			sc_rom_pontic	false	false
+age_champion_roman_skills	champion			sc_rom_roman	false	false
+age_champion_skills_rome_native	champion	main_invasion	inv_rome	sc_rom_roman	false	false
+age_dignitary_barbarian_british_skills	dignitary			sc_rom_british	false	false
+age_dignitary_barbarian_celtiberian_skills	dignitary			sc_rom_celtiberian	false	false
+age_dignitary_barbarian_celtic_skills	dignitary			sc_rom_celtic	false	false
+age_dignitary_barbarian_dacothracian_skills	dignitary			sc_rom_daco_thracian	false	false
+age_dignitary_barbarian_east_skills	dignitary			sc_rom_barb_east	false	false
+age_dignitary_barbarian_gaul_skills	dignitary			sc_rom_gaul	false	false
+age_dignitary_barbarian_germanic_skills	dignitary			sc_rom_germanic	false	false
+age_dignitary_barbarian_illyrian_skills	dignitary			sc_rom_illyrian	false	false
+age_dignitary_barbarian_italic_skills	dignitary			sc_rom_italic	false	false
+age_dignitary_barbarian_nuragic_skills	dignitary			sc_rom_nuragic	false	false
+age_dignitary_eastern_african_skills	dignitary			sc_rom_african_arabian	false	false
+age_dignitary_eastern_numidian_skills	dignitary			sc_rom_numidian	false	false
+age_dignitary_eastern_parthian_skills	dignitary			sc_rom_parthian	false	false
+age_dignitary_eastern_skills	dignitary			sc_rom_eastern	false	false
+age_dignitary_hellenic_carthaginian_skills	dignitary			sc_rom_carthaginian	false	false
+age_dignitary_hellenic_egyptian_skills	dignitary			sc_rom_egyptian	false	false
+age_dignitary_hellenic_etruscan_skills	dignitary			sc_rom_etruscan	false	false
+age_dignitary_hellenic_greek_skills	dignitary			sc_rom_greek	false	false
+age_dignitary_hellenic_iapygian_skills	dignitary			sc_rom_iapygian	false	false
+age_dignitary_hellenic_pontic_skills	dignitary			sc_rom_pontic	false	false
+age_dignitary_roman_skills	dignitary			sc_rom_roman	false	false
+age_spy_barbarian_british_skills	spy			sc_rom_british	false	false
+age_spy_barbarian_celtiberian_skills	spy			sc_rom_celtiberian	false	false
+age_spy_barbarian_celtic_skills	spy			sc_rom_celtic	false	false
+age_spy_barbarian_dacothracian_skills	spy			sc_rom_daco_thracian	false	false
+age_spy_barbarian_east_skills	spy			sc_rom_barb_east	false	false
+age_spy_barbarian_gaul_skills	spy			sc_rom_gaul	false	false
+age_spy_barbarian_germanic_skills	spy			sc_rom_germanic	false	false
+age_spy_barbarian_illyrian_skills	spy			sc_rom_illyrian	false	false
+age_spy_barbarian_italic_skills	spy			sc_rom_italic	false	false
+age_spy_barbarian_nuragic_skills	spy			sc_rom_nuragic	false	false
+age_spy_eastern_african_skills	spy			sc_rom_african_arabian	false	false
+age_spy_eastern_numidian_skills	spy			sc_rom_numidian	false	false
+age_spy_eastern_parthian_skills	spy			sc_rom_parthian	false	false
+age_spy_eastern_skills	spy			sc_rom_eastern	false	false
+age_spy_hellenic_carthaginian_skills	spy			sc_rom_carthaginian	false	false
+age_spy_hellenic_egyptian_skills	spy			sc_rom_egyptian	false	false
+age_spy_hellenic_etruscan_skills	spy			sc_rom_etruscan	false	false
+age_spy_hellenic_greek_skills	spy			sc_rom_greek	false	false
+age_spy_hellenic_iapygian_skills	spy			sc_rom_iapygian	false	false
+age_spy_hellenic_pontic_skills	spy			sc_rom_pontic	false	false
+age_spy_roman_skills	spy			sc_rom_roman	false	false
+army_legacy					true	false
+army_legacy_afro_arabian				sc_rom_african_arabian	true	false
+army_legacy_briton				sc_rom_british	true	false
+army_legacy_carthage				sc_rom_carthaginian	true	false
+army_legacy_celtiberian				sc_rom_celtiberian	true	false
+army_legacy_celtic				sc_rom_celtic	true	false
+army_legacy_daco_thracian				sc_rom_daco_thracian	true	false
+army_legacy_east				sc_rom_eastern	true	false
+army_legacy_eastern				sc_rom_parthian	true	false
+army_legacy_egypt				sc_rom_egyptian	true	false
+army_legacy_epirus			rom_epirus		true	false
+army_legacy_gaul				sc_rom_gaul	true	false
+army_legacy_germanic				sc_rom_germanic	true	false
+army_legacy_greek				sc_rom_greek	true	false
+army_legacy_illyrian				sc_rom_illyrian	true	false
+army_legacy_macedon			rom_macedon		true	false
+army_legacy_nomadic				sc_rom_barb_east	true	false
+army_legacy_parthia			rom_parthia		true	false
+army_legacy_pontus			rom_pontus		true	false
+army_legacy_rome				sc_rom_roman	true	false
+army_legacy_seleucid			rom_seleucid		true	false
+army_legacy_sparta			rom_sparta		true	false
+army_skills					true	false
+army_tradition_kush		main_rome	rom_kush		true	false
+army_tradition_nabatea		main_rome	rom_nabatea		true	false
+army_tradition_numidia		main_rome	rom_masaesyli		true	false
+army_tradition_saba		main_rome	rom_saba		true	false
+champion_skills_obsolete	champion				false	false
+dignitary_skills_obsolete	dignitary				false	false
+general_skills_british	general			sc_rom_british	false	false
+general_skills_carthaginian	general			sc_rom_carthaginian	false	false
+general_skills_celtiberian	general			sc_rom_celtiberian	false	false
+general_skills_celtic	general			sc_rom_celtic	false	false
+general_skills_daco_thracian	general			sc_rom_daco_thracian	false	false
+general_skills_desert_nomadic	general			sc_rom_african_arabian	false	false
+general_skills_eastern	general			sc_rom_eastern	false	false
+general_skills_egyptian	general			sc_rom_egyptian	false	false
+general_skills_etruscan	general			sc_rom_etruscan	false	false
+general_skills_gaul	general			sc_rom_gaul	false	false
+general_skills_ger	general			sc_rom_germanic	false	false
+general_skills_germanic	general			sc_rom_germanic	false	false
+general_skills_hellenic	general			sc_rom_greek	false	false
+general_skills_iapygian	general			sc_rom_iapygian	false	false
+general_skills_ilyrian	general			sc_rom_illyrian	false	false
+general_skills_italic	general			sc_rom_italic	false	false
+general_skills_nomadic	general			sc_rom_barb_east	false	false
+general_skills_numidian	general			sc_rom_numidian	false	false
+general_skills_nuragic	general			sc_rom_nuragic	false	false
+general_skills_obsolete	general				false	false
+general_skills_parthian	general			sc_rom_parthian	false	false
+general_skills_pontic	general			sc_rom_pontic	false	false
+general_skills_roman	general			sc_rom_roman	false	false
+inv_insubres_army_legacy		main_invasion		sc_rom_gaul	true	false
+inv_insubres_navy_legacy		main_invasion		sc_rom_gaul	false	true
+inv_iolei_army_legacy		main_invasion		sc_rom_nuragic	true	false
+inv_iolei_navy_legacy		main_invasion		sc_rom_nuragic	false	true
+inv_rome_army_legacy		main_invasion		sc_rom_roman	true	false
+inv_rome_navy_legacy		main_invasion		sc_rom_roman	false	true
+inv_samnites_army_legacy		main_invasion		sc_rom_italic	true	false
+inv_samnites_navy_legacy		main_invasion		sc_rom_italic	false	true
+inv_senones_army_legacy		main_invasion	inv_senones	sc_rom_gaul	true	false
+inv_senones_navy_legacy		main_invasion	inv_senones	sc_rom_gaul	false	true
+inv_syracuse_army_legacy		main_invasion		sc_rom_greek	true	false
+inv_syracuse_navy_legacy		main_invasion		sc_rom_greek	false	true
+inv_taranto_army_legacy		main_invasion	inv_taranto	sc_rom_greek	true	false
+inv_taranto_navy_legacy		main_invasion	inv_taranto	sc_rom_greek	false	true
+inv_tarchuna_army_legacy		main_invasion		sc_rom_etruscan	true	false
+inv_tarchuna_navy_legacy		main_invasion		sc_rom_etruscan	false	true
+inv_veneti_army_legacy		main_invasion	inv_veneti	sc_rom_italic	true	false
+inv_veneti_navy_legacy		main_invasion	inv_veneti	sc_rom_italic	false	true
+navy_legacy					false	true
+navy_legacy_afro_arabian				sc_rom_african_arabian	false	true
+navy_legacy_briton				sc_rom_british	false	true
+navy_legacy_carthage				sc_rom_carthaginian	false	true
+navy_legacy_celtiberian				sc_rom_celtiberian	false	true
+navy_legacy_celtic				sc_rom_celtic	false	true
+navy_legacy_daco_thracian				sc_rom_daco_thracian	false	true
+navy_legacy_east				sc_rom_eastern	false	true
+navy_legacy_eastern				sc_rom_parthian	false	true
+navy_legacy_egypt				sc_rom_egyptian	false	true
+navy_legacy_epirus			rom_epirus		false	true
+navy_legacy_gaul				sc_rom_gaul	false	true
+navy_legacy_germanic				sc_rom_germanic	false	true
+navy_legacy_greek				sc_rom_greek	false	true
+navy_legacy_illyrian				sc_rom_illyrian	false	true
+navy_legacy_macedon			rom_macedon		false	true
+navy_legacy_nomadic				sc_rom_barb_east	false	true
+navy_legacy_parthia			rom_parthia		false	true
+navy_legacy_pontus			rom_pontus		false	true
+navy_legacy_rome				sc_rom_roman	false	true
+navy_legacy_seleucid			rom_seleucid		false	true
+navy_legacy_sparta			rom_sparta		false	true
+navy_skills					false	true
+navy_tradition_kush		main_rome	rom_kush		false	true
+navy_tradition_nabatea		main_rome	rom_nabatea		false	true
+navy_tradition_numidia		main_rome	rom_masaesyli		false	true
+navy_tradition_saba		main_rome	rom_saba		false	true
+pel_army_legacy		main_greek			true	false
+pel_champion_skills_obsolete	champion	prologue_01			false	false
+pel_general_skills	general	main_greek			false	false
+pel_navy_legacy		main_greek			false	true
+spy_skills_obsolete	spy				false	false

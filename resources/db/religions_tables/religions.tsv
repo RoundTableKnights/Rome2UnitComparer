@@ -1,0 +1,27 @@
+religion_key	convertibility	ui_icon_path
+#religions_tables;0;db/religions_tables/religions		
+3c_christian	0	3c_christians.png
+3c_manichaean	0	3c_manichaeism.png
+3c_mithraic	0	3c_mithraism.png
+rom_religion_african_arabian	0	icon_culture_african-arabian.png
+rom_religion_aiolian	0	icon_culture_aiolian.png
+rom_religion_akaian	0	icon_culture_akaian.png
+rom_religion_balkan	0	icon_culture_daco_thracian.png
+rom_religion_barbarian	0	icon_culture_barbarian.png
+rom_religion_celtic	0	icon_culture_celtic.png
+rom_religion_dorian	0	icon_culture_dorian.png
+rom_religion_eastern	0	icon_culture_eastern.png
+rom_religion_etruscan	0	icon_culture_etruscan.png
+rom_religion_germanic	0	icon_culture_germanic.png
+rom_religion_hellenic	0	icon_culture_hellenic.png
+rom_religion_iapygian	0	icon_culture_iapygian.png
+rom_religion_iberian	0	icon_culture_iberian.png
+rom_religion_ionian	0	icon_culture_ionian.png
+rom_religion_italian	0	icon_culture_italian.png
+rom_religion_latin	0	icon_culture_latin.png
+rom_religion_makedonian	0	icon_culture_makedonian.png
+rom_religion_nomadic	0	icon_culture_nomadic.png
+rom_religion_nuragic	0	icon_culture_nuragic.png
+rom_religion_other_greek	0	icon_culture_other_greek.png
+rom_religion_persian	0	icon_culture_persian.png
+rom_religion_punic	0	icon_culture_punic.png

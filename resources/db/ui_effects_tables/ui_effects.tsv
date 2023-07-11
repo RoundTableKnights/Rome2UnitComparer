@@ -1,0 +1,6 @@
+key	banner_fx	ping_fx
+#ui_effects_tables;1;db/ui_effects_tables/ui_effects		
+buff	ui_vfx_buff_heavy	ui_vfx_ping_flash
+debuff	ui_vfx_debuff_heavy	ui_vfx_ping_flash
+heavy_buff	ui_vfx_buff_heavy_gold	ui_vfx_ping_flash_gold
+neutral		ui_vfx_ping_flash

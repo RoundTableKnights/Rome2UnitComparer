@@ -1,0 +1,10 @@
+cai_variable_key	campaign_key	optional_campaign_type	optional_difficulty_level	value
+#cai_variables_overides_tables;0;db/cai_variables_overides_tables/cai_variables_overides				
+CAI_VARIABLE_DIPLOMACY_DISTANCE_GOAL_PRIORITY_MODIFIER	main_gaul			0.9000
+CAI_VARIABLE_FACTION_MANAGEMENT	main_gaul			0.0000
+CAI_VARIABLE_REBEL_WAIT_TIMEOUT_MAXIMUM	prologue_01			1.0000
+CAI_VARIABLE_REBEL_WAIT_TIMEOUT_MAXIMUM	prologue_02			1.0000
+CAI_VARIABLE_REBEL_WAIT_TIMEOUT_MAXIMUM	prologue_03			0.0000
+CAI_VARIABLE_REBEL_WAIT_TIMEOUT_MINIMUM	prologue_01			1.0000
+CAI_VARIABLE_REBEL_WAIT_TIMEOUT_MINIMUM	prologue_02			1.0000
+CAI_VARIABLE_REBEL_WAIT_TIMEOUT_MINIMUM	prologue_03			0.0000

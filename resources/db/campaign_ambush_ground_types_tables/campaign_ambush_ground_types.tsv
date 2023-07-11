@@ -1,0 +1,14 @@
+key	ambush_chance_of_success
+#campaign_ambush_ground_types_tables;1;db/campaign_ambush_ground_types_tables/campaign_ambush_ground_types	
+dense_forest	65.0000
+desert	15.0000
+grassland	25.0000
+hills	35.0000
+hilly_light_forest	65.0000
+jungle	65.0000
+light_forest	55.0000
+marsh	25.0000
+mountain	55.0000
+plains	15.0000
+swamp	35.0000
+tundra	15.0000

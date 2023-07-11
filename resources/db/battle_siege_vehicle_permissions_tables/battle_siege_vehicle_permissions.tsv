@@ -1,0 +1,9 @@
+faction	vehicle
+#battle_siege_vehicle_permissions_tables;0;db/battle_siege_vehicle_permissions_tables/battle_siege_vehicle_permissions	
+rom_athens	tortoise
+rom_carthage	tortoise
+rom_epirus	tortoise
+rom_macedon	tortoise
+rom_rome	tortoise
+rom_seleucid	tortoise
+rom_sparta	tortoise

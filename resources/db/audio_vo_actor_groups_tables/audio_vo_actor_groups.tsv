@@ -1,0 +1,24 @@
+key	actor_1	actor_2	actor_3	actor_4	actor_5	actor_6	actor_7	actor_8	actor_9	actor_10	actor_11	actor_12	actor_13	actor_14	actor_15
+#audio_vo_actor_groups_tables;0;db/audio_vo_actor_groups_tables/audio_vo_actor_groups															
+BarALL	Inf1	Inf2	Inf3	Inf4	Inf5	Inf6	Inf7	Inf8	Inf9	Inf10	Mtd1	Mtd2	Mtd3	Mtd4	Mtd5
+BarFemale	Inf11	Inf12	Mtd6	Mtd7											
+BarInf1to5	Inf1	Inf2	Inf3	Inf4	Inf5										
+BarInf6to10	Inf6	Inf7	Inf8	Inf9	Inf10										
+BarInfFemale	Inf11	Inf12													
+BarMtd1to5	Mtd1	Mtd2	Mtd3	Mtd4	Mtd5										
+BarSpecial	Inf2	Inf3	Inf6	Inf8	Mtd1										
+Cleopatra	Cleopatra														
+EasALL	Inf1	Inf2	Inf3	Inf4	Inf5	Inf6	Inf7	Inf8	Inf9	Inf10	Mtd1	Mtd2	Mtd3	Mtd4	Mtd5
+EasInf1to5	Inf1	Inf2	Inf3	Inf4	Inf5										
+EasInf6to9	Inf6	Inf7	Inf8	Inf9	Inf10										
+EasMtd1to5	Mtd1	Mtd2	Mtd3	Mtd4	Mtd5										
+EasSpecial	Inf2	Inf5	Mtd2	Mtd3	Mtd5										
+FemaleGeneral	FemGen														
+RomALL	Inf1	Inf2	Inf3	Inf4	Inf5	Inf6	Inf7	Inf8	Inf9	Inf10	Mtd1	Mtd2	Mtd3	Mtd4	Mtd5
+RomInf1to5	Inf1	Inf2	Inf3	Inf4	Inf5										
+RomInf6to10	Inf6	Inf7	Inf8	Inf9	Inf10										
+RomMtd1to5	Mtd1	Mtd2	Mtd3	Mtd4	Mtd5										
+RomSpecial	Inf2	Inf4	Inf5	Inf8	Mtd5										
+Zenobia	Zenobia														
+invasion_etruscan_inf	Inf3	Inf5	Inf7	Inf8	Inf9										
+invasion_etruscan_mtd	Mtd1	Mtd2	Mtd4												

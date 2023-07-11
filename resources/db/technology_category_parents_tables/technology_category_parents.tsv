@@ -1,0 +1,8 @@
+child_category	parent_category
+#technology_category_parents_tables;0;db/technology_category_parents_tables/technology_category_parents	
+rom_roman_civ_eco	rom_roman_civ_top
+rom_roman_civ_phi	rom_roman_civ_top
+rom_roman_eng_con	rom_roman_civ_top
+rom_roman_eng_sie	rom_roman_mil_top
+rom_roman_mil_man	rom_roman_mil_top
+rom_roman_mil_tac	rom_roman_mil_top

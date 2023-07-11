@@ -1,0 +1,3 @@
+source_unit_class	target_unit_class	melee_potential_multiplier	missile_potential_multiplier
+#battle_autoresolver_balances_tables;0;db/battle_autoresolver_balances_tables/battle_autoresolver_balances			
+cav_mel	cav_shk	1.5000	1.0000

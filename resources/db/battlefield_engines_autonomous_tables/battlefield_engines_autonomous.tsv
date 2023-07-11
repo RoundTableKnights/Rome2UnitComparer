@@ -1,0 +1,6 @@
+key	autonomous_engine_type	engine_crew_anims	engine_crew_entity	num_ammo
+#battlefield_engines_autonomous_tables;1;db/battlefield_engines_autonomous_tables/battlefield_engines_autonomous				
+harpax	harpax	rome_man_ballista_med_crew	rome_infantry_light	-1
+polybolos	polybolos_autonomous	rome_man_polybolos_crew	rome_infantry_light	25
+scorpio	scorpio_autonomous	rome_man_scorpio_crew	rome_infantry_light	80
+scorpio_shp	scorpio_shp	rome_man_scorpio_crew	rome_infantry_light	120

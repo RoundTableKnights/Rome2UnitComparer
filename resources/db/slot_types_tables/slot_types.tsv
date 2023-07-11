@@ -1,0 +1,6 @@
+key	can_convert	can_destroy
+#slot_types_tables;0;db/slot_types_tables/slot_types		
+port	true	true
+port_navalbuff	true	true
+primary	true	true
+secondary	true	true

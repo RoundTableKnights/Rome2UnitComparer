@@ -1,0 +1,10 @@
+key	onscreen
+#stances_tables;0;db/stances_tables/stances	
+client_state	(Placeholder)Client State
+defensive_allies	(Placeholder)Defensive Alliance
+master	(Placeholder)Overlord
+military_allies	(Placeholder)Allied
+neutral	Neutral
+protector	(Placeholder)Protector
+vassal	(Placeholder)Vassal
+war	War

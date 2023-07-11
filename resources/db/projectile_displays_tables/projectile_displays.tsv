@@ -1,0 +1,47 @@
+key	damaged_display_model	display_model	impact	launch_fx	trail_fx	stationary_fx	skeleton	airborne_anim	landing_anim
+#projectile_displays_tables;3;db/projectile_displays_tables/projectile_displays									
+animal_carcass		projectile_deer_carcass	carcass		trail_vfx_carcass		deer_carcass	animations/ROME2/projectiles/deer_carcass/deer_carcass_spin.anim	animations/ROME2/projectiles/deer_carcass/deer_carcass_land.anim
+animal_carcass_debris		projectile_animal_carcass_debris	small_ball						
+arrow_barbarian		projectiles_arrow_barbarian	arrow		trail_vfx_arrow				
+arrow_eastern		projectiles_arrow_eastern	arrow		trail_vfx_arrow				
+arrow_flaming		projectiles_arrow_fire	arrow_fire		trail_vfx_arrow_flaming	impact_vfx_fire_small_5s_timed			
+arrow_poison		projectiles_arrow_fire	arrow		trail_vfx_default_poison_trail				
+arrow_polybolos		projectiles_arrow_polybolos	arrow		trail_vfx_arrow				
+arrow_roman		projectiles_arrow_roman	arrow		trail_vfx_arrow				
+beehive		projectiles_beehvie			trail_vfx_shot				
+boiling_oil			boiling_oil		trail_vfx_boiling_oil				
+bolt		projectiles_bolt	arrow		trail_vfx_bolt				
+bolt_flammable		projectiles_bolt	arrow_fire		trail_vfx_bolt_flaming				
+bolt_large		projectiles_bolt_large	arrow		trail_vfx_bolt				
+bolt_large_flammable		projectiles_bolt_large	arrow_fire		trail_vfx_bolt_flaming				
+default_explosive		projectiles_stone_flammable	default_ball		trail_vfx_default_explosive_trail				
+default_flaming		projectiles_stone_flammable	default_ball		trail_vfx_default_flaming_trail				
+default_poison		projectiles_stone	default_ball		trail_vfx_default_poison_trail				
+default_standard		projectiles_stone	default_ball		trail_vfx_default_trail				
+default_whistling		projectiles_stone	default_ball		trail_vfx_default_whistling_trail				
+explosive_fragment		projectiles_sling_shot	small_ball		trail_vfx_arrow_flaming	impact_vfx_fire_small_5s_timed			
+explosive_pot		projectiles_explosive_pot	standard_ball		trail_vfx_explosive_pot_standard	impact_vfx_fire_small_5s_timed			
+explosive_pot_large		projectiles_explosive_pot_large	large_ball		trail_vfx_explosive_pot_large	impact_vfx_fire_small_5s_timed			
+fireball		projectile_fireball	large_ball		deployables_vfx_fireball				
+harpax		projectile_harpax	arrow		trail_vfx_default_trail				
+javelin		projectile_javelin	arrow		trail_vfx_pilum				
+javelin_fire		projectile_javelin	arrow_fire		trail_vfx_arrow_flaming	impact_vfx_fire_small_5s_timed			
+pilum		projectile_pilum	arrow		trail_vfx_pilum				
+pilum_heavy		projectile_pilum_heavy	arrow		trail_vfx_pilum				
+pilum_iron		projectile_pilum_iron	arrow		trail_vfx_pilum				
+pilum_light		projectile_pilum_light	arrow		trail_vfx_pilum				
+rock		projectiles_rock	standard_ball		trail_vfx_stone_standard				
+rock_flammable		projectiles_rock_flammable	standard_ball_fire		trail_vfx_stone_standard_flaming				
+rock_fragment		projectiles_sling_shot	small_ball		trail_vfx_shot				
+rock_large		projectiles_rock_large	large_ball		trail_vfx_stone_large				
+rock_large_flammable		projectiles_rock_large_flammable	large_ball_fire		trail_vfx_stone_large_flaming				
+scorpion_pot		projectiles_scorpion_pot			trail_vfx_shot				
+sling_shot		projectiles_sling_shot	small_ball		trail_vfx_shot				
+snake_pot		projectiles_snake_pot			trail_vfx_shot				
+stone		projectiles_stone	standard_ball		trail_vfx_stone_standard				
+stone_brick_large		projectiles_stone_brick_large	small_ball		trail_vfx_shot				
+stone_brick_small		projectiles_stone_brick_small	small_ball		trail_vfx_shot				
+stone_flammable		projectiles_stone_flammable	standard_ball_fire		trail_vfx_stone_standard_flaming				
+stone_large		projectiles_stone_large	large_ball		trail_vfx_stone_large				
+stone_large_flammable		projectiles_stone_large_flammable	large_ball_fire		trail_vfx_stone_large_flaming				
+torch		projectile_torch							

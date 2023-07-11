@@ -1,0 +1,10 @@
+index	sea_trade	map_file	overlay_file	radar_file	meaningful_id	preview_width	preview_height	preview_border	minx	maxx	miny	maxy	mapname	minimap_lookup_file	is_available_in_custom_battle
+#campaign_map_playable_areas_tables;3;db/campaign_map_playable_areas_tables/campaign_map_playable_areas															
+1564135515	false	main_rome_map.tga	main_rome_lookup.tga	main_rome_map_minimap.png	main_rome_map	750	600	0	0.0000	678.5000	0.0000	555.0900	main_rome_map	main_rome_lookup_minimap.tga	true
+1564135521	false	rome_test_map.tga	rome_test_lookup.tga	rome_test_map.png	main_rome_map	480	240	0	0.0000	320.5000	0.0000	185.0300	rome_test_map	rome_test_lookup.tga	false
+1564135528	false	pro_rome_map.tga	pro_rome_lookup.tga	pro_rome_map_minimap.png	prologue_map_01	250	250	0	0.0000	213.2430	0.0000	246.6000	prologue_map_01	pro_rome_lookup_minimap.tga	false
+1564135533	false	main_gaul_map.tga	main_gaul_lookup.tga	main_gaul_map_minimap.png	main_rome_map	750	600	0	0.0000	293.4500	0.0000	292.7400	main_gaul	main_gaul_lookup_minimap.tga	true
+1564135537	false	main_punic_map.tga	main_punic_lookup.tga	main_punic_map_minimap.png	main_rome_map	750	600	0	0.0000	614.3200	0.0000	493.5700	main_punic	main_punic_lookup_minimap.tga	true
+1564135546	false	main_rome_map.tga	main_rome_lookup.tga	main_rome_map_minimap.png	main_rome_map	750	600	0	0.0000	678.5000	0.0000	555.0900	main_emperor	main_rome_lookup_minimap.tga	true
+1564135549	false	main_rome_map.tga	main_rome_lookup.tga	main_rome_map_minimap.png	main_rome_map	750	600	0	0.0000	500.6860	0.0000	449.5480	main_greek	main_rome_lookup_minimap.tga	true
+1564135551	false	main_invasion_map.tga	main_invasion_lookup.tga	main_invasion_map_minimap.png	main_rome_map	750	600	0	0.0000	600.5320	0.0000	602.9320	main_invasion	main_invasion_lookup_minimap.tga	true

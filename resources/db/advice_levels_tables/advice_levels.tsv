@@ -1,0 +1,1357 @@
+key	advice_thread	advice_thread_level	points_needed	game_area	category	sub_category	max_repeat_count	repeat_interval	pause_battle	priority_level	high_verbosity_only	locatable	parameter	on_display_script	on_click_script	suppressible	uninhibitable	audio_clip	advisor_name	for_loading_screen	movie_link
+#advice_levels_tables;3;db/advice_levels_tables/advice_levels																					
+-1002927119	1066_Campaign_Advice_Fleet_Selected_Thread	2	2	Campaign	Characters	Commanders	1	0	false	2	false	false	none			false	false	n	campaign_advisor	true	
+-1009457400	0018_Battle_Tip_Outflanking_With_Cavalry_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1030015586	0101_Battle_Advice_Guard_Mode_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+-1060140303	0040_Battle_Tip_Feigning_A_Rout_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1062679364	1114_Campaign_Advice_Keyboard_Shortcuts_Thread	2	2	Campaign	UI	Keyboard	1	0	false	2	true	false	none			false	false	n	campaign_advisor	true	
+-1070740040	1167_Campaign_Advice_Warning_Ally_Betrayal_Thread	1	1	Campaign	Warnings	Diplomacy	1	0	false	1	true	false	none			false	false	n	campaign_advisor	false	
+-1076388291	0061_Battle_Tip_Skirmish_Mode_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-109318922	0070_Battle_Tip_Kill_Their_General_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1241185070	1082_Campaign_Advice_Unit_Right_Click_Thread	1	1	Campaign	UI	Units	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-1243953931	1014b_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_diplomacy_MilitaryAlliance
+-1246754910	0055_Battle_Tip_Missile_Cavalry_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+-1282356525	0036_Battle_Tip_Light_Cavalry_Tactics_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+-1341063580	0036_Battle_Tip_Light_Cavalry_Tactics_Thread	2	2	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+-1381776408	1115_Campaign_Advice_Camera_Controls_Thread	1	1	Campaign	UI	Camera	1	0	false	1	true	false	none			false	false	n	campaign_advisor	true	
+-1394403499	1104_Campaign_Advice_Undeveloped_Port_Thread	1	5	Campaign	Warnings	Construction	0	5	false	2	true	true	region			false	false	n	campaign_advisor	false	
+-1395907252	1138_Campaign_Advice_Warning_Shortages_Thread	1	1	Campaign	Warnings	Population	0	10	false	1	false	true	region			false	false	n	campaign_advisor	false	
+-1442955838	0077_Battle_Tip_Unit_Morale_Thread	1	1	Battle	Units	Morale	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1467085177	0042_Battle_Tip_Study_Their_Lines_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1516645363	0044_Battle_Tip_Encircle_The_Enemy_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-152525085	1183_Campaign_Advice_Research_Halted_Thread	1	20	Campaign	Warnings	Research	0	3	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-1528505088	1048_Campaign_Advice_UI_Construction_Tab_Thread	1	1	Campaign	UI	Construction	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-1567524386	0014_Battle_Tip_Expendable_Troops_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1581561178	1167_Campaign_Advice_Warning_Ally_Betrayal_Thread	2	6	Campaign	Warnings	Diplomacy	0	1	false	1	true	false	none			false	false	n	campaign_advisor	false	
+-1594313916	1065_Campaign_Advice_General_Selected_Thread	6	25	Campaign	Characters	Commanders	1	0	false	2	true	false	none			false	false	n	campaign_advisor	true	
+-1666667854	0010_Battle_Tip_Draw_Their_Fire_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1701749777	0065_Battle_Tip_Cavalry_Charges_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1744509802	0031_Battle_Tip_Defence_Against_Cavalry_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1755835367	0106_Battle_Advice_Radar_Map_Thread	1	1	Battle	UI	HUD	1	0	false	1	true	false	none			false	false	n	battle_advisor	true	
+-1805368716	0076_Battle_Tip_Camera_Controls_Thread	1	1	Battle	UI	Camera	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1808504559	1058_Campaign_Advice_Farm_Selected_Thread	1	6	Campaign	Buildings	Slots	1	0	false	1	true	false	none			false	false	n	campaign_advisor	true	
+-1871866990	1081_Campaign_Advice_Province_Button_Thread	3	9	Campaign	UI	Regions	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+-1875830202	0007_Battle_Tip_Missile_Superiority_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+-1890476358	0062_Battle_Tip_Crossing_Attack_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1899489232	0012_Battle_Tip_Fight_To_The_Death_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	false	
+-1901858416	1014e_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_diplomacy_war
+-1906180227	0025_Battle_Tip_Defending_With_Cavalry_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+-1961571108	1095_Campaign_Advice_Trade_Agreement_Thread	1	1	Campaign	Features	Trade	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+-1961998855	0035_Battle_Tip_Driving_Off_Skirmishers_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1969897884	0029_Battle_Tip_Cavalry_Against_Points_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-1995657968	1024_Campaign_Advice_UI_Lists_Panel_Thread	1	1	Campaign	UI	Lists	1	0	false	1	true	false	none			false	false	n	campaign_advisor	false	
+-1999396619	1078_Campaign_Advice_Agent_Right_Click_Thread	1	1	Campaign	UI	Agents	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-2004663178	0019_Battle_Tip_Find_Weak_Spots_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-2014914668	0020_Battle_Tip_Avoid_Flanking_Thread	2	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-2017583094	1032_Campaign_Advice_UI_Technology_Panel_Thread	1	1	Campaign	UI	Technology	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_technology_research
+-2023390722	0066_Battle_Tip_Defences_Stakes_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+-2039862233	1040_Campaign_Advice_UI_Postbattle_Panel_Thread	1	1	Campaign	UI	Battle	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-2134517828	0043_Battle_Tip_Enrage_The_Enemy_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-234487411	0017_Battle_Tip_Outflanking_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-237447599	1014f_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-245662021	0022_Battle_Tip_Wavy_Line_Formation_Thread	1	1	Battle	Units	Formations	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-245999870	1107_Campaign_Advice_Unexploited_Resources_Thread	1	5	Campaign	Warnings	Construction	0	5	false	2	true	true	region			false	false	n	campaign_advisor	false	
+-325593809	1125_Campaign_Advice_Warning_Bankrupt_Thread	1	1	Campaign	Warnings	Bankruptcy	0	2	false	2	false	false	none			false	false	n	campaign_advisor	false	
+-339955577	0082_Battle_Tip_Rallying_Thread	1	1	Battle	Features	General	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+-388492343	1185_Campaign_Advice_Warning_Infrastructure_Thread	1	5	Campaign	Warnings	Infrastructure	0	15	false	2	false	false	none			false	false	n	campaign_advisor	false	
+-393224185	0015_Battle_Tip_Go_For_The_Throat_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-426685576	0064_Battle_Tip_Ambush_Attack_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-474106108	1079_Campaign_Advice_NPC_Right_Click_Thread	1	1	Campaign	UI	NPC	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-509629283	1084_Campaign_Advice_Tech_Right_Click_Thread	1	1	Campaign	UI	Panels	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_technology_research
+-512693646	0054_Battle_Tip_Fight_Downhill_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-519238000	0080_Battle_Tip_Deployment_Order_Thread	1	1	Battle	Phases	Deployment	1	0	false	3	false	false	none			false	false	n	not applicable	false	
+-537894077	0104_Battle_Advice_Group_Formations_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	/tutorial/r2_videos_controls_battleadvanced
+-550746044	1051_Campaign_Advice_Merging_Armies_Thread	1	1	Campaign	Features	Armies	1	0	false	1	true	false	none			false	false	n	campaign_advisor	false	
+-594453008	0124_Battle_Advice_Skirmish_Mode_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	2	false	false	none			false	false	n	battle_advisor	true	
+-595875202	1039_Campaign_Advice_UI_Prebattle_Panel_Thread	1	1	Campaign	UI	Battle	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-600261031	2195_Campaign_Advice_Passive_Spying_Thread	1	1	Campaign	Characters	Agents	1	0	false	2	false	false	none			false	false	n	campaign_advisor	true	
+-722605174	0105_Battle_Advice_Group_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+-729505557	0108_Battle_Advice_Killometer_Thread	1	1	Battle	UI	HUD	1	0	false	1	true	false	none			false	false	n	battle_advisor	true	
+-737235711	1050_Campaign_Advice_UI_Exchange_Panel_Thread	1	1	Campaign	UI	Merging	1	0	false	1	true	false	none			false	false	n	campaign_advisor	false	
+-757350914	1059_Campaign_Advice_Mine_Selected_Thread	1	1	Campaign	Buildings	Slots	1	0	false	1	true	false	none			false	false	n	campaign_advisor	false	
+-758254518	0045_Battle_Tip_Outnumbered_By_The_Enemy_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-788769149	0018_Battle_Tip_Outflanking_With_Cavalry_Thread	2	1	Battle	Units	Tactics	1	0	false	2	true	false	none			true	false	n	not applicable	true	
+-795357910	1119_Campaign_Advice_Warning_Rebellion_Thread	2	2	Campaign	Warnings	Rebellions	0	1	false	2	true	true	region			false	false	n	campaign_advisor	false	
+-825618887	1143_Campaign_Advice_Trade_Route_Raided_Thread	1	1	Campaign	Features	Trade	0	1	false	1	false	true	faction_sea_trade_raided			false	false	n	campaign_advisor	false	
+-854614115	0004_Battle_Tip_Player_Defending_Hill_Thread	1	1	Battle	Units	Tactics	1	4	false	3	true	false	none			false	false	n	not applicable	true	
+-855205336	1065_Campaign_Advice_General_Selected_Thread	1	1	Campaign	Characters	Commanders	1	0	false	2	false	false	none			false	false	n	campaign_advisor	true	
+-865899355	1112_Campaign_Advice_Resources_Thread	1	1	Campaign	Features	Resources	1	0	false	2	false	false	none			false	false	n	campaign_advisor	true	
+-878278296	1065_Campaign_Advice_General_Selected_Thread	7	30	Campaign	Characters	Commanders	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+-895189344	0057_Battle_Tip_Rallying_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-925500629	1014n_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	12	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+-939651342	1101_Campaign_Advice_Sieges_Thread	1	1	Campaign	Features	Sieges	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	/tutorial/r2_videos_armystances_siegestance
+-97375295	0072_Battle_Tip_Hiding_At_Sea_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+-981340853	0011_Battle_Tip_Counter_Charge_Thread	1	1	Battle	Units	Tactics	1	0	false	2	true	false	none			false	false	n	not applicable	true	
+1000206666	1114_Campaign_Advice_Keyboard_Shortcuts_Thread	3	4	Campaign	UI	Keyboard	1	0	false	2	true	false	none			false	false	n	campaign_advisor	true	
+1019079545	0006_Battle_Tip_Enemy_Sitting_Targets_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1020531268	0079_Battle_Tip_Generals_Influence_Thread	1	1	Battle	Features	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+1041566911	0020_Battle_Tip_Avoid_Flanking_Thread	1	1	Battle	Units	Tactics	1	0	false	2	true	false	none			true	false	n	not applicable	true	
+1060240560	0039_Battle_Tip_Offer_Ambush_Bait_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1085557272	0049_Battle_Tip_High_Ground_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1093841867	0038_Battle_Tip_Stay_In_Cover_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1110538712	1092_Campaign_Advice_Region_Capital_Thread	2	16	Campaign	Regions	Settlements	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+111349601	0004_Battle_Tip_Player_Defending_Hill_Thread	2	2	Battle	Units	Tactics	1	4	false	3	true	false	none			false	false	n	not applicable	true	
+1119796260	1029e_Campaign_Advice_UI_Finance_Panel_Thread	1	2	Campaign	UI	Finance	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1129360188	0016_Battle_Tip_Fixing_Killing_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+113649401	1039_Campaign_Advice_UI_Prebattle_Panel_Thread	2	2	Campaign	UI	Battle	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1170317847	0032_Battle_Tip_Good_Target_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1198010380	1077_Campaign_Advice_NPC_Selected_Thread	1	1	Campaign	Characters	NPC	1	0	false	2	true	false	none			false	false	n	campaign_advisor	false	
+1212482652	0026_Battle_Tip_Cavalry_In_Reserve_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+1212661715	0048_Battle_Tip_Overcommitment_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1213169590	0123_Battle_Advice_Review_Panel_Thread	1	1	Battle	UI	HUD	1	0	false	1	true	false	none			false	false	n	battle_advisor	true	
+1213263346	0127_Battle_Advice_Siege_Assault_Thread	1	1	Battle	Siege	Attack	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+1216301252	1090_Campaign_Advice_Multi_Turn_Moves_Thread	1	1	Campaign	Character	Movement	1	0	false	2	true	false	none			false	false	n	campaign_advisor	false	
+1217512772	1014a_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_diplomacy_Tradeagreements
+1217586072	1029c_Campaign_Advice_UI_Finance_Panel_Thread	1	3	Campaign	UI	Finance	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1217604599	1108_Campaign_Advice_Bookmarks_Thread	1	1	Campaign	Features	Camera	1	0	false	2	true	false	none			false	false	n	campaign_advisor	true	
+1217921189	1065_Campaign_Advice_General_Selected_Thread	4	15	Campaign	Characters	Commanders	1	0	false	2	false	false	none			false	false	n	campaign_advisor	true	
+1218788185	1123_Campaign_Advice_Warning_Upkeep_Thread	1	1	Campaign	Warnings	Upkeep	0	2	false	2	false	false	none			false	false	n	campaign_advisor	false	
+1219328082	1116_Campaign_Advice_UI_Help_Buttons_Thread	1	1	Campaign	UI	Help	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1220977758	1122_Campaign_Advice_Warning_Bankrupt_Thread	1	1	Campaign	Warnings	Bankrupt	0	2	false	2	false	false	none			false	false	n	campaign_advisor	false	
+1223289843	1048_Campaign_Advice_UI_Construction_Tab_Thread	2	9	Campaign	UI	Panels	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1224585565	0027_Battle_Tip_Cavalry_Cycle_Thread	2	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1227695361	1213_Campaign_Advice_Digging_In_Thread	1	1	Campaign	Features	Defences	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+1229686133	1081_Campaign_Advice_Province_Button_Thread	2	6	Campaign	UI	Regions	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1232708197	1216_Campaign_Advice_Zones_Of_Control_Thread	1	3	Campaign	Features	Movement	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1242280643	1031_Campaign_Advice_UI_Technology_Panel_Thread	1	1	Campaign	UI	Technology	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_technology_research
+1242837398	1110_Campaign_Advice_Trade_Routes_Thread	1	4	Campaign	Features	Trade	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	/tutorial/r2_videos_economy_trade
+124410149	0002_Battle_Tip_Enemy_Forming_Up_Thread	1	1	Battle	Units	Tactics	1	4	false	3	true	false	none			false	false	n	not applicable	true	
+1245539238	0078_Battle_Tip_Extreme_Weather_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+1247116376	0005_Battle_Tip_Preserve_Skirmishers_Thread	1	1	Battle	Units	Tactics	2	2	false	3	true	false	none			false	false	n	not applicable	true	
+1247479159	1039_Campaign_Advice_UI_Prebattle_Panel_Thread	3	4	Campaign	UI	Battle	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+1255005425	0081_Battle_Tip_Generals_Inspiration_Thread	1	1	Battle	Features	General	1	0	false	3	false	false	none			false	false	n	not applicable	true	/tutorial/r2_videos_abilities_generals
+1259146729	2213_Campaign_Advice_New_Protectorate_Thread	1	1	Campaign	Features	Protectorates	1	0	false	1	false	false	faction			false	false	n	campaign_advisor	false	
+1264671506	1127_Campaign_Advice_Warning_Trade_Thread	1	1	Campaign	Warnings	Trade	0	15	false	2	true	false	none			false	false	n	campaign_advisor	false	
+1273390037	0053_Battle_Tip_Mountain_Passes_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1291133193	0030_Battle_Tip_Cavalry_Against_Points_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1308478569	0018_Battle_Tip_Outflanking_With_Cavalry_Thread	3	3	Battle	Units	Tactics	1	0	false	2	true	false	none			false	false	n	not applicable	true	
+1310965009	0069_Battle_Tip_Defences_Stakes_Thread	1	1	Battle	Units	Land	1	0	false	3	false	false	none			false	false	n	not applicable	false	
+131718024	0047_Battle_Tip_Distract_The_Enemy_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+132393743	0052_Battle_Tip_Mountain_Passes_Thread	1	1	Battle	Units	Tactics	1	0	false	2	true	false	none			false	false	n	not applicable	true	
+1387459530	0017_Battle_Tip_Outflanking_Thread	2	2	Battle	Units	Tactics	1	0	false	2	true	false	none			false	false	n	not applicable	true	
+1391140702	1066_Campaign_Advice_Fleet_Selected_Thread	5	8	Campaign	Characters	Commanders	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+1392703367	1114_Campaign_Advice_Keyboard_Shortcuts_Thread	1	1	Campaign	UI	Keyboard	1	0	false	2	true	false	none			false	false	n	campaign_advisor	true	
+1412070137	1065_Campaign_Advice_General_Selected_Thread	5	20	Campaign	Characters	Commanders	1	0	false	2	false	false	none			false	false	n	campaign_advisor	true	
+1424352004	0107_Battle_Advice_Melee_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	true	false	none			false	false	n	battle_advisor	true	
+1431102331	0056_Battle_Tip_Facing_Cavalry_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+143874018	0021_Battle_Tip_Reserves_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1475059206	0051_Battle_Tip_Keep_Enemy_Occupied_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1499695591	1092_Campaign_Advice_Region_Capital_Thread	4	8	Campaign	Regions	Settlements	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1500507282	1025_Campaign_Advice_UI_Lists_Panel_Thread	1	1	Campaign	UI	Lists	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+1572526606	0023_Battle_Tip_Attacking_Hills_Thread	1	1	Battle	Units	Tactics	1	4	false	3	true	false	none			false	false	n	not applicable	true	
+1590729744	1028_Campaign_Advice_UI_Clan_Panel_Thread	1	1	Campaign	UI	Clan	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+1591689763	0028_Battle_Tip_Cavalry_Against_Points_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1599262495	0075_Battle_Tip_Delay_Phase_Thread	1	1	Battle	Phases	Delay	1	0	false	3	true	false	none			false	false	n	not applicable	false	
+1621609724	0103_Battle_Advice_Withdraw_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+1629386802	1101_Campaign_Advice_Sieges_Thread	2	3	Campaign	Features	Sieges	1	0	false	1	true	false	none			false	false	n	campaign_advisor	true	
+164466	1148_Campaign_Advice_Port_Blockaded_Thread	1	1	Campaign	Features	Blockades	1	0	false	1	false	true	region			false	false	n	campaign_advisor	false	
+1649185866	0068_Battle_Tip_Terrain_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1747583890	1030b_Campaign_Advice_UI_Events_Panel_Thread	1	1	Campaign	UI	Events	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+1749194297	0050_Battle_Tip_Avoid_Elite_Units_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+17591341	0027_Battle_Tip_Cavalry_Cycle_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1759254827	0122_Battle_Advice_Naval_Boarding_Meter_Thread	1	1	Battle	UI	HUD	1	0	false	1	false	false	none			false	false	n	battle_advisor	true	
+1782364698	1049_Campaign_Advice_UI_Recruitment_Tab_Thread	1	1	Campaign	UI	Recruitment	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+1833752382	1066_Campaign_Advice_Fleet_Selected_Thread	4	6	Campaign	Characters	Commanders	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+1838504917	1147_Campaign_Advice_Trade_Nodes_Thread	1	2	Campaign	Features	Trade	0	4	false	2	false	false	none			false	false	n	campaign_advisor	false	
+1857473489	1091_Campaign_Advice_Movement_Exhausted_Thread	1	1	Campaign	Character	Movement	1	0	false	3	true	false	none			false	false	n	campaign_advisor	false	
+1877282481	0116_Battle_Advice_Speed_Slider_Thread	1	1	Battle	UI	HUD	1	0	false	1	true	false	none			false	false	n	battle_advisor	false	
+1882907085	0073_Battle_Tip_Siege_Ladders_Thread	1	1	Battle	Siege	Attack	1	0	false	3	true	false	none			false	false	n	not applicable	false	
+1900236590	1095_Campaign_Advice_Trade_Agreement_Thread	2	4	Campaign	Features	Trade	1	0	false	1	true	false	none			false	false	n	campaign_advisor	true	
+1912850156	0024_Battle_Tip_Fighting_With_Cavalry_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+1913603768	2194_Campaign_Advice_Advisor_Back_Button_Thread	1	1	Campaign	UI	Advisor	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+1949671761	2198_Campaign_Advice_Replenishment_Advice_Thread	1	1	Campaign	Features	Replenishment	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+1953611164	1119_Campaign_Advice_Warning_Rebellion_Thread	1	1	Campaign	Warnings	Rebellions	0	1	false	2	false	true	region			false	false	n	campaign_advisor	false	
+2032462934	0129_Battle_Advice_Deployment_Phase_Thread	1	1	Battle	Phases	Deployment	1	0	false	1	true	false	none			false	false	n	battle_advisor	true	
+2045097248	1081_Campaign_Advice_Province_Button_Thread	4	12	Campaign	UI	Regions	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2047305771	1014d_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_diplomacy_Satrapies&clientstates
+2087532824	0003_Battle_Tip_Enemy_Defending_Hill_Thread	1	1	Battle	Units	Tactics	1	4	false	3	true	false	none			false	false	n	not applicable	true	
+2105808871	1118_Campaign_Advice_Warning_Riot_Thread	1	1	Campaign	Warnings	Riots	0	1	false	2	false	true	region			false	false	n	campaign_advisor	false	
+2126291480	1142_Campaign_Advice_Trade_Route_Raided_Thread	1	1	Campaign	Features	Trade	1	0	false	1	false	true	map_position			false	false	n	campaign_advisor	false	
+2139657673	1014_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	Features	Diplomacy	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139657684	1013_Campaign_Advice_UI_Diplomacy_Thread	1	1	Campaign	Features	Diplomacy	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+2139657687	1023_Campaign_Advice_UI_Radar_Map_Thread	1	1	Campaign	UI	Radar	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+2139657696	1028a_Campaign_Advice_UI_Faction_Panel_Thread	1	1	Campaign	UI	Clan	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_management_Politicalpower
+2139657704	1028b_Campaign_Advice_UI_Faction_Panel_Thread	1	1	Campaign	UI	Clan	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139657708	1029a_Campaign_Advice_UI_Finance_Panel_Thread	1	1	Campaign	UI	Finance	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139657712	1029b_Campaign_Advice_UI_Finance_Panel_Thread	1	1	Campaign	UI	Finance	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+2139657746	1057_Campaign_Advice_Port_Selected_Thread	1	12	Campaign	Buildings	Slots	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_buildings_port
+2139657841	1136_Campaign_Advice_Warning_Cultural_Unrest_Thread	1	1	Campaign	Warnings	Unrest	0	3	false	1	false	false	province			false	false	n	campaign_advisor	false	
+2139657851	1130_Campaign_Advice_Warning_Region_Wealth_Thread	1	1	Campaign	Warnings	Region Wealth	1	0	false	2	false	false	region			false	false	n	campaign_advisor	false	
+2139657866	1085_Campaign_Advice_Settlement_Occupied_Thread	2	2	Campaign	Regions	Capture	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139657902	1086_Campaign_Advice_Coastal_Assault_Thread	1	1	Campaign	Features	Coastal Assaults	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139657903	1087_Campaign_Advice_Coastal_Assault_Thread	1	1	Campaign	Features	Coastal Assaults	1	0	false	1	false	false	character			false	false	n	campaign_advisor	false	
+2139657938	2197_Campaign_Advice_Legendary_Building_Thread	1	1	Campaign	Features	Legendary Buildings	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139657942	2192_Campaign_Advice_Dilemmas_Thread	1	3	Campaign	Features	Dilemmas	1	0	false	2	false	false	none			false	false	n	campaign_advisor	true	
+2139657960	2201_Campaign_Advice_Faction_Management_Thread	1	1	Campaign	Features	Faction Management	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139657977	2189_Campaign_Advice_Encyclopaedia_Thread	1	1	Campaign	Features	Encyclopaedia	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+2139657998	0100_Battle_Advice_UI_Buttons_Thread	1	1	Battle	UI	Buttons	1	0	false	1	false	false	none			false	false	n	battle_advisor	true	
+2139658011	2215_Campaign_Advice_Faction_Traits_Thread	1	3	Campaign	Features	Clan Traits	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658019	2216_Campaign_Advice_Effects_Bundles_Thread	1	1	Campaign	Features	Effects Bundles	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658024	2217_Campaign_Advice_Mission_Objectives_Thread	1	1	Campaign	Features	Missions	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658039	2220_Campaign_Advice_Food_Supplies_Thread	1	12	Campaign	Features	Food	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658041	1078_Campaign_Advice_Agent_Right_Click_Thread	3	3	Campaign	UI	Agents	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658045	1078_Campaign_Advice_Agent_Right_Click_Thread	4	4	Campaign	UI	Agents	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658052	2218_Campaign_Advice_Skills_Tree_Thread	1	1	Campaign	UI	Skills	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658053	2219_Campaign_Advice_Region_Specialities_Thread	1	1	Campaign	Features	Region Speciality Buildings	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658364	0130_Battle_Advice_Unit_Abilities_Thread	1	1	Battle	Features	Abilities	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	/tutorial/r2_videos_abilities_specialabilities
+2139658369	2221_Campaign_Advice_Fleets_Reveal_Thread	1	3	Campaign	Features	Fleets	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658394	2222_Campaign_Advice_Natural_Disasters_Thread	1	3	Campaign	Features	Natural Disasters	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658419	2223_Campaign_Advice_Riots_Thread	1	24	Campaign	Public Order	Riots	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658422	2224_Campaign_Advice_Civil_War_Thread	1	5	Campaign	Features	Civil War	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_management_Civilwar
+2139658427	2225_Campaign_Advice_Region_Growth_Thread	1	3	Campaign	UI	Province	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658438	2227_Campaign_Advice_Losing_Generals_Thread	1	2	Campaign	Features	Routing	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658443	2228_Campaign_Advice_Experience_Sea_Thread	1	2	Campaign	Units	Experience	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658456	1103_Campaign_Advice_Ungarrisoned_Settlement_Thread	1	1	Campaign	Warnings	Garrisons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658532	0131_Battle_Advice_Ambush_Attack_Thread	1	1	Battle	Ambush	Attack	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658540	0132_Battle_Advice_Ambush_Defence_Thread	1	1	Battle	Ambush	Defence	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658553	0065a_Battle_Tip_Cavalry_Charges_Thread	1	1	Battle	Units	Tactics	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139658556	1027_Campaign_Advice_UI_Lists_Panel_Thread	1	1	Campaign	UI	Lists	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658563	0001_Battle_Tip_Friendly_Fire_Thread	1	1	Battle	Units	Tactics	1	0	false	1	false	false	none			false	false	n	not applicable	false	
+2139658569	2200_Campaign_Advice_Finance_Thread	1	1	Campaign	Features	Finance	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139658590	Rom.HB.TF_Battle_Lost_02	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139658597	Rom.HB.TF_Battle_Won_01	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139658600	Rom.HB.TF_Gameplay_01	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	varus_advisor	false	
+2139658604	Rom.HB.TF_Gameplay_02	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	varus_advisor	false	
+2139658614	Rom.HB.TF_Gameplay_03	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139658624	Rom.HB.TF_Gameplay_04	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	varus_advisor	false	
+2139658632	Rom.HB.TF_Gameplay_05	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139658639	Rom.HB.TF_Gameplay_06	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139658640	Rom.HB.TF_Gameplay_07	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139658645	Rom.HB.TF_Gameplay_08	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139658655	Rom.HB.TF_Gameplay_09	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139658729	Rom.HB.TF_Battle_Lost_01	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	varus_advisor	false	
+2139658753	Rom.Pro.Capua.AD.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658755	Rom.Pro.Capua.SI.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658758	Rom.Pro.Capua.SI.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658761	Rom.Pro.Capua.SI.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658765	Rom.Pro.Capua.SI.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658774	Rom.Pro.Capua.AD.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658780	Rom.Pro.Capua.SI.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658789	Rom.Pro.Capua.AD.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658799	Rom.Pro.Capua.SI.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658803	Rom.Pro.Capua.SI.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658805	Rom.Pro.Capua.AD.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658808	Rom.Pro.Capua.AD.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658810	Rom.Pro.Capua.AD.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658814	Rom.Pro.Capua.AD.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658818	Rom.Pro.Capua.AD.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658825	Rom.Pro.Capua.AD.009	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658834	Rom.Pro.Capua.AD.010	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658837	Rom.Pro.Capua.AD.011	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658845	Rom.Pro.Capua.AD.012	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658848	Rom.Pro.Capua.SI.100	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658856	Rom.Pro.Capua.SI.101	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658863	Rom.Pro.Capua.SI.102	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658873	Rom.Pro.Capua.AD.100	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658880	Rom.Pro.Capua.SI.103	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658890	Rom.Pro.Capua.AD.102	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658900	Rom.Pro.Capua.AD.101	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658903	Rom.Pro.Capua.SI.200	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658904	Rom.Pro.Capua.AD.200	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658914	Rom.Pro.Capua.SI.201	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658920	Rom.Pro.Capua.AD.201	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658928	Rom.Pro.Capua.SI.202	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658929	Rom.Pro.Capua.AD.202	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658931	Rom.Pro.Capua.SI.203	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658935	Rom.Pro.Capua.AD.203	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658942	Rom.Pro.Capua.AD.204	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658944	Rom.Pro.Capua.AD.205	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658949	Rom.Pro.Capua.AD.206	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658959	Rom.Pro.Capua.SI.204	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658969	Rom.Pro.Capua.AD.207	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658979	Rom.Pro.Capua.SI.205	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658981	Rom.Pro.Capua.SI.206	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139658982	Rom.Pro.Capua.AD.208	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658989	Rom.Pro.Camp1.AD.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139658997	Rom.Pro.Camp1.AD.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659005	Rom.Pro.Camp1.AD.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659012	Rom.Pro.Camp1.AD.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659020	Rom.Pro.Camp1.AD.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659028	Rom.Pro.Camp1.AD.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659037	Rom.Pro.Camp1.SI.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659040	Rom.Pro.Camp1.SI.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659048	Rom.Pro.Camp1.SI.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659057	Rom.Pro.Camp1.AD.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659061	Rom.Pro.Camp1.SI.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659069	Rom.Pro.Camp1.AD.100	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659074	Rom.Pro.Camp1.SI.102	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659084	Rom.Pro.Camp1.AD.101	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659094	Rom.Pro.Camp1.SI.103	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659098	Rom.Pro.Camp1.AD.201	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659105	Rom.Pro.Camp1.SI.201	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659113	Rom.Pro.Camp1.AD.204	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659115	Rom.Pro.Camp1.AD.202	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659123	Rom.Pro.Camp1.AD.203	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659132	Rom.Pro.Camp1.SI.301	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659135	Rom.Pro.Camp1.AD.301	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659145	Rom.Pro.Camp1.SI.302	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659153	Rom.Pro.Camp1.SI.401	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659158	Rom.Pro.Camp1.SI.402	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659163	Rom.HB.AL.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659173	Rom.HB.AL.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659179	Rom.HB.AL.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659189	Rom.HB.AL.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659195	Rom.HB.AL.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659197	Rom.HB.AL.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659205	Rom.HB.AL.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659213	Rom.HB.CN.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659218	Rom.HB.CN.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659225	Rom.HB.CN.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659234	Rom.HB.CN.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659235	Rom.HB.CN.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659240	Rom.HB.CN.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659244	Rom.HB.CN.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659252	Rom.HB.CN.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659253	Rom.HB.CN.009	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659260	Rom.HB.CR.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659266	Rom.HB.CR.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659267	Rom.HB.CR.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659268	Rom.HB.CR.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659271	Rom.HB.PY.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659273	Rom.HB.CR.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659276	Rom.HB.CR.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659278	Rom.HB.SC.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659286	Rom.HB.SC.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659292	Rom.HB.SC.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659302	Rom.HB.SC.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659306	Rom.HB.SC.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659307	Rom.HB.SC.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659308	Rom.HB.SC.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659313	Rom.HB.SC.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659321	Rom.HB.SC.009	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659330	Rom.HB.PY.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659333	Rom.HB.PY.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659341	Rom.HB.CY.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659343	Rom.HB.CY.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659345	Rom.HB.CY.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659349	Rom.HB.CY.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659354	Rom.HB.PY.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659364	Rom.HB.PY.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659372	Rom.HB.PH.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659373	Rom.HB.PH.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659377	Rom.HB.PH.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659380	Rom.HB.PH.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659385	Rom.HB.PH.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659392	Rom.HB.PH.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659397	Rom.HB.PH.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659407	Rom.HB.PH.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659417	Rom.HB.PH.009	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659421	Rom.HB.RA.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659423	Rom.HB.RA.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659426	Rom.HB.RA.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659427	Rom.HB.RA.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659436	Rom.HB.RA.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659439	Rom.HB.SR.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659442	Rom.HB.SR.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659444	Rom.HB.SR.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659445	Rom.HB.SR.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659450	Rom.HB.SR.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659451	Rom.HB.SR.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659460	Rom.HB.SR.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659464	Rom.HB.SR.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659474	Rom.HB.NI.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659476	Rom.HB.NI.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659481	Rom.HB.NI.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659484	Rom.HB.NI.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659494	Rom.HB.NI.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659500	Rom.HB.NI.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659509	Rom.HB.WS.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659511	Rom.HB.WS.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659518	Rom.HB.WS.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659520	Rom.HB.WS.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659524	Rom.HB.WS.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659532	Rom.HB.WS.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659539	Rom.HB.WS.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659549	Rom.HB.WS.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659556	Rom.HB.ZA.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659565	Rom.HB.ZA.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659571	Rom.HB.ZA.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659573	Rom.HB.ZA.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659575	Rom.HB.ZA.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659585	Rom.HB.ZA.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659591	Rom.HB.ZE.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659598	Rom.HB.ZE.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659607	Rom.HB.ZE.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659612	Rom.HB.ZE.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659619	Rom.HB.ZE.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659623	Rom.HB.ZE.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659626	Rom.Pro.Camp1.AD.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659633	Rom.HB.RA.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659643	Rom.HB.TF_Battle_Lost_03	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	centurion_advisor	false	
+2139659647	Rom.Pro.Ves.AD.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659652	Rom.Pro.Ves.SI.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659662	Rom.Pro.Ves.SI.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659663	Rom.Pro.Ves.AD.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659669	Rom.Pro.Ves.SI.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659676	Rom.Pro.Ves.SI.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659677	Rom.Pro.Ves.AD.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659684	Rom.Pro.Ves.AD.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659693	Rom.Pro.Ves.AD.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659698	Rom.Pro.Ves.SI.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659705	Rom.Pro.Ves.SI.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659714	Rom.Pro.Ves.AD.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659719	Rom.Pro.Ves.SI.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659727	Rom.Pro.Ves.AD.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659731	Rom.Pro.Ves.AD.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659736	Rom.Pro.Camp2.AD.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659738	Rom.Pro.Camp2.SI.001	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659742	Rom.Pro.Camp2.AD.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659750	Rom.Pro.Camp2.AD.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659760	Rom.Pro.Camp2.AD.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659768	Rom.Pro.Camp2.SI.002	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659775	Rom.Pro.Camp2.AD.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659780	Rom.Pro.Camp2.SI.003	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659786	Rom.Pro.Camp2.AD.101	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659794	Rom.Pro.Camp2.AD.102	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659800	Rom.Pro.Camp2.AD.103	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659809	Rom.Pro.Camp2.AD.104	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659814	Rom.Pro.Camp2.AD.105	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659819	Rom.Pro.Camp2.AD.106	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659820	Rom.Pro.Camp2.AD.107	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659827	Rom.Pro.Camp2.SI.101	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659837	Rom.Pro.Camp2.AD.110	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659847	Rom.Pro.Camp2.AD.108	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659856	Rom.Pro.Camp2.SI.103	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659863	Rom.Pro.Camp2.AD.111	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659871	Rom.Pro.Camp2.AD.109	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659878	Rom.Pro.Camp2.SI.105	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659884	Rom.Pro.Camp2.SI.106	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659893	Rom.Pro.Camp2.SI.107	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659898	Rom.Pro.Camp2.AD.113	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659907	Rom.Pro.Camp2.AD.114	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659917	Rom.Pro.Camp2.SI.108	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659923	Rom.Pro.Camp2.SI.109	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659930	Rom.Pro.Camp2.AD.115	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659938	Rom.Pro.Camp2.AD.116	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659944	Rom.Pro.Camp2.AD.117	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659947	Rom.Pro.Camp2.AD.118	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139659955	Rom.Pro.Camp2.SI.110	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659961	Rom.Pro.Camp2.SI.201	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659968	Rom.Pro.Camp2.SI.202	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659977	Rom.Pro.Camp2.SI.203	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139659998	Rom.Pro.Camp2.SI.206	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660006	Rom.Pro.Camp2.SI.207	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660014	Rom.Pro.Camp2.SI.208	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660023	Rom.Pro.Camp2.AD.201	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660033	Rom.Pro.Camp2.AD.202	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660040	Rom.Pro.Camp2.AD.203	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660049	Rom.Pro.Camp2.AD.301	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660058	Rom.Pro.Camp2.SI.301	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660067	Rom.Pro.Camp2.SI.302	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660072	Rom.Pro.Camp2.SI.303	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660078	Rom.Pro.Camp2.AD.302	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660080	Rom.Pro.Camp2.SI.401	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660083	Rom.Pro.Camp2.SI.402	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660087	Rom.Pro.Camp1.SI.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139660094	3000_TWRII_Faction_Intro_Rome_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660101	3001_TWRII_Faction_Intro_Carthage_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660107	3002_TWRII_Faction_Intro_Egypt_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139660108	3003_TWRII_Faction_Intro_Macedon_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660109	3004_TWRII_Faction_Intro_Britannia_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660111	3005_TWRII_Faction_Intro_Gaul_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660112	3006_TWRII_Faction_Intro_Germania_1_Trigger	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660116	3007_TWRII_Faction_Intro_Parthia_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660123	3008_TWRII_Faction_Intro_Pontus_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660126	3010_TWRII_Faction_Intro_Athens_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660132	3011_TWRII_Faction_Intro_Sparta_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660135	3012_TWRII_Faction_Intro_Epirus_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139660136	1062_Campaign_Advice_UI_Army_Stances_Thread	1	3	Campaign	Armies	Stances	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139660140	1063_Campaign_Advice_UI_Recruitment_Tab_Thread	1	8	Campaign	Armies	Recruitment	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139660147	1020_Campaign_Advice_Politics_Thread	1	5	Campaign	Features	Politics	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	/tutorial/r2_videos_management_Politicalpower
+2139660150	1020_Campaign_Advice_Politics_Thread	2	10	Campaign	Features	Politics	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+2139660176	1068_Campaign_Advice_Spy_Selected_Thread	1	1	Campaign	Features	Agents	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_agents_actions
+2139660184	1070_Campaign_Advice_Dignitary_Selected_Thread	1	1	Campaign	Features	Agents	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_agents_actions
+2139660191	1069_Campaign_Advice_Champion_Selected_Thread	1	1	Campaign	Features	Agents	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_agents_actions
+2139660199	1014g_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139660205	1014h_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139660207	1014k_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_diplomacy_Peacetreaties
+2139660209	1014m_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_diplomacy_Confederations
+2139660214	1014c_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_diplomacy_Defensivealliance
+2139660224	0133_Battle_Advice_AI_Control_Thread	1	1	Battle	Features	AI Control	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660231	1014q_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	15	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_diplomacy_Warcoordination
+2139660238	1014r_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	18	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139660246	2202_Campaign_Advice_Battle_Markers_Thread	1	1	Campaign	Features	Markers	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139660252	0134_Battle_Advice_Deployables_Thread	1	1	Battle	Features	Deployables	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660260	0135_Battle_Advice_Formations_Thread	1	1	Battle	Units	Formations	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660266	0136_Battle_Advice_Formations_Thread	1	1	Battle	Units	Formations	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660274	0137_Battle_Advice_Formations_Thread	1	1	Battle	Units	Formations	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660284	Rom.Pro.Ves.AD.009	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660293	Rom.Pro.Camp1.AD.102	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660310	Rom.Pro.Camp1.AD.103	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660323	Rom.Pro.Camp1.AD.205	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660332	Rom.Pro.Ves.AD.010	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660336	8000_Congrats_Advice_Generic_Thread	1	1	Campaign	Construction	First Building	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660341	7000_Campaign_Tutorial_Basic_Controls_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139660343	8001_Congrats_Advice_Generic_Thread	1	1	Campaign	Recruitment	Unit	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660347	8002_Congrats_Advice_Generic_Thread	1	1	Campaign	Recruitment	Agent	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660350	8003_Congrats_Advice_Generic_Thread	1	1	Campaign	Research	Tech	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660352	8004_Congrats_Advice_Generic_Thread	1	1	Campaign	Diplomacy	Alliance	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660356	8005_Congrats_Advice_Generic_Thread	1	1	Campaign	Diplomacy	Trade Agreement	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660365	8006_Congrats_Advice_Generic_Thread	1	1	Campaign	Diplomacy	Military Access	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660366	8007_Congrats_Advice_Generic_Thread	1	1	Campaign	Diplomacy	Peace Treaty	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660374	8008_Congrats_Advice_Generic_Thread	1	1	Campaign	Army	Replenishment	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660379	8009_Congrats_Advice_Generic_Thread	1	1	Campaign	Battle	First Land Battle	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660386	8010_Congrats_Advice_Generic_Thread	1	1	Campaign	Battle	General Survived	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660387	8011_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Charge Caused Rout	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660390	8012_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Flanking	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660399	8013_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Beasts Used	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660402	8014_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Ship Destroyed	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660407	8015_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	First Battle Won	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660417	8016_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Second Battle Won	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660424	8017_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Agent Used	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660430	8018_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Agent Used Successfully	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660439	8019_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Character Assassinated	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660441	8020_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Mission Completed	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660448	8021_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Victory Condition Satisfied	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660452	8022_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Naval Transport	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660455	8024_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	General Rank-up	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660463	8025_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Agent Rank-up	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660470	8026_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	General Gained Ancillary	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660477	8027_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	General Gained Skill	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660483	8028_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Agent Gained Skill	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660484	8029_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	General Gained Trait	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660490	8030_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Agent Gained Trait	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660491	8031_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Port Blockaded	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660500	8032_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Port Captured	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660504	8033_Congrats_Advice_Generic_Thread	1	1	Battle	Campaign	First Sea Battle	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660514	8034_Congrats_Advice_Generic_Thread	1	1	Battle	Campaign	Sea Battle Won	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660524	8035_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Army Developed	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660531	8036_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	General Enters Politics	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660532	8037_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Treasury in the Black	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660535	8038_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Faction Destroyed	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660536	8039_Congrats_Advice_Generic_Thread	1	1	Campaign	Diplomacy	Vassalage	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660537	8040_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Ambush	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660542	8041_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Ambush Success	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660543	8042_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Ambush Survived	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660545	8043_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Settlement Captured	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660549	8044_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Region Converted	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660555	8045_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Province Converted	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660561	8046_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Province Captured	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660568	8047_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Region Captured	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660576	8048_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Ability Used	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660585	8049_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Ship Captured	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660593	8050_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Siege Weapons Captured	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660602	8051_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Siege Engines Captured	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660607	8052_Congrats_Advice_Generic_Thread	1	1	Battle	Battle	Eagle Recaptured	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660608	8053_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Encyclopaedia Launched	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660615	8054_Congrats_Advice_Generic_Thread	1	1	Campaign	Campaign	Rebellion Suppressed	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660622	Rom.Pro.Camp2.AD.119	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660625	8055_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660626	Rom.Pro.Camp2.AD.120	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660632	Rom.Pro.Camp2.AD.121	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660635	8056_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660639	Rom.Pro.Camp2.AD.122	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660641	8057_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660649	Rom.Pro.Camp2.AD.123	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139660650	8058_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660653	8059_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660657	8060_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660662	8061_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660668	8062_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660676	8063_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660677	8064_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660686	8064_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660688	8065_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660691	8066_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660692	8067_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660701	8068_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660710	8069_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660713	8070_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660719	8071_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660720	8072_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	1	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660725	8073_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	1	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660728	8074_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660730	8075_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660740	8076_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660750	8077_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660753	8078_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660758	8079_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660766	8080_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660769	8081_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660778	8082_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660786	8083_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660787	8084_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660792	8085_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660800	8086_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660807	8087_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660815	8088_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660825	8089_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660829	8090_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660834	8091_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660843	8092_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660853	8093_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660861	8094_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660862	8095_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660870	8096_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660878	8097_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660880	8098_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660883	8099_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660889	8100_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660894	8101_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660900	8102_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660909	8103_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660911	8104_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660920	8105_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660922	8106_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660932	8107_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139660935	8108_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660939	8109_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660944	8110_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660954	8111_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660959	8112_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660962	8113_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660970	8114_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660979	8115_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660981	8116_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660982	8117_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139660991	8118_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661007	8119_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661009	8120_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661016	8121_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661020	8122_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661024	8123_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661025	8124_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661033	8125_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661037	8126_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661043	8127_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661047	8128_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661053	8129_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661059	8130_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661061	8131_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661064	8132_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661072	8133_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661082	8134_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661086	8135_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661088	8136_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661090	8137_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661094	8138_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661099	8139_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	placeholder	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661105	8140_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661106	8141_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661115	8142_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661119	8143_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661129	8144_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661135	8145_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661138	8146_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661144	8147_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661152	8148_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661160	8149_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661168	8150_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661177	8151_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661178	8152_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661180	8153_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661183	8154_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661189	8155_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661198	8156_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661202	8157_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661203	8158_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661204	8159_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661210	8160_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661212	8161_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661214	8162_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661216	8163_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661224	8164_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661228	8165_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661231	8165_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661235	8166_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661237	8167_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661246	8168_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661247	8169_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661254	8170_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661264	8171_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661266	8172_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661269	8173_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661278	8174_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661281	8175_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661285	8176_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661292	8177_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661295	8178_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661300	8179_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661310	8180_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661316	8181_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661319	8182_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661326	8183_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661333	8184_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661339	8185_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661348	8186_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661354	8187_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661356	8188_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661366	8189_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661367	8190_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661372	8191_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661382	8192_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661390	8193_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661392	8194_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661397	8195_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661402	8196_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	1	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661404	8197_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661413	8198_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661414	8199_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661418	8200_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661427	8201_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661436	8202_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661438	8203_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661440	8205_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661448	8206_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661454	8207_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661459	8208_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661463	8209_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661472	8210_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661479	8211_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661486	8212_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661490	8213_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661499	8214_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661509	8215_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661512	8216_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661517	8217_Congrats_Advice_Barb_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661518	8218_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661520	8219_Congrats_Advice_Barb_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661525	8220_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661531	8221_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661532	8222_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661538	8223_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661540	8224_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661549	8225_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661558	8226_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661565	8227_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661569	8228_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661572	8229_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661578	8230_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661583	8231_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661584	8232_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661589	8233_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661596	8234_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661604	8235_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661607	8236_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661615	8237_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661625	8238_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661626	8239_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661627	8240_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661636	8241_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661646	8242_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661654	8243_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661663	8244_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661667	8245_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661673	8246_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661679	8247_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661683	8248_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661687	8249_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661695	8250_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661697	8251_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661704	8252_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661708	8253_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661709	8254_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661715	8255_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661725	8256_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661731	8257_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661739	8258_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661745	8259_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661751	8260_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661756	8261_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661758	8262_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661764	8263_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661773	8264_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661774	8265_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661775	8266_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661782	8267_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661792	8268_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661798	8269_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661803	8270_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661811	8271_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661813	8272_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661819	8273_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661824	8274_Congrats_Advice_East_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661827	8275_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661835	8276_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661845	8277_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661850	8278_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661859	8280_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661868	8281_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661871	8282_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661875	8283_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661884	8284_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661889	8285_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661892	8286_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661901	8287_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661908	8288_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661914	8289_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661917	8290_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661923	8291_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661933	8292_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661937	8293_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661938	8294_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661947	8295_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661948	8296_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661952	8297_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661953	8298_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661962	8299_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661966	8300_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661968	8301_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661975	8302_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661979	8303_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661981	8304_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139661989	8305_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139661996	8306_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662002	8307_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662008	8308_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662012	8309_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662022	8310_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662030	8311_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662040	8312_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662049	8313_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662056	8314_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662057	8315_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662064	8316_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662065	8317_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662066	8318_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662069	8319_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662077	8320_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662085	8321_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662090	8322_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662095	8323_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662096	8324_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662102	8325_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662112	8326_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662114	8327_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662122	8328_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662123	8329_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662127	8279_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662137	8330_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662140	8331_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662146	8332_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662153	8333_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662157	8334_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662163	8335_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662173	8336_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662181	8337_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662186	8338_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662192	8339_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	1	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662199	8340_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662206	8341_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662216	8342_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662224	8343_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662234	8344_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662235	8345_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662239	8346_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662246	8347_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662248	8348_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662250	8349_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662253	8350_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662262	8351_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662272	8352_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662276	8353_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662281	8354_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662285	8355_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662289	8356_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662294	8357_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662303	8358_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662307	8359_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662317	8360_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662323	8361_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662325	8362_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662327	8363_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662331	8364_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662333	8365_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662336	8366_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662337	8367_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662347	8368_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662349	8369_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662352	8370_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662361	8371_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662371	8372_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662372	8373_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662377	8374_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662383	8375_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662391	8376_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662397	8377_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662400	8378_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662409	8378_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662418	8380_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662428	8381_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662434	8382_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662443	8383_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662452	8384_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662454	8385_Congrats_Advice_Generic_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662464	8386_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662471	8387_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662479	8388_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662481	8389_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662482	8390_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662483	8391_Congrats_Advice_Generic_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662487	8392_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662493	8393_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662496	8394_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662502	8395_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662507	8396_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662511	8397_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662519	8398_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662520	8399_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662525	8400_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662526	8401_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662531	8402_Congrats_Advice_Generic_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662533	8403_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662534	8404_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662543	8405_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662549	8406_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662556	8407_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662563	8408_Congrats_Advice_Carthage_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662564	8409_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662565	8410_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662568	8411_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662569	8412_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662571	8413_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662576	8414_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662586	8415_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662596	8416_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662606	8417_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662616	8418_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662626	8419_Congrats_Advice_East_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662636	8420_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662640	8421_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662643	8422_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662644	8423_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662650	8424_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662659	8425_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662662	8426_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662668	8427_Congrats_Advice_Egypt_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662678	8428_Congrats_Advice_Egypt_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662679	8429_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662685	8430_Congrats_Advice_Greek_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662693	8431_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662701	8432_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662705	8433_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662711	8434_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662714	8435_Congrats_Advice_Greek_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662723	8436_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662730	8437_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662736	8438_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662740	8439_Congrats_Advice_Rome_Thread	1	1	Campaign	Congrats	none	100	0	false	2	false	false	none			false	false	n	campaign_advisor	false	
+2139662746	8440_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662755	8441_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662759	8442_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662769	8443_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662770	8444_Congrats_Advice_Rome_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139662816	7001_Campaign_Tutorial_Advanced_Controls_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662819	7002_Campaign_Tutorial_The_Settlement_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662824	7003_Campaign_Tutorial_The_City_Centre_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662825	7004_Campaign_Tutorial_The_Equipment_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662830	7005_Campaign_Tutorial_The_Port_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662840	7006_Campaign_Tutorial_The_Recruitment_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662849	7007_Campaign_Tutorial_The_Religious_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662855	7008_Campaign_Tutorial_The_Training_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662859	7009_Campaign_Tutorial_The_Agriculture_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662865	7010_Campaign_Tutorial_The_Water_Chain_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662872	7011_Campaign_Tutorial_Local_Garrisons_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662877	7012_Campaign_Tutorial_Transports_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662878	7013_Campaign_Tutorial_Campaign_Victory_Conditions__Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662887	7014_Campaign_Tutorial_Generals_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662895	7015_Campaign_Tutorial_Major_&_Minor_Settlements_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662905	7016_Campaign_Tutorial_Trade_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662909	7017_Campaign_Tutorial_Slaves_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662911	7018_Campaign_Tutorial_War_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662917	7019_Campaign_Tutorial_War_Co-ordination_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662922	7020_Campaign_Tutorial_Defensive_Alliance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662928	7021_Campaign_Tutorial_Military_Alliance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662935	7022_Campaign_Tutorial_Satrapies_&_Client_States__Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662943	7023_Campaign_Tutorial_Confederations_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662953	7024_Campaign_Tutorial_Peace_Treaties_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662957	7025_Campaign_Tutorial_Trade_Agreements_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662967	7026_Campaign_Tutorial_Parties_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662975	7027_Campaign_Tutorial_Political_Power_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662976	7028_Campaign_Tutorial_Civil_War_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662982	7029_Campaign_Tutorial_Subjects_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662983	7030_Campaign_Tutorial_Agent_Actions_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662991	7031_Campaign_Tutorial_Legacies_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139662994	7032_Campaign_Tutorial_Technology_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663002	7033_Campaign_Tutorial_Forced_March_Stance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663007	7034_Campaign_Tutorial_Ambush_Stance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663012	7035_Campaign_Tutorial_Raiding_Stance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663014	7036_Campaign_Tutorial_Fortification_Stance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663018	7037_Campaign_Tutorial_Mustering_Stance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663021	7038_Campaign_Tutorial_Garrison_Stance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663027	7039_Campaign_Tutorial_Siege_Stance_Thread	1	1	Campaign	Tutorial	none	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663031	7063_Battle_Tutorial_AI_Group_Control_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663035	7040_Battle_Tutorial_Basic_Controls_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663037	7062_Battle_Tutorial_Advanced_Controls_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663039	7041_Battle_Tutorial_Victory_Conditions_Battle_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663041	7042_Battle_Tutorial_Land_Group_Formations_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663051	7043_Battle_Tutorial_Naval_Group_Formations_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663059	7044_Battle_Tutorial_Missile_Infantry_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663065	7045_Battle_Tutorial_Melee_Infantry_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663071	7046_Battle_Tutorial_Command_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663076	7047_Battle_Tutorial_Shock_Cavalry__Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663077	7048_Battle_Tutorial_Melee_Cavalry__Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663085	7049_Battle_Tutorial_Infantry_Pike/Spear_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663091	7050_Battle_Tutorial_Missile_Cavalry__Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663096	7051_Battle_Tutorial_Elephants_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663100	7052_Battle_Tutorial_Chariots_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663101	7053_Battle_Tutorial_Siege_Weapons_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663107	7054_Battle_Tutorial_Naval_Assault_Class_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663110	7055_Battle_Tutorial_Naval_Missile_Class_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663113	7056_Battle_Tutorial_Naval_Artillery_Class_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663116	7057_Battle_Tutorial_Attributes_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663124	7058_Battle_Tutorial_Special_Abilities_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663133	7059_Battle_Tutorial_Unit_Formations_Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663135	7060_Battle_Tutorial_Generals_Abilities__Thread	1	1	Battle	Tutorial	none	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663139	2224a_Campaign_Advice_Civil_War_Thread	1	5	Campaign	Features	Civil War	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_management_Civilwar
+2139663143	Rom.Pro.Camp2.AD.124	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663153	Rom.Pro.Camp2.AD.125	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663168	Rom.Pro.Camp1.AD.206	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663175	Rom.Pro.Camp1.AD.401	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663184	Rom.Pro.Camp1.AD.402	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663192	Rom.Pro.Ves.AD.011	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663204	Rom.Pro.Camp2.AD.126	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663212	Rom.Pro.Camp2.AD.006	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663221	Rom.Pro.Camp2.AD.007	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663222	1020_Campaign_Advice_Politics_Thread	3	15	Campaign	Features	Politics	1	0	false	1	false	false	none			false	false	n	campaign_advisor	true	
+2139663230	1020_Campaign_Advice_Politics_Thread	5	20	Campaign	Features	Politics	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663238	Rom.Pro.Camp2.AD.210	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663240	Rom.Pro.Camp2.AD.211	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663245	Rom.Pro.Camp2.AD.212	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663249	Rom.Pro.Camp2.AD.220	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663254	Rom.Pro.Camp2.AD.221	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663255	Rom.Pro.Camp2.AD.222	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663265	Rom.Pro.Camp2.AD.230	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663266	Rom.Pro.Camp2.AD.231	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663269	Rom.Pro.Camp2.AD.240	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663278	Rom.Pro.Camp2.AD.241	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663279	Rom.Pro.Camp2.AD.242	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663282	Rom.Pro.Camp2.AD.250	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663285	Rom.Pro.Camp2.AD.251	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663287	Rom.Pro.Camp2.AD.127	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663296	Rom.Pro.Camp2.AD.128	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663298	Rom.Pro.Camp2.AD.129	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663303	Rom.Pro.Ves.AD.012	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663305	Rom.Pro.Camp2.AD.130	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663316	Rom.Pro.Camp2.AD.131	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663323	Rom.Pro.Camp2.AD.132	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663339	2226_Campaign_Advice_Food_Shortages_Thread	1	1	Campaign	UI	Settlements	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663348	7061_Battle_Tutorial_Additional_Controls_Thread	1	1	Tutorials	Battle	Controls	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663349	Rom.Pro.Camp2.AD.133	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663351	1065_Campaign_Advice_General_Selected_Thread	2	5	Campaign	Characters	Commanders	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_armies_legacies
+2139663356	Rom.Pro.Camp2.AD.134	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663358	Rom.Pro.Camp2.AD.135	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663364	Rom.Pro.Camp2.AD.136	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663369	Rom.Pro.Camp2.AD.137	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663379	2203_Campaign_Advice_Province_Selected_Thread	1	4	Campaign	Provinces	Provinces	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663387	Rom.Pro.Camp1.AD.104	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663393	Rom.Pro.Camp1.SI.104	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663397	Rom.Pro.Camp2.AD.138	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663399	Rom.Pro.Camp2.SI.111	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663409	Rom.Pro.Camp2.AD.139	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663413	Rom.Pro.Camp2.AD.140	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663415	Rom.Pro.Camp2.SI.150	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663425	Rom.Pro.Camp2.AD.141	1	1	Scripted	Scripted	Scripted	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663428	Rom.Pro.Camp2.AD.142	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663431	Rom.Pro.Camp2.SI.151	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663437	Rom.Pro.Camp2.SI.152	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663442	Rom.Pro.Camp2.SI.153	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663443	Rom.Pro.Camp2.AD.143	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663448	Rom.Pro.Camp2.AD.144	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663457	Rom.Pro.Camp2.AD.145	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663466	Rom.Pro.Camp2.AD.146	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663474	Rom.Pro.Camp2.AD.147	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663476	Rom.Pro.Camp2.AD.148	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663477	Rom.Pro.Camp2.AD.149	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663483	Rom.Pro.Camp2.AD.150	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663492	Rom.Pro.Camp2.AD.151	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663500	Rom.Pro.Camp2.AD.152	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663502	Rom.Pro.Camp2.AD.500	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+2139663503	Rom.Pro.Camp2.SI.500	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663509	Rom.Pro.Camp2.SI.112	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663518	Rom.Pro.Camp2.SI.113	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663525	Rom.Pro.Camp2.SI.004	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663535	Rom.Pro.Camp2.SI.005	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663536	Rom.Pro.Capua.SI.008	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663539	Rom.Pro.Camp2.SI.114	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	prologue_protagonist	false	
+2139663544	8379_Congrats_Advice_Carthage_Thread	1	1	Battle	Congrats	none	100	0	false	2	false	false	none			false	false	n	battle_advisor	false	
+2139663546	1049a_Campaign_Advice_UI_Recruitment_Tab_Thread	2	1	Campaign	UI	Recruitment	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663554	3013_TWRII_Faction_Intro_Seleucids_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663562	3014_TWRII_Faction_Intro_Scythians_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663566	3015_TWRII_Faction_Intro_Massagetae_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663567	3016_TWRII_Faction_Intro_Roxolani_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663576	3017_TWRII_Faction_Intro_Galatia_1_Thread	1	1	Campaign	Advice 	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663577	3009_TWRII_Faction_Intro_Baktria_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663579	3018_TWRII_Faction_Intro_Nervii_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663585	3019_TWRII_Faction_Intro_Boii_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663592	3020_TWRII_Gaul_Faction_Intro_Rome_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	gaul_flyby_advisor	false	
+2139663593	3021_TWRII_Gaul_Faction_Intro_Arverni_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	gaul_flyby_advisor	false	
+2139663596	3022_TWRII_Gaul_Faction_Intro_Nervii_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	gaul_flyby_advisor	false	
+2139663602	3023_TWRII_Gaul_Faction_Intro_Suebi_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	gaul_flyby_advisor	false	
+2139663609	5000_Advice_Touch_Controls_Thread	1	1	Scripted	Controls	Touch	0	1	false	0	false	false	none			false	false	n	campaign_advisor	false	
+2139663612	CiG.Excerpt.Character.Ariovistus	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663619	CiG.Excerpt.Character.Boduognatus	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663623	CiG.Excerpt.Character.Caesar	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663629	CiG.Excerpt.Character.Vercingetorix	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663635	CiG.Excerpt.Faction.gaul_aedui	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663640	CiG.Excerpt.Faction.gaul_allobroges	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663642	CiG.Excerpt.Faction.gaul_arverni	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663643	CiG.Excerpt.Faction.gaul_belgae	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663647	CiG.Excerpt.Faction.gaul_bellovaci	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663648	CiG.Excerpt.Faction.gaul_cantiaci	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663655	CiG.Excerpt.Faction.gaul_helvetii	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663657	CiG.Excerpt.Faction.gaul_mandubii	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663661	CiG.Excerpt.Faction.gaul_morini	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663667	CiG.Excerpt.Faction.gaul_nervii	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663672	CiG.Excerpt.Faction.gaul_osismii	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663681	CiG.Excerpt.Faction.gaul_pictones	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663683	CiG.Excerpt.Faction.gaul_redones	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663687	CiG.Excerpt.Faction.gaul_remi	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663690	CiG.Excerpt.Faction.gaul_rome	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663693	CiG.Excerpt.Faction.gaul_ruteni	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663699	CiG.Excerpt.Faction.gaul_sequani	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663709	CiG.Excerpt.Faction.gaul_sotiates	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663712	CiG.Excerpt.Faction.gaul_suebi	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663713	CiG.Excerpt.Faction.gaul_suessiones	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663723	CiG.Excerpt.Faction.gaul_tulingi	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663725	CiG.Excerpt.Faction.gaul_veneti	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663727	CiG.Excerpt.Faction.gaul_vocontii	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663729	CiG.Excerpt.Faction.gaul_volcae	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663738	CiG.Excerpt.Province.Aquitania	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663739	CiG.Excerpt.Province.Britannia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663745	CiG.Excerpt.Province.Senonia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663747	CiG.Excerpt.Faction.gaul_carnutes	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139663751	3024_TWRII_Faction_Intro_Syracuse_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663758	3025_TWRII_Faction_Intro_Lusitani_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663766	3026_TWRII_Faction_Intro_Arevaci_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663768	3030_TWRII_Punic_Faction_Intro_Carthage_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663777	3031_TWRII_Punic_Faction_Intro_Carthage_2_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663781	3032_TWRII_Punic_Faction_Intro_Carthage_3_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663787	3033_TWRII_Punic_Faction_Intro_Carthage_4_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663790	3034_TWRII_Punic_Faction_Intro_Carthage_5_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663798	3040_TWRII_Punic_Faction_Intro_Rome_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663806	3041_TWRII_Punic_Faction_Intro_Rome_2_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663809	3042_TWRII_Punic_Faction_Intro_Rome_3_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663818	3043_TWRII_Punic_Faction_Intro_Rome_4_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663819	3044_TWRII_Punic_Faction_Intro_Rome_5_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663828	3045_TWRII_Punic_Faction_Intro_Rome_6_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663830	3050_TWRII_Punic_Faction_Intro_Syracuse_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663839	3051_TWRII_Punic_Faction_Intro_Syracuse_2_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663848	3052_TWRII_Punic_Faction_Intro_Syracuse_3_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663851	3053_TWRII_Punic_Faction_Intro_Syracuse_4_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663853	3054_TWRII_Punic_Faction_Intro_Syracuse_5_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663862	3060_TWRII_Punic_Faction_Intro_Lusitani_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663869	3061_TWRII_Punic_Faction_Intro_Lusitani_2_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663872	3062_TWRII_Punic_Faction_Intro_Lusitani_3_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663880	3063_TWRII_Punic_Faction_Intro_Lusitani_4_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663883	3064_TWRII_Punic_Faction_Intro_Lusitani_5_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663889	3070_TWRII_Punic_Faction_Intro_Arevaci_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663894	3071_TWRII_Punic_Faction_Intro_Arevaci_2_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663903	3072_TWRII_Punic_Faction_Intro_Arevaci_3_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663906	3073_TWRII_Punic_Faction_Intro_Arevaci_4_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663907	3035_TWRII_Punic_Faction_Intro_Carthage_6_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663924	5000_Advice_Touch_Controls_Thread	1	1	Scripted	Controls	Touch 	1	0	false	0	false	false	none			false	false	n	campaign_advisor	false	
+2139663935	3080_TWRII_Faction_Intro_Tylis_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663945	3081_TWRII_Faction_Intro_Odrysian_Kingdom_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663948	3082_TWRII_Faction_Intro_Getae_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663950	3083_TWRII_Faction_Intro_Ardiaei_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139663973	3088_TWRII_Faction_Intro_Massilia_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663976	3087_TWRII_Faction_Intro_Cimmeria_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663977	3086_TWRII_Faction_Intro_Pergamon_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663979	3085_TWRII_Faction_Intro_Colchis_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139663987	3089_TWRII_Faction_Intro_Armenia_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664031	3090_TWRII_Emperor_Faction_Intro_Armenia_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664034	3091_TWRII_Emperor_Faction_Intro_Egypt_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664042	3092_TWRII_Emperor_Faction_Intro_Iceni_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664047	3093_TWRII_Emperor_Faction_Intro_Parthia_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664048	3094_TWRII_Emperor_Faction_Intro_Dacia_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664052	3095_TWRII_Emperor_Faction_Intro_Marcomanni_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664057	3096_TWRII_Emperor_Faction_Intro_Octavian_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	centurion_advisor	false	
+2139664065	3097_TWRII_Emperor_Faction_Intro_Antony_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	centurion_advisor	false	
+2139664073	3098_TWRII_Emperor_Faction_Intro_Lepidus_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	centurion_advisor	false	
+2139664080	3099_TWRII_Emperor_Faction_Intro_Pompey_1_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	varus_advisor	false	
+2139664091	9023_TWRII_Pel_Faction_Intro_Korinthos_Thread_4	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664094	pel_region_pel_aigian_khios	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664103	pel_region_pel_aigian_mytilene	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664111	pel_region_pel_aigian_oinoi	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664116	pel_region_pel_aigian_samos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664117	pel_region_pel_aitolia_naupaktos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664122	pel_region_pel_aitolia_thermon	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664130	pel_region_pel_ambrakia_ambrakia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664137	pel_region_pel_ambrakia_anaktorio	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664147	pel_region_pel_ambrakia_pronnoi	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664156	pel_region_pel_amphipolis_amphipolis	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664164	pel_region_pel_amphipolis_krinides	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664166	pel_region_pel_argolis_argos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664168	pel_region_pel_argolis_korinthos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664170	pel_region_pel_argolis_mantinea	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664176	pel_region_pel_argolis_melos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664177	pel_region_pel_attike_athenai	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664182	pel_region_pel_attike_laurion	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664188	pel_region_pel_attike_naxos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664192	pel_region_pel_attike_paros	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664199	pel_region_pel_boiotia_delphi	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664208	pel_region_pel_boiotia_lamia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664218	pel_region_pel_boiotia_opos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664226	pel_region_pel_boiotia_thebai	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664234	pel_region_pel_dodekanisa_karpathos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664237	pel_region_pel_dodekanisa_kos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664240	pel_region_pel_dodekanisa_lindos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664242	pel_region_pel_dodekanisa_rodos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664243	pel_region_pel_elis_elis	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664244	pel_region_pel_elis_olympia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664253	pel_region_pel_elis_patrai	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664258	pel_region_pel_elis_zakynthos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664265	pel_region_pel_epeiros_antigonia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664275	pel_region_pel_epeiros_dodona	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664280	pel_region_pel_epeiros_elaea	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664287	pel_region_pel_epeiros_korkyra	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664292	pel_region_pel_euboia_andros	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664295	pel_region_pel_euboia_kalkis	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664300	pel_region_pel_euboia_karystos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664303	pel_region_pel_euboia_oreos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664310	pel_region_pel_hellespontos_byzantion	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664320	pel_region_pel_hellespontos_kypsela	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664330	pel_region_pel_hellespontos_perinthos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664334	pel_region_pel_hellespontos_sestos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664337	pel_region_pel_ionia_ephesos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664340	pel_region_pel_ionia_halikarnassos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664348	pel_region_pel_ionia_knidos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664357	pel_region_pel_ionia_miletos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664358	pel_region_pel_kalkidike_mende	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664364	pel_region_pel_kalkidike_olinthos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664367	pel_region_pel_kalkidike_torone	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664371	pel_region_pel_karia_kibyra	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664374	pel_region_pel_karia_kolossai	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664378	pel_region_pel_karia_phaselis	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664379	pel_region_pel_karia_xanthos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664388	pel_region_pel_krete_gortyna	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664391	pel_region_pel_krete_knossos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664392	pel_region_pel_krete_kydonia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664398	pel_region_pel_lakedaimon_kythera	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664402	pel_region_pel_lakedaimon_messenia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664407	pel_region_pel_lakedaimon_pylos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664411	pel_region_pel_lakedaimon_sparta	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664414	pel_region_pel_lydia_sardeis	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664418	pel_region_pel_lydia_smyrna	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664421	pel_region_pel_makedon_aigai	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664424	pel_region_pel_makedon_argos_orestiko	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664431	pel_region_pel_makedon_arnisa	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664440	pel_region_pel_makedon_dion	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664455	pel_region_pel_mysia_ilion	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664465	pel_region_pel_mysia_kyzikos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664469	pel_region_pel_mysia_myrina	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664474	pel_region_pel_mysia_pergamon	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664478	pel_region_pel_thessaly_larisa	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664488	pel_region_pel_thessaly_pharsalos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664490	pel_region_pel_thessaly_pherae	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664496	pel_region_pel_thraike_abdera	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664505	pel_region_pel_thraike_ainos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664515	pel_region_pel_thraike_maroneia	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664522	pel_region_pel_thraike_thasos	1	1	Scripted	Scripted	Scripted	0	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+2139664543	9022_TWRII_Pel_Faction_Intro_Korinthos_Thread_3	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664553	9021_TWRII_Pel_Faction_Intro_Korinthos_Thread_2	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664560	9020_TWRII_Pel_Faction_Intro_Korinthos_Thread_1	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664567	9019_TWRII_Pel_Faction_Intro_Boiotia_Thread_5	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664570	9018_TWRII_Pel_Faction_Intro_Boiotia_Thread_4	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664571	9017_TWRII_Pel_Faction_Intro_Boiotia_Thread_3	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664581	9016_TWRII_Pel_Faction_Intro_Boiotia_Thread_2	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664590	9015_TWRII_Pel_Faction_Intro_Boiotia_Thread_1	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664600	9014_TWRII_Pel_Faction_Intro_Sparta_Thread_5	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664606	9013_TWRII_Pel_Faction_Intro_Sparta_Thread_4	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664612	9012_TWRII_Pel_Faction_Intro_Sparta_Thread_3	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664622	9011_TWRII_Pel_Faction_Intro_Sparta_Thread_2	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664625	9010_TWRII_Pel_Faction_Intro_Sparta_Thread_1	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664631	9009_TWRII_Pel_Faction_Intro_Athenai_Thread_4	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664633	9008_TWRII_Pel_Faction_Intro_Athenai_Thread_3	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664638	9007_TWRII_Pel_Faction_Intro_Athenai_Thread_2	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664646	9006_TWRII_Pel_Faction_Intro_Athenai_Thread_1	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664652	9005_TWRII_Pel_Faction_Intro_Generic_Thread_6	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664654	9004_TWRII_Pel_Faction_Intro_Generic_Thread_5	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664663	9003_TWRII_Pel_Faction_Intro_Generic_Thread_4	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664671	9002_TWRII_Pel_Faction_Intro_Generic_Thread_3	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664674	9001_TWRII_Pel_Faction_Intro_Generic_Thread_2	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664679	9000_TWRII_Pel_Faction_Intro_Generic_Thread_1	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664685	9024_TWRII_Pel_Faction_Intro_Korinthos_Thread_5	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664687	3c_alani_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664689	3c_armenia_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664699	3c_caledoni_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664707	3c_gallicemp_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664716	3c_gothi_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664725	3c_marcomanni_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664728	3c_palmyra_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664729	3c_rome_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664733	3c_sassanid_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664739	3c_saxoni_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	3c_flavius	false	
+2139664741	4000_TWRII_Faction_Intro__Kush_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	dk_kush_general_10	false	
+2139664742	4001_TWRII_Faction_Intro__Masaesyli_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664745	4002_TWRII_Faction_Intro__Saba_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664754	4003_TWRII_Faction_Intro__Nabatea_Thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	flyby_advisor	false	
+2139664758	inv_insubres_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664761	inv_iolei_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664770	inv_rome_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664777	inv_samnites_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664785	inv_senones_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664787	inv_syracuse_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664793	inv_taranto_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664794	inv_tarchuna_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664804	inv_veneti_intro_flyover_thread	1	1	Campaign	Advice	Camera Fly-bys	0	0	false	0	false	false	none			false	false	n	inv_advisor_livy	false	
+2139664806	age_champions_description	1	1	Campaign	UI	Agents	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664813	age_dignitaries_description	1	1	Campaign	UI	Agents	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664815	age_spies_description	1	1	Campaign	UI	Agents	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664822	age_attributes_scaling	1	1	Campaign	UI	Agents	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664825	age_attributes_agents	1	1	Campaign	UI	Agents	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664829	age_skill_trees_per_culture	1	1	Campaign	UI	Agents & Generals	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664836	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664841	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664842	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664852	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664853	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664854	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664862	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664868	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664884	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664888	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664894	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664904	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664908	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664917	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664924	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664933	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664936	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664946	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664948	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664958	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664964	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664967	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664977	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664985	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139664995	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+2139665001	rom_intrigues_description	1	1	Campaign	UI	Characters	1	0	false	1	false	false	none			false	false	n	not applicable	true	
+259529015	0058_Battle_Tip_Line_Wavering_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	true	battle_unit			false	false	n	not applicable	true	
+297255339	1026_Campaign_Advice_UI_Lists_Panel_Thread	1	1	Campaign	UI	Lists	1	0	false	1	true	false	none			false	false	n	campaign_advisor	false	
+298768787	0034_Battle_Tip_Points_Against_Points_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+309592755	0063_Battle_Tip_Crossing_Defence_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+313094221	0125_Battle_Advice_Cancel_Order_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+327923206	1144_Campaign_Advice_Trade_Route_Raided_Thread	1	1	Campaign	Features	Trade	0	1	false	1	false	true	faction_land_trade_raided			false	false	n	campaign_advisor	false	
+336059036	1014j_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	9	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+390129783	0023_Battle_Tip_Attacking_Hills_Thread	2	2	Battle	Units	Tactics	1	4	false	2	true	false	none			false	false	n	not applicable	true	
+405775560	0059_Battle_Tip_Routing_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	true	none			false	false	n	not applicable	true	
+4066993	1102_Campaign_Advice_Ungarrisoned_Region_Thread	1	5	Campaign	Warning	Garrisons	0	1	false	1	true	true	region			false	false	n	campaign_advisor	false	
+428071084	0060_Battle_Tip_Wedge_Formations_Thread	1	1	Battle	Units	Tactics	1	0	false	3	false	false	none			false	false	n	not applicable	true	
+44290589	0033_Battle_Tip_Poor_Target_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+463216958	1014p_Campaign_Advice_UI_Diplomacy_Panel_Thread	1	1	Campaign	UI	Buttons	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+464946411	1083_Campaign_Advice_Building_Right_Click_Thread	1	1	Campaign	UI	Buildings	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	
+528599210	1022_Campaign_Advice_UI_Treasury_Thread	1	1	Campaign	UI	Review	1	0	false	1	true	false	none			false	false	n	campaign_advisor	true	
+579859038	0041_Battle_Tip_Entice_The_Enemy_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+588232477	1085_Campaign_Advice_Settlement_Occupied_Thread	1	1	Campaign	Regions	Capture	1	0	false	1	true	false	none			false	false	n	campaign_advisor	true	
+593395637	0110_Battle_Advice_Run_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	true	false	none			false	false	n	battle_advisor	true	
+606296587	1149_Campaign_Advice_Port_Blockaded_Thread	1	1	Campaign	Features	Blockades	0	1	false	1	false	true	region			false	false	n	campaign_advisor	false	
+632989552	1109_Campaign_Advice_Fog_Of_War_Thread	1	1	Campaign	Features	Map	1	0	false	2	true	false	none			false	false	n	campaign_advisor	true	
+637136615	1128_Campaign_Advice_Warning_Rebellion_Thread	1	1	Campaign	Warnings	Rebellion	0	3	false	2	true	true	region			false	false	n	campaign_advisor	false	
+646906330	0112_Battle_Advice_Manoeuvre_Compass_Thread	1	1	Battle	UI	HUD	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+659772888	1065_Campaign_Advice_General_Selected_Thread	3	10	Campaign	Characters	Commanders	1	0	false	2	false	false	none			false	false	n	campaign_advisor	true	/tutorial/r2_videos_armystances_Musteringstance
+667337653	1081_Campaign_Advice_Province_Button_Thread	1	1	Campaign	UI	Regions	1	0	false	1	true	false	none			false	false	n	campaign_advisor	false	
+68074087	1092_Campaign_Advice_Region_Capital_Thread	1	1	Campaign	Regions	Settlements	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_buildings_major&minorsettlements
+68241043	1089_Campaign_Advice_Ambush_Thread	1	1	Campaign	Character	Movement	1	0	false	1	false	false	none			false	false	n	campaign_advisor	false	/tutorial/r2_videos_armystances_Ambushstance
+700219983	0008_Battle_Tip_Chasing_Skirmishers_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+737354545	0102_Battle_Advice_Fire_At_Will_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+843806652	0067_Battle_Tip_Deployment_Image_Thread	1	1	Battle	UI	Hotkeys	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+856417993	1021_Campaign_Advice_UI_Review_Panel_Thread	1	1	Campaign	UI	Review	1	0	false	1	true	false	none			false	false	n	campaign_advisor	false	
+886642523	1047_Campaign_Advice_UI_Infrastructure_Tab_Thread	1	3	Campaign	UI	Infrastructure	1	0	false	1	true	false	none			false	false	n	campaign_advisor	true	
+932121968	0128_Battle_Advice_Siege_Defence_Thread	1	1	Battle	Siege	Defence	1	0	false	1	false	false	none			false	false	n	battle_advisor	false	
+942378261	0009_Battle_Tip_Close_Gaps_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+942566659	0046_Battle_Tip_Take_The_Initiative_Thread	1	1	Battle	Units	Tactics	1	0	false	3	true	false	none			false	false	n	not applicable	true	
+952924146	0120_Battle_Advice_Naval_Boarding_Button_Thread	1	1	Battle	UI	Buttons	1	0	false	1	false	false	none			false	false	n	battle_advisor	true	
+969317109	1126_Campaign_Advice_Warning_Cashflow_Thread	1	1	Campaign	Warnings	Cashflow	0	2	false	2	false	false	none			false	false	n	campaign_advisor	false	
+97123942	0109_Battle_Advice_Hour_Glass_Thread	1	1	Battle	UI	HUD	1	0	false	1	true	false	none			false	false	n	battle_advisor	false	

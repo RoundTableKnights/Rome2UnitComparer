@@ -1,0 +1,6 @@
+key	animation	armour	charge_bonus	entity	melee_attack	melee_defence
+#animals_tables;0;db/animals_tables/animals						
+boar	rome_animal_boar	none	40	rome_animal_boar	40	40
+celtic_warhounds	rome_animal_mastiff	none	40	rome_animal_wardog	40	40
+molossian_dog	rome_animal_mastiff	none	40	rome_animal_wardog	40	40
+wardog	rome_animal_mastiff	none	40	rome_animal_wardog	40	40

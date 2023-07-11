@@ -1,0 +1,8 @@
+id	description
+#campaign_autoresolver_stat_variables_tables;0;db/campaign_autoresolver_stat_variables_tables/campaign_autoresolver_stat_variables	
+alliance_selection_mod	alliance stat only
+unit_melee_kps_addition	unit and unit vs stat
+unit_melee_kps_multiplier	unit and unit vs stat
+unit_missile_kps_addition	unit and unit vs stat
+unit_missile_kps_multiplier	unit and unit vs stat
+unit_retreat_mod	unit stat only

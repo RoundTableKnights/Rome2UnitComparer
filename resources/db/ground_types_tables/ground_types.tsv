@@ -1,0 +1,15 @@
+type	enum_value	selection_cursor	standard_cursor	penalty_immune_attribute
+#ground_types_tables;2;db/ground_types_tables/ground_types				
+INVALID_GROUND_TYPE	11			all_ranks_fire
+deep_water	6			all_ranks_fire
+forest	0	terrain_forest	terrain_forest_noselect	all_ranks_fire
+grass	1			all_ranks_fire
+mud	2			all_ranks_fire
+road	8	terrain_road	terrain_road_noselect	all_ranks_fire
+rock	7			all_ranks_fire
+sand	3			all_ranks_fire
+scrub	4	terrain_scrub	terrain_scrub_noselect	all_ranks_fire
+shallow_water	7	terrain_softground	terrain_softground_noselect	all_ranks_fire
+sharp_stones	12			all_ranks_fire
+snow	10			all_ranks_fire
+wooden_floor	9			all_ranks_fire

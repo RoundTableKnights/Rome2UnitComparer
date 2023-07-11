@@ -1,0 +1,8 @@
+key	join_ally_bias
+#cai_personalities_reliability_policies_tables;3;db/cai_personalities_reliability_policies_tables/cai_personalities_reliability_policies	
+cai_prp_default	15.0000
+cai_prp_high	20.0000
+cai_prp_low	13.0000
+cai_prp_medium	15.0000
+cai_prp_very_high	25.0000
+cai_prp_very_low	7.0000

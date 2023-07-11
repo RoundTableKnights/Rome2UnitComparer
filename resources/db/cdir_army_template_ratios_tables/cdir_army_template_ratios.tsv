@@ -1,0 +1,15 @@
+template	unit	ratio
+#cdir_army_template_ratios_tables;0;db/cdir_army_template_ratios_tables/cdir_army_template_ratios		
+default_naval	cannon_ship	5
+default_naval	heavy_ship	5
+default_naval	light_ship	5
+default_naval	medium_ship	5
+default_naval	trade_ship	5
+default	cavalry_missile	5
+default	cavalry_spear	5
+default	cavalry_sword	5
+default	infantry_bow	5
+default	infantry_heavy	5
+default	infantry_matchlock	5
+default	infantry_spear	5
+default	infantry_special	5

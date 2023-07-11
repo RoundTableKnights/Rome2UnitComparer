@@ -1,0 +1,17 @@
+budget	minimum_unit_count	maximum_unit_count
+#mp_force_gen_army_sizes_by_budgets_tables;0;db/mp_force_gen_army_sizes_by_budgets_tables/mp_force_gen_army_sizes_by_budgets		
+custom	6	10
+custom_sea	2	3
+custom_siege	5	5
+huge	17	19
+huge_sea	6	10
+huge_siege	15	19
+large	15	19
+large_sea	6	10
+large_siege	10	15
+medium	10	15
+medium_sea	3	9
+medium_siege	6	10
+small	6	10
+small_sea	2	3
+small_siege	5	5

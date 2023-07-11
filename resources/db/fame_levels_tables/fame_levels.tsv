@@ -1,0 +1,68 @@
+level	campaign	ai_prestige	army_cap	champion_cap	dignatary_cap	navy_cap	player_prestige	province_initiative_cap	spy_cap	description_lookup	effect_bundle
+#fame_levels_tables;4;db/fame_levels_tables/fame_levels											
+0	main_3c	0	2	1	1	1	0	0	1	imperium_tooltip_01	imperium_1
+0	main_emperor	0	2	1	1	1	0	0	1	imperium_tooltip_01	imperium_1
+0	main_gaul	0	3	1	1	2	0	1	1	imperium_tooltip_01	gaul_faction_imperium_level_1
+0	main_greek	0	2	1	1	2	0	0	1	imperium_tooltip_01	pel_imperium_1
+0	main_invasion	0	2	1	1	1	0	1	1	imperium_tooltip_01	inv_imperium_1
+0	main_punic	0	2	1	1	1	0	0	1	imperium_tooltip_01	imperium_1
+0	main_rome	0	2	1	1	1	0	0	1	imperium_tooltip_01	imperium_1
+0	prologue_01	0	1	1	1	2	0	1	1	imperium_tooltip_01	
+0	prologue_02	0	1	1	1	2	0	1	1	imperium_tooltip_01	
+0	prologue_03	0	1	0	0	1	0	1	0	imperium_tooltip_01	
+1	main_3c	4	4	1	1	2	4	1	1	imperium_tooltip_03	imperium_2
+1	main_emperor	4	4	1	1	2	4	1	1	imperium_tooltip_03	imperium_2
+1	main_gaul	6	6	2	2	4	8	2	2	imperium_tooltip_03	gaul_faction_imperium_level_2
+1	main_greek	4	4	1	1	4	4	1	1	imperium_tooltip_03	pel_imperium_2
+1	main_invasion	4	3	1	1	2	4	1	1	imperium_tooltip_03	inv_imperium_2
+1	main_punic	4	4	1	1	2	4	1	1	imperium_tooltip_03	imperium_2
+1	main_rome	4	4	1	1	2	4	1	1	imperium_tooltip_03	imperium_2
+1	prologue_01	10	2	2	2	4	10	2	2	imperium_tooltip_03	
+1	prologue_02	10	2	2	2	4	10	2	2	imperium_tooltip_03	
+1	prologue_03	10	2	1	1	2	10	2	1	imperium_tooltip_03	
+2	main_3c	10	6	2	2	3	12	1	2	imperium_tooltip_04	imperium_3
+2	main_emperor	10	6	2	2	3	12	1	2	imperium_tooltip_04	imperium_3
+2	main_gaul	18	9	3	3	6	24	3	3	imperium_tooltip_05	gaul_faction_imperium_level_3
+2	main_greek	6	6	2	2	6	8	1	2	imperium_tooltip_04	pel_imperium_3
+2	main_invasion	7	4	2	2	3	8	2	2	imperium_tooltip_04	inv_imperium_3
+2	main_punic	10	6	2	2	3	12	1	2	imperium_tooltip_04	imperium_3
+2	main_rome	10	6	2	2	3	12	1	2	imperium_tooltip_04	imperium_3
+2	prologue_01	30	3	3	3	6	30	3	3	imperium_tooltip_05	
+2	prologue_02	30	3	3	3	6	30	3	3	imperium_tooltip_05	
+2	prologue_03	30	3	2	2	3	30	3	2	imperium_tooltip_05	
+3	main_3c	19	8	2	2	4	24	2	2	imperium_tooltip_05	imperium_4
+3	main_emperor	19	8	2	2	4	24	2	2	imperium_tooltip_05	imperium_4
+3	main_gaul	36	12	4	4	8	48	4	4	imperium_tooltip_07	gaul_faction_imperium_level_4
+3	main_greek	12	8	2	2	8	16	2	2	imperium_tooltip_05	pel_imperium_4
+3	main_invasion	14	6	2	2	4	16	3	2	imperium_tooltip_05	inv_imperium_4
+3	main_punic	19	8	2	2	4	24	2	2	imperium_tooltip_05	imperium_4
+3	main_rome	19	8	2	2	4	24	2	2	imperium_tooltip_05	imperium_4
+3	prologue_01	60	4	4	4	8	60	4	4	imperium_tooltip_07	
+3	prologue_02	60	4	4	4	8	60	4	4	imperium_tooltip_07	
+3	prologue_03	60	4	2	2	4	60	4	2	imperium_tooltip_07	
+4	main_3c	31	10	3	3	5	40	2	3	imperium_tooltip_06	imperium_5
+4	main_emperor	31	10	3	3	5	40	2	3	imperium_tooltip_06	imperium_5
+4	main_gaul	60	15	5	5	10	80	5	5	imperium_tooltip_09	gaul_faction_imperium_level_5
+4	main_greek	18	10	3	3	10	24	2	3	imperium_tooltip_06	pel_imperium_5
+4	main_invasion	21	8	3	3	5	24	4	3	imperium_tooltip_07	inv_imperium_5
+4	main_punic	27	10	3	3	5	40	2	3	imperium_tooltip_06	imperium_5
+4	main_rome	31	10	3	3	5	40	2	3	imperium_tooltip_06	imperium_5
+4	prologue_01	100	5	5	5	10	100	5	5	imperium_tooltip_09	
+4	prologue_02	100	5	5	5	10	100	5	5	imperium_tooltip_09	
+4	prologue_03	100	5	2	2	5	100	5	2	imperium_tooltip_09	
+5	main_3c	46	12	3	3	6	60	3	3	imperium_tooltip_07	imperium_6
+5	main_emperor	46	12	3	3	6	60	3	3	imperium_tooltip_07	imperium_6
+5	main_greek	36	12	3	3	12	48	3	3	imperium_tooltip_07	pel_imperium_6
+5	main_invasion	35	11	3	3	7	40	5	3	imperium_tooltip_08	inv_imperium_6
+5	main_punic	46	12	3	3	6	60	3	3	imperium_tooltip_07	imperium_6
+5	main_rome	46	12	3	3	6	60	3	3	imperium_tooltip_07	imperium_6
+6	main_3c	64	14	4	4	7	84	4	4	imperium_tooltip_08	imperium_7
+6	main_emperor	64	14	4	4	7	84	4	4	imperium_tooltip_08	imperium_7
+6	main_greek	54	14	4	4	14	64	4	4	imperium_tooltip_08	pel_imperium_7
+6	main_punic	64	14	4	4	7	84	4	4	imperium_tooltip_08	imperium_7
+6	main_rome	64	14	4	4	7	84	4	4	imperium_tooltip_08	imperium_7
+7	main_3c	85	16	5	5	8	112	5	5	imperium_tooltip_09	imperium_8
+7	main_emperor	85	16	5	5	8	112	5	5	imperium_tooltip_09	imperium_8
+7	main_greek	72	16	5	5	16	88	5	5	imperium_tooltip_09	pel_imperium_8
+7	main_punic	85	16	5	5	8	112	5	5	imperium_tooltip_09	imperium_8
+7	main_rome	85	16	5	5	8	112	5	5	imperium_tooltip_09	imperium_8

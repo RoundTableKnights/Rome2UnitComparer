@@ -1,0 +1,12 @@
+caste	localised_name	sort_priority
+#unit_castes_tables;2;db/unit_castes_tables/unit_castes		
+generic	Generic	0
+heavy	Heavy	0
+heavy_aux	Heavy Auxiliaries	0
+heavy_merc	Heavy Mercenaries	0
+light	Light	2
+light_aux	Light Auxiliaries	2
+light_merc	Light Mercenaries	2
+medium	Medium	1
+medium_aux	Medium Auxiliaries	1
+medium_merc	Medium Mercenaries	1

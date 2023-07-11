@@ -1,0 +1,9 @@
+key	category_order
+#campaign_statistics_categories_tables;0;db/campaign_statistics_categories_tables/campaign_statistics_categories	
+stat_cat_agents	7
+stat_cat_diplomacy	3
+stat_cat_economy	4
+stat_cat_empire	2
+stat_cat_general	1
+stat_cat_military_battles	6
+stat_cat_military_forces	5

@@ -1,0 +1,4 @@
+key	model	priority	relative_frequency
+#trade_display_generic_trade_model_options_tables;0;db/trade_display_generic_trade_model_options_tables/trade_display_generic_trade_model_options			
+3	trade_ship	0.0000	1.0000
+6	trade_camel	0.0000	1.0000

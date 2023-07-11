@@ -1,0 +1,15 @@
+effect_key	resource	value
+#resource_effects_tables;0;db/resource_effects_tables/resource_effects		
+rom_building_trade_tariffs_all	res_rom_amber	3.0000
+rom_building_gdp_mod_culture_all	res_rom_glass	2.0000
+rom_force_unit_mod_movement_speed	res_rom_horses	2.0000
+rom_building_recruitment_cost_mod	res_rom_iron	3.0000
+rom_building_public_order_attitude_sanitation	res_rom_lead	2.0000
+rom_building_recruitment_cost_mod	res_rom_leather	2.0000
+rom_building_building_cost_mod	res_rom_marble	3.0000
+rom_building_gdp_mod_agriculture_farming	res_rom_oil	3.0000
+rom_payload_food	res_rom_salt	3.0000
+rom_building_trade_tariffs_all	res_rom_spices	3.0000
+rom_building_gdp_mod_trade_all	res_rom_textiles	2.0000
+rom_building_building_cost_mod	res_rom_timber	2.0000
+rom_building_public_order_attitude	res_rom_wine	2.0000

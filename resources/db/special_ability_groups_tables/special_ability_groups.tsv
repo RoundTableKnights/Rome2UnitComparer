@@ -1,0 +1,9 @@
+ability_group	icon_path	special_edition_mask
+#special_ability_groups_tables;1;db/special_ability_groups_tables/special_ability_groups		
+Ariovistus	ui/battle ui/general_ability_icons/pride.png	64
+Boduognatus	ui/battle ui/general_ability_icons/spirit.png	64
+Caesar	ui/battle ui/general_ability_icons/presence.png	64
+Commander	ui/battle ui/general_ability_icons/commander.png	1
+Strategist	ui/battle ui/general_ability_icons/strategist.png	1
+Vercingetorix	ui/battle ui/general_ability_icons/relentless.png	64
+Warmonger	ui/battle ui/general_ability_icons/warmonger.png	1

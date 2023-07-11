@@ -1,0 +1,11 @@
+key	auto_target	camera_offset_x	camera_offset_y	camera_offset_z	half_accuracy_arc	half_horizontal_fire_arc	half_vertical_fire_arc_elevation	near_clipping_plane	reload_time	track_projectile_distance	turn_delay	half_vertical_fire_arc_declination
+#first_person_engines_tables;1;db/first_person_engines_tables/first_person_engines												
+Rome_Ballista_Giant	false	0.5000	15.0000	-8.0000	2.0000	30.0000	35.0000	-1.0000	6.0000	10.0000	4.0000	-5.0000
+Rome_Ballista_Medium	false	0.5000	13.0000	-8.0000	2.0000	45.0000	35.0000	-1.0000	3.0000	10.0000	2.0000	-20.0000
+Rome_Ballista_Medium_Ship	false	1.0000	13.0000	-8.0000	2.0000	45.0000	45.0000	-1.0000	3.0000	10.0000	2.0000	-20.0000
+Rome_Cheiroballistra	false	0.0000	3.0000	-8.0000	1.0000	45.0000	45.0000	-1.0000	2.0000	10.0000	0.0000	-20.0000
+Rome_Onager	false	1.0000	8.0000	-8.5000	2.0000	45.0000	50.0000	-1.0000	5.0000	10.0000	2.0000	-5.0000
+Rome_Onager_Large	false	1.0000	10.0000	-8.5000	2.0000	45.0000	50.0000	-1.0000	8.0000	10.0000	4.0000	-5.0000
+Rome_Onager_Ship	false	1.0000	8.0000	-10.0000	2.0000	45.0000	50.0000	-1.0000	5.0000	10.0000	2.0000	-5.0000
+Rome_Polybolos	false	0.0000	2.7500	-7.5000	1.0000	45.0000	35.0000	-1.0000	1.0000	10.0000	1.0000	-35.0000
+Rome_Scorpio	false	0.0000	2.7500	-7.5000	1.0000	45.0000	35.0000	-1.0000	3.0000	10.0000	1.0000	-35.0000

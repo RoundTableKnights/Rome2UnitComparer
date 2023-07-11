@@ -1,0 +1,8 @@
+component_id	option	last_stand_priority	total_war_priority	war_priority	tension_priority	peace_priority
+#cai_personality_occupation_decision_priorities_tables;0;db/cai_personality_occupation_decision_priorities_tables/cai_personality_occupation_decision_priorities						
+default	occupation_decision_liberate	1.0000	1.0000	1.0000	1.0000	1.0000
+default	occupation_decision_loot	0.0000	0.0000	0.0000	0.0000	0.0000
+default	occupation_decision_occupy	5.0000	5.0000	5.0000	5.0000	5.0000
+default	occupation_decision_raze	1.0000	1.0000	1.0000	1.0000	1.0000
+default	occupation_decision_sack	1.0000	1.0000	1.0000	1.0000	1.0000
+default	occupation_decision_vassal	1.0000	1.0000	1.0000	1.0000	1.0000

@@ -1,0 +1,5 @@
+culture	chance_to_spawn	general	public_office	missions	trait
+#female_character_culture_details_tables;1;db/female_character_culture_details_tables/female_character_culture_details					
+rom_Barbarian	15	y	y	y	
+rom_Hellenistic	6	n	y	y	
+rom_Roman	6	n	y	y	dk_female_family_duty

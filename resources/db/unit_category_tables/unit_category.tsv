@@ -1,0 +1,10 @@
+key	localised_name	r	g	b	min_battles_rows
+#unit_category_tables;3;db/unit_category_tables/unit_category					
+artillery	Siege Engine	224.0000	92.0000	102.0000	1
+cavalry	Cavalry	169.0000	164.0000	213.0000	3
+elephants	Elephants	0.0000	0.0000	0.0000	2
+heavy_ship	Heavy Ship	0.0000	0.0000	0.0000	1
+inf_melee	Melee Infantry	162.0000	215.0000	163.0000	4
+inf_ranged	Missile Infantry	217.0000	218.0000	158.0000	2
+light_ship	Light Ship	0.0000	0.0000	0.0000	1
+medium_ship	Medium Ship	0.0000	0.0000	0.0000	1

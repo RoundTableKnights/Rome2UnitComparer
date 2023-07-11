@@ -1,0 +1,20 @@
+key	faction	allowed
+#units_to_exclusive_faction_permissions_tables;0;db/units_to_exclusive_faction_permissions_tables/units_to_exclusive_faction_permissions		
+Gre_Cretan_Archers	rom_knossos	true
+Gre_Rhodian_Slingers	rom_rhodos	true
+Ibe_Lusitani_Guerillas	pun_lusitani	true
+Ibe_Lusitani_Guerillas	rom_lusitani	true
+Ibe_Lusitani_Nobles	pun_lusitani	true
+Ibe_Lusitani_Nobles	rom_lusitani	true
+Ibe_Lusitani_Spear	pun_lusitani	true
+Ibe_Lusitani_Spear	rom_lusitani	true
+Ibe_Lusitani_Swordswomen	pun_lusitani	true
+Ibe_Lusitani_Swordswomen	rom_lusitani	true
+Ita_Campanian_Cavalry	pun_samnites	true
+Ita_Etruscan_Hoplites	pun_etruscan	true
+Ita_Etruscan_Hoplites	rom_etruscan	true
+Ita_Samnite_Warriors	pun_samnites	true
+Pel_Hippeus	pel_boiotia	false
+Pel_Hippeus	pel_thessaly	false
+Pel_Theban_Hippeus	pel_boiotia	true
+Pel_Thessalian_Hippeus	pel_thessaly	true

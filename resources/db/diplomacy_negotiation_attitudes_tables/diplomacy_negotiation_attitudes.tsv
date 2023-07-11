@@ -1,0 +1,4 @@
+key	maximum_attitude	minimum_attitude
+#diplomacy_negotiation_attitudes_tables;0;db/diplomacy_negotiation_attitudes_tables/diplomacy_negotiation_attitudes		
+friendly	1000	30
+hostile	-30	-1000

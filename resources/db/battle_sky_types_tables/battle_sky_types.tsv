@@ -1,0 +1,3 @@
+key	season	weather_type	time_of_day	climate	sky_file	supports_ambient_fog	supports_volumetric_fog
+#battle_sky_types_tables;0;db/battle_sky_types_tables/battle_sky_types							
+dfgagfd	season_autumn	dry	,j.hm	ROME_Atlantic	gtyuk	false	false

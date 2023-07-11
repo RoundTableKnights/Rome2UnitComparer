@@ -1,0 +1,8 @@
+id	rigid_lookup_tree	building_path	climate_type
+#campaign_settlement_display_building_trees_tables;0;db/campaign_settlement_display_building_trees_tables/campaign_settlement_display_building_trees			
+0	AP_tree	TestData\CampaignTestData\models\tree.rigid_model_v2	ROME_Atlantic
+16	AP_tree	TestData\CampaignTestData\models\tree.rigid_model_v2	ROME_East_Desert
+24	AP_tree	TestData\CampaignTestData\models\tree.rigid_model_v2	ROME_Med
+29	AP_tree	TestData\CampaignTestData\models\tree.rigid_model_v2	default
+3	AP_tree	TestData\CampaignTestData\models\tree.rigid_model_v2	ROME_Continental
+7	AP_tree	TestData\CampaignTestData\models\tree.rigid_model_v2	ROME_Desert

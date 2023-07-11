@@ -1,0 +1,15 @@
+key	unit	slot_bed	trade_value	icon_filepath	strategic_value	in_encyclopedia
+#resources_tables;2;db/resources_tables/resources						
+res_rom_amber	amber	settlement_castle	50	data\UI\Campaign UI\Pips\resource_amber.png	500	false
+res_rom_glass	kilnful	settlement_castle	50	data\UI\Campaign UI\Pips\resource_glass.png	500	true
+res_rom_horses	horses	settlement_castle	50	data\UI\Campaign UI\Pips\resource_horses.png	500	false
+res_rom_iron	ingot	settlement_castle	50	data\UI\Campaign UI\Pips\resource_iron.png	500	true
+res_rom_lead	ingot	settlement_castle	50	data\UI\Campaign UI\Pips\resource_lead.png	500	true
+res_rom_leather	bundle	settlement_castle	50	data\UI\Campaign UI\Pips\region_specialty_hides.png	500	true
+res_rom_marble	slabs	settlement_castle	50	data\UI\Campaign UI\Pips\resource_marble.png	500	true
+res_rom_oil	amphora	settlement_castle	50	data\UI\Campaign UI\Pips\resource_olive_oil.png	500	true
+res_rom_salt	salt	settlement_castle	50	data\UI\Campaign UI\Pips\resource_salt.png	500	false
+res_rom_spices	baskets	settlement_castle	50	data\UI\Campaign UI\Pips\resource_spices.png	500	true
+res_rom_textiles	bales	settlement_castle	50	data\UI\Campaign UI\Pips\resource_textiles.png	500	true
+res_rom_timber	logs	settlement_castle	50	data\UI\Campaign UI\Pips\region_specialty_timber.png	500	true
+res_rom_wine	amphora	settlement_castle	50	data\UI\Campaign UI\Pips\resource_wine.png	500	true

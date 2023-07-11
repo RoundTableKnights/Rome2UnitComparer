@@ -1,0 +1,9 @@
+climate_type	colour_index	conifer_line	tree_line	is_land
+#climates_tables;0;db/climates_tables/climates				
+ROME_Atlantic	251	1000	1000	true
+ROME_Continental	254	1000	1000	true
+ROME_Desert	255	1000	1000	true
+ROME_East_Desert	252	1000	1000	true
+ROME_Inv	250	1000	1000	true
+ROME_Med	253	1000	1000	true
+default	100	1000	1000	false

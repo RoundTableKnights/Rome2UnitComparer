@@ -1,0 +1,8 @@
+government_type	elected_ministers	hereditary_ministers	rank	active_upper_class	active_lower_class
+#government_types_tables;0;db/government_types_tables/government_types					
+gov_absolute_monarchy	false	true	3	upper	upper
+gov_constitutional_monarchy	false	false	2	upper	middle
+gov_empire	false	true	0	middle	lower
+gov_jap_clan	false	false	4	lower	lower
+gov_jap_shogunate	false	false	0	lower	lower
+gov_republic	true	false	1	middle	lower

@@ -1,0 +1,1139 @@
+key	localised_description	localised_title	ui_icon	bundle_target
+#effect_bundles_tables;1;db/effect_bundles_tables/effect_bundles				
+3c_Faction_Leader_Aurelian_outro	Led by you, the soldiers of Rome stand ready to defend civilisation. 	Rome shall never die!	authority_positive.png	faction
+3c_Faction_Leader_Authority	Authority	Authority	authority_positive.png	character
+3c_Faction_Leader_Bonus	Bonus	Bonus	faction_leader_positive.png	character
+3c_Faction_Leader_Cunning	Cunning	Cunning	subterfuge_positive.png	character
+3c_Faction_Leader_Tetricus_outro	The Republic is not simply an ideal. 	True Republic	faction_leader_positive.png	faction
+3c_Faction_Leader_Zeal	Zeal	Zeal	zeal_positive.png	character
+3c_Faction_Leaders_Cannabaudes_Outro	The warriors of the Gothi will follow you to the end of the world.	Living Legend	barbarian_positive.png	faction
+3c_Faction_Leaders_Hormizd_Outro	Your people prosper in the light of your rule.	Light of the Shah	agent_positive.png	faction
+3c_Zenobia_outro_Vaballathus	Vaballathus is ready to be assigned a command!	Vaballathus	character_positive.png	character
+3c_banditry_decrease_province_wealth	Bandits have overwhelmed this province. Industry and commerce have been halted.	Bandits!	public_order_negative.png	province
+3c_banditry_reduced_public_order	Bandits have overwhelmed this province. The people have been robbed blind, which has caused extreme unhappiness.	Bandits!	public_order_negative.png	province
+3c_banditry_stop_food_production	Bandits have overwhelmed this province; food produced here has been plundered.	Bandits!	public_order_negative.png	province
+3c_betrayal_reduced_morale	Our goodwill has been betrayed! Our troops' confidence has diminished!	Betrayal!	diplomacy_negative.png	faction
+3c_betrayal_reduced_research	Our goodwill has been betrayed! Our enemies have stolen our research!	Betrayal!	diplomacy_negative.png	faction
+3c_betrayal_reduced_trade	Our goodwill has been betrayed! Our trade partners have increased their tariffs!	Betrayal!	diplomacy_negative.png	faction
+3c_cult_christianity_christmas	Christian communities are celebrating Christ's birth.	Christmas	public_order_positive.png	province
+3c_cult_christianity_easter	Christian communities are celebrating Christ's resurrection.	Easter	public_order_positive.png	province
+3c_cult_manichaeism	Manichaean communities celebrate the sacrifice of Ohrmazd through fasting and study.	Ohrmazd-Yimki	technology_positive.png	faction
+3c_cult_mithraism	A Mithraic community has secretly held feasts in this province.	Mithraic Feasts	wealth_positive.png	region
+3c_cult_sol_invictus	The people have been celebrating the birth of Sol Invictus.	Dies Natalis Solis Invicti	public_order_positive.png	faction
+3c_east_ardashir_testament_i_A	The people call you a tyrant.	Despotic Ruler	public_order_negative.png	faction
+3c_east_ardashir_testament_i_B	Your nobles are impressed.	Eloquent Ruler	loyalty_positive.png	faction
+3c_east_ardashir_testament_i_C	This elderly scholar provides insights on governance.	Judicious Ruler	public_order_positive.png	faction
+3c_east_ardashir_testament_i_D	The nobles perceive inaction as weakness.	Feeble Ruler	loyalty_negative.png	faction
+3c_east_magi_council_i_A	You've impressed all who would plot against you.	Your Magnificence	loyalty_positive.png	faction
+3c_east_magi_council_i_B	You've earned your people's adoration.	Your Benevolence	public_order_positive.png	faction
+3c_east_magi_council_i_C	You could finance all your grand undertakings.	Your Affluence	wealth_positive.png	faction
+3c_east_magi_council_i_D	You can crush all who stand in your way.	Your Dominance	army_positive.png	faction
+3c_east_sassanian_sculptor_i_A	The artisans in this province are scared to exercise their craft...	Cruelty	public_order_negative.png	province
+3c_east_sassanian_sculptor_i_B	The artisans in this province are highly motivated!	Generosity	public_order_positive.png	province
+3c_east_sassanian_sculptor_i_D	People mock you behind your back.	Mockery	loyalty_negative.png	faction
+3c_faction_group_celtic	The Celts of Britannia may be savages on the battlefield but are far from barbarians in their tribal settlements.	British Tribes	trait_britannic_tribes.png	faction
+3c_faction_group_eastern	After the fall of the Persian Empire, eastern traditions and culture were both respected and cultivated by its successors.	Eastern Empires	trait_eastern_empires.png	faction
+3c_faction_group_germanic	Germanic tribesmen are fearsome raiders, expert night-fighters and brutal conquerors.	Germanic Tribes	trait_germanic_tribes.png	faction
+3c_faction_group_nomadic	The Sarmatians are aggressive, nomadic warriors, famed for their horsemanship and skill with the bow.	Sarmatians	trait_nomadic_tribes.png	faction
+3c_faction_group_roman	He who rules Rome shall control the world through the glory of conquest!	Divided Roman Empire	trait_rome.png	faction
+3c_faction_leader_aurelian_generic	The soldiers are touched by Aurelian's display of mercy...	Aurelian's Leniency	morale_positive.png	character
+3c_faction_trait_alani	Descendants of mighty Sarmatian tribes, Alani horsemen are feared throughout the known world.	Alani	trait_alani.png	faction
+3c_faction_trait_armenia	Once a mighty empire, now the pawn of stronger powers, Armenia seeks to regain its lost glory.	Armenia	trait_armenia.png	faction
+3c_faction_trait_caledoni	The red-haired Caledonii of northern Britannia have never bent the knee to conquerors, nor will they ever.	Caledonii	trait_caledoni.png	faction
+3c_faction_trait_gallic_empire	Gaul's western provinces seek to restore the Republic and establish a glorious new Rome.	Gallic Rome	trait_gallicemp.png	faction
+3c_faction_trait_gothi	The Gothic tribes are indomitable Germanic warriors, who have adopted the Steppe nomads' ways of battle.	Gothi	trait_gothi.png	faction
+3c_faction_trait_marcomanni	The Germanic confederation of the Marcomanni want to settle west of the Rhine, and will stop at nothing to achieve this.	Marcomanni	trait_marcomanni.png	faction
+3c_faction_trait_palmyrene_empire	Zenobia's rule in the east has raised Palmyra from clients of Rome to a blossoming empire in its own right.	Palmyrene Empire	trait_palmyra.png	faction
+3c_faction_trait_roman_empire	Rome has never faced a more difficult crisis, but the Eternal City will endure and rise again.	Roman Empire	trait_rome.png	faction
+3c_faction_trait_sassanid_empire	The Sassanid dynasty continues the legacy of its Persian predecessors, but with renewed aggression and advanced military prowess.	Sassanid Empire	trait_sassanid.png	faction
+3c_faction_trait_saxoni	A northern Germanic tribe, the Saxoni, terrorise helpless settlements with their ships, leaving nothing of value behind.	Saxoni	trait_saxoni.png	faction
+3c_famous_bard	A great singer and storyteller has arrived to entertain our people.	Famous Bard	public_order_positive.png	faction
+3c_famous_scholar	A famous scholar has come to share his vast knowledge with us.	Famous Scholar	diplomacy_positive.png	faction
+3c_gothi_casting_the_lots_i_A	You wish to conquer the world.	King's Conquest	army_positive.png	faction
+3c_gothi_casting_the_lots_i_B	You seek peace and justice for your people.	Elder's Wisdom	public_order_positive.png	faction
+3c_gothi_casting_the_lots_i_C	You desire recognition from gods and men alike.	Warrior's Glory	loyalty_positive.png	faction
+3c_gothi_casting_the_lots_i_D	You wish to provide for your people.	Everyman's Feasts	food_positive.png	faction
+3c_intro_cults	Many people have turned to a new faith in search of salvation.	The Rise of Cults	religion_positive.png	faction
+3c_master_horseman	An exceptionally skilled horseman has come to share his experience.	Master Horseman	army_positive.png	faction
+3c_mystic_dreams_i_A_recruitment	Men from across the desert flock to your banner.	Omen of Conquest	army_positive.png	faction
+3c_mystic_dreams_i_B_political	Our rule is favoured by the gods themselves!	Omen of Favour	barbarian_positive.png	faction
+3c_mystic_dreams_i_C_morale	Your warriors are doing their best to evade this ill omen.	Omen of Peril	morale_positive.png	faction
+3c_mystic_dreams_i_D_general_stats	This general is confused.	Mystic Dreams	general_negative.png	character
+3c_pax_romana	The roads are finally safe. Traders across all provinces can safely seek better markets.	Safe Roads!	trade_positive.png	faction
+3c_plague_army	[[col:red]]Pestilence[[/col]]\nWe are doomed! One by one, our men succumb to a foul disease. The corpses are piling up and the foul stench is everywhere.	Plague	3c_squalor_red.png	force
+3c_plague_region	[[col:red]]Pestilence[[/col]]\nWe are doomed! One by one, our men succumb to a foul disease. The corpses are piling up and the foul stench is everywhere.	Plague	3c_squalor_red.png	region
+3c_rat_infestation	Rats have infested this province!	Rat Infestation	3c_squalor_red.png	province
+3c_rat_infestation_D	The people take part in the religious ceremonies, consuming food but not producing it.	Religious Ceremony	food_negative.png	province
+3c_rat_infestation_i_A	The ratcatchers have taken care of this infestation.	Ratcatchers	3c_squalor_green.png	province
+3c_rat_infestation_i_B	The cats will catch all the rats... eventually. Hopefully...	Cats	3c_squalor_green.png	province
+3c_rat_infestation_i_C	Incense and myrrh have worked well against the rats. However, fire has damaged a few buildings in the city, naturally upsetting their owners.	Fumigation	3c_squalor_green.png	province
+3c_rat_infestation_i_D	The people believe the gods will protect them from pestilence and disease.	Prayers	public_order_positive.png	province
+3c_revolt_of_the_mint_workers	In this province, a corrupt treasury officer is instigating rebellion against your rule.	Coinmaker's Revolt	public_order_negative.png	province
+3c_rom_Sibylline_Books_Agree_A1	The costs and benefits of fulfilling the prophecy of power:	Power	loyalty_positive.png	faction
+3c_rom_Sibylline_Books_Agree_A2	The costs and benefits of fulfilling the prophecy of power:	Power	loyalty_positive.png	faction
+3c_rom_Sibylline_Books_Agree_A3	The costs and benefits of fulfilling the prophecy of power:	Power	loyalty_positive.png	faction
+3c_rom_Sibylline_Books_Agree_B1	The costs and benefits of fulfilling the prophecy of stability:	Stability	public_order_positive.png	faction
+3c_rom_Sibylline_Books_Agree_B2	The costs and benefits of fulfilling the prophecy of stability:	Stability	public_order_positive.png	faction
+3c_rom_Sibylline_Books_Agree_B3	The costs and benefits of fulfilling the prophecy of stability:	Stability	public_order_positive.png	faction
+3c_rom_Sibylline_Books_Agree_C1	The costs and benefits of fulfilling the prophecy of prosperity:	Prosperity	wealth_positive.png	faction
+3c_rom_Sibylline_Books_Agree_C2	The costs and benefits of fulfilling the prophecy of prosperity:	Prosperity	wealth_positive.png	faction
+3c_rom_Sibylline_Books_Agree_C3	The costs and benefits of fulfilling the prophecy of prosperity:	Prosperity	wealth_positive.png	faction
+3c_rom_Sibylline_Books_Agree_D1	The costs and benefits of fulfilling the prophecy of victory:	Victory!	military_positive.png	faction
+3c_rom_Sibylline_Books_Agree_D2	The costs and benefits of fulfilling the prophecy of victory:	Victory!	military_positive.png	faction
+3c_rom_Sibylline_Books_Agree_D3	The costs and benefits of fulfilling the prophecy of victory:	Victory!	military_positive.png	faction
+3c_rom_Sibylline_Books_Burn	The masses will be shocked by the act but it will put an end to this cycle of superstitions.	Shock!	public_order_negative.png	faction
+3c_rom_Sibylline_Books_For_Show	The populace will be appeased but the economy will suffer.	Religious Festivities	public_order_positive.png	faction
+3c_rom_Sibylline_Books_Hide	The Senate will be angry with your decision to conceal the prescription of the Sibylline Books.	The Senate is Displeased	loyalty_negative.png	faction
+3c_rom_Sibylline_Books_Rational	Casting aside these old, cryptic texts, our people have learned to rely on their own strength and determination.	Rational	faction_leader_positive.png	faction
+3c_ships_at_the_port_A	The exotic animals have improved commerce but their waste has caused squalor.	Exotic Animals	3c_squalor_red.png	province
+3c_ships_at_the_port_B	The ports have become filthier due to the presence of foreign ships.	Ships in Port	public_order_negative.png	province
+3c_ships_at_the_port_C	The local merchants are upset.	Complaining Merchants	public_order_negative.png	province
+3c_ships_at_the_port_D	The exotic animals have increased your popularity among the nobles. The foreigners, however, have told everyone about your unjust appropriation, which may affect diplomatic relations.	Confiscated Cargo	loyalty_positive.png	faction
+3c_spring	The spring is said to have healing powers...	Healing Water	3c_squalor_green.png	province
+3c_squalor_incident	Many people have become ill due to rotten food.	Rotten Food	3c_squalor_red.png	province
+3c_stolen_eagle	The Legion's standard is missing and morale is low!	Stolen Eagle	morale_negative.png	force
+3c_stolen_eagle_A	Decimation is a capital punishment.	Decimation	replenishment_negative.png	force
+3c_stolen_eagle_i_A	The army has improved discipline.	Discipline	morale_positive.png	force
+3c_stolen_eagle_i_C	The army has improved discipline.	Discipline	morale_positive.png	force
+3c_stolen_eagle_i_D	The army has been slowed down.	Detour	campaign_movement_negative.png	force
+3c_tactician	A master tactician has come to instruct our forces in the ways of battle!	Tactician	army_positive.png	faction
+3c_tech_module_battle_1	To benefit from the following effect, research the technologies below.	Battle I	general_positive.png	faction
+3c_tech_module_battle_2	To benefit from the following effect, unlock Battle I and research the technologies below.	Battle II	general_positive.png	faction
+3c_tech_module_battle_3	To benefit from the following effect, unlock Battle II and research the technologies below.	Battle III	general_positive.png	faction
+3c_tech_module_campaign_1	To benefit from the following effect, research the technologies below.	Campaign I	general_positive.png	faction
+3c_tech_module_campaign_2	To benefit from the following effect, unlock Campaign I and research the technologies below.	Campaign II	general_positive.png	faction
+3c_tech_module_campaign_3	To benefit from the following effect, unlock Campaign II and research the technologies below.	Campaign III	general_positive.png	faction
+3c_tech_module_culture_1	To benefit from the following effect, research the technologies below.	Culture I	wealth_positive.png	faction
+3c_tech_module_culture_2	To benefit from the following effect, unlock Culture I and research the technologies below.	Culture II	wealth_positive.png	faction
+3c_tech_module_culture_3	To benefit from the following effect, unlock Culture II and research the technologies below.	Culture III	wealth_positive.png	faction
+3c_tech_module_economy_1	To benefit from the following effect, research the technologies below.	Economy I	wealth_positive.png	faction
+3c_tech_module_economy_2	To benefit from the following effect, unlock Economy I and research the technologies below.	Economy II	wealth_positive.png	faction
+3c_tech_module_economy_3	To benefit from the following effect, unlock Economy II and research the technologies below.	Economy III	wealth_positive.png	faction
+3c_tech_module_governance_1	To benefit from the following effect, research the technologies below.	Governance I	wealth_positive.png	faction
+3c_tech_module_governance_2	To benefit from the following effect, unlock Governance I and research the technologies below.	Governance II	wealth_positive.png	faction
+3c_tech_module_governance_3	To benefit from the following effect, unlock Governance II and research the technologies below.	Governance III	wealth_positive.png	faction
+3c_tech_module_military_recruitment_1	To benefit from the following effect, research the technologies below.	Recruitment I	construction_positive.png	faction
+3c_tech_module_military_recruitment_2	To benefit from the following effect, unlock Recruitment I and research the technologies below.	Recruitment II	construction_positive.png	faction
+3c_tech_module_military_recruitment_3	To benefit from the following effect, unlock Recruitment II and research the technologies below.	Recruitment III	construction_positive.png	faction
+Inv_loyalty_decr	The rival political powers are watching your every move.	Political Tension	loyalty_negative.png	faction
+Inv_loyalty_incr	The rival political powers have given you some breathing room.	Political Idyll	loyalty_positive.png	faction
+age_agent_action_all_trap_agent_subterfuge_success	This agent has been trapped by an enemy champion and has their movement range reduced.	Trap	agent_negative.png	character
+age_agent_action_all_trap_agent_success_self	This agent has recently trapped an enemy agent, exposing them to other enemy actions.	Trap	agent_positive.png	character
+age_agent_action_spy_steal_subterfuge_success	This agent has been robbed of his gold and possession by an enemy spy, hindering their ability to act!	Steal	agent_negative.png	character
+age_agent_action_spy_steal_subterfuge_success_self	This spy has stolen an enemy agent's gold and possessions, making them inept to act.	Steal	spy_positive.png	character
+agent_action_spy_hinder_agent_zeal_success	This agent has been distracted by an enemy spy.	Misdirection	spy_negative.png	character
+agent_action_spy_hinder_agent_zeal_success_self	This spy has recently distracted an enemy agent.	Misdirection	spy_positive.png	character
+construction_costs_all_10_minus	Sometimes prices are reasonable, especially in good times. 	Favourable Prices	construction_positive.png	faction
+construction_costs_all_10_plus	All prices fluctuate, especially in interesting times. 	Volatile Prices	construction_negative.png	faction
+cultural_conversion_10_plus	Our culture is promoted stronger than before.	Spreading Culture	dignitary_positive.png	faction
+dk_architects_A	The Sabaean architects will help with the construction of certain agricultural buildings.	Saba Architects	construction_positive.png	faction
+dk_architects_B	The architects from Saba will share their advanced methods with our own builders and craftsmen.	Saba Architects	technology_positive.png	faction
+dk_architects_C	Our artisans are proud that we continue to value their craft and contribution.	Uphold Traditions	public_order_positive.png	faction
+dk_camel_disease_A	Expensive but worth it. Our camel breeders rejoice!	The Cure	public_order_positive.png	faction
+dk_camel_disease_B	The camel breeders are unhappy that they've had to deal with it themselves, but the matter is settled.	The Solution	trade_positive.png	faction
+dk_camel_disease_C	Our neighbours' camels have fallen victim to a mysterious sickness.	Camel Disease	loyalty_negative.png	faction
+dk_construction_delayed_A	Construction cannot be delayed, no matter the reason!	Extra Workforce	construction_positive.png	province
+dk_construction_delayed_B	Construction cannot be delayed, no matter the reason!	Extra Materials	construction_positive.png	province
+dk_dig_A1	These jewels will greatly increase the family's status.	Treasure	loyalty_positive.png	faction
+dk_dig_A2	Work on the canal has slowed down considerably.	Work Delayed	food_negative.png	province
+dk_dig_B	Nearby settlements enjoy an increase in agricultural produce.	New Canal	food_positive.png	province
+dk_dyes_A	Appearance is not the most important thing. Still, some people will ridicule us.	Not Pretty	construction_positive.png	province
+dk_dyes_B	Our buildings will be a thing of beauty! For a price…	Magnificent	public_order_positive.png	province
+dk_dyes_C	Construction will be delayed until the paint arrives.	Waiting for Dyes	construction_negative.png	province
+dk_fish_catch_A	Feed the populace. That's the point of food, isn't it?	Feast	food_positive.png	province
+dk_fish_catch_B	Let's try to appease the Nile god…	Offering to Hapi	public_order_positive.png	province
+dk_fish_catch_C	Let the fish be sold to other towns and foreign merchants.	Fish Market	wealth_positive.png	province
+dk_foreign_intrigue_B	You will help the man regain what is his. 	Seek Justice	diplomacy_positive.png	faction
+dk_foreign_intrigue_D	You will let the man suffer the consequences of his failure. You, on the other hand will benefit greatly from this opportunity.	Gain Favour	diplomacy_positive.png	faction
+dk_foreign_ship_A	Sea trade in this province is blooming, seemingly due to this mysterious captain and his ship…	No Questions Asked	wealth_positive.png	province
+dk_gift_B	…for whomever can pay the most.	A Rare Gift	wealth_positive.png	faction
+dk_gift_C	…for those who would plot against their ruler.	A Rare Gift	loyalty_positive.png	faction
+dk_gift_D	…for those who shed their blood for us.	A Rare Gift	army_positive.png	faction
+dk_glorious_past_A	The glorious past will lead us to a glorious future if we have the eyes to see our shortcomings.	Glorious Future	public_order_positive.png	faction
+dk_glorious_past_B	The people consider our ruler a tyrant. Whatever - such methods are surprisingly effective…	Despotic Ruler	loyalty_positive.png	faction
+dk_glorious_past_C	The people consider our ruler weak, bordering on incapable!	Weak Ruler	loyalty_negative.png	faction
+dk_gods_Amun	Blessing of Amun.	Amun	wealth_positive.png	faction
+dk_gods_Apademak	Blessing of Apademak.	Apademak	morale_positive.png	faction
+dk_gods_Arensnuphis	Blessing of Arensnuphis.	Arensnuphis	religion_positive.png	faction
+dk_gods_Horus	Blessing of Horus.	Horus	loyalty_positive.png	faction
+dk_gods_Isis	Blessing of Isis.	Isis	public_order_positive.png	faction
+dk_gods_Khonsu	Blessing of Khonsu.	Khonsu	replenishment_positive.png	faction
+dk_gods_Maat	Blessing of Maat.	Maat	public_order_positive.png	faction
+dk_gods_Osiris	Blessing of Osiris.	Osiris	public_order_positive.png	faction
+dk_gods_Sebiumeker	Blessing of Sebiumeker.	Sebiumeker	growth_positive.png	faction
+dk_gods_Seth	Blessing of Seth.	Seth	army_positive.png	faction
+dk_gods_Thoth	Blessing of Thoth.	Thoth	technology_positive.png	faction
+dk_kush_nile_A_draught	Contrary to expectations, there is drought this year!	Nile Drought!	food_negative.png	faction
+dk_kush_nile_A_flood	In line with expectations, the river has flooded.	Nile Flood!	food_positive.png	faction
+dk_kush_nile_B_draught	Contrary to expectations, there is drought this year!	Nile Drought!	food_negative.png	faction
+dk_kush_nile_B_flood	In line with expectations, the river has flooded.	Nile Flood!	food_positive.png	faction
+dk_kush_priests_suicide_A	The current ruler governs with order and harmony.	Worthy of Maat!	public_order_positive.png	faction
+dk_kush_priests_suicide_B	Some say the current ruler governs with order and harmony, but others are somewhat less complimentary…	Worthy of Maat…	public_order_positive.png	faction
+dk_kush_pyramid_noble_A	A glorious funeral, befitting a person of status.	Glorious Funeral	loyalty_positive.png	faction
+dk_kush_pyramid_noble_B	A noble funeral, befitting someone with breeding.	Noble Funeral	loyalty_positive.png	faction
+dk_kush_pyramid_noble_C	I think not. Let's not stand on ceremony - get them in the ground!	Denied Funeral	loyalty_negative.png	faction
+dk_kush_pyramid_warrior_A	A glorious funeral, befitting a warrior of renown.	Glorious Funeral	army_positive.png	faction
+dk_kush_pyramid_warrior_B	A noble funeral, befitting someone with breeding.	Noble Funeral	army_positive.png	faction
+dk_kush_pyramid_warrior_C	I think not. This man did not belong to the correct class!	Denied Funeral	army_negative.png	faction
+dk_locusts_A	Our farms are safe, but we've lost our valuable supplies of frankincense in the process.	Locusts!	wealth_positive.png	province
+dk_locusts_B	We gathered the current crop but the plague of locusts has destroyed the farms.	Locusts!	food_positive.png	province
+dk_lost_caravan_fail	The men and goods were retrieved but the search has taken a toll on our scout party.	Lost Caravan	replenishment_negative.png	faction
+dk_lost_caravan_success	The men and goods were retrieved - everyone and everything have been returned to your capital unharmed.	Lost Caravan	wealth_positive.png	faction
+dk_mercernaries_i	The mercenaries have contributed greatly to the war effort through their experience and knowledge of our more advanced rivals' tactics.	Foreign Mercenaries	army_positive.png	faction
+dk_merchants_plea_B	The neighbouring towns honour us for acting on the merchants' behalf.	Grateful Neighbours	diplomacy_positive.png	faction
+dk_merchants_plea_C	The local masters are pleased. Although fickle, you can probably count on their support in the near future.	Grateful Nobles	loyalty_positive.png	faction
+dk_monster_A	The hide of an unusually-large crocodile. Probably. The ruling family has gained prestige!	Great Trophy	loyalty_positive.png	faction
+dk_monster_B	The ferocious beast has become a praised symbol of our military forces!	Cult Animal	army_positive.png	faction
+dk_monster_C	People from all across the desert come to witness the feeding of the majestic creature!	Ritual Feasting	public_order_positive.png	faction
+dk_monster_D	People on the river work in constant fear, never knowing when the monster will appear to snatch them to their deaths.	Reluctant Fishermen	public_order_negative.png	faction
+dk_numidia_migration_A	Honour the warriors. It makes sense to keep large groups of men with swords on side at all times!	Appease the Military	army_positive.png	faction
+dk_numidia_migration_B	Appease the nobles. After all, they have considerable influence over the people.	The Nobles	loyalty_positive.png	faction
+dk_numidia_migration_C	Accommodate the artisans. Production may soon grind to a halt otherwise!	The Artisans	technology_positive.png	faction
+dk_numidia_migration_D	Sometimes we are kind. Provide for the old and the sick. The nobles will not be happy...	The Old & The Sick	public_order_positive.png	faction
+dk_numidia_raid_A1	We've managed to bring back a large quantity of valuable goods. That pompous state got what it deserved!	Carthage Riches	wealth_positive.png	faction
+dk_numidia_raid_A2	Having sacked their city, we have returned with some valuable goods. Now, our pompous neighbours fear us!	Carthage Riches	wealth_positive.png	faction
+dk_numidia_raid_B1	Our warriors are restless in their saddles. They yearn to spill the blood of our enemies!	Restless Riders	army_negative.png	faction
+dk_numidia_raid_B2	The Gaetuli have raided Carthage and blamed us for it! Something will have to be done!	Gaetuli's Ruse	diplomacy_negative.png	faction
+dk_numidia_tribute_carthage	The tribes of the desert are impressed with our courage. Possibly, we can count on their support should it be needed.	Unite the Desert	diplomacy_positive.png	faction
+dk_numidia_tribute_rome	The enemies of Rome are on our side! We don't have to like them if an arrangement is mutually beneficial.	Rome Shall Fall!	diplomacy_positive.png	faction
+dk_prosperity_A	A two-fold benefit! The nobles will feel appreciated and our people will find pride in our culture.	Invite the Nobles	loyalty_positive.png	faction
+dk_prosperity_B	The rulers of the desert kingdoms will be flattered by your invitation! They will certainly be willing to discuss trade opportunities with us…	Invite the Neighbours	diplomacy_positive.png	faction
+dk_prosperity_C	The adventurous, enterprising Greeks will have news from the elsewhere in the world. Maybe we can persuade them to share some of this 'insider' knowledge?	Invite the Greeks	diplomacy_positive.png	faction
+dk_prosperity_D	We will try to earn the benevolence of these proud masters of the east.	Invite the East	diplomacy_positive.png	faction
+dk_refugees_A	The price of progress.	New Ways	technology_positive.png	region
+dk_refugees_B	The reward for staunchness.	Old Ways	public_order_positive.png	region
+dk_sand_storm_A	The relatives of the missing families received their animals and cargo, if not solace.	Cargo Reclaimed	public_order_positive.png	province
+dk_shipwreck_B	People in the province are unhappy, but this expense will actually help the local economy in the long run.	The Needs of the Many	wealth_positive.png	province
+dk_shipwreck_C	The fishermen praise your grace!	Gift from the Gods	public_order_positive.png	province
+dk_slavers_ship_A	Blood! Everyone likes blood to be shed - it reminds them they are alive!	Appease the Masses	public_order_positive.png	province
+dk_slavers_ship_B	The slavers' people owe us some favours.	Reparations	diplomacy_positive.png	faction
+dk_slavers_ship_C	Commerce rules the world and those men are merchants - how they make their coin is none of our concern.	Slave Business	wealth_positive.png	province
+dk_survivors_A	You help the survivors settle in.	Accommodations	food_negative.png	province
+dk_survivors_B	The city guards are occupied dealing with the refugees.	Busy Guards	army_negative.png	province
+dk_survivors_i_A	The province is expanding thanks to the influx of refugees.	Refugees	growth_positive.png	province
+dk_survivors_i_B	There are more slaves.	Refugees	slaves_positive.png	province
+dk_survivors_i_D	The province is expanding thanks to the influx of refugees.	Refugees	growth_positive.png	province
+dk_suspicious_merchant_A1	This province has increased its wealth, but our exports have suffered as a result.	Suspicious Merchant	trade_negative.png	province
+dk_suspicious_merchant_A2	Glorious commerce! Local businesses are thriving.	Recent Purchases	trade_positive.png	province
+dk_suspicious_merchant_B	We remain the main source of certain valuable goods. Things are as they should be.	Trade Monopoly	trade_positive.png	province
+dk_tools_A	The construction workers will be happy!	Extra Tools	public_order_positive.png	province
+dk_tools_B	The building workers will not be happy…	Work Harder!	public_order_negative.png	province
+dk_unhappy_workers_A	The artisans in the province are content and have even redoubled their efforts.	Happy Workers	construction_positive.png	faction
+dk_unhappy_workers_B	The province's artisans are causing unrest, but work continues all the same.	Unhappy Workers	public_order_negative.png	faction
+emp_faction_trait_britannic	Described by Pytheas as 'Pretani', the 'painted ones' are a fierce and independent people.	Britannic Tribes	trait_britannic_tribes.png	faction
+emp_faction_trait_britannic_iceni	The Iceni are a proud people from the flatlands of eastern Britannia, among the toughest tribes of that mist-wreathed island. 	The Iceni	trait_iceni.png	faction
+emp_faction_trait_daco_thracian	The tribes of the Balkans have earned their fierce reputation.	Balkan Tribes	trait_daco_thracian_tribes.png	faction
+emp_faction_trait_daco_thracian_dacia	Even the assassination of their king will not stop the fierce Dacian tribes from re-forging their empire. 	Dacia	trait_getae.png	faction
+emp_faction_trait_eastern	After the fall of Persian Empire, eastern traditions and culture were both respected and cultivated by its successors.	Eastern Empires	trait_eastern_empires.png	faction
+emp_faction_trait_eastern_armenia	Once a mighty empire, now the pawn of stronger powers, Armenia seeks to regain its lost glory.	Kingdom of Armenia	trait_armenia.png	faction
+emp_faction_trait_eastern_parthia	Arsaces, lord of the Parni tribe, claimed Parthia from the remnants of Persian and Seleucid rule.	Parthian Empire	trait_parthia.png	faction
+emp_faction_trait_germanic	The Germanic tribes are fearless warriors, abhorring weakness in others and valuing their independence above all.	Germanic Tribes	trait_germanic_tribes.png	faction
+emp_faction_trait_germanic_marcomanni	The Germanic confederation of the Marcomanni want to settle west of the Rhine, and will stop at nothing to achieve this.	The Marcomanni	trait_marcomanni.png	faction
+emp_faction_trait_rome	He who rules in Rome can rule the world, but only through the glory of conquest!	Rome	trait_rome.png	faction
+emp_faction_trait_rome_antony	Mark Antony, the veteran general and politician, wields his eastern powerbase like a sword against Rome.	The House of Antony	trait_antony.png	faction
+emp_faction_trait_rome_lepidus	Meekness saw him banished to Africa, but Lepidus will return to struggle for Rome with new-found spirit and ferocity. 	The House of Lepidus	trait_lepidus.png	faction
+emp_faction_trait_rome_octavian	Having impressed and been adopted by Caesar, Octavian will stand on the shoulders of his Legions to gain supremacy in Rome. 	The House of Octavian	trait_octavian.png	faction
+emp_faction_trait_rome_pompey	From his island kingdom, Sextus Pompey waits to avenge his father’s death with a powerful fleet of warships.	The House of Pompey	trait_pompey.png	faction
+emp_faction_trait_successors	After Alexander's death, his mightiest generals tore apart his empire as they fought for it, each claiming to be his one true successor.	Successor Kingdoms	trait_successor_kingdoms.png	faction
+emp_faction_trait_successors_egypt	One of Alexander the Great’s generals, Ptolemy, was father to the current ruling Egyptian dynasty.	Ptolemaic Kingdom of Egypt	trait_egypt.png	faction
+female_leader_agriculture_rom_refuse	Time to secure a political advantage…	Political Favour	loyalty_positive.png	faction
+female_leader_cavalry_barb_refuse	The masses will be content with such an outcome.	Public Opinion	public_order_positive.png	faction
+female_leader_daughter_rom_refuse	Time to secure a political advantage…	Political Favour	loyalty_positive.png	faction
+female_leader_diplomat_rom_refuse	Time to secure a political advantage…	Political Favour	loyalty_positive.png	faction
+female_leader_fleet_barb_refuse	You show your people that you value accomplishments over superstition; the positive results of this don't take long to become evident.	Focus on Accomplishments	technology_positive.png	faction
+female_leader_scholar_rom_refuse	PH	PH	wealth_positive.png	faction
+female_leader_trader_rom_refuse	Long-lasting trade partnership is vital for economic stability.	Diplomatic Favour	diplomacy_positive.png	faction
+female_leader_warrior_barb_refuse	The other war chiefs relish in this gesture of respect.	Warchiefs' Pride	morale_positive.png	faction
+festival_lemuria	“Ghosts of my fathers and ancestors, be gone!”	Lemuria	religion_positive.png	faction
+festival_ludi_plebeii	“We, the common people of Rome, have earned the right of celebration!”	Ludi Plebeii	public_order_positive.png	faction
+festival_ludi_romani	“Give praise to Jupiter, and let the people rejoice!”	Ludi Romani	public_order_positive.png	faction
+festive_delphi	“We seek the wisdom of Apollo! Let him speak through you, Sibyl, and guide our hands!”	Oracle at Delphi	public_order_positive.png	faction
+festive_eleusis	“Mother of grain, giver of bounty, bringer of law… Demeter! We offer our praise!”	Mysteries of Eleusis	public_order_positive.png	faction
+festive_feast	“The long night approaches, and the cattle are blooded. Light the fires! Fill the flagons!”	Feast	public_order_positive.png	faction
+festive_fire	“With these fires we give thanks to Asha, bringer of righteousness and the highest truth!”	Celebration of Fire	public_order_positive.png	faction
+festive_thesmophoria	“Demeter! We grieve with you! Accept our offering, and bring bounty to the land!” 	Thesmophoria	public_order_positive.png	faction
+festive_votive_offering	“O sacred waters, accept this offering of blades and guide our warriors to victory!”	Votive Offering	public_order_positive.png	faction
+festive_waters	“We offer sacrifice to the waters of the river, and of the spring, and of the well…”	Strengthening the Water	public_order_positive.png	faction
+gaul_faction_imperium_level_1	Your power and influence are not yet of note. People pay little attention to your existence.	Insignificant	faction_leader_positive.png	faction
+gaul_faction_imperium_level_2	Your power and influence are noteworthy. People grow concerned by your intentions.	Noteworthy	faction_leader_positive.png	faction
+gaul_faction_imperium_level_3	Your power and influence are impressive. People condemn your expansionism.	Impressive	faction_leader_positive.png	faction
+gaul_faction_imperium_level_4	Your power and influence are intimidating. People plot against you out of fear.	Intimidating	faction_leader_positive.png	faction
+gaul_faction_imperium_level_5	Your power and influence are supreme. People are compelled to take action in order to stop you.	Supreme	faction_leader_positive.png	faction
+gaul_faction_trait_belgic	[Unseen]	Belgic Tribe	resource.png	faction
+gaul_faction_trait_belgic_friend_rome	[Unseen]	Belgic Tribe, Friend of Rome	resource.png	faction
+gaul_faction_trait_belgic_nervii	Ferocious and fearless, even for the warlike Belgae tribes of northern Gaul.	The Nervii	trait_nervii.png	faction
+gaul_faction_trait_britannic	[Unseen]	Britannic Tribe	trait_britannic_tribes.png	faction
+gaul_faction_trait_gallic	[Unseen]	Gallic Tribe	trait_gallic_tribes.png	faction
+gaul_faction_trait_gallic_arverni	Once the foremost power in Gaul, the time is right to bring all of Gaul under their banner.	The Arverni	trait_arverni.png	faction
+gaul_faction_trait_gallic_friend_rome	[Unseen]	Gallic Tribe, Friend of Rome	resource.png	faction
+gaul_faction_trait_germanic	[Unseen]	Germanic Tribe	trait_germanic_tribes.png	faction
+gaul_faction_trait_germanic_suebi	An alliance of fierce Germanic tribes sharing a common language and gods.	The Suebi	trait_suebi.png	faction
+gaul_faction_trait_massilia	[Unseen]	Massilia	resource.png	faction
+gaul_faction_trait_rome	With Gaul in turmoil, Caesar is poised to strengthen his political power through military victories leading to the subjugation of Gaul.	Caesar	trait_house_of_julia.png	faction
+gaul_season_autumn	With Autumnus comes relief from scorching Sirius, through tempered warmth and rest from toil.	Autumn	season_3.png	province
+gaul_season_autumn_bad	The warmth is fading fast this year.	Early Autumn	season_3.png	province
+gaul_season_autumn_good	At times it is good to bask in the enduring sunlight.	Late Autumn	season_3.png	province
+gaul_season_spring	Ver Aeternum brings offerings to Fortuna Virilis; such was the life that golden Saturn led on earth.	Spring	season_1.png	province
+gaul_season_spring_bad	Winter has finally passed, and green is returning.	Late Spring	season_1.png	province
+gaul_season_spring_good	The new season has come early this year.	Early Spring	season_1.png	province
+gaul_season_summer	Aestas is unforgiving and relentless, disdaining comfort for oppressive humidity.	Summer	season_2.png	province
+gaul_season_summer_bad	Even the sun does not bring an end to the rain.	Wet Summer	season_2.png	province
+gaul_season_summer_good	It is a long time since I saw a cloud in the sky.	Warm Summer	season_2.png	province
+gaul_season_winter	Hiems comes at last, with stumbling tread and his hair turned white.	Winter	season_4.png	province
+gaul_season_winter_bad	Blizzards and snow have turned everything white.	Harsh Winter	season_4.png	province
+gaul_season_winter_good	There is but a gentle dusting of snow this year.	Mild Winter	season_4.png	province
+gaul_tech_module_development_culture_1	To unlock the following effect, research the technologies below.	Culture I	religion_positive.png	faction
+gaul_tech_module_development_culture_2	To unlock the following effect, unlock Culture I and research the technologies below.	Culture II	religion_positive.png	faction
+gaul_tech_module_development_culture_3	To unlock the following effect, unlock Culture II and research the technologies below.	Culture III	religion_positive.png	faction
+gaul_tech_module_development_infrastructure_1	To unlock the following effect, research the technologies below.	Infrastructure I	settlement_ positive.png	faction
+gaul_tech_module_development_infrastructure_2	To unlock the following effect, unlock Infrastructure I and research the technologies below.	Infrastructure II	settlement_ positive.png	faction
+gaul_tech_module_development_infrastructure_3	To unlock the following effect, unlock Infrastructure II and research the technologies below.	Infrastructure III	settlement_ positive.png	faction
+gaul_tech_module_development_military_1	To unlock the following effect, research the technologies below.	Military I	military_positive.png	faction
+gaul_tech_module_development_military_2	To unlock the following effect, unlock Military I and research the technologies below.	Military II	military_positive.png	faction
+gaul_tech_module_development_military_3	To unlock the following effect, unlock Military II and research the technologies below.	Military III	military_positive.png	faction
+gaul_tech_module_politics_aristocracy_1	To unlock the following effect, research the technologies below.	Support of the Aristocracy I	cavalry_positive.png	faction
+gaul_tech_module_politics_aristocracy_2	To unlock the following effect, unlock Support of the Aristocracy I and research the technologies below.	Support of the Aristocracy II	cavalry_positive.png	faction
+gaul_tech_module_politics_aristocracy_3	To unlock the following effect, unlock Support of the Aristocracy II and research the technologies below.	Support of the Aristocracy III	cavalry_positive.png	faction
+gaul_tech_module_politics_caesar_1	To unlock the following effect, research the technologies below.	Support for Caesar I	authority_positive.png	faction
+gaul_tech_module_politics_caesar_2	To unlock the following effect, unlock Support for Caesar I and research the technologies below.	Support for Caesar II	authority_positive.png	faction
+gaul_tech_module_politics_caesar_3	To unlock the following effect, unlock Support for Caesar II and research the technologies below.	Support for Caesar III	authority_positive.png	faction
+gaul_tech_module_politics_crassus_1	To unlock the following effect, research the technologies below.	Support for Crassus I	dignitary_positive.png	faction
+gaul_tech_module_politics_crassus_2	To unlock the following effect, unlock Support for Crassus I and research the technologies below.	Support for Crassus II	dignitary_positive.png	faction
+gaul_tech_module_politics_crassus_3	To unlock the following effect, unlock Support for Crassus II and research the technologies below.	Support for Crassus III	dignitary_positive.png	faction
+gaul_tech_module_politics_people_1	To unlock the following effect, research the technologies below.	Support of the People I	public_order_positive.png	faction
+gaul_tech_module_politics_people_2	To unlock the following effect, unlock Support of the People I and research the technologies below.	Support of the People II	public_order_positive.png	faction
+gaul_tech_module_politics_people_3	To unlock the following effect, unlock Support of the People II and research the technologies below.	Support of the People III	public_order_positive.png	faction
+gaul_tech_module_politics_pompey_1	To unlock the following effect, research the technologies below.	Support for Pompey I	champion_positive.png	faction
+gaul_tech_module_politics_pompey_2	To unlock the following effect, unlock Support for Pompey I and research the technologies below.	Support for Pompey II	champion_positive.png	faction
+gaul_tech_module_politics_pompey_3	To unlock the following effect, unlock Support for Pompey II and research the technologies below.	Support for Pompey III	champion_positive.png	faction
+gaul_tech_module_politics_priesthood_1	To unlock the following effect, research the technologies below.	Support of the Priesthood I	barbarian_positive.png	faction
+gaul_tech_module_politics_priesthood_2	To unlock the following effect, unlock Support of the Priesthood I and research the technologies below.	Support of the Priesthood II	barbarian_positive.png	faction
+gaul_tech_module_politics_priesthood_3	To unlock the following effect, unlock Support of the Priesthood II and research the technologies below.	Support of the Priesthood III	barbarian_positive.png	faction
+govt_type_elected_monarchy	The faction leader has been elected.	Elected Monarchy	government_positive.png	faction
+govt_type_empire	Your faction has achieved greatness and is known throughout the world.	Empire	government_positive.png	faction
+govt_type_hereditary_monarchy	All the faction leaders come from the same family.	Kingdom	government_positive.png	faction
+govt_type_inv_early_republic	Power to the people.	Early Republic	government_positive.png	faction
+govt_type_inv_etruscan_league	The fabled twelve Etruscan cities, united as one.	Mech Rasnal	government_positive.png	faction
+govt_type_inv_gallic_chiefdom	The many are controlled by the will of the few.	Gallic Chiefdom	government_positive.png	faction
+govt_type_inv_nuragic_chiefdom	The many are controlled by the will of the few.	Nuragic Chiefdom	government_positive.png	faction
+govt_type_inv_samnite_touto	A system where every person pulls together for the common good.	Touto	government_positive.png	faction
+govt_type_inv_syracusan_tyranny	The people are united behind their mighty tyrant.	Tyranny	government_positive.png	faction
+govt_type_inv_tarantine_oligarchy	The most prominent make decisions for all.	Oligarchy	government_positive.png	faction
+govt_type_inv_venetic_chiefdom	The many are controlled by the will of the few.	Venetic Chiefdom	government_positive.png	faction
+govt_type_republic	The power belongs to the people.	Republic	government_positive.png	faction
+honouring_the_god_of_sea	He embraces us, we embrace him.	Honouring the Sea-god	navy_positive.png	faction
+imperium_1	As your faction grows so does the problem of keeping it under control.	Imperium Level I	icon_effects_general.png	faction
+imperium_2	As your faction grows so does the problem of keeping it under control.	Imperium Level II	icon_effects_general.png	faction
+imperium_3	As your faction grows so does the problem of keeping it under control.	Imperium Level III	icon_effects_general.png	faction
+imperium_4	As your faction grows so does the problem of keeping it under control.	Imperium Level IV	icon_effects_general.png	faction
+imperium_5	As your faction grows so does the problem of keeping it under control.	Imperium Level V	icon_effects_general.png	faction
+imperium_6	As your faction grows so does the problem of keeping it under control.	Imperium Level VI	icon_effects_general.png	faction
+imperium_7	As your faction grows so does the problem of keeping it under control.	Imperium Level VII	icon_effects_general.png	faction
+imperium_8	As your faction grows so does the problem of keeping it under control.	Imperium Level VIII	icon_effects_general.png	faction
+imv_wealth_entertainment_incr	The locals are more willing to spend on merriment.	Festive Mood	wealth_positive.png	faction
+inv_campaign_move_armies_incr	Be it training or muscle power, armies do travel faster.	Light Feet	campaign_movement_positive.png	faction
+inv_campaign_move_navies_incr	Be it wind or seamanship, ships do travel faster.	Light Ships	campaign_movement_positive.png	faction
+inv_cavalry_charge_incr	Both mount and rider are eager to strike the foe in anger.	Fierce Riders	cavalry_positive.png	faction
+inv_colony_discovered_1	Our colonies send high-quality timber and stone to our capital which will benefit our construction projects.	Building Materials	construction_positive.png	region
+inv_colony_discovered_2	Our colonies send rare hides to our capital, which are always are a highly-sought-after commodity.	Exotic Animals	wealth_positive.png	region
+inv_colony_discovered_3	Our colonies send amber, discovered in a distant abandoned city, to our capital; our philosophers are busy studying the rare substance.	Abandoned Outpost	technology_positive.png	region
+inv_colony_discovered_4	Many of our nobles travel to the distant colony and are pleased with its recreational facilities; some offer some of their own wine produce as a gift.	Luxurious Residences	loyalty_positive.png	region
+inv_colony_discovered_5	Our colonies send high-quality iron to our capital, which will result in weapons and armour of unsurpassed quality.	Shipments of Iron	army_positive.png	region
+inv_colony_discovered_fail_gods	Blaming the failed expedition on Poseidon causes unrest among the pious populace.	Unsettled Populace	public_order_negative.png	faction
+inv_colony_discovered_fail_man	Blaming the failed expedition on the noblemen understandably aggravates them.	Offended Nobles	loyalty_negative.png	faction
+inv_construction_cost_temple_decr	Either the temples here are more plain or the priests are strict about the donations.	Modest Temples	wealth_positive.png	faction
+inv_construction_cost_temple_incr	Either the temples here are more lavish or the priests pinch some of the donations.	Lavish Temples	wealth_negative.png	faction
+inv_corruption_decr	What's that? Less greedy officials? Well, I never…	Uncharacteristic Honesty	tax_growth_1.png	faction
+inv_culture_celtic_incr	A wave of Celtic culture is sweeping across the land. Praise Toutatis!	Celtic Influence	religion_positive.png	faction
+inv_culture_greek_incr	A wave of Greek culture is sweeping across the land. Praise Zeus!	Greek Influence	religion_positive.png	faction
+inv_diplomacy_all_decr	All foreign factions view you with mistrust.	Detested by All	diplomacy_negative.png	faction
+inv_diplomacy_all_incr	All foreign factions view you favourably.	Beloved by All	diplomacy_positive.png	faction
+inv_diplomacy_greek_incr	Greeks adore both you and your people.	Beloved by Greeks	diplomacy_positive.png	faction
+inv_etruscan_summit_effect_bundle_1	Brave men are urged to gather under Etruscan banners.	Recruitment Surge	army_positive.png	faction
+inv_etruscan_summit_effect_bundle_2	The Etruscans are cunning yet noble negotiators.	Open Foreign Policy	diplomacy_positive.png	faction
+inv_etruscan_summit_effect_bundle_3	An Etruscan soldier is never hungry or ill.	Campaigning Reforms	army_positive.png	faction
+inv_etruscan_summit_effect_bundle_4	While on the move, an Etruscan army is hard to catch off guard.	Strategic Planning	army_positive.png	faction
+inv_etruscan_summit_effect_bundle_5	Prominent Etruscans are actively funding construction efforts.	Construction Funding	construction_positive.png	faction
+inv_etruscan_summit_effect_bundle_6	Prominent Etruscans are actively funding research efforts.	Research Endeavours	technology_positive.png	faction
+inv_faction_group_gallic	The Gauls are an influential, vigorous people, not just warriors but master craftsmen too.	Gallic Tribes	trait_gallic_tribes.png	faction
+inv_faction_group_greek	The world-renowned culture of the Greeks was built upon hard toil, keen thinking and military excellence.	Greek States	trait_greek_states.png	faction
+inv_faction_group_iapygian	Iapygian Tribes	Iapygian Tribes	trait_inv_iapygians.png	faction
+inv_faction_group_italian_civ	Situated in the heart of the Italian peninsula, these ancient nations lay the foundations of civilisation.	Italian Civilisations	trait_inv_italian_civ.png	faction
+inv_faction_group_italic	The native Italic tribes will fight to the death to protect their right to inhabit the Italian peninsula.	Italic Tribes	trait_inv_italic_tribes.png	faction
+inv_faction_group_nuragic	Woe to those that attempt to drive the Nuragic peoples away from their homeland of Sardinia.	Nuragic Tribes	trait_inv_nuragic.png	faction
+inv_faction_trait_insubres	The Insubres rely on the druids and diplomacy to control their people and influence their neighbours.	The Insubres	trait_inv_insubres.png	faction
+inv_faction_trait_iolei	The Iolei of Sardinia are freedom-loving traditionalists.	The Iolei	trait_inv_iolei.png	faction
+inv_faction_trait_rome	The people of Rome fight for their city, guided by the laws of the Republic.	Rome	trait_inv_rome.png	faction
+inv_faction_trait_samnites	Samnite swordsmen are known across the land; ancient rituals bind their souls together.	The Samnites	trait_inv_samnites.png	faction
+inv_faction_trait_senones	Under the guidance of the druids, the Senones have become merciless conquerors.	The Senones	trait_inv_senones.png	faction
+inv_faction_trait_syracuse	Syracuse employs mercenaries to achieve their dreams of expansion and domination.	Syracuse	trait_syracuse.png	faction
+inv_faction_trait_taras	Taras welcomes every man of science and wisdom to its halls of wisdom.	Taras	trait_inv_taras.png	faction
+inv_faction_trait_tarchuna	Used to a life of opulence, the Etruscans of Tarchuna need their city to survive.	Tarchuna	trait_inv_tarchuna.png	faction
+inv_faction_trait_veneti	The Venetian horse is a noble animal, coveted right across the Mediterranean.	The Veneti	trait_inv_veneti.png	faction
+inv_festival_cerealia_Rome_payload	Ceres is one of the patron deities of the plebs and they love her for it. Therefore, the smart patrician would be well-advised to provide sacrificial animals and specially-minted coins for the usual games at the arena.	Days of Plebeian Celebrations	public_order_positive.png	faction
+inv_festival_cerealia_Samnites_payload	Ceres is one of the patron deities of the plebs and they love her for it. Therefore, the smart patrician would be well-advised to provide sacrificial animals and specially-minted coins for the usual games at the arena.	Days of Plebeian Celebrations	public_order_positive.png	faction
+inv_festival_great_dionysia_Syracuse_payload	We are blessed by Dionysus’ divine grace and will reciprocate with a festival of theatre and dramatic performance, fuelled by sweet Greek wines!	High Culture & Fine Wine	public_order_positive.png	faction
+inv_festival_great_dionysia_Taranto_payload	We are blessed by Dionysus’ divine grace and will reciprocate with a festival of theatre and dramatic performance, fuelled by sweet Greek wines!	High Culture & Fine Wine	public_order_positive.png	faction
+inv_festival_rural_dionysia_Samnites_payload	Though in the grip of the winter, we look forward to the rejuvenating time of spring. With dances, songs and dramatic performances, we celebrate life during the coldest of the seasons.	Winter in the Countryside	public_order_positive.png	faction
+inv_festival_rural_dionysia_Veneti_payload	Though in the grip of the winter, we look forward to the rejuvenating time of spring. With dances, songs and dramatic performances, we celebrate life during the coldest of the seasons.	Winter in the Countryside	public_order_positive.png	faction
+inv_festival_vinalia_rustica_payload	A smile from the gods combined with hard work will put enough food on our table to last the year.	An Abundant Harvest	food_positive.png	faction
+inv_geographical_carthage_1_A	Our actions have provoked the hostility of Carthage.	Insult on Carthage	diplomacy_negative.png	faction
+inv_geographical_carthage_1_B	Our actions have earned the friendship of Carthage.	Favour from Carthage	diplomacy_positive.png	faction
+inv_geographical_carthage_2_A	Our actions have earned the friendship of Carthage.	Favour from Carthage	diplomacy_positive.png	faction
+inv_geographical_carthage_2_B	The slavery business is flourishing.	Slave Trade	slaves_positive.png	faction
+inv_geographical_carthage_2_C	Our actions have provoked the hostility of Carthage.	Insult on Carthage	diplomacy_negative.png	faction
+inv_geographical_carthage_3_A	Our actions have earned the friendship of Carthage.	Favour from Carthage	diplomacy_positive.png	faction
+inv_geographical_carthage_3_B	Our actions have provoked the hostility of Carthage.	Insult on Carthage	diplomacy_negative.png	faction
+inv_geographical_carthage_4_A	Our actions have earned the friendship of Carthage.	Favour from Carthage	diplomacy_positive.png	faction
+inv_geographical_carthage_4_B	Our actions have provoked the hostility of Carthage.	Insult on Carthage	diplomacy_negative.png	faction
+inv_geographical_carthage_5_A	Our actions have earned the friendship of Carthage.	Favour from Carthage	diplomacy_positive.png	faction
+inv_geographical_carthage_5_B	Our actions have provoked the hostility of Carthage.	Insult on Carthage	diplomacy_negative.png	faction
+inv_greek_philosophers_incident_1	A study of horses, their habits and biology has greatly improved the quality of our mounted forces.	Treatise "On Cavalry Matters"	cavalry_positive.png	faction
+inv_greek_philosophers_incident_2	Our hoplites are using the special tactics developed by our philosophers.	Treatise "On Spearmen"	infantry_positive.png	faction
+inv_greek_philosophers_incident_3	Our captains are following our philosophers' advice.	Treatise "On Naval Affairs"	navy_positive.png	faction
+inv_greek_philosophers_incident_4	Geometry and mathematics, combined in the mind of the clever man, can produce better buildings.	Treatise "On Architecture"	construction_positive.png	faction
+inv_greek_philosophers_incident_5	Our philosophers have been studying weather patterns and seasons; as a result, our harvest has been more fruitful.	Treatise "On Farming"	food_positive.png	faction
+inv_greek_philosophers_incident_6	Our philosophers have compiled a list of weak points in several types of defensive fortification.	Treatise "On Sieges"	siege_attack_positive.png	faction
+inv_growth_decr	The population does not grow as well as it should.	Withering Growth	growth_negative.png	faction
+inv_growth_incr	The population grows at a steady, promising rate.	Blooming Growth	growth_positive.png	faction
+inv_homefront_01_A	We are sending food to Sparta.	Food Exports	food_negative.png	faction
+inv_homefront_01_B	We are sending workers to Athens.	Workers Abroad	wealth_negative.png	faction
+inv_homefront_01_C	We are sending weapons to Corinth.	Weapon Exports	army_negative.png	faction
+inv_homefront_02_A	We are sending builders  to Sparta.	Builders Abroad	construction_negative.png	faction
+inv_homefront_02_B	We are sending farmers to Athens.	Farmers Abroad	wealth_negative.png	faction
+inv_homefront_02_C	We are sending livestock to Corinth.	Livestock Exports	wealth_negative.png	faction
+inv_homefront_03_A	We are sending miners to Sparta.	Miners Abroad	wealth_negative.png	faction
+inv_homefront_03_B	We've sent one of our generals to Athens.	General Abroad	army_negative.png	faction
+inv_homefront_03_C	We've sent some of our philosophers to Corinth.	Philosophers Abroad	technology_negative.png	faction
+inv_homefront_04_A	We've sent one of our admirals to Sparta.	Admiral Abroad	navy_negative.png	faction
+inv_homefront_04_B	We are sending soldiers to Athens.	Soldiers Abroad	army_negative.png	faction
+inv_homefront_04_C	We are sending gold to Corinth.	Gold Exports	wealth_negative.png	faction
+inv_homefront_05_A	We are sending weapons to Sparta.	Weapon Exports	army_negative.png	faction
+inv_homefront_05_B	We are sending builders to Athens.	Builders Abroad	construction_negative.png	faction
+inv_homefront_05_C	We are sending farmers to Corinth.	Farmers Abroad	wealth_negative.png	faction
+inv_homefront_06_A	We are sending livestock to Sparta.	Livestock Exports	wealth_negative.png	faction
+inv_homefront_06_B	We are sending builders to Athens.	Workers Abroad	construction_negative.png	faction
+inv_homefront_06_C	We’ve sent one of our generals to Corinth.	General Abroad	army_negative.png	faction
+inv_homefront_07_A	We are sending gold to Sparta.	Gold Exports	wealth_negative.png	faction
+inv_homefront_07_B	We are sending miners to Athens.	Miners Abroad	wealth_negative.png	faction
+inv_homefront_07_C	We are sending food to Corinth.	Food Exports	food_negative.png	faction
+inv_homefront_08_A	We've sent some of our philosophers to Sparta.	Philosophers Abroad	wealth_negative.png	faction
+inv_homefront_08_B	We've sent one of our admirals to Athens.	Admiral Abroad	navy_negative.png	faction
+inv_homefront_08_C	We are sending soldiers to Corinth.	Soldiers Abroad	army_negative.png	faction
+inv_homefront_09_A	We are sending workers to Sparta.	Workers Abroad	wealth_negative.png	faction
+inv_homefront_09_B	We are sending livestock to Athens.	Livestock Exports	wealth_negative.png	faction
+inv_homefront_09_C	We are sending builders to Corinth.	Builders Abroad	construction_negative.png	faction
+inv_homefront_10_A	We've sent one of our generals to Sparta.	General Abroad	army_negative.png	faction
+inv_homefront_10_B	We are sending food to Athens.	Food Exports	food_negative.png	faction
+inv_homefront_10_C	We are sending miners to Corinth.	Miners Abroad	wealth_negative.png	faction
+inv_homefront_11_A	We are sending farmers to Sparta.	Farmers Abroad	wealth_negative.png	faction
+inv_homefront_11_B	We are sending gold to Athens.	Gold Exports	wealth_negative.png	faction
+inv_homefront_11_C	We are sending weapons to Corinth.	Weapon Exports	army_negative.png	faction
+inv_homefront_12_A	We've sent some of our veterans to Sparta.	Veterans Abroad	army_negative.png	faction
+inv_homefront_12_B	We've sent some of our philosophers to Athens.	Philosophers Abroad	technology_negative.png	faction
+inv_homefront_12_C	We've sent one of our admirals to Corinth.	Admiral Abroad	navy_negative.png	faction
+inv_homefront_win_athens	Athens has won the Greek war and are sending us a gift to honour our aid!	The Gratitude of Athens	navy_positive.png	faction
+inv_homefront_win_corinth	Corinth has won the Greek war and are sending us a gift to honour our aid!	The Gratitude of Corinth	public_order_positive.png	faction
+inv_homefront_win_sparta	Sparta has won the Greek war and are sending us a gift to honour our aid!	The Gratitude of Sparta	army_positive.png	faction
+inv_imperium_1	As your faction grows, so does the problem of keeping it under control.	Imperium Level I	icon_effects_general.png	faction
+inv_imperium_2	As your faction grows, so does the problem of keeping it under control.	Imperium Level II	icon_effects_general.png	faction
+inv_imperium_3	As your faction grows, so does the problem of keeping it under control.	Imperium Level III	icon_effects_general.png	faction
+inv_imperium_4	As your faction grows, so does the problem of keeping it under control.	Imperium Level IV	icon_effects_general.png	faction
+inv_imperium_5	As your faction grows, so does the problem of keeping it under control.	Imperium Level V	icon_effects_general.png	faction
+inv_imperium_6	As your faction grows, so does the problem of keeping it under control.	Imperium Level VI	icon_effects_general.png	faction
+inv_imperium_7	As your faction grows, so does the problem of keeping it under control.	Imperium Level VII	icon_effects_general.png	faction
+inv_incident_payload_character_trait_dummy	This family member will develop a trait.	Personal Growth... or Regress	loyalty_positive.png	faction
+inv_incident_payload_character_unavailable_dummy	We will not be able to rely on this character for some time.	Nowhere to be Seen	public_order_negative.png	faction
+inv_incoming_factions_traits	This faction has gotten used to dealing with the hardships of migration.	Travelling Faction	campaign_movement_positive.png	faction
+inv_insubres_divine_will_clandestine	Our agents are acting with skill and diligence.	Clandestine Operations	agent_positive.png	faction
+inv_insubres_divine_will_divine	The noblemen consider us favoured by the gods.	Divine Chiefdom	loyalty_positive.png	faction
+inv_insubres_divine_will_holy	Our horsemen ride with the blessing of Epona.	Holy Horses of Epona	charge_positive.png	faction
+inv_insubres_divine_will_outfit	Our warriors are armed with the best weapons a nobleman can afford.	Outfit Retinue Decree	military_positive.png	faction
+inv_insubres_motivate_populace_agriculture	"Work the land together! The druids said so!"	Agricultural Co-operation	food_positive.png	faction
+inv_insubres_motivate_populace_bardic	"Sing the songs of old! The druids said so!"	Bardic Circles	technology_positive.png	faction
+inv_insubres_motivate_populace_brotherly	"Be kind to foreigners! The druids said so!"	Brotherly Neighbours	diplomacy_positive.png	faction
+inv_insubres_motivate_populace_civil	"Everything will be alright! The druids said so!"	Civil Happiness	public_order_positive.png	faction
+inv_insubres_motivate_populace_failed	"Sometimes I wish the druids would shut up!"	Failed Sermon	public_order_negative.png	faction
+inv_insubres_motivate_populace_tribal	"Our war leaders need more men! The druids said so!"	Tribal Youth	replenishment_positive.png	faction
+inv_insubres_motivate_populace_war	"Dance and join the warband! The druids said so!"	War Dances	army_positive.png	faction
+inv_massalia_amber	The regular shipments of amber feed both craftsmen and traders.	Amber from Massalia	resource.png	faction
+inv_massalia_civilians_sent	There are not enough farmers to till the fields.	Insufficient Farmers	wealth_negative.png	faction
+inv_massalia_cure_all_army_neg	Your warriors resent being forced to consume the Massalian cure-all.	Disgruntled Troops	morale_negative.png	faction
+inv_massalia_cure_all_army_pos	Your warriors think themselves invincible due to the Massalian cure-all.	Eager Troops	morale_positive.png	faction
+inv_massalia_cure_all_noblemen_neg	Other parties disapprove of how you treated the Massalian doctor.	Unhappy Noblemen	loyalty_negative.png	faction
+inv_massalia_cure_all_noblemen_pos	Other parties approve of how you treated the Massalian doctor.	Happy Noblemen	loyalty_positive.png	faction
+inv_massalia_cure_all_populace_neg	A rumour about negative side effects from the Massalian cure-all causes your people to be unhappy.	Unhappy Populace	public_order_negative.png	faction
+inv_massalia_cure_all_populace_pos	Your people are happy with the perceived effects of the Massalian cure-all.	Happy Populace	public_order_positive.png	faction
+inv_massalia_engineers_sent	There are not enough workers to mine and craft.	Insufficient Workers	wealth_negative.png	faction
+inv_massalia_jewelry	Earrings, necklaces and bracelet of foreign make come to adorn many well-to-do people.	Jewels from Massalia	wealth_positive.png	faction
+inv_massalia_local_profit	Local merchants praise the decision to turn the foreigners away. 	Local Profit	wealth_positive.png	faction
+inv_massalia_request_denied	Not having to work for Massalia makes your people happy.	Happy People	public_order_positive.png	faction
+inv_massalia_sea_trade	The friends of Massalia enjoy many benefits.	Sea Trade	trade_positive.png	faction
+inv_massalia_trade_rights	Massalian goods flood the market.	Massalian Trading Influence	wealth_positive.png	faction
+inv_massalia_trade_rights_denied	Local tradesmen profit in the absence of Massalian competition.	Local Trading Influence	trade_positive.png	faction
+inv_massalia_trade_rights_sabotaged	Foreign tradesmen profit in the absence of Massalian competition.	Foreign Trading influence	public_order_positive.png	faction
+inv_massalia_wine	People all around raise cups to praise the wisdom of their ruler.	Wine from Massalia	public_order_positive.png	faction
+inv_melee_damage_armies_Incr	The heavy tool of war breaks the thickest shield.	Heavy Weapons	melee_positive.png	faction
+inv_morale_armies_decr	These soldiers blame their cold feet on their commanders.	Disappointed Troops	morale_negative.png	faction
+inv_morale_armies_incr	These soldiers can march empty-handed and bare-chested, such is their valour.	Brave Troops	morale_positive.png	faction
+inv_morale_navies_incr	A courageous mariner fears neither waves nor wind.	Brave Sailors	navy_positive.png	faction
+inv_patricians_conniving	We've lost the support of the noble families of Rome. We are alone in this.	Conniving Patricians	loyalty_negative.png	faction
+inv_patricians_conspiring	The patricians are certainly plotting against us…	Conspiring Patricians	loyalty_negative.png	faction
+inv_patricians_content	The patricians are satisfied. For now.	Content Patricians	loyalty_positive.png	faction
+inv_patricians_happy	The patricians are living the life they deserve and desire!	Happy Patricians	loyalty_positive.png	faction
+inv_patricians_indifferent	The patricians seem to be tolerating us.	Indifferent Patricians	loyalty_positive.png	faction
+inv_plebs_angry	What is this ungodly racket?! Guards!	Angry Plebs	public_order_negative.png	faction
+inv_plebs_content	The plebs are content, if you care.	Content Plebs	public_order_positive.png	faction
+inv_plebs_grumbling	The plebs are not satisfied. This is their normal state.	Grumbling Plebs	public_order_negative.png	faction
+inv_plebs_happy	The plebs are high in spirit for some reason.	Happy Plebs	public_order_positive.png	faction
+inv_plebs_indifferent	Nothing new.	Indifferent Plebs	public_order_positive.png	faction
+inv_public_order_decr	The population is in a generally sour mood.	Locals Complain	public_order_negative.png	faction
+inv_public_order_incr	The population is in a generally good mood.	Locals Rejoice	public_order_positive.png	faction
+inv_recruitment_cost_all_decr	Local recruits are satisfied with less than the normal recruitment fee.	Cheap Soldiery	wealth_positive.png	faction
+inv_recruitment_cost_infantry_decr	Armed local footmen accept less payment than ordinary.	Cheap Infantry	wealth_positive.png	faction
+inv_recruitment_cost_merc_decr	Some people are willing to kill for little and die for even less.	Cheap Mercenaries	wealth_positive.png	faction
+inv_recruitment_slot_incr	Many locals want to find their fortune in the army. Your army!	Eager Recruits	army_positive.png	faction
+inv_replenishment_incr	Healthy men are eager to enlist in your forces.	Healthy Reinforcements	replenishment_positive.png	faction
+inv_research_decr	Innovations are hard to spread around here.	Scientific Setbacks	technology_negative.png	faction
+inv_research_incr	The bright minds make introduction of new technologies easier.	Scientific Endeavours	technology_positive.png	faction
+inv_sacking_incr	No pocket or crevice is left unchecked.	Thorough Sacking	wealth_positive.png	faction
+inv_samnites_stance_army_default	Knowing the terrain is key to victory in battle.	Stance: Adaptable Warriors	campaign_movement_positive.png	force
+inv_samnites_ver_sacrum	Ver Sacrum	Ver Sacrum	public_order_positive.png	region
+inv_senones_divination_ambush	A great ambush victory is at hand!	Destined to Ambush	morale_positive.png	faction
+inv_senones_divination_assault	A great siege assault victory is at hand!	Destined to Assault	morale_positive.png	faction
+inv_senones_divination_attack	A great attacking victory is at hand!	Destined to Attack	morale_positive.png	faction
+inv_senones_divination_defend	A great defensive victory is at hand!	Destined to Defend	morale_positive.png	faction
+inv_senones_divination_invade	A great victory on enemy territory is at hand!	Destined to Invade	morale_positive.png	faction
+inv_senones_divination_night	A great night battle victory is at hand!	Destined to Fight at Night	morale_positive.png	faction
+inv_senones_war_decree_celts	The druids have foreseen a great slaughter of Celts.	War Decree: Celts	army_positive.png	faction
+inv_senones_war_decree_etruscans	The druids have foreseen a great slaughter of Etruscans.	War Decree: Etruscans	army_positive.png	faction
+inv_senones_war_decree_greek	The druids have foreseen a great slaughter of Greeks.	War Decree: Greek	army_positive.png	faction
+inv_senones_war_decree_italic	The druids have foreseen a great slaughter of Italic men.	War Decree: Italic	army_positive.png	faction
+inv_senones_war_decree_nuragic	The druids have foreseen a great slaughter of Nuragic men.	War Decree: Nuragic	army_positive.png	faction
+inv_senones_war_decree_romans	The druids have foreseen a great slaughter of Romans.	War Decree: Romans	army_positive.png	faction
+inv_slave_decr	Slowly but surely the slaves here get fewer and fewer.	Slave Decline	slaves_negative.png	faction
+inv_slave_incr	The slaves here are gradually increasing in number.	Slave Influx	slaves_positive.png	faction
+inv_taxes_decr	Either unwilling or unable - the people would simply not pay.	Reduced Taxes	tax_growth_negative.png	faction
+inv_tech_module_attack_swords_1	To unlock the following effect, research the technologies below.	Swords Attack I	army_positive.png	force
+inv_tech_module_attack_swords_2	To unlock the following effect, Swords Attack I and research the technologies below.	Swords Attack II	army_positive.png	force
+inv_tech_module_attack_swords_3	To unlock the following effect, unlock Swords Attack II and research the technologies below.	Swords Attack III	army_positive.png	force
+inv_tech_module_cavalry_charge_1	To unlock the following effect, research the technologies below.	Cavalry Charge I	cavalry_positive.png	force
+inv_tech_module_cavalry_charge_2	To unlock the following effect, unlock Cavalry Charge I and research the technologies below.	Cavalry Charge II	cavalry_positive.png	force
+inv_tech_module_cavalry_charge_3	To unlock the following effect, unlock Cavalry Charge II and research the technologies below.	Cavalry Charge III	cavalry_positive.png	force
+inv_tech_module_charge_inf_1	To unlock the following effect, research the technologies below.	Infantry Charge I	cavalry_positive.png	force
+inv_tech_module_charge_inf_2	To unlock the following effect, unlock Infantry Charge I and research the technologies below.	Infantry Charge II	cavalry_positive.png	force
+inv_tech_module_charge_inf_3	To unlock the following effect, unlock Infantry Charge II and research the technologies below.	Infantry Charge III	cavalry_positive.png	force
+inv_tech_module_culture_1	To unlock the following effect, research the technologies below.	Culture I	icon_culture_other.png	faction
+inv_tech_module_culture_2	To unlock the following effect, unlock Culture I and research the technologies below.	Culture II	icon_culture_other.png	faction
+inv_tech_module_culture_3	To unlock the following effect, unlock Culture II and research the technologies below.	Culture III	icon_culture_other.png	faction
+inv_tech_module_damage_inf_1	To unlock the following effect, research the technologies below.	Infantry Damage I	melee_positive.png	force
+inv_tech_module_damage_inf_2	To unlock the following effect, unlock Infantry Damage I and research the technologies below.	Infantry Damage II	melee_positive.png	force
+inv_tech_module_damage_inf_3	To unlock the following effect, unlock Infantry Damage II and research the technologies below.	Infantry Damage III	melee_positive.png	force
+inv_tech_module_exp_infantry_1	To unlock the following effect, research the technologies below.	Veteran Infantry I	army_positive.png	force
+inv_tech_module_exp_infantry_2	To unlock the following effect, unlock Veteran Infantry I and research the technologies below.	Veteran Infantry II	army_positive.png	force
+inv_tech_module_exp_infantry_3	To unlock the following effect, unlock  Veteran Infantry II and research the technologies below.	Veteran Infantry III	army_positive.png	force
+inv_tech_module_fire_rate_1	To unlock the following effect, research the technologies below.	Fire Rate I	army_positive.png	force
+inv_tech_module_fire_rate_2	To unlock the following effect, unlock Fire Rate I and research the technologies below.	Fire Rate II	army_positive.png	force
+inv_tech_module_fire_rate_3	To unlock the following effect, unlock Fire Rate II and research the technologies below.	Fire Rate III	army_positive.png	force
+inv_tech_module_food_1	To unlock the following effect, research the technologies below.	Food I	wealth_positive.png	faction
+inv_tech_module_food_2	To unlock the following effect, unlock Food I and research the technologies below.	Food II	wealth_positive.png	faction
+inv_tech_module_food_3	To unlock the following effect, unlock Food II and research the technologies below.	Food III	wealth_positive.png	faction
+inv_tech_module_map_range_1	To unlock the following effect, research the technologies below.	Logistics I	campaign_movement_positive.png	faction
+inv_tech_module_map_range_2	To unlock the following effect, unlock Logistics I and research the technologies below.	Logistics II	campaign_movement_positive.png	faction
+inv_tech_module_map_range_3	To unlock the following effect, unlock Logistics II and research the technologies below.	Logistics III	campaign_movement_positive.png	faction
+inv_tech_module_navy_slots_1	To unlock the following effect, research the technologies below.	Navy I	navy_positive.png	force
+inv_tech_module_navy_slots_2	To unlock the following effect, unlock Navy I and research the technologies below.	Navy II	navy_positive.png	force
+inv_tech_module_navy_slots_3	To unlock the following effect, unlock Navy II and research the technologies below.	Navy III	navy_positive.png	force
+inv_tech_module_order_1	To unlock the following effect, research the technologies below.	Order I	public_order_positive.png	faction
+inv_tech_module_order_2	To unlock the following effect, unlock Order I and research the technologies below.	Order II	public_order_positive.png	faction
+inv_tech_module_order_3	To unlock the following effect, unlock Order II and research the technologies below.	Order III	public_order_positive.png	faction
+inv_tech_module_replenishment_1	To unlock the following effect, research the technologies below.	Replenishment I	replenishment_positive.png	faction
+inv_tech_module_replenishment_2	To unlock the following effect, unlock Replenishment I and research the technologies below.	Replenishment II	replenishment_positive.png	faction
+inv_tech_module_replenishment_3	To unlock the following effect, unlock Replenishment II and research the technologies below.	Replenishment III	replenishment_positive.png	faction
+inv_tech_module_spears_armour_1	To unlock the following effect, research the technologies below.	Spears Armour I	army_positive.png	force
+inv_tech_module_spears_armour_2	To unlock the following effect, unlock Spears Armour I and research the technologies below.	Spears Armour II	army_positive.png	force
+inv_tech_module_spears_armour_3	To unlock the following effect, unlock Spears Armour II and research the technologies below.	Spears Armour III	army_positive.png	force
+inv_tech_module_spears_defence_1	To unlock the following effect, research the technologies below.	Spears Defence I	defence_positive.png	force
+inv_tech_module_spears_defence_2	To unlock the following effect, unlock Spears Defence I and research the technologies below.	Spears Defence II	defence_positive.png	force
+inv_tech_module_spears_defence_3	To unlock the following effect, unlock Spears Defence II and research the technologies below.	Spears Defence III	defence_positive.png	force
+inv_upkeep_cost_armies_decr	The soldiers benefits from the skilled administration of their commanders.	Well-managed Forces	army_positive.png	faction
+inv_veneti_breed_civil	Heavy horses, move the land under me!	Domestic Horses	wealth_positive.png	faction
+inv_veneti_breed_military	Behold our riders as they gallop to battle!	Military Studs	cavalry_positive.png	faction
+inv_wealth_agri_decr	Neglected farms and cattle ranches litter the countryside.	Agricultural Shortage	wealth_negative.png	faction
+inv_wealth_agri_incr	Fertile lands and hardwork are a fine combination.	Agricultural Abundance	wealth_positive.png	faction
+inv_wealth_commerce_local_decr	It is harder to strike a profitable deal around here.	Commercial Stagnation	wealth_negative.png	faction
+inv_wealth_commerce_local_incr	The traders strike profitable deals more often.	Commercial Abundance	wealth_positive.png	faction
+inv_wealth_industry_decr	The production of crafts and resources is rather sluggish.	Slowed Industry	wealth_negative.png	faction
+inv_wealth_industry_incr	The crafts are being produced at an accelerated rate.	Industrial Centre	wealth_positive.png	faction
+inv_wealth_subsistence_incr	The people are eager to educate themselves.	Curious Minds	wealth_positive.png	faction
+inv_wealth_tariffs_incr	The markets are bustling with foreign merchandise.	Thriving Trade	trade_positive.png	faction
+inv_wonder_aethalia_chimneys	[[col:green]]Wonder[[/col]]\n\nIron made of ore and fire and dark smokes reaching to the skies!  	Aethalia’s Chimneys	wonder_positive.png	region
+inv_wonder_ancient_temple_of_hera	[[col:green]]Wonder[[/col]]\n\nHera shall always provide to the people of this land.	The Ancient Temple of Hera	wonder_positive.png	region
+inv_wonder_city_of_the_dead	[[col:green]]Wonder[[/col]]\n\nMen do not die, they live forever!	The City of the Dead	wonder_positive.png	region
+inv_wonder_fanum_voltumnae	[[col:green]]Wonder[[/col]]\n\nIn unity secured by the gods we trust.	Fanum Voltumnae	wonder_positive.png	region
+inv_wonder_great_nuragic_fortified_temple	[[col:green]]Wonder[[/col]]\n\nThe hall of the gods of water and land is here to protect its people.	The Great Nuragic fortified temple	wonder_positive.png	region
+inv_wonder_great_theatre_of_syracuse	[[col:green]]Wonder[[/col]]\n\nThe shine of all Magna Graecia is the shine of its theatre at Syrakousai.	The Great Theatre of Syracuse	wonder_positive.png	region
+inv_wonder_heroon_of_founders	[[col:green]]Wonder[[/col]]\n\nOh Poseidon, here we lay buried for the glory of your city!	The Heroon of the Founders at Poseidonia	wonder_positive.png	region
+inv_wonder_heroon_of_theron	[[col:green]]Wonder[[/col]]\n\nA great tyrant and hero shines even buried!	The Heroon of Theron	wonder_positive.png	region
+inv_wonder_latomies	[[col:green]]Wonder[[/col]]\n\nThe might of a ruler is the might of stone!	The Latomies	wonder_positive.png	region
+inv_wonder_menhirs_of_old	[[col:green]]Wonder[[/col]]\n\nEqual like stones, unbreakable like stones, endurable like stones!	The Menhirs of old	wonder_positive.png	region
+inv_wonder_peaks_of_splendour	[[col:green]]Wonder[[/col]]\n\nThe world ends where the creation of the gods is too great for simple men.	The Peaks of Splendour	wonder_positive.png	region
+inv_wonder_ruins_of_selinunte	[[col:green]]Wonder[[/col]]\n\nSelinunte shall rise again! 	The devastated city of Selinunte	wonder_positive.png	region
+inv_wonder_ruins_of_siris	[[col:green]]Wonder[[/col]]\n\nOh gods, what they’ve done to the first great city of Magna Graecia!	The Ruins of Siris	wonder_positive.png	region
+inv_wonder_ruins_of_sybaris	[[col:green]]Wonder[[/col]]\n\nThe wealth doesn’t bring fortune! Fortune favours the brave!	The ruins of Sibaris	wonder_positive.png	region
+inv_wonder_sacred_tombs_of_orcla	[[col:green]]Wonder[[/col]]\n\nThose who honoured the gods are resting here. 	The Sacred Tombs of Orcla	wonder_positive.png	region
+inv_wonder_split_mountain_gorge	[[col:green]]Wonder[[/col]]\n\nA place for the brave who are not afraid to meet their fears.	The Split Mountain Gorge	wonder_positive.png	region
+inv_wonder_temple_of_albunea	[[col:green]]Wonder[[/col]]\n\nAlbunea knows the future and her wisdom guides those who are ready to listen.	Oracle of Albunea	wonder_positive.png	region
+inv_wonder_temple_of_apulu	[[col:green]]Wonder[[/col]]\n\nApulu gives wisdom to men and health to those who worship him.	Temple of Apulu 	wonder_positive.png	region
+inv_wonder_temple_of_cumaean_sibyl	[[col:green]]Wonder[[/col]]\n\nThe priestess of Apollo talks on behalf of the gods and those who listen will always prevail against their enemies.	Oracle of the Cumaean Sibyl	wonder_positive.png	region
+inv_wonder_temple_of_poseidon	[[col:green]]Wonder[[/col]]\n\nPoseidon led those who were forsaken from Sparta to new lands across the sea and they built him a temple to be always with them in this new home.	The Temple of Poseidon in Taras	wonder_positive.png	region
+inv_wonder_the_tomb_of_giants	[[col:green]]Wonder[[/col]]\n\nThe ancient tomb of great giants-kings of old who led men in battle.	Tomb of Giants	wonder_positive.png	region
+inv_wonder_tomb_lars_porsenna	[[col:green]]Wonder[[/col]]\n\nA great king always protects his people.	Tomb of Lars Porsena	wonder_positive.png	region
+inv_wonder_tombs_of_the_first_kings	[[col:green]]Wonder[[/col]]\n\nThe tombs of the first kings of Etruria, who ruled and have been buried close to the sea where they came from after the fall of Troy. 	The Ancient Tombs of the First Kings	wonder_positive.png	region
+inv_wonder_tropaion_of_himera	[[col:green]]Wonder[[/col]]\n\nThey who dared to fight will walk this battlefield over and over again, whether living or dead!	Tropaion of the Ancient Battle of Himera	wonder_positive.png	region
+inv_wonders_terme_di_saturnia	[[col:green]]Wonder[[/col]]\n\nGods are tired of warring mortals! They’ve created hot water springs to pacify them.	Terme di Saturnia	wonder_positive.png	region
+isthmian_celebratory	Although the Isthmian Games are over, the people feel joyous at the results.	Isthmian Games	public_order_positive.png	faction
+isthmian_successful	The people feel joyous at our participation in the great Isthmian Games.	Successful Games	public_order_positive.png	faction
+isthmian_unhappy	That we did not even take part in the recent games brings great shame upon the people.	Isthmian Shame	public_order_negative.png	faction
+isthmian_unsuccessful	The people are pleased we took part, but wish the investment had brought a greater reward.	Unsuccessful Games	public_order_positive.png	faction
+ivn_wonder_corno_grande	[[col:green]]Wonder[[/col]]\n\nThe highest mountain of all and the jewel in the crown of the mountain kings.	Corno Grande	wonder_positive.png	region
+loyalty_effect_bundle_character_tier_1	The local party member willingly helps your administration.	Reliable Local Party Member	agent_positive.png	character
+loyalty_effect_bundle_character_tier_2	The local party member willingly helps your administration.	Dependable Local Party Member	agent_positive.png	character
+loyalty_effect_bundle_character_tier_3	The local party member willingly helps your administration.	Trustworthy Local Party Member	agent_positive.png	character
+loyalty_effect_bundle_character_tier_4	The local party member willingly helps your administration.	Dutiful Local Party Member	agent_positive.png	character
+loyalty_effect_bundle_character_tier_5	The local party member willingly helps your administration.	Incorruptible Local Party Member	agent_positive.png	character
+loyalty_effect_bundle_tier_1	The local party willingly helps your administration.	Reliable Local Party	settlement_ positive.png	region
+loyalty_effect_bundle_tier_2	The local party willingly helps your administration.	Dependable Local Party	settlement_ positive.png	region
+loyalty_effect_bundle_tier_3	The local party willingly helps your administration.	Trustworthy Local Party	settlement_ positive.png	region
+loyalty_effect_bundle_tier_4	The local party willingly helps your administration.	Dutiful Local Party	settlement_ positive.png	region
+loyalty_effect_bundle_tier_5	The local party willingly helps your administration.	Incorruptible Local Party	settlement_ positive.png	region
+nemean_celebratory	Although the Nemean Games are over, the people feel joyous at the results.	Nemean Games	public_order_positive.png	faction
+nemean_successful	The people feel joyous at our participation in the great Nemean Games.	Successful Games	public_order_positive.png	faction
+nemean_unhappy	That we did not even take part in the recent games brings great shame upon the people.	Nemean Shame	public_order_negative.png	faction
+nemean_unsuccessful	The people are pleased we took part, but wish the investment had brought a greater reward.	Unsuccessful Games	public_order_positive.png	faction
+olympics_celebratory	Although the Olympic Games are over, the people feel joyous at the results.	Olympic Games	public_order_positive.png	faction
+olympics_successful	The people feel joy at our participation in the great Olympic games.	Successful Olympics	public_order_positive.png	faction
+olympics_unhappy	That we did not even take part in the recent games brings great shame upon the people.	Olympic Shame	public_order_negative.png	faction
+olympics_unsuccessful	The people are pleased we took part, but wish the investment had brought a greater reward.	Olympics Unsuccessful	public_order_positive.png	faction
+payload_banditry	Bandits have taken advantage of your absent armies.	Banditry 	public_order_negative.png	region
+payload_cursed_leader	The men are reluctant to follow their leader.	Cursed Leader	army_negative.png	force
+payload_great_peace	Your diplomacy has triumphed.	The Great Peace 	diplomacy_positive.png	faction
+payload_growing_bureaucracy	Bigger empires mean more bean counters.	Growing Bureaucracy	tax_growth_negative.png	faction
+payload_ravaged_land	The land has been pillaged, you failed to stop the enemy.	Ravaged Land 	public_order_negative.png	region
+payload_slave_riots	They will be slaves no more.	Slave Riots 	slaves_negative.png	region
+payload_slaves_escaped	They're free and are now marauding through the countryside.	Slaves Escaped 	slaves_negative.png	region
+payload_trade_master	Your commercial success has been rewarded.	Trade Master 	trade_positive.png	faction
+payload_warmongers	War is what your faction knows, and it knows it well.	Warmongers 	army_positive.png	faction
+pel_athenai_diplomacy_penalty	Greece is growing wary of your hegemonic intentions.	Control of Athenai	diplomacy_negative.png	faction
+pel_boiotia_diplomacy_penalty	Greece is growing wary of your hegemonic intentions.	Control of Thebai	diplomacy_negative.png	faction
+pel_faction_athenai	The magistrates of Athens have executive powers. An ambitious individual could secure total power for himself...	Athenai	trait_athens.png	faction
+pel_faction_boiotia	The League is a tenuous alliance of city states led by the powerful polis of Thebai.	Boiotian League	trait_boiotian_league.png	faction
+pel_faction_korinthos	Ruled by an oligarchy Korinthos is one of the wealthiest cities in Greece.	Korinthos	trait_korinthos.png	faction
+pel_faction_sparta	The two hereditary kings of Sparta, from the Agiad and Eurypontid families, claim descent from Heracles himself.	Sparta	trait_sparta.png	faction
+pel_festival_adonis	Now it is time to praise Adonis, and mourn his passing!	Festival of Adonis	public_order_positive.png	faction
+pel_festival_apollo	All hail Apollo, god of medicine and knowledge!	Festival of Apollo	public_order_positive.png	faction
+pel_festival_athena	Glory to Athena, patron of our city!	Festival of Athena	public_order_positive.png	faction
+pel_festival_bronze_workers	It is Chalkeia, when we give praise to our bronze workers.	Festival of Bronze-Workers	public_order_positive.png	faction
+pel_festival_dionysos	God of wine and fertility, madness and ecstasy: Dionysus, we give thanks to you!	Festival of Dionysos	public_order_positive.png	faction
+pel_festival_dionysos_athenai	Let the veneration of Dionysus begin!	Festival of Dionysos	public_order_positive.png	faction
+pel_festival_gods	Poseidon smiles on us!	Festival of the Gods	public_order_positive.png	faction
+pel_festival_helen	The Cult of Helen practice gymnastics and dancing in honour of her.	Cult of Helen	public_order_positive.png	faction
+pel_festival_helots	The Helots, those lower, servile people, undeserving of our pity or generosity, will be culled by our young men.	Cull of the Helots	slaves_negative.png	faction
+pel_festival_herakles	Give glory to mighty Herakles and his heroic deeds!	Festival of Herakles	public_order_positive.png	faction
+pel_festival_naked_youths	Let the beauty of the human body be praised!	Festival of Naked Youths	public_order_positive.png	faction
+pel_festival_panathenaic_games	A spectacle for all the world to see!	Panathenaic Games	public_order_positive.png	faction
+pel_festival_salamis	With joyous hearts, we remember our victory over Persia at Salamis and the survival of our civilisation.	Celebration of Salamis	public_order_positive.png	faction
+pel_festival_women	The Thesmophoria is upon us!	Festival of Women	public_order_positive.png	faction
+pel_festival_zeus	Now, we give glory to Zeus and his children, the highest of the gods and most deserving of our praise.	Festival of Zeus	public_order_positive.png	faction
+pel_group_barbarian	[placeholder]	Barbarian	trait_daco_thracian_tribes.png	faction
+pel_group_greek	The world-renowned culture of the Greeks was built upon hard toil, keen thinking and military excellence.	Greek	trait_greek_states.png	faction
+pel_group_persian	[placeholder]	Persian	trait_eastern_empires.png	faction
+pel_imperium_1	As your faction grows so does the problem of keeping it under control.	Imperium Level I	icon_effects_general.png	faction
+pel_imperium_2	As your faction grows so does the problem of keeping it under control.	Imperium Level II	icon_effects_general.png	faction
+pel_imperium_3	As your faction grows so does the problem of keeping it under control.	Imperium Level III	icon_effects_general.png	faction
+pel_imperium_4	As your faction grows so does the problem of keeping it under control.	Imperium Level IV	icon_effects_general.png	faction
+pel_imperium_5	As your faction grows so does the problem of keeping it under control.	Imperium Level V	icon_effects_general.png	faction
+pel_imperium_6	As your faction grows so does the problem of keeping it under control.	Imperium Level VI	icon_effects_general.png	faction
+pel_imperium_7	As your faction grows so does the problem of keeping it under control.	Imperium Level VII	icon_effects_general.png	faction
+pel_imperium_8	As your faction grows so does the problem of keeping it under control.	Imperium Level VIII	icon_effects_general.png	faction
+pel_korinthos_diplomacy_penalty	Greece is growing wary of your hegemonic intentions.	Control of Korinthos	diplomacy_negative.png	faction
+pel_persian_army_upkeep	THIS IS A SCRIPT TRIGGERED BY SCRIPT, IF YOU SEE THIS SOMETHING WENT WRONG. 	Persian Army 	wealth_positive.png	force
+pel_plague_athens	The city is gripped by disease, causing death and misery.	Plague of Athens	disaster_negative.png	region
+pel_season_autumn	Time to bring in the harvest before the leaves turn.	Autumn	season_3.png	province
+pel_season_spring	The spirit of new life is in the air.	Spring	season_1.png	province
+pel_season_summer	It is good to feel the sun upon your skin.	Summer	season_2.png	province
+pel_season_winter	Warmth and light are all that matters as the days draw in.	Winter	season_4.png	province
+pel_sparta_diplomacy_penalty	Greece is growing wary of your hegemonic intentions.	Control of Sparta	diplomacy_negative.png	faction
+pel_tech_module_aesthetics_1	To unlock the following effect, research the technologies below.	Aesthetics I	diplomacy_positive.png	faction
+pel_tech_module_aesthetics_2	To unlock the following effect, unlock Aesthetics II and research the technologies below.	Aesthetics II	diplomacy_positive.png	faction
+pel_tech_module_aesthetics_3	To unlock the following effect, unlock Aesthetics III and research the technologies below.	Aesthetics III	diplomacy_positive.png	faction
+pel_tech_module_army_1	To unlock the following effect, research the technologies below.	Army I	military_positive.png	faction
+pel_tech_module_army_2	To unlock the following effect, unlock Army I and research the technologies below.	Army II	military_positive.png	faction
+pel_tech_module_army_3	To unlock the following effect, unlock Army II and research the technologies below.	Army III	military_positive.png	faction
+pel_tech_module_mathematics_1	To unlock the following effect, research the technologies below.	Mathematics I	construction_positive.png	faction
+pel_tech_module_mathematics_2	To unlock the following effect, unlock Mathematics I and research the technologies below.	Mathematics II	construction_positive.png	faction
+pel_tech_module_mathematics_3	To unlock the following effect, unlock Mathematics II and research the technologies below.	Mathematics III	construction_positive.png	faction
+pel_tech_module_navy_1	To unlock the following effect, research the technologies below.	Navy I	military_positive.png	faction
+pel_tech_module_navy_2	To unlock the following effect, unlock Navy I and research the technologies below.	Navy II	military_positive.png	faction
+pel_tech_module_navy_3	To unlock the following effect, unlock Navy II and research the technologies below.	Navy III	military_positive.png	faction
+pel_tech_module_philosophy_1	To unlock the following effect, research the technologies below.	Philosophy I	technology_positive.png	faction
+pel_tech_module_philosophy_2	To unlock the following effect, unlock Philosophy I and research the technologies below.	Philosophy II	technology_positive.png	faction
+pel_tech_module_philosophy_3	To unlock the following effect, unlock Philosophy II and research the technologies below.	Philosophy III	technology_positive.png	faction
+pel_tech_module_support_1	To unlock the following effect, research the technologies below.	Support I	military_positive.png	faction
+pel_tech_module_support_2	To unlock the following effect, unlock Support I and research the technologies below.	Support II	military_positive.png	faction
+pel_tech_module_support_3	To unlock the following effect, unlock Support III and research the technologies below.	Support III	military_positive.png	faction
+pel_wonder_acropolis	[[col:green]]Wonder[[/col]]\n\nThe marvels that men can construct...	The Acropolis	wonder_positive.png	region
+pel_wonder_mount_olympus	[[col:green]]Wonder[[/col]]\n\nHome of the gods and mightiest of mountains.	Mount Olympus	wonder_positive.png	region
+pel_wonder_oracle_delphi	[[col:green]]Wonder[[/col]]\n\nAll men heed the Oracle's words.	The Oracle of Delphi	wonder_positive.png	region
+pel_wonder_oracle_didyma	[[col:green]]Wonder[[/col]]\n\nThe Oracle will speak the truth, but what truth?	The Oracle of Didyma	wonder_positive.png	region
+pel_wonder_oracle_dodona	[[col:green]]Wonder[[/col]]\n\nProphecy and truth speaks the Oracle.	The Oracle of Dodona	wonder_positive.png	region
+pel_wonder_palace_knossos	[[col:green]]Wonder[[/col]]\n\nHere the great Minotaur met its fate.	The Palace of Knossos	wonder_positive.png	region
+pel_wonder_royal_tombs_makedon	[[col:green]]Wonder[[/col]]\n\nBuried beneath lies the golden majesty of Makedon.	The Royal Tombs of Makedon	wonder_positive.png	region
+pel_wonder_ruin_troy	[[col:green]]Wonder[[/col]]\n\nIn ages past the heroes of Greece fought here.	The Ruins of Troy	wonder_positive.png	region
+pel_wonder_sanctuary_great_gods	[[col:green]]Wonder[[/col]]\n\nIn the heart of the sanctuary the Great Gods wait…	The Sanctuary of the Great Gods	wonder_positive.png	region
+pel_wonder_silver_mines_lavrio	[[col:green]]Wonder[[/col]]\n\nWealth rises from beneath the ground.	The Silver Mines of Laurion	wonder_positive.png	region
+pel_wonder_temple_artemis	[[col:green]]Wonder[[/col]]\n\n"Lo! Apart from Olympus, the sun never looked on aught so grand."	The Temple of Artemis	wonder_positive.png	region
+pel_wonder_zeus_olympia	[[col:green]]Wonder[[/col]]\n\nIt is a wonder to look upon the face of a god.	The Statue of Zeus at Olympia	wonder_positive.png	region
+political_action_divorce	 	Divorce	agent_positive.png	character
+political_action_flirt_initiator	 	Flirt	agent_positive.png	character
+political_action_flirt_initiator_spouse	 	Flirt (Initiator's Spouse)	agent_positive.png	character
+political_action_flirt_target_spouse	 	Flirt (Target;s Spouse)	agent_positive.png	character
+political_action_leisure_time	 	Leisure Time	agent_positive.png	character
+political_action_organize_games	Increased public order.	Organise Games	public_order_positive.png	province
+political_action_provoke	 	Provoke	agent_positive.png	faction
+political_action_secure_loyalty_target	 	Secure Loyalty	agent_positive.png	character
+political_action_seek_spouse	 	Seek Spouse	agent_positive.png	character
+political_action_send_emissary	Increased food production.	Organised Feast	food_positive.png	province
+political_support_average	Respected by all, if not perhaps listened to by everyone.	Influence: Respected	zeal_alternate_positive.png	faction
+political_support_best	You are supreme, holding the balance of power but without threatening anyone.	Influence: Admired	zeal_alternate_positive.png	faction
+political_support_high	Where you lead others will follow, some spotting a golden calf to be exploited…	Influence: Beloved	zeal_alternate_positive.png	faction
+political_support_low	You're not at the bottom, but there's a long way to go to reach the top.	Influence: Overlooked	zeal_alternate_positive.png	faction
+political_support_max	Your political power is absolute.	Influence: Peerless	zeal_alternate_positive.png	faction
+political_support_min	Your party is at rock bottom, not even the rats in the sewers care about it.	Influence: Ignored	zeal_alternate_negative.png	faction
+political_support_very_high	All turn to you for guidance.	Influence: Exalted	zeal_alternate_positive.png	faction
+political_support_very_low	There's not much further down the ladder to go, not many respect you.	Influence: Disrespected	zeal_alternate_negative.png	faction
+pro_faction_trait_senate	"The Senate and the People of Rome"	SPQR	trait_rome.png	faction
+pun_faction_scripted_minor_reduced_upkeep	The people will not allow our great city to fall.	Reserve Forces	wealth_positive.png	faction
+pun_faction_scripted_reduced_upkeep	The people will not allow our great city to fall.	Reserve Forces	wealth_positive.png	faction
+pun_faction_trait_arevaci	The Arevaci are a proud Celtiberian tribe known for their love of horses and fierce resistance.	The Arevaci	trait_arevaci.png	faction
+pun_faction_trait_carthage	This notable Carthaginian family is named after the great general Hamilcar, known as "Barca", meaning "lightning bolt".	The Barcid Dynasty	trait_barcid_dynasty.png	faction
+pun_faction_trait_lusitani	Warriors from Iberia, the Lusitani have a reputation as strong fighters.	The Lusitani	trait_lusitani.png	faction
+pun_faction_trait_rome	The Cornelii are among the most illustrious Roman families, giving rise to more consuls, generals and statesmen than any other.	The House of Cornelia	trait_house_of_cornelia.png	faction
+pun_faction_trait_syracuse	Home of Archimedes, Syracuse stands proud between two empires.	Syracuse	trait_syracuse.png	faction
+pun_season_autumn	Time to bring in the harvest before the leaves turn.	Autumn	season_3.png	province
+pun_season_autumn_dry	The rains have not come, the fields will be barren.	Dry Autumn	season_3.png	province
+pun_season_autumn_early	The warmth is fading fast this year.	Bad Autumn	season_3.png	province
+pun_season_autumn_late	At times it is good to bask in the enduring sunlight.	Good Autumn	season_3.png	province
+pun_season_spring	The spirit of new life is in the air.	Spring	season_1.png	province
+pun_season_spring_early	The new season has come early this year.	Early Spring	season_1.png	province
+pun_season_spring_late	Winter has finally passed, and green is returning.	Late Spring	season_1.png	province
+pun_season_summer	It is good to feel the sun upon your skin.	Summer	season_2.png	province
+pun_season_summer_dry	It is a long time since I saw a cloud in the sky.	Dry Summer	season_2.png	province
+pun_season_summer_harsh	The overbearing heat brings even the greatest man to his knees.	Harsh Summer	season_2.png	province
+pun_season_summer_mild	The gentle heat is not what we expected.	Mild Summer	season_2.png	province
+pun_season_summer_warm	The Sun God smiles down on us.	Warm Summer	season_2.png	province
+pun_season_summer_wet	Even the sun does not bring an end to the rain.	Wet Summer	season_2.png	province
+pun_season_winter	Warmth and light are all that matters as the days draw in.	Winter	season_4.png	province
+pun_season_winter_dry	It is cold, yes, but at least the skies are clear.	Dry Winter	season_4.png	province
+pun_season_winter_harsh	Blizzards and snow have turned everything white.	Harsh Winter	season_4.png	province
+pun_season_winter_mild	There is but a gentle dusting of snow this year.	Mild Winter	season_4.png	province
+pun_season_winter_wet	The fields have disappeared beneath the relentless downpour.	Wet Winter	season_4.png	province
+pun_tech_module_diplomacy_1	To unlock the following effect, research the technologies below.	Diplomacy I	faction_leader_positive.png	faction
+pun_tech_module_diplomacy_2	To unlock the following effect, unlock Diplomacy I and research the technologies below.	Diplomacy II	faction_leader_positive.png	faction
+pun_tech_module_diplomacy_3	To unlock the following effect, unlock Diplomacy II and research the technologies below.	Diplomacy III	faction_leader_positive.png	faction
+pun_tech_module_improvements_1	To unlock the following effect, research the technologies below.	Improvements I	construction_positive.png	faction
+pun_tech_module_improvements_2	To unlock the following effect, unlock Improvements I and research the technologies below.	Improvements II	construction_positive.png	faction
+pun_tech_module_improvements_3	To unlock the following effect, unlock Improvements II and research the technologies below.	Improvements III	construction_positive.png	faction
+pun_tech_module_laws_1	To unlock the following effect, research the technologies below.	Laws I	wealth_positive.png	faction
+pun_tech_module_laws_2	To unlock the following effect, unlock Laws I and research the technologies below.	Laws II	wealth_positive.png	faction
+pun_tech_module_laws_3	To unlock the following effect, unlock Laws II and research the technologies below.	Laws III	wealth_positive.png	faction
+pythian_celebratory	Although the Pythian Games are over, the people feel joyous at the results.	Pythian Games	public_order_positive.png	faction
+pythian_successful	The people feel joyous at our participation in the great Pythian Games.	Successful Games	public_order_positive.png	faction
+pythian_unhappy	That we did not even take part in the recent games brings great shame upon the people.	Pythian Shame	public_order_negative.png	faction
+pythian_unsuccessful	The people are pleased we took part, but wish the investment had brought a greater reward.	Unsuccessful Games	public_order_positive.png	faction
+rom_agent_action_all_agent_manipulated	This agent has been manipulated into joining your cause.	Recruited	agent_positive.png	character
+rom_agent_action_all_failure	This agent has recently failed an attempt.	Failure	agent_negative.png	character
+rom_agent_action_all_failure_compromised	This agent has been compromised following an unsuccessful mission.	Compromised	agent_negative.png	character
+rom_agent_action_all_failure_target	An agent has recently made an attempt against this target.	Hostile Agent	agent_negative.png	faction
+rom_agent_action_all_failure_target_army	In response to hostile agent's recent attempt, this army is on its guard.	On Guard	agent_positive.png	force
+rom_agent_action_all_failure_target_character	In response to hostile agent's recent attempt, this character is on their guard.	On Guard	agent_positive.png	character
+rom_agent_action_all_failure_target_province	In response to hostile agent's recent attempt, security in this province has been temporarily increased.	Security	agent_positive.png	province
+rom_agent_action_all_hinder_agent_authority_success	This agent has been enthralled by the enemy and is unable to move or act.	Recruit Agent	agent_negative.png	character
+rom_agent_action_all_hinder_agent_critical_success_self	This agent has recently manipulated an enemy into joining their cause.	Recruit Agent	agent_positive.png	character
+rom_agent_action_all_hinder_agent_subterfuge_success	This agent has been distracted by the enemy and is unable to move or act.	Temptation	agent_negative.png	character
+rom_agent_action_all_hinder_agent_success_self	This agent has recently attempted to manipulate an enemy.	Manipulation Attempt	agent_positive.png	character
+rom_agent_action_all_hinder_agent_zeal_success	This agent has been hindered by the enemy and is unable to move or act.	Coercion	agent_negative.png	character
+rom_agent_action_all_hinder_character_critical_success_self	This agent has recently assassinated an enemy.	Assassination	agent_positive.png	character
+rom_agent_action_all_hinder_character_success_self	This agent has recently attempted to assassinate an enemy.	Assassination Attempt	agent_positive.png	character
+rom_agent_action_champion_assist_army_zeal_cannot_fail	This army is being advised by a great champion.	Military Training	champion_positive.png	force
+rom_agent_action_champion_assist_army_zeal_cannot_fail_self	This champion is advising an army.	Military Training	champion_positive.png	character
+rom_agent_action_champion_assist_province_zeal_cannot_fail	The people of this province are being rallied by a great champion.	Military Fervour	champion_positive.png	province
+rom_agent_action_champion_assist_province_zeal_cannot_fail_self	This champion is rallying the people of the local province.	Military Fervour	champion_positive.png	character
+rom_agent_action_champion_hinder_army_authority_success	A rival champion has subverted this army, thereby slowing its progress.	Military Subversion	champion_negative.png	force
+rom_agent_action_champion_hinder_army_authority_success_self	This champion has recently hindered a rival army.	Show of Force	champion_positive.png	character
+rom_agent_action_champion_hinder_army_subterfuge_success	A rival champion has critically harassed this army, killing troops of a single unit.	Critical Military Subversion	champion_negative.png	force
+rom_agent_action_champion_hinder_army_subterfuge_success_self	This champion has recently harassed a rival army.	Harass	champion_positive.png	character
+rom_agent_action_champion_hinder_army_zeal_success	The units in this army have been demoralized by a rival champion.	Demoralize Army	champion_negative.png	force
+rom_agent_action_champion_hinder_army_zeal_success_self	This champion has recently demoralized an enemy army.	Demoralize Army	champion_positive.png	character
+rom_agent_action_champion_hinder_province_zeal_cannot_fail	A rival champion's military activities are causing disarray in this province.	Rile Populace	champion_negative.png	province
+rom_agent_action_champion_hinder_province_zeal_cannot_fail_self	This champion is using small scale military actions against the local province.	Rile Populace	champion_positive.png	character
+rom_agent_action_champion_hinder_settlement_authority_success	The local slave population has been rallied by a rival champion.	Rally Slaves	champion_negative.png	province
+rom_agent_action_champion_hinder_settlement_authority_success_self	This champion has recently rallied slaves in a rival province.	Rally Slaves	champion_positive.png	character
+rom_agent_action_champion_hinder_settlement_subterfuge_success	This province has been raided by a rival champion.	Raid	champion_negative.png	province
+rom_agent_action_champion_hinder_settlement_subterfuge_success_self	This champion has recently raided a rival settlement.	Raid	champion_positive.png	character
+rom_agent_action_champion_hinder_settlement_zeal_success	A district within this settlement has been devastated after a fire started by a rival champion.	Commit Arson	champion_negative.png	province
+rom_agent_action_champion_hinder_settlement_zeal_success_self	This champion has recently set fire to a rival settlement.	Commit Arson	champion_positive.png	character
+rom_agent_action_champion_passive_ability_zeal_cannot_fail	This champion is questing in search of fortune and glory.	Adventuring	champion_positive.png	character
+rom_agent_action_dignitary_assist_army_authority_cannot_fail	This army is being advised by a venerable dignitary.	Military Administration	dignitary_positive.png	force
+rom_agent_action_dignitary_assist_army_authority_cannot_fail_self	This dignitary is advising an army.	Military Administration	dignitary_positive.png	character
+rom_agent_action_dignitary_assist_province_authority_cannot_fail	This province is being overseen by a venerable dignitary.	Civil Administration	dignitary_positive.png	province
+rom_agent_action_dignitary_assist_province_authority_cannot_fail_self	This dignitary is on official duty within the local province.	Civil Administration	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_army_authority_success	A rival dignitary has attempted to bribe our general, causing the soldiers to attack their commander for his betrayal.	Bribe General	dignitary_negative.png	character
+rom_agent_action_dignitary_hinder_army_authority_success_critical	A dignitary has bribed this general, causing them to leave their army behind and join your faction!	Bribe Commander	dignitary_negative.png	character
+rom_agent_action_dignitary_hinder_army_authority_success_self	This dignitary has recently attempted to bribe a rival commander, only to have them attacked by their own troops.	Bribe Commander	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_army_authority_success_self_critical	This dignitary has recently bribed a rival commander, persuading them to join your cause!	Bribe Commander	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_army_subterfuge_success	A rival dignitary has critically disrupted this army, thereby stopping it in its tracks.	Critical Military Disruption	dignitary_negative.png	character
+rom_agent_action_dignitary_hinder_army_subterfuge_success_self	This dignitary has recently misled a rival general.	Mislead Command	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_army_zeal_success	A unit in this army has been bribed into disbanding by a rival dignitary.	Bribe Units	dignitary_negative.png	character
+rom_agent_action_dignitary_hinder_army_zeal_success_critical	A unit in this army has been persuaded into disbanding by a rival dignitary without even taking a bribe.	Bribe Units	dignitary_negative.png	character
+rom_agent_action_dignitary_hinder_army_zeal_success_self	This dignitary has recently bribed a unit from an enemy army into disbanding.	Bribe Units	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_army_zeal_success_self_critical	This dignitary has recently caused a unit from an enemy army to disband - and they did it for free!	Bribe Units	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_character_subterfuge_critical_success_self	This dignitary has recently sacrificed an enemy as tribute to the gods.	Sacrifice	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_character_subterfuge_success_self	This dignitary has recently attempted to sacrifice an enemy as tribute to the gods.	Sacrifice Attempt	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_character_zeal_success	This character has been degraded by a rival dignitary and has reduced attributes as a result.	Discredit	dignitary_negative.png	character
+rom_agent_action_dignitary_hinder_character_zeal_success_self	This dignitary has recently attempted to discredit an enemy agent or general.	Discredit	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_province_authority_cannot_fail	A rival dignitary is stealing part of this province's income.	Steal Income	dignitary_negative.png	province
+rom_agent_action_dignitary_hinder_province_authority_cannot_fail_self	This dignitary is stealing part of the local province's income.	Steal Income	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_settlement_authority_success	A rival dignitary has spread their own traditions within your settlement, causing cultural differences.	Convert	dignitary_negative.png	province
+rom_agent_action_dignitary_hinder_settlement_authority_success_self	This dignitary has turned a settlement's people to your faction's ways, causing cultural differences.	Convert	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_settlement_subterfuge_success	A rival dignitary has bribed the local workforce, thereby diminishing wealth production.	Buy Off Merchants	dignitary_negative.png	province
+rom_agent_action_dignitary_hinder_settlement_subterfuge_success_self	This dignitary has recently hindered a rival's production and commerce.	Buy Off Merchants	dignitary_positive.png	character
+rom_agent_action_dignitary_hinder_settlement_zeal_success	A rival dignitary has been spreading unhapiness within this province.	Incite Unrest	dignitary_negative.png	province
+rom_agent_action_dignitary_hinder_settlement_zeal_success_self	This dignitary has recently provoked unhapiness in an enemy settlement.	Incite Unrest	dignitary_positive.png	character
+rom_agent_action_dignitary_passive_ability_authority_cannot_fail	This dignitary is a proponent of their culture.	Culture	dignitary_positive.png	character
+rom_agent_action_spy_assist_army_subterfuge_cannot_fail	This army is being guided by an astute spy.	Guide	spy_positive.png	force
+rom_agent_action_spy_assist_army_subterfuge_cannot_fail_self	This spy is guiding an army.	Guide	spy_positive.png	character
+rom_agent_action_spy_assist_province_subterfuge_cannot_fail	An astute spy is keeping a watchful eye on all comings and goings within this province.	Counter-Intelligence	spy_positive.png	province
+rom_agent_action_spy_assist_province_subterfuge_cannot_fail_self	This spy is improving security measures in the local province.	Counter-Intelligence	spy_positive.png	character
+rom_agent_action_spy_hinder_army_authority_success	A rival spy has sabotaged this army, destroying some of their ammunition.	Destroy Ammunition	spy_negative.png	force
+rom_agent_action_spy_hinder_army_authority_success_self	This spy has burned through some of the enemy army's ammunition.	Destroy Ammunition	spy_positive.png	character
+rom_agent_action_spy_hinder_army_subterfuge_success	A rival spy has sabotaged this army, slowing their march.	Military Sabotage	spy_negative.png	faction
+rom_agent_action_spy_hinder_army_subterfuge_success_critical	A rival spy has critically sabotaged this army, thereby stopping it in its tracks.	Critical Military Sabotage	spy_negative.png	force
+rom_agent_action_spy_hinder_army_subterfuge_success_self	This spy has recently sabotaged supplies belonging to a rival army.	Sabotage Supplies	spy_positive.png	character
+rom_agent_action_spy_hinder_army_zeal_success	This army's baggage train has been sabotaged by a rival spy.	Wreck Baggage Train	spy_negative.png	force
+rom_agent_action_spy_hinder_army_zeal_success_self	This spy has recently wrecked a rival army's baggage train.	Wreck Baggage Train	spy_positive.png	character
+rom_agent_action_spy_hinder_province_subterfuge_cannot_fail	A rival spy's efforts within this region is reducing our food supplies.	Stolen Food	spy_negative.png	province
+rom_agent_action_spy_hinder_province_subterfuge_cannot_fail_self	This spy is organizing robbery of food from the region and delivering it to your reserves.	Steal Food	spy_positive.png	character
+rom_agent_action_spy_hinder_settlement_authority_success	A rival spy has stolen information on our lands and military affairs.	Reconnoitre	spy_negative.png	province
+rom_agent_action_spy_hinder_settlement_authority_success_self	This spy has recently obtained information about your enemy's lands and military affairs.	Reconnoitre	spy_positive.png	character
+rom_agent_action_spy_hinder_settlement_subterfuge_success	This settlement's water supply has been poisoned by a rival spy.	Poison Water Source	spy_negative.png	province
+rom_agent_action_spy_hinder_settlement_subterfuge_success_self	This spy has recently poisoned a rival settlement's water supply.	Poison Water Source	spy_positive.png	character
+rom_agent_action_spy_hinder_settlement_zeal_success	A district within this settlement has been devastated after a fire started by a rival spy.	Commit Arson	spy_negative.png	province
+rom_agent_action_spy_hinder_settlement_zeal_success_self	This spy has recently set fire to a rival settlement.	Commit Arson	spy_positive.png	character
+rom_agent_action_spy_passive_ability_subterfuge_cannot_fail	This spy is ever stalking the shadows, moving unseen from one province to the next.	Infiltration	spy_positive.png	character
+rom_dummy_effect_bundle	"The Senate and the People of Rome"	SPQR	trait_rome.png	faction
+rom_faction_empire_carthaginian	Carthage is a great empire again. The known world stands in awe of the glorious Punic hegemony!	The Carthaginian Empire	trait_carthage.png	faction
+rom_faction_empire_roman	The Roman Republic is no more! Rome is an empire, led by the greatest patrician families, ruling the known world. Excelsior!	The Roman Empire	trait_rome.png	faction
+rom_faction_republic_carthaginian	The power-mad pretenders are beaten, and democracy is restored to Carthage.	The Carthaginian Republic	trait_carthage.png	faction
+rom_faction_republic_roman	The power-hungry patrician families have failed, and the glory and stability of the Roman Republic are unchallenged again.	The Roman Republic	trait_rome.png	faction
+rom_faction_trait_african	[DO NOT LOCALISE]	African Kingdoms	resource.png	faction
+rom_faction_trait_arabian	[DO NOT LOCALISE]	Arabian Kingdoms	resource.png	faction
+rom_faction_trait_ardiaei	The Ardiaei are at home on the sea.	The Ardiaei	trait_ardiaei.png	faction
+rom_faction_trait_armenia	Once a mighty empire, now the pawn of stronger powers, Armenia seeks to regain its lost glory.	Kingdom of Armenia	trait_armenia.png	faction
+rom_faction_trait_black_sea	The people of the Black Sea worked hard to change the name of the Unhospitable Sea to Hospitable one. 	Black Sea Colonies	trait_greek_states.png	faction
+rom_faction_trait_black_sea_cimmeria	Cimmerians are the cultural child of the Hellenic-Scythian civilizations' marriage. 	Cimmeria	trait_cimmeria.png	faction
+rom_faction_trait_black_sea_colchis	Skilful traders, stepping between the boundaries of reality and legend at the edge of the Greek world. 	Colchis	trait_colchis.png	faction
+rom_faction_trait_black_sea_pergamon	Pergamon has great builders , great traders and amateur soldiers. 	Pergamon	trait_pergamon.png	faction
+rom_faction_trait_britannic	Described by Pytheas as "Pretani", the "painted ones" are a fierce and independent people.	Britannic Tribes	trait_britannic_tribes.png	faction
+rom_faction_trait_britannic_iceni	The Iceni are a proud people from the flatlands of eastern Britannia, among the toughest tribes of that mist-wreathed island. 	The Iceni	trait_iceni.png	faction
+rom_faction_trait_carthage	Carthage was once a Phoenician trading colony, now a trading and maritime empire in its own right.	Carthage	trait_carthage.png	faction
+rom_faction_trait_carthage_barcid	This notable Carthaginian family is named after Barca or Barcas, meaning "lightning".	The Barcid Dynasty	trait_barcid_dynasty.png	faction
+rom_faction_trait_carthage_hannonid	Founded by Hanno the Great, the Hannonid dynasty ruled Carthage for 50 years during the 3rd century BC.	The Hannonid Dynasty	trait_hannonid_dynasty.png	faction
+rom_faction_trait_carthage_magonid	The Magonids are an old and prominent family, once tyrannical masters of Carthage.	The Magonid Dynasty	trait_magonid_dynasty.png	faction
+rom_faction_trait_celtiberian	The tribes of Iberia are fierce warriors who do not back down from a fight.	Iberian Tribes	trait_celtiberian_tribes.png	faction
+rom_faction_trait_celtic	[DO NOT LOCALISE]	Celtic Tribes	resource.png	faction
+rom_faction_trait_daco_thracian	The tribes of the Balkans have earned their fierce reputation.	Balkan Tribes	trait_daco_thracian_tribes.png	faction
+rom_faction_trait_desert	Experienced in desert warfare and assiduous in working the land, the indigenous peoples of the region are slow to adopt new methods.	Masters of the Desert	trait_desert_kingdoms.png	faction
+rom_faction_trait_desert_kush	A major regional power with vast resources coming from trade with gold, jewels and hides from exotic animals.	Kush	trait_meroe.png	faction
+rom_faction_trait_desert_nabatea	The Nabataeans were the first to use cement extensively and build remarkable watertight reservoirs to ensure they always had the necessary supplies.	Nabataea	trait_nabatea.png	faction
+rom_faction_trait_desert_numidia	Before the kingdom of Numidia was founded its people were divided in two Berber tribes – the Massylii and the Masaesyli.	Masaesyli	trait_masaesyli.png	faction
+rom_faction_trait_desert_saba	The Sabaean kingdom lies in the harsh lands of the southern Arabian Peninsula, but the inhospitable conditions haven't prevented these ingenious people from thriving.	Saba	trait_saba.png	faction
+rom_faction_trait_eastern	After the fall of Persian Empire, eastern traditions and culture were both respected and cultivated by their successors.	Eastern Empires	trait_eastern_empires.png	faction
+rom_faction_trait_eastern_parthia	Arsaces, lord of the Parni tribe, claimed Parthia from the remnants of Persian and Seleucid rule.	Parthian Empire	trait_parthia.png	faction
+rom_faction_trait_eastern_pontus	Mithridates founded Pontus upon the ashes of the Persian and Macedonian empires.	Kingdom of Pontus	trait_pontus.png	faction
+rom_faction_trait_etruscan	[DO NOT LOCALISE]	Etruria	resource.png	faction
+rom_faction_trait_gallic	The Gauls are an influential, vigorous people, not just warriors but master craftsmen too.	Gallic Tribes	trait_gallic_tribes.png	faction
+rom_faction_trait_gallic_arverni	Ruled by great warrior kings, the Arverni are reputed to play hard and fight hard. 	The Arverni	trait_arverni.png	faction
+rom_faction_trait_gallic_boii	Frugal in outlook, these fierce warriors prize both gold and cattle.	The Boii	trait_boii.png	faction
+rom_faction_trait_gallic_galatia	Far from their ancestral lands, the Galatians will have to fight to establish themselves in the east.	The Galatians	trait_galatia.png	faction
+rom_faction_trait_gallic_nervii	The Nervii, the most warlike of all the Belgae, are both savage and brave.	The Nervii	trait_nervii.png	faction
+rom_faction_trait_germanic	The Germanic tribes are fearless warriors, abhorring weakness in others and valuing their independence above all.	Germanic Tribes	trait_germanic_tribes.png	faction
+rom_faction_trait_germanic_suebi	Marked by their distinctive hair-knot, the Suebi have a reputation for cunning and belligerence.	The Suebi	trait_suebi.png	faction
+rom_faction_trait_getae	The Getae is a group of strong tribes eager to forge a mighty kingdom.	The Getae	trait_getae.png	faction
+rom_faction_trait_greek	The world-renowned culture of the Greeks was built upon hard toil, keen thinking and military excellence.	Greek States	trait_greek_states.png	faction
+rom_faction_trait_greek_athens	The magistrates of Athens have executive powers. An ambitious individual could secure total power for himself...	Athens	trait_athens.png	faction
+rom_faction_trait_greek_epirus	Epirus was founded by the self-proclaimed descendants of the mythical Molossus following the sacking of Troy.	Epirus	trait_epirus.png	faction
+rom_faction_trait_greek_massilia	The Massiliots are famous both for their trading skills and their conservatism.	Massilia	trait_massilia.png	faction
+rom_faction_trait_greek_sparta	The two hereditary kings of Sparta, from the Agiad and Eurypontid families, claim descent from Heracles himself.	Sparta	trait_sparta.png	faction
+rom_faction_trait_nomadic	The Scythians and Sarmatians are aggressive nomad warriors, famed for their horsemanship and skill with the bow. 	Nomadic Tribes	trait_nomadic_tribes.png	faction
+rom_faction_trait_nomadic_massagetae	The Massagetae are a confederation of tribes, and fierce steppe warriors all.	Massagetae	trait_massagetae.png	faction
+rom_faction_trait_nomadic_roxolani	Every man has his day in the sun. As the Scythians grow weak, the Roxolani are ready to take up the sword in their place.	Roxolani	trait_roxolani.png	faction
+rom_faction_trait_nomadic_scythian	Royal Scythians are the social and tribal elite of nomad society.	Royal Scythians	trait_scythia.png	faction
+rom_faction_trait_odrysia	The Odrysian Kingdom is home to mighty Thracian warriors.	Kingdom of Odrysia	trait_odrysian.png	faction
+rom_faction_trait_rome	He who rules in Rome can rule the world, but only through the glory of conquest!	Rome	trait_rome.png	faction
+rom_faction_trait_rome_cornelia	The Cornelii are among the most illustrious of Roman families, giving rise to more consuls, generals and statesmen than any other.	The House of Cornelia	trait_house_of_cornelia.png	faction
+rom_faction_trait_rome_julia	The Julii clan are an ancient patrician family with a tradition of attaining high office dating from the first days of the Republic.	The House of Julia	trait_house_of_julia.png	faction
+rom_faction_trait_rome_junia	The Roman Republic owes its existence to the Junii, as it was Lucius Junius Brutus who once drove out the last Roman king.	The House of Junia	trait_house_of_junia.png	faction
+rom_faction_trait_successors	After Alexander's death, his mightiest generals tore apart his empire as they fought for it, each claiming to be his one true successor.	Successor Kingdoms	trait_successor_kingdoms.png	faction
+rom_faction_trait_successors_baktria	Baktria, land of a thousand golden cities all grown rich on trade.	Graeco-Baktrian Kingdom	trait_baktria.png	faction
+rom_faction_trait_successors_egypt	One of Alexander the Great’s generals, Ptolemy, was father to the current ruling Egyptian dynasty.	Ptolemaic Kingdom of Egypt	trait_egypt.png	faction
+rom_faction_trait_successors_macedon	The Macedonians can trace their heritage beyond Alexander the Great to the mists of antiquity.	Kingdom of Macedon	trait_macedon.png	faction
+rom_faction_trait_successors_seleucid	The Seleucids rule a vast and culturally diverse territory formed from the remnants of the great Macedonian conqueror's eastern empire.	Seleucid Empire	trait_seleucid.png	faction
+rom_faction_trait_tylis	The city of Tylis terrorizes its neighbours with its mix of Celtic and Thracian courage.	Tylis	trait_tylis.png	faction
+rom_food_bundle_faction_negative	Your faction is suffering from a shortage of food. Exempting provinces from tax may improve the food supply in the short term.	Food Shortage	food_negative.png	faction
+rom_food_bundle_faction_positive	Your faction is benefitting from a surplus of food.	Food Surplus	food_positive.png	faction
+rom_food_bundle_province_negative	This province is being severely affected by the current food shortage.	Food Shortage	food_negative.png	province
+rom_initiative_barbarian_migration	Settle remote clans in local settlements to increase growth.	Migration	religion_positive.png	province
+rom_initiative_barbarian_tribute	Ensure that everyone pays their due.	Tribute Collection	tax_growth_1.png	province
+rom_initiative_eastern_conscripts	Rally the common man to heed the call and protect his lands from the enemy.	Conscription	army_positive.png	province
+rom_initiative_festival	Appease the local populace with religious festivals, games and ample food.	Bread & Games	religion_positive.png	province
+rom_initiative_hellenic_liturgies	Encourage the local elite to invest in public and military works.	Noble Philanthropy	construction_positive.png	province
+rom_initiative_mercenaries	Secure the support of local mercenaries to supplement your armed forces.	Mercenary Negotiation	army_positive.png	province
+rom_initiative_non_barbarian_taxes	Ensure that everyone pays their due.	Tax Harvesting	tax_growth_1.png	province
+rom_initiative_political_party_loyalty	Loyalty to political party.	Loyalty	loyalty_positive.png	province
+rom_initiative_roman_romanisation	Champion the Roman way and Latin values to indigenous elements.	Romanisation	faction_leader_positive.png	province
+rom_initiative_trade	Stimulate local industry and commerce to boost the local economy.	Commercial Stimulation	trade_positive.png	province
+rom_payload_agent_champion_cost	Unwavering, your champions execute their mission efficiently.	Martial Discipline	champion_positive.png	faction
+rom_payload_agent_champion_experience	With zealous focus on the matter at hand, your champions are learning from their experiences.	Martial Training	champion_positive.png	faction
+rom_payload_agent_champion_success	Their commitment to the war effort unmatched, your champions act with unbridled zeal.	Martial Skill	champion_positive.png	faction
+rom_payload_agent_dignitary_cost	Responsible to the end, your dignitaries work with the utmost efficiency.	Indisputable Restraint	dignitary_positive.png	faction
+rom_payload_agent_dignitary_experience	Wise and discerning, your dignitaries are learning more from their experiences.	Indisputable Wisdom	dignitary_positive.png	faction
+rom_payload_agent_dignitary_success	Driven by purpose, your dignitaries are fulfilling their duty with unmatched authority.	Indisputable Authority	dignitary_positive.png	faction
+rom_payload_agent_spy_cost	Their resourcefulness without bounds, your spies are working with greater efficiency.	Clandestine Resources	spy_positive.png	faction
+rom_payload_agent_spy_experience	With keenest perception, your spies are learning from their experiences.	Clandestine Knowledge	spy_positive.png	faction
+rom_payload_agent_spy_success	Their cunning without equal, your spies are excelling in acts of subterfuge.	Clandestine Practices	spy_positive.png	faction
+rom_payload_agrarian_purpose	Your agricultural efforts are helping keep the people fed and the coffers filled.	Agrarian Yield	wealth_positive.png	faction
+rom_payload_agriculture_gdp_mod_negative	Even great empires falter in hard times.	Faltering Supplies	wealth_negative.png	province
+rom_payload_auxiliary_recruitment	Once, they were your adversaries. Now, they fight and die by your command!	Auxiliary Conscription	military_positive.png	faction
+rom_payload_bread_circuses	Your dedication to providing the people with life's simple pleasures is improving public order across your domain.	Bread & Circuses	public_order_positive.png	faction
+rom_payload_call_sea	A trireme and a star to steer her by.	Call of the Sea	navy_positive.png	faction
+rom_payload_call_to_arms_global	Your military expertise is making recruitment across your domain more efficient.	Call to Arms	military_positive.png	faction
+rom_payload_call_to_arms_local	Your military expertise is making recruitment within this province more efficient.	Call to Arms	military_positive.png	faction
+rom_payload_cavalry_command	A focus on cavalry tactics and leadership is increasing the effectiveness of your cavalry units in battle.	Cavalry Command	cavalry_positive.png	force
+rom_payload_cavalry_recruitment	A focus on cavalry warfare is reducing the cost of recruiting mounted units.	Cavalry Recruitment	cavalry_positive.png	faction
+rom_payload_cavalry_training	A focus on horsemanship is increasing the effectiveness of your newly-recruited cavalry units.	Horsemanship	cavalry_positive.png	faction
+rom_payload_cultural_unrest	Disaffection amongst your own citizens has escalated, thereby affecting public order across your domain.	Cultural Unrest	public_order_negative.png	faction
+rom_payload_cultural_unrest_hellenic	Disaffection amongst your Hellenic subjects has escalated, thereby affecting public order.	Hellenic Unrest	public_order_negative.png	faction
+rom_payload_culture_integration	Incorporate outsiders so that all may profit from your cultural cohabitation.	Cultural Integration	religion_positive.png	faction
+rom_payload_culture_suppression	Oppress all who are unwilling to submit to your cultural ideals.	Cultural Suppression	religion_positive.png	faction
+rom_payload_culture_understanding	With discourse and exchange comes the realisation that you are not so different, after all.	Cultural Understanding	religion_positive.png	faction
+rom_payload_death_metal	A focus on ironworking is improving the yield from iron mines and helping to reduce recruitment costs.	Death Metal	military_positive.png	faction
+rom_payload_decline_global	Even great empires fall under hard times.	Decline	wealth_negative.png	faction
+rom_payload_decline_local	Even great empires fall under hard times.	Decline	wealth_negative.png	faction
+rom_payload_diplomatic_contempt	Your dubious acts are harming diplomatic relations with other factions.	Diplomatic Contempt	diplomacy_negative.png	faction
+rom_payload_diplomatic_contempt_hellenic	Your dubious acts are harming diplomatic relations with many Hellenic peoples.	Hellenic Contempt	diplomacy_negative.png	faction
+rom_payload_diplomatic_respect	Your honourable acts are helping to improve diplomatic relations with other factions.	Diplomatic Respect	diplomacy_positive.png	faction
+rom_payload_diplomatic_respect_hellenic	Your honourable acts are helping to improve diplomatic relations with the Hellenic peoples.	Hellenic Respect	diplomacy_positive.png	faction
+rom_payload_disaffection_global	Disaffection has escalated across your domain, thereby affecting public order.	Disaffection	public_order_negative.png	faction
+rom_payload_disaffection_local	Disaffection has escalated within this province, thereby affecting local public order.	Disaffection	public_order_negative.png	province
+rom_payload_disaster_earthquake	This settlement is recovering from a recent earthquake. Restoration efforts are underway, but the people live in despair of the event.	Earthquake	disaster_negative.png	region
+rom_payload_disaster_fire	This settlement is recovering from a recent fire. Restoration efforts are underway, but the people live in despair of the event.	Great Fire	disaster_negative.png	region
+rom_payload_disaster_floods	This settlement is recovering from recent flooding. Restoration efforts are underway, but the people live in despair of the event.	Flooding	disaster_negative.png	region
+rom_payload_food	The gods of the forest ensure our warriors have a successful hunt.	A Bountiful Hunt	food_positive.png	province
+rom_payload_grateful_populace	Your recent actions made the people of this province rejoice.	Grateful Populace	public_order_positive.png	province
+rom_payload_infantry_command	A focus on infantry tactics and leadership is increasing the effectiveness of your infantry units in battle.	Infantry Command	infantry_positive.png	force
+rom_payload_infantry_recruitment	Foot soldiers: the backbone of any army.	Infantry Recruitment	infantry_positive.png	faction
+rom_payload_infantry_training	A focus on combat drills  is increasing the effectiveness of your newly-recruited infantry units.	Infantry Training	infantry_positive.png	faction
+rom_payload_inspired_endeavours_global	Your dedication to your cause and your subjects is inspiring people across your domain.	Inspired Endeavours	growth_positive.png	faction
+rom_payload_inspired_endeavours_local	Your dedication to your cause and your subjects is inspiring the people of this province.	Inspired Endeavours	growth_positive.png	province
+rom_payload_local_happiness	The presence of this man bolsters happiness.	Local Legend	public_order_positive.png	province
+rom_payload_mercenary_compensation	Compensation befitting the valued military support provided by your mercenaries is increasing their upkeep costs.	Mercenary Compensation	wealth_negative.png	force
+rom_payload_mercenary_contact	Improved contact with mercenary groups is helping to increase their availability.	Mercenary Contacts	military_positive.png	faction
+rom_payload_mercenary_negotiation	Negotiation efforts are helping to reduce the cost of hiring mercenaries.	Mercenary Negotiations	military_positive.png	faction
+rom_payload_military_experience	Give a man a weapon and he may become dangerous; teach him how to fight with it and he will become deadly.	Military Training	military_positive.png	faction
+rom_payload_military_setback	Having recently suffered a setback, this army's effectiveness is diminished.	Military Setback	army_negative.png	force
+rom_payload_naval_recruitment	A man can only march so far before he requires a ship to lead him to new conquests.	Shipwrights	navy_positive.png	faction
+rom_payload_pirate_hunting	The only good pirate is a dead pirate!	Pirate Hunting	naval_assault_positive.png	faction
+rom_payload_plague_army	This army is being gripped by pestilence, causing death and misery.	Disease	army_negative.png	force
+rom_payload_plague_settlement	This settlement is being gripped by pestilence, causing death and misery.	Disease	disaster_negative.png	region
+rom_payload_precious	A focus on precious metal working is improving yield from gold and silver mines and is boosting trade.	Precious	trade_positive.png	faction
+rom_payload_prosperity_global	Economic pursuits are helping your domain prosper.	Prosperity	wealth_positive.png	faction
+rom_payload_prosperity_local	Economic pursuits are helping this province prosper.	Prosperity	wealth_positive.png	province
+rom_payload_public_works_global	A focus on public works and infrastructure is improving the efficiency of construction efforts across your domain.	Public Works	construction_positive.png	faction
+rom_payload_public_works_local	A focus on public works and infrastructure is improving the efficiency of construction efforts in this province.	Public Works	construction_positive.png	province
+rom_payload_rampant_piracy	What's yours is theirs.	Rampant Piracy	trade_negative.png	faction
+rom_payload_raw_material	Your industrial potential is ensuring that natural resources are being exploited with the utmost efficiency.	Raw Material	wealth_positive.png	faction
+rom_payload_religion_rom_jupiter_will	By the will of Jupiter, the people will find inspiration amid the conflict!	Jupiter's Will	morale_positive.png	faction
+rom_payload_religion_rom_mars_wrath	Let the enemies of Rome be devastated on the battlefield!	Wrath of Mars	melee_positive.png	faction
+rom_payload_religion_rom_mercury_way	Blessings of expediency from the fleet-footed god.	Mercury's Way	campaign_movement_positive.png	faction
+rom_payload_religion_rom_vulcan_hammer	By his hammer and anvil, your armies will be rendered impregnable!	Vulcan's Forge	defence_positive.png	faction
+rom_payload_research	The knowledge in these scrolls could prove valuable.	Forbidden Knowledge	technology_positive.png	faction
+rom_payload_research_civil_progress	Your administrative and cultural aspirations are inspiring your people to make significant progress in civil matters.	Civil Progress	technology_positive.png	faction
+rom_payload_research_martial_ambition	Your martial aspirations are inspiring your people to make significant military breakthroughs.	Martial Ambition	technology_positive.png	faction
+rom_payload_research_thirst_for_knowledge	Thirsty for knowledge, hungry for excellence, your people are inspired to excel in every developmental discipline.	Thirst for Knowledge	technology_positive.png	faction
+rom_payload_resolution_dummy	The consequences of your choice are yet to be revealed...	Resolution	subterfuge_positive.png	faction
+rom_payload_servitude	Slavery is integral to economic stability and cultural dominion. Understanding this allows you to better exploit it.	Servitude	slaves_positive.png	faction
+rom_payload_setback_sandstorm	Severe sandstorms have affected military operations and civic developments in this region.	Sandstorm	disaster_negative.png	region
+rom_payload_setback_snowstorm	Severe snowstorms have affected military operations and civic developments in this region.	Snowstorm	disaster_negative.png	region
+rom_payload_siegecraft	Your mastery of siegecraft is reducing the cost of building siege engines and field artillery.	Siegecraft	artillery_positive.png	faction
+rom_payload_slave_economic_negative	The local slave population is lazy.	Lazy Slaves	slaves_negative.png	province
+rom_payload_slave_economic_positive	The local slave population is working diligently.	Diligent Slaves	slaves_positive.png	province
+rom_payload_slave_happiness	The local slave population is content.	Content Slaves	slaves_positive.png	province
+rom_payload_slave_unhappiness	The local slave population is troubled.	Slave Problems	slaves_negative.png	province
+rom_payload_slaves_decrease	The number of slaves decreasing.	Slavery Decline	slaves_negative.png	province
+rom_payload_slaves_increase	The number of slaves increasing.	Increased Slavery	slaves_positive.png	province
+rom_payload_subject_horse	The Scythian has a lot to teach about horsemanship, and the right way to raise and train horses.	Horsemanship	slaves_positive.png	province
+rom_payload_subject_research	Thirsty for knowledge, hungry for excellence, your people are inspired to excel in every developmental discipline.	Thirst for Knowledge	slaves_positive.png	province
+rom_payload_subject_slaver	Both men had much to teach us and were happy to share their knowledge with their new masters. 	Valuable Slaves	slaves_positive.png	province
+rom_payload_thriving_trade	Mercantile efforts are helping to keep your trade relations lucrative and your markets profitable.	Thriving Trade	trade_positive.png	faction
+rom_payload_tribute	Every man must pay his dues.	Tribute	tax_growth_1.png	faction
+rom_payload_tribute_local	Every man must pay his dues.	Tribute	wealth_positive.png	province
+rom_payload_unhappy_populace	Your recent actions made your people unruly.	Annoyed Populace	public_order_negative.png	province
+rom_payload_urban_migration_global	Many across your domain are abandoning their rural lives in search of urban fortune.	Urban Migration	public_order_positive.png	faction
+rom_payload_urban_migration_local	Many in this province are abandoning their rural lives in search of urban fortune.	Urban Migration	public_order_positive.png	province
+rom_payload_wait_and_see	The die is cast…	Wait & See	resource.png	faction
+rom_payload_war_fervour	Your military endeavours are imbuing your troops with an unquenchable thirst for battle.	War Fervour	morale_positive.png	faction
+rom_payload_weapons	Unmatched craftsmanship, these blades are stronger than anything anyone had ever known.	Craftsmanship	weapon_buff.png	province
+rom_political_dilemma_payload_adoption_accepted	Character will join the instigating party and will generate influence for them in the future.	Adoption	champion_negative.png	character
+rom_public_order_barbarian_1_outraged	The people of this province are outraged and there is great risk of local uprising! Steps must be taken to improve local public order immediately.	Outraged Populace	tax_public_order_negative_5.png	province
+rom_public_order_barbarian_2_unhappy	The people of this province are unhappy with your rule. Public order should be improved if the threat of uprising is to be avoided.	Unhappy Populace	tax_public_order_negative_3.png	province
+rom_public_order_barbarian_3_troubled	The people of this province are troubled by your rule.	Troubled Populace	tax_public_order_negative_1.png	province
+rom_public_order_barbarian_4_indifferent	The people of this province are indifferent to your rule.	Indifferent Populace	public_order_neutral.png	province
+rom_public_order_barbarian_5_content	The people of this province are encouraged by your rule.	Encouraged Populace	tax_public_order_positive_1.png	province
+rom_public_order_barbarian_6_happy	The people of this province are motivated by your rule.	Motivated Populace	tax_public_order_positive_2.png	province
+rom_public_order_barbarian_7_jubilant	The people of this province are inspired by your rule. Uphold their convictions and you shall reap the fruits of their labour!	Inspired Populace	tax_public_order_positive_4.png	province
+rom_public_order_eastern_1_outraged	The people of this province are outraged and there is great risk of local uprising! Steps must be taken to improve local public order immediately.	Outraged Populace	tax_public_order_negative_5.png	province
+rom_public_order_eastern_2_unhappy	The people of this province are unhappy with your rule. Public order should be improved if the threat of uprising is to be avoided.	Unhappy Populace	tax_public_order_negative_3.png	province
+rom_public_order_eastern_3_troubled	The people of this province are troubled by your rule.	Troubled Populace	tax_public_order_negative_1.png	province
+rom_public_order_eastern_4_indifferent	The people of this province are indifferent to your rule.	Indifferent Populace	public_order_neutral.png	province
+rom_public_order_eastern_5_content	The people of this province are encouraged by your rule.	Encouraged Populace	tax_public_order_positive_1.png	province
+rom_public_order_eastern_6_happy	The people of this province are motivated by your rule.	Motivated Populace	tax_public_order_positive_2.png	province
+rom_public_order_eastern_7_jubilant	The people of this province are inspired by your rule. Uphold their convictions and you shall reap the fruits of their labour!	Inspired Populace	tax_public_order_positive_4.png	province
+rom_public_order_hellenistic_1_outraged	The people of this province are outraged and there is great risk of local uprising! Steps must be taken to improve local public order immediately.	Outraged Populace	tax_public_order_negative_5.png	province
+rom_public_order_hellenistic_2_unhappy	The people of this province are unhappy with your rule. Public order should be improved if the threat of uprising is to be avoided.	Unhappy Populace	tax_public_order_negative_3.png	province
+rom_public_order_hellenistic_3_troubled	The people of this province are troubled by your rule.	Troubled Populace	tax_public_order_negative_1.png	province
+rom_public_order_hellenistic_4_indifferent	The people of this province are indifferent to your rule.	Indifferent Populace	public_order_neutral.png	province
+rom_public_order_hellenistic_5_content	The people of this province are encouraged by your rule.	Encouraged Populace	tax_public_order_positive_1.png	province
+rom_public_order_hellenistic_6_happy	The people of this province are motivated by your rule.	Motivated Populace	tax_public_order_positive_2.png	province
+rom_public_order_hellenistic_7_jubilant	The people of this province are inspired by your rule. Uphold their convictions and you shall reap the fruits of their labour!	Inspired Populace	tax_public_order_positive_4.png	province
+rom_public_order_roman_1_outraged	The people of this province are outraged and there is great risk of local uprising! Steps must be taken to improve local public order immediately.	Outraged Populace	tax_public_order_negative_5.png	province
+rom_public_order_roman_2_unhappy	The people of this province are unhappy with your rule. Public order should be improved if the threat of uprising is to be avoided.	Unhappy Populace	tax_public_order_negative_3.png	province
+rom_public_order_roman_3_troubled	The people of this province are troubled by your rule.	Troubled Populace	tax_public_order_negative_1.png	province
+rom_public_order_roman_4_indifferent	The people of this province are indifferent to your rule.	Indifferent Populace	public_order_neutral.png	province
+rom_public_order_roman_5_content	The people of this province are encouraged by your rule.	Encouraged Populace	tax_public_order_positive_1.png	province
+rom_public_order_roman_6_happy	The people of this province are motivated by your rule.	Motivated Populace	tax_public_order_positive_2.png	province
+rom_public_order_roman_7_jubilant	The people of this province are inspired by your rule. Uphold their convictions and you shall reap the fruits of their labour!	Inspired Populace	tax_public_order_positive_4.png	province
+rom_stance_army_ambush	Become concealed from the enemy in a bid to launch a surprise attack against incoming rival armies.	Stance: Ambush	subterfuge_positive.png	force
+rom_stance_army_default	Traverse the world without any particular advantages nor penalties.	Stance: None	campaign_movement_positive.png	force
+rom_stance_army_forced_march	Greatly increase marching range at the cost of severe offensive penalties.	Stance: Forced March!	campaign_movement_positive.png	force
+rom_stance_army_fortification	Establish a fortified encampment in order to improve defensive and support capabilities.	Stance: Fortify	fortification_positive.png	force
+rom_stance_army_fortification_barbarian	Establish a fortified position in order to improve defensive and support capabilities.	Stance: Fortify	fortification_positive.png	force
+rom_stance_army_fortification_eastern	Establish a fortified encampment in order to improve defensive and support capabilities.	Stance: Fortify	fortification_positive.png	force
+rom_stance_army_fortification_rome	Establish a small fort in order to improve defensive and support capabilities.	Stance: Fortify	fortification_positive.png	force
+rom_stance_army_garrisoned	Protect a settlement from attackers and help keep the populace under control.	Situation: Garrisoned	army_positive.png	force
+rom_stance_army_laying_siege	Deprive a settlement's populace of vital supplies as assault preparations are made.	Situation: Laying Siege	siege_attack_positive.png	force
+rom_stance_army_mustering	Recruit new troops to an army and improve replenishment of diminished units.	Situation: Mustering	replenishment_positive.png	force
+rom_stance_army_raiding	Raid nearby trade routes and settlements for income and forage supplemental supplies from the area.	Stance: Raiding	loot_raid_positive.png	force
+rom_stance_navy_blockading	Deprive a settlement's populace of vital supplies as assault preparations are made.	Situation: Blockading	siege_attack_positive.png	force
+rom_stance_navy_default	Traverse the world without any particular advantages nor penalties.	Stance: None	campaign_movement_positive.png	force
+rom_stance_navy_docked	Protect a coastal settlement from attackers and help keep the populace under control.	Situation: Docked	navy_positive.png	force
+rom_stance_navy_double_time	Greatly increase navigation range at the cost of severe offensive penalties.	Stance: Double Time!	campaign_movement_positive.png	force
+rom_stance_navy_mustering	Assemble new ships to a fleet and improve repair of damaged ships.	Situation: Mustering	replenishment_positive.png	force
+rom_stance_navy_patrol	Establish a naval patrol in order to improve defensive and support capabilities.	Stance: Patrol	navy_positive.png	force
+rom_stance_navy_raiding	Raid nearby sea trade routes and coastal settlements for income and engage in local piracy to help supplement supplies.	Stance: Raiding	loot_raid_positive.png	force
+rom_subject_bad_omen	Ill omens of the future are making the people of this province unruly.	Bad Omen	public_order_negative.png	province
+rom_subject_bad_omen_all	Ill omens and disturbing portents are making your people unruly.	Bad Omen	public_order_negative.png	faction
+rom_subject_bad_omen_troubled_populace	News from the Oracle is causing fear amongst the people.	Bad Omen: Troubled Populace	public_order_negative.png	faction
+rom_subject_blessing	Blessed as they are, these men have excellent morale.	Blessing	agent_positive.png	character
+rom_subject_curse	These men are accursed; their morale suffers as a result.	Curse	agent_negative.png	character
+rom_subject_disgrace	A dispute has arisen.	Dispute	agent_negative.png	character
+rom_subject_fame	A chance to further your family's influence.	Fame	agent_positive.png	faction
+rom_subject_favoured_by_gods	The favour of the gods provides these people with bountiful harvests.	Favoured by Gods	agent_positive.png	region
+rom_subject_foreign_trade	Economic pursuits are helping this province prosper.	Foreign Trader	trade_positive.png	province
+rom_subject_glory	A chance for glory has arisen.	Glory	agent_positive.png	character
+rom_subject_good_omen	The omens are favourable. The people of this province rejoice!	Good Omen	public_order_positive.png	province
+rom_subject_good_omen_all	The omens are good. The people of this nation rejoice!	Good Omen	public_order_positive.png	faction
+rom_subject_infamy	A decision must be made.	Infamy	agent_negative.png	faction
+rom_subject_local_trade	Economic pursuits are helping this province prosper.	Local Trade	trade_positive.png	province
+rom_subject_local_trade_negative	Local trade is dwindling.	Wrecking Reputations	trade_negative.png	province
+rom_subject_payload_aventine	A gang has taken control of the ports in Rome.	Turmoil in Rome	wealth_negative.png	province
+rom_subject_payload_nisean	The arrival of this trader drew others to our lands and trade flourished.	Horse Trade	trade_positive.png	province
+rom_subject_payload_purple	Economic pursuits are helping this province prosper.	Growth	trade_positive.png	province
+rom_subject_payload_spice	Economic pursuits are helping this province prosper.	Happiness	trade_positive.png	province
+rom_subject_payload_wine	The arrival of this trader drew others to our lands and trade flourished.	Wine Trade	trade_positive.png	region
+rom_subject_wrath_of_gods	The wrath of the gods destroys harvests and darkens the skies.	Wrath of Gods	agent_negative.png	province
+rom_tech_barbarian_module_druidic_council_1	To unlock the following effect, research the technologies below.	Druidic Council I	religion_positive.png	faction
+rom_tech_barbarian_module_druidic_council_2	To unlock the following effect, unlock Druidic Council I and research the technologies below.	Druidic Council II	religion_positive.png	faction
+rom_tech_barbarian_module_druidic_council_3	To unlock the following effect, unlock Druidic Council II and research the technologies below.	Druidic Council III	religion_positive.png	faction
+rom_tech_barbarian_module_tribal_council_1	To unlock the following effect, research the technologies below.	Tribal Council I	construction_positive.png	faction
+rom_tech_barbarian_module_tribal_council_2	To unlock the following effect, unlock Tribal Council I and research the technologies below.	Tribal Council II	construction_positive.png	faction
+rom_tech_barbarian_module_tribal_council_3	To unlock the following effect, unlock Tribal Council II and research the technologies below.	Tribal Council III	construction_positive.png	faction
+rom_tech_barbarian_module_tribal_economy_1	To unlock the following effect, research the technologies below.	Tribal Economy I	wealth_positive.png	faction
+rom_tech_barbarian_module_tribal_economy_2	To unlock the following effect, unlock Tribal Economy I and research the technologies below.	Tribal Economy II	wealth_positive.png	faction
+rom_tech_barbarian_module_tribal_economy_3	To unlock the following effect, unlock Tribal Economy II and research the technologies below.	Tribal Economy III	wealth_positive.png	faction
+rom_tech_barbarian_module_war_exorcises_1	To unlock the following effect, research the technologies below.	War Exercises I	campaign_movement_positive.png	faction
+rom_tech_barbarian_module_war_exorcises_2	To unlock the following effect, unlock War Exorcises I and research the technologies below.	War Exercises II	campaign_movement_positive.png	faction
+rom_tech_barbarian_module_war_exorcises_3	To unlock the following effect, unlock War Exorcises II and research the technologies below.	War Exercises III	campaign_movement_positive.png	faction
+rom_tech_barbarian_module_warrior_code_1	To unlock the following effect, research the technologies below.	Warrior Code I	general_positive.png	faction
+rom_tech_barbarian_module_warrior_code_2	To unlock the following effect, unlock Warrior Code I and research the technologies below.	Warrior Code II	general_positive.png	faction
+rom_tech_barbarian_module_warrior_code_3	To unlock the following effect, unlock Warrior Code II and research the technologies below.	Warrior Code III	general_positive.png	faction
+rom_tech_module_construction_1	To unlock the following effect, research the technologies below.	Construction I	construction_positive.png	faction
+rom_tech_module_construction_2	To unlock the following effect, unlock Construction I and research the technologies below.	Construction II	construction_positive.png	faction
+rom_tech_module_construction_3	To unlock the following effect, unlock Construction II and research the technologies below.	Construction III	construction_positive.png	faction
+rom_tech_module_economy_1	To unlock the following effect, research the technologies below.	Economy I	wealth_positive.png	faction
+rom_tech_module_economy_2	To unlock the following effect, unlock Economy I and research the technologies below.	Economy II	wealth_positive.png	faction
+rom_tech_module_economy_3	To unlock the following effect, unlock Economy II and research the technologies below.	Economy III	wealth_positive.png	faction
+rom_tech_module_management_1	To unlock the following effect, research the technologies below.	Management I	general_positive.png	faction
+rom_tech_module_management_2	To unlock the following effect, unlock Management I and research the technologies below.	Management II	general_positive.png	faction
+rom_tech_module_management_3	To unlock the following effect, unlock Management II and research the technologies below.	Management III	general_positive.png	faction
+rom_tech_module_philosophy_1	To unlock the following effect, research the technologies below.	Philosophy I	religion_positive.png	faction
+rom_tech_module_philosophy_2	To unlock the following effect, unlock Philosophy I and research the technologies below.	Philosophy II	religion_positive.png	faction
+rom_tech_module_philosophy_3	To unlock the following effect, unlock Philosophy II and research the technologies below.	Philosophy III	religion_positive.png	faction
+rom_tech_module_siege_1	To unlock the following effect, research the technologies below.	Siege I	artillery_positive.png	faction
+rom_tech_module_siege_2	To unlock the following effect, unlock Siege I and research the technologies below.	Siege II	artillery_positive.png	faction
+rom_tech_module_siege_3	To unlock the following effect, unlock Siege II and research the technologies below.	Siege III	artillery_positive.png	faction
+rom_tech_module_tactics_1	To unlock the following effect, research the technologies below.	Tactics I	campaign_movement_positive.png	faction
+rom_tech_module_tactics_2	To unlock the following effect, unlock Tactics I and research the technologies below.	Tactics II	campaign_movement_positive.png	faction
+rom_tech_module_tactics_3	To unlock the following effect, unlock Tactics II and research the technologies below.	Tactics III	campaign_movement_positive.png	faction
+rom_wonder_babylon	[[col:green]]Wonder[[/col]]\n\nA city of breath-taking beauty and wonder.	The Great City of Babylon	wonder_positive.png	region
+rom_wonder_bam_citadel	[[col:green]]Wonder[[/col]]\n\nThe greatest citadel ever built. All others pale in comparison. 	The Bam Citadel	wonder_positive.png	region
+rom_wonder_colossus_rhodes	[[col:green]]Wonder[[/col]]\n\n"To you, O Sun, the people of Dorian Rhodes set up this bronze statue reaching to Olympus."	The Colossus of Rhodes	wonder_positive.png	region
+rom_wonder_karnag	[[col:green]]Wonder[[/col]]\n\nSwirled in mist and mystery, these stones have much to tell.	The Dolmens of Karnag	wonder_positive.png	region
+rom_wonder_kogaionon	[[col:green]]Wonder[[/col]]\n\nThe mountain wind still carries the voice of Zalmoxis.	Kogaionon	wonder_positive.png	region
+rom_wonder_mausoleum_mausolus	[[col:green]]Wonder[[/col]]\n\n"A memorial of his own fame and of the sculptor's art."	The Mausoleum at Halicarnassus	wonder_positive.png	region
+rom_wonder_mount_argaeus	[[col:green]]Wonder[[/col]]\n\nMount Argaeus, the highest mountain of all.	Mount Argaeus	wonder_positive.png	region
+rom_wonder_mount_behistun	[[col:green]]Wonder[[/col]]\n\nTemples may burn to the ground but mountains last forever. 	Mount Behistun	wonder_positive.png	region
+rom_wonder_mount_damavand	[[col:green]]Wonder[[/col]]\n\nWithin the depths of this mountain lies a terrible monster.	Mount Damavand	wonder_positive.png	region
+rom_wonder_mount_etna	[[col:green]]Wonder[[/col]]\n\nHome of Hephaestus' mighty forge and prison of the monster Typhon.	Mount Etna	wonder_positive.png	region
+rom_wonder_mount_olympus	[[col:green]]Wonder[[/col]]\n\nHome of the gods and mightiest of mountains.	Mount Olympus	wonder_positive.png	region
+rom_wonder_mount_vesuvius	[[col:green]]Wonder[[/col]]\n\nThose living in the shadow of Vesuvius respect its power.	Mount Vesuvius	wonder_positive.png	region
+rom_wonder_necropolis_giza	[[col:green]]Wonder[[/col]]\n\nThe swirling sands house the greatest treasures.	The Necropolis of Giza	wonder_positive.png	region
+rom_wonder_necropolis_rostam	[[col:green]]Wonder[[/col]]\n\nGreat men should never be lain to rest in the cold ground. 	The Necropolis of Rostam	wonder_positive.png	region
+rom_wonder_olympia	[[col:green]]Wonder[[/col]]\n\nIt is a wonder, to look upon the face of a god. 	The Statue of Zeus at Olympia	wonder_positive.png	region
+rom_wonder_oracle_amun_re	[[col:green]]Wonder[[/col]]\n\nOnly the worthy may hear the words of the Oracle. 	The Oracle of Amun-Re	wonder_positive.png	region
+rom_wonder_pharos_alexandria	[[col:green]]Wonder[[/col]]\n\nMay its light be a beacon when all other lights go out. 	The Pharos of Alexandria	wonder_positive.png	region
+rom_wonder_pillars_hercules	[[col:green]]Wonder[[/col]]\n\nGreat pillars created by the might of Hercules.	The Pillars of Hercules	wonder_positive.png	region
+rom_wonder_sanctuary_great_gods	[[col:green]]Wonder[[/col]]\n\nIn the heart of the sanctuary the Great Gods wait…	The Sanctuary of the Great Gods	wonder_positive.png	region
+rom_wonder_stonehenge	[[col:green]]Wonder[[/col]]\n\n"Their legacy remains, hewn into the living rock of Stonehenge."	Stonehenge	wonder_positive.png	region
+settlement_antioch	Happiness abounds in the golden city.	Antioch	settlement_ positive.png	region
+settlement_baktra	Behind the walls the citizens know they weather any siege.	Baktra	settlement_ positive.png	region
+settlement_carthago	All trade passes through here.	Carthago	settlement_ positive.png	region
+settlement_pella	The mines nearby are the reason the Macedonian Kings chose this place as their capital.	Pella	settlement_ positive.png	region
+settlement_pergamon	Many artisans benefit from the patronage of this city.	Pergamon	settlement_ positive.png	region
+settlement_rome	The large population provides many warm bodies to fill the ranks of the army.	Rome	settlement_ positive.png	region
+subject_culture_bad	Your culture suffers after your ill-judged choice.	Culture	religion_negative.png	faction
+subject_culture_good	Your culture is spreading thanks to your wise choices.	Culture	religion_positive.png	faction
+subject_diplomacy_bad	All nations look down on you in the wake of your decision.	Diplomacy	diplomacy_negative.png	faction
+subject_diplomacy_good	All nations respect your actions.	Diplomacy	diplomacy_positive.png	faction
+subject_gdp_bad	Hard times have befallen the land as a result of your action.	Wealth	wealth_negative.png	faction
+subject_gdp_good	Money flows through your lands after your good decision.	Wealth	wealth_positive.png	faction
+subject_happiness_bad	The people regard you with suspicion and mistrust as a result of your choice.	Happiness	public_order_negative.png	faction
+subject_happiness_good	Joy is felt throughout the land at the choice you made.	Happiness	public_order_positive.png	faction
+test_loyalty_character	This general is inspired by his party being loyal to the rulers.	Loyal General	morale_positive.png	character
+test_loyalty_province	This province is inspired by his party being loyal to the rulers.	Loyal Province	public_order_positive.png	region
+trait_gained	Some lessons in life change us and we become different people. 	A Trait Developed	dignitary_positive.png	faction
+wealth_from_culture_25_plus	High culture is the foundation of commercial success.	Sophisticated and Wealthy	wealth_positive.png	faction
+wealth_from_industry_25_minus	Times are hard for industry.	Industry on Hold	construction_negative.png	faction
+wealth_from_slaves_20_minus	Wealth lays on the shoulders of multitude of slaves.	Weaker Labour Force	slaves_negative.png	faction
+wealth_local_commerce_15_plus	Good times are brought by good trade.	Prosperous Trade	trade_positive.png	faction
+wealth_local_commerce_25_minus	We enter a period of economic contraction.	A Drought of Wealth	trade_negative.png	faction

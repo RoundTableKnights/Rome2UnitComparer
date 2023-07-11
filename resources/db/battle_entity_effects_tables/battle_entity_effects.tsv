@@ -1,0 +1,22 @@
+name	deep_water	forest	grass	mud	rock	road	sand	scrub	shallow_water	snow	wooden_floor
+#battle_entity_effects_tables;0;db/battle_entity_effects_tables/battle_entity_effects											
+man_impact	entity_vfx_water_impact	entity_vfx_terrain_impact	entity_vfx_terrain_impact	entity_vfx_terrain_impact			entity_vfx_terrain_impact		entity_vfx_water_impact		
+man_running				entity_vfx_terrain_standard			entity_vfx_terrain_standard		entity_vfx_wade_shallow	entity_vfx_terrain_snow	
+man_wading	entity_vfx_wade_deep								entity_vfx_wade_shallow		
+man_walking				entity_vfx_terrain_standard			entity_vfx_terrain_standard		entity_vfx_wade_shallow	entity_vfx_terrain_snow	
+mount_impact											
+mount_running				entity_vfx_terrain_standard			entity_vfx_terrain_standard		entity_vfx_wade_shallow	entity_vfx_terrain_snow	
+mount_wading	impact_vfx_hit_water_small								entity_vfx_wade_shallow		
+mount_walking				entity_vfx_terrain_standard			entity_vfx_terrain_standard		entity_vfx_wade_shallow	entity_vfx_terrain_snow	
+unit_artillery_combat											
+unit_artillery_running				unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_snow	
+unit_artillery_walking				unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_snow	
+unit_cavalry_combat											
+unit_cavalry_running				unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_snow	
+unit_cavalry_walking				unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_snow	
+unit_elephant_combat											
+unit_elephant_running				unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_snow	
+unit_elephant_walking				unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_snow	
+unit_infantry_combat											
+unit_infantry_running				unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_snow	
+unit_infantry_walking				unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_standard			unit_vfx_infantry_terrain_snow	

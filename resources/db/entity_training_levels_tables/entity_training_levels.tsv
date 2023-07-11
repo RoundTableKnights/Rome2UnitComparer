@@ -1,0 +1,8 @@
+training_level	max_offset_distance
+#entity_training_levels_tables;0;db/entity_training_levels_tables/entity_training_levels	
+elite	0.3000
+mob	1.7000
+poorly_trained	0.8000
+rabble	1.0000
+trained	0.6000
+well_trained	0.4000

@@ -1,0 +1,2624 @@
+campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_rank
+#character_skill_level_details_tables;0;db/character_skill_level_details_tables/character_skill_level_details						
+		0	army_1_siege_experts	sc_rom_numidian	x	7
+		0	army_3_light_cavalry_masters	sc_rom_numidian	x	5
+		1	3c_army_1_Accomplished_Archers		x	1
+		1	3c_army_1_Accomplished_Skirmishers		x	1
+		1	3c_army_1_Artillery_Experts		x	2
+		1	3c_army_1_Dread_Ambushers		x	2
+		1	3c_army_1_Dread_Ambushers_gallic		x	1
+main_invasion	inv_senones	1	3c_army_1_Dread_Ambushers_gallic		x	3
+		1	3c_army_1_Dread_Charioteers		x	2
+		1	3c_army_1_Dread_Charioteers_caledon		x	1
+main_invasion	inv_insubres	1	3c_army_1_Dread_Charioteers		x	4
+main_invasion	inv_senones	1	3c_army_1_Dread_Charioteers		x	4
+		1	3c_army_1_Engineering_Experts		x	1
+		1	3c_army_1_Formidable_Fighters		x	1
+		1	3c_army_1_Formidable_Spearmen		x	1
+		1	3c_army_1_Formidable_Swordsmen		x	1
+		1	3c_army_1_Keepers_of_the_Peace		x	2
+		1	3c_army_1_Keepers_of_the_Peace_gallic		x	2
+		1	3c_army_1_Light_Cavalry_Masters		x	1
+		1	3c_army_1_Siege_Experts		x	1
+		1	3c_army_1_Stalwart_Defenders		x	2
+		1	3c_army_2_Cavalry_Masters		x	2
+		1	3c_army_2_Furor_Celtica		x	2
+		1	3c_army_2_Furor_Germanicus		x	2
+		1	3c_army_2_Inexorable_Conquerors		x	2
+		1	3c_army_2_Unrelenting_Force		x	2
+		1	3c_army_3_Auxiliary_Corps		x	3
+		1	3c_army_3_Barbarian_Subjugators		x	3
+main_invasion	inv_rome	1	3c_army_3_Barbarian_Subjugators		x	1
+main_invasion	inv_taranto	1	3c_army_3_Barbarian_Subjugators		x	2
+main_invasion	inv_tarchuna	1	3c_army_3_Barbarian_Subjugators		x	2
+		1	3c_army_3_Cavalry_Masters		x	3
+		1	3c_army_3_Desert_Warriors		x	3
+		1	3c_army_3_Dread_Marauders		x	3
+		1	3c_army_3_Grand_Camp_Following		x	3
+main_invasion	inv_insubres	1	3c_army_3_Grand_Camp_Following		x	2
+main_invasion	inv_tarchuna	1	3c_army_3_Grand_Camp_Following		x	1
+main_invasion	inv_veneti	1	3c_army_3_Grand_Camp_Following		x	1
+		1	3c_army_3_Indomitable_Infantry		x	3
+		1	3c_army_3_Indomitable_Legionaries		x	3
+		1	3c_army_3_Light_Cavalry_Masters		x	3
+		1	3c_army_3_Mercenary_Host		x	3
+		1	3c_army_3_Spirit_of_the_Immortals		x	3
+		1	3c_army_4_Deadly_Assault_Force		x	4
+		1	3c_army_4_Dread_Invaders		x	4
+		1	3c_army_4_Nomadic_Horde		x	4
+main_invasion	inv_veneti	1	3c_army_4_Nomadic_Horde		x	3
+		1	3c_army_4_Peerless_Marksmen		x	4
+		1	3c_army_4_Sentinels_of_the_North		x	4
+		1	3c_army_4_Sons_of_Shapur		x	4
+		1	3c_army_4_True_Romans		x	4
+		1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_insubres	1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_iolei	1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_rome	1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_samnites	1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_senones	1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_syracuse	1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_taranto	1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_tarchuna	1	3c_army_4_Veteran_Army		x	4
+main_invasion	inv_veneti	1	3c_army_4_Veteran_Army		x	4
+		1	3c_army_4_Wolves_of_Teiwaz		x	4
+		1	3c_army_4_Wrath_of_Sol_Invictus		x	4
+		1	3c_general_admiral_1_navigator		x	1
+		1	3c_general_admiral_2_inspiring_admiral		x	2
+		1	3c_general_admiral_2_seasoned_marine		x	2
+		1	3c_general_admiral_3_maritime_archer		x	3
+		1	3c_general_admiral_3_naval_commander		x	3
+		1	3c_general_admiral_4_naval_tactics		x	4
+		1	3c_general_authority_1_efficient_recruiter		x	1
+		1	3c_general_authority_1_law_keeper		x	1
+		1	3c_general_authority_2_infantry_commander		x	2
+		1	3c_general_authority_2_master_builder		x	2
+		1	3c_general_authority_2_naval_commander		x	2
+		1	3c_general_authority_3_cavalry_commander		x	3
+		1	3c_general_authority_3_economic_administrator		x	3
+		1	3c_general_authority_3_inspiring_admiral		x	3
+		1	3c_general_authority_3_inspiring_general		x	3
+		1	3c_general_authority_4_great_leader		x	4
+		1	3c_general_bureaucrat_1_law_keeper		x	1
+		1	3c_general_bureaucrat_2_agricultural_expert		x	2
+		1	3c_general_bureaucrat_2_talented_architect		x	2
+		1	3c_general_bureaucrat_3_industrial_manager		x	3
+		1	3c_general_bureaucrat_3_patron_of_arts		x	3
+		1	3c_general_bureaucrat_4_economic_administrator		x	4
+		1	3c_general_cunning_1_navigator		x	1
+		1	3c_general_cunning_1_strategist		x	1
+		1	3c_general_cunning_2_artillery_master		x	2
+		1	3c_general_cunning_2_military_administrator		x	2
+		1	3c_general_cunning_2_vicious_despoiler		x	2
+		1	3c_general_cunning_3_covert_expert		x	3
+		1	3c_general_cunning_3_mercenary_recruiter		x	3
+		1	3c_general_cunning_3_siege_master		x	3
+		1	3c_general_cunning_3_skilled_logistician		x	3
+		1	3c_general_cunning_4_master_schemer		x	4
+		1	3c_general_general_1_efficient_recruiter		x	1
+		1	3c_general_general_2_infantry_commander		x	2
+		1	3c_general_general_2_inspiring_general		x	2
+		1	3c_general_general_3_cavalry_commander		x	3
+		1	3c_general_general_3_marching_instructor		x	3
+		1	3c_general_general_4_military_administrator		x	4
+		1	3c_general_mastermind_1_strategist		x	1
+		1	3c_general_mastermind_2_covert_expert		x	2
+		1	3c_general_mastermind_2_mercenary_recruiter		x	2
+		1	3c_general_mastermind_3_artillery_master		x	3
+		1	3c_general_mastermind_3_skilled_logistician		x	3
+		1	3c_general_mastermind_4_siege_master		x	4
+		1	3c_general_soldier_1_master_attacker		x	1
+		1	3c_general_soldier_2_master_defender		x	2
+		1	3c_general_soldier_2_master_of_onslaught		x	2
+		1	3c_general_soldier_3_leader_of_marskmen		x	3
+		1	3c_general_soldier_3_vicious_despoiler		x	3
+		1	3c_general_soldier_4_incarnation_of_dread		x	4
+		1	3c_general_zeal_1_master_defender		x	1
+		1	3c_general_zeal_1_warrior		x	1
+		1	3c_general_zeal_2_master_attacker		x	2
+		1	3c_general_zeal_2_master_of_onslaught		x	2
+		1	3c_general_zeal_2_seasoned_marine		x	2
+		1	3c_general_zeal_3_incarnation_of_dread		x	3
+		1	3c_general_zeal_3_leader_of_marskmen		x	3
+		1	3c_general_zeal_3_marching_instructor		x	3
+		1	3c_general_zeal_3_maritime_archer		x	3
+		1	3c_general_zeal_4_exemplary_soldier		x	4
+		1	3c_navy_1_Destroyers		x	1
+		1	3c_navy_1_Dread_Pirates		x	3
+		1	3c_navy_1_Formidable_Marines		x	1
+		1	3c_navy_1_Naval_Marksmen		x	1
+		1	3c_navy_2_Blockade_Runners		x	2
+		1	3c_navy_2_Intrepid_Escorts		x	2
+		1	3c_navy_2_Ship_Defenders		x	2
+		1	3c_navy_3_Able_Seamen		x	3
+main_invasion	inv_tarchuna	1	3c_navy_3_Able_Seamen		x	3
+		1	3c_navy_3_Master_Shipwrights		x	3
+		1	3c_navy_3_Pirate_Hunters		x	3
+		1	3c_navy_4_Masters_of_the_Sea		x	4
+		1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_insubres	1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_iolei	1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_rome	1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_samnites	1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_senones	1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_syracuse	1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_taranto	1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_tarchuna	1	3c_navy_4_Veteran_Fleet		x	4
+main_invasion	inv_veneti	1	3c_navy_4_Veteran_Fleet		x	4
+		1	age_agent_champion_authority_agitator		x	3
+		1	age_agent_champion_authority_drill_sergeant		x	1
+		1	age_agent_champion_authority_drunkard		x	3
+		1	age_agent_champion_authority_efficient		x	5
+		1	age_agent_champion_authority_evocatus		x	5
+		1	age_agent_champion_authority_explorer		x	1
+		1	age_agent_champion_authority_festive		x	3
+		1	age_agent_champion_authority_guardian		x	3
+		1	age_agent_champion_authority_historian		x	1
+		1	age_agent_champion_authority_horsebreeder		x	3
+		1	age_agent_champion_authority_inspirational		x	5
+		1	age_agent_champion_authority_mentor		x	1
+		1	age_agent_champion_authority_officer		x	3
+		1	age_agent_champion_authority_officer_native_units		x	3
+		1	age_agent_champion_authority_paedotribe		x	5
+		1	age_agent_champion_authority_protector		x	3
+		1	age_agent_champion_authority_renowned		x	5
+		1	age_agent_champion_subterfuge_ageestigator		x	3
+		1	age_agent_champion_subterfuge_harasser		x	3
+		1	age_agent_champion_subterfuge_hunter		x	3
+		1	age_agent_champion_subterfuge_interrogator		x	3
+		1	age_agent_champion_subterfuge_intimidating		x	1
+		1	age_agent_champion_subterfuge_murderous		x	5
+		1	age_agent_champion_subterfuge_nocturnal		x	3
+		1	age_agent_champion_subterfuge_resourceful		x	5
+		1	age_agent_champion_subterfuge_siege_expert		x	1
+		1	age_agent_champion_subterfuge_trapper		x	3
+		1	age_agent_champion_subterfuge_wicked		x	1
+		1	age_agent_champion_zeal_arsonist		x	1
+		1	age_agent_champion_zeal_bloodlust		x	5
+		1	age_agent_champion_zeal_centurion		x	1
+		1	age_agent_champion_zeal_duelist		x	5
+		1	age_agent_champion_zeal_eloquent		x	3
+		1	age_agent_champion_zeal_frenzied		x	1
+		1	age_agent_champion_zeal_heroic		x	5
+		1	age_agent_champion_zeal_hoplite		x	1
+		1	age_agent_champion_zeal_marksman		x	1
+		1	age_agent_champion_zeal_militant		x	5
+		1	age_agent_champion_zeal_praefectus		x	5
+		1	age_agent_champion_zeal_raider		x	3
+		1	age_agent_champion_zeal_resilient		x	3
+		1	age_agent_champion_zeal_sadistic		x	3
+		1	age_agent_champion_zeal_terrifying		x	3
+		1	age_agent_dignitary_authority_advocatus		x	1
+		1	age_agent_dignitary_authority_diplomatic		x	5
+		1	age_agent_dignitary_authority_entertainer		x	1
+		1	age_agent_dignitary_authority_financist		x	1
+		1	age_agent_dignitary_authority_herder		x	3
+		1	age_agent_dignitary_authority_lawful		x	1
+		1	age_agent_dignitary_authority_officium		x	5
+		1	age_agent_dignitary_authority_orator		x	1
+		1	age_agent_dignitary_authority_persuasive		x	3
+		1	age_agent_dignitary_authority_philosopher		x	1
+		1	age_agent_dignitary_authority_political		x	1
+		1	age_agent_dignitary_authority_slaver		x	3
+		1	age_agent_dignitary_authority_supplier		x	1
+		1	age_agent_dignitary_authority_tutor		x	5
+		1	age_agent_dignitary_subterfuge_contractor		x	1
+		1	age_agent_dignitary_subterfuge_dealer		x	5
+		1	age_agent_dignitary_subterfuge_embezzler		x	3
+		1	age_agent_dignitary_subterfuge_employer		x	3
+		1	age_agent_dignitary_subterfuge_emporos		x	3
+		1	age_agent_dignitary_subterfuge_fanatic		x	3
+		1	age_agent_dignitary_subterfuge_generous		x	1
+		1	age_agent_dignitary_subterfuge_greedy		x	1
+		1	age_agent_dignitary_subterfuge_imperious		x	3
+		1	age_agent_dignitary_subterfuge_mi'mar		x	1
+		1	age_agent_dignitary_subterfuge_silver_tongue		x	5
+		1	age_agent_dignitary_subterfuge_smuggler		x	5
+		1	age_agent_dignitary_subterfuge_strict		x	1
+		1	age_agent_dignitary_subterfuge_vower		x	3
+		1	age_agent_dignitary_zeal_advisor		x	1
+		1	age_agent_dignitary_zeal_azad		x	3
+		1	age_agent_dignitary_zeal_chant		x	3
+		1	age_agent_dignitary_zeal_corrupt		x	5
+		1	age_agent_dignitary_zeal_leader		x	5
+		1	age_agent_dignitary_zeal_magi		x	3
+		1	age_agent_dignitary_zeal_motivator		x	3
+		1	age_agent_dignitary_zeal_noble		x	3
+		1	age_agent_dignitary_zeal_rhetoric		x	5
+		1	age_agent_dignitary_zeal_romanizer		x	5
+		1	age_agent_dignitary_zeal_sphagia		x	3
+		1	age_agent_dignitary_zeal_underhanded		x	1
+		1	age_agent_dignitary_zeal_warmonger		x	3
+		1	age_agent_spy_authority_conspirator		x	5
+		1	age_agent_spy_authority_despoiler		x	3
+		1	age_agent_spy_authority_hunter		x	5
+		1	age_agent_spy_authority_naturalist		x	1
+		1	age_agent_spy_authority_network		x	1
+		1	age_agent_spy_authority_pathfinder		x	5
+		1	age_agent_spy_authority_spasaka		x	3
+		1	age_agent_spy_authority_speculatore		x	5
+		1	age_agent_spy_authority_studious		x	1
+		1	age_agent_spy_authority_watchman		x	3
+		1	age_agent_spy_subterfuge_actor		x	1
+		1	age_agent_spy_subterfuge_assistant		x	1
+		1	age_agent_spy_subterfuge_contacts		x	5
+		1	age_agent_spy_subterfuge_coordinator		x	3
+		1	age_agent_spy_subterfuge_deceiver		x	5
+		1	age_agent_spy_subterfuge_discord		x	5
+		1	age_agent_spy_subterfuge_hallucinogens		x	5
+		1	age_agent_spy_subterfuge_hideout		x	1
+		1	age_agent_spy_subterfuge_liar		x	3
+		1	age_agent_spy_subterfuge_lookout		x	1
+		1	age_agent_spy_subterfuge_mandrake		x	5
+		1	age_agent_spy_subterfuge_thief		x	1
+		1	age_agent_spy_subterfuge_toxic		x	5
+		1	age_agent_spy_subterfuge_tracker		x	3
+		1	age_agent_spy_zeal_animal_hater		x	3
+		1	age_agent_spy_zeal_blight		x	1
+		1	age_agent_spy_zeal_bookworm		x	3
+		1	age_agent_spy_zeal_careful		x	1
+		1	age_agent_spy_zeal_counterspy		x	1
+		1	age_agent_spy_zeal_deadly		x	5
+		1	age_agent_spy_zeal_looter		x	3
+		1	age_agent_spy_zeal_menace		x	1
+		1	age_agent_spy_zeal_military_espionage		x	3
+		1	age_agent_spy_zeal_saboteur		x	5
+		1	age_agent_spy_zeal_specialist		x	1
+		1	agent_background_champion_athlete_generic		x	0
+		1	agent_background_champion_athlete_hellenic_olympian		x	0
+		1	agent_background_champion_avaricious_generic		x	0
+		1	agent_background_champion_brute_generic		x	0
+		1	agent_background_champion_brute_germanic_berserker		x	0
+		1	agent_background_champion_commoner_generic		x	0
+		1	agent_background_champion_contender_roman_gladiator		x	0
+		1	agent_background_champion_guard_barbarian_sentinel		x	0
+		1	agent_background_champion_guard_generic		x	0
+		1	agent_background_champion_guard_roman_vigile		x	0
+		1	agent_background_champion_martial_artist_eastern_pahlavani		x	0
+		1	agent_background_champion_martial_artist_egyptian_sebekkha		x	0
+		1	agent_background_champion_martial_artist_generic		x	0
+		1	agent_background_champion_martial_artist_greco_roman_pankration		x	0
+		1	agent_background_champion_military_engineer_generic		x	0
+		1	agent_background_champion_officer_barbarian_warmaster		x	0
+		1	agent_background_champion_officer_rome_tribune		x	0
+		1	agent_background_champion_quartermaster_generic		x	0
+		1	agent_background_champion_talented_generic		x	0
+		1	agent_background_champion_warhero_barbarian_wardancer		x	0
+		1	agent_background_champion_warhero_generic		x	0
+		1	agent_background_dignitary_councillor_barbarian_elder		x	0
+		1	agent_background_dignitary_councillor_generic		x	0
+		1	agent_background_dignitary_councillor_roman_senator		x	0
+		1	agent_background_dignitary_councillor_royal_courtier		x	0
+		1	agent_background_dignitary_courtesan_greek_hetaera		x	0
+		1	agent_background_dignitary_healer_generic		x	0
+		1	agent_background_dignitary_merchant_generic		x	0
+		1	agent_background_dignitary_merchant_hellenic_plutocrat		x	0
+		1	agent_background_dignitary_merchant_roman_magnate		x	0
+		1	agent_background_dignitary_militarist_barbarian_warmonger		x	0
+		1	agent_background_dignitary_militarist_generic		x	0
+		1	agent_background_dignitary_orator_barbarian_lore		x	0
+		1	agent_background_dignitary_orator_egypt_chantress		x	0
+		1	agent_background_dignitary_overseer_barbarian_arbiter		x	0
+		1	agent_background_dignitary_overseer_carthaginian_landowner		x	0
+		1	agent_background_dignitary_overseer_generic		x	0
+		1	agent_background_dignitary_overseer_spartan_female_landowner		x	0
+		1	agent_background_dignitary_physician_barbarian_healer		x	0
+		1	agent_background_dignitary_sacrificer_generic		x	0
+		1	agent_background_dignitary_scholar_barbarian_sage		x	0
+		1	agent_background_dignitary_scholar_generic		x	0
+		1	agent_background_dignitary_seer_carthaginian_kohanim		x	0
+		1	agent_background_dignitary_seer_druidic_vates		x	0
+		1	agent_background_dignitary_seer_eastern_astrologer		x	0
+		1	agent_background_dignitary_seer_egyptian_hemet_netjer		x	0
+		1	agent_background_dignitary_seer_generic		x	0
+		1	agent_background_dignitary_seer_germanic_spakona		x	0
+		1	agent_background_dignitary_seer_greek_female_oracle		x	0
+		1	agent_background_dignitary_seer_greek_male_mantis		x	0
+		1	agent_background_dignitary_seer_nomadic_shaman		x	0
+		1	agent_background_dignitary_seer_roman_augur		x	0
+		1	agent_background_dignitary_singer_generic		x	0
+		1	agent_background_dignitary_talented_generic		x	0
+		1	agent_background_dignitary_taxman_generic		x	0
+		1	agent_background_dignitary_taxman_roman_publican		x	0
+		1	agent_background_spy_alchemist_barbarian_herbalist		x	0
+		1	agent_background_spy_attendant_eastern_scribe		x	0
+		1	agent_background_spy_attendant_generic		x	0
+		1	agent_background_spy_courier_generic		x	0
+		1	agent_background_spy_courtesan_generic		x	0
+		1	agent_background_spy_craftsman_generic		x	0
+		1	agent_background_spy_criminal_generic		x	0
+		1	agent_background_spy_farmer_generic		x	0
+		1	agent_background_spy_handler_generic		x	0
+		1	agent_background_spy_poet_celtic_bard		x	0
+		1	agent_background_spy_poet_eastern_gosan		x	0
+		1	agent_background_spy_poet_generic		x	0
+		1	agent_background_spy_poet_germanic_scop		x	0
+		1	agent_background_spy_scout_barbarian_hunter		x	0
+		1	agent_background_spy_scout_generic		x	0
+		1	agent_background_spy_scout_roman_explorator		x	0
+		1	agent_background_spy_shadow_generic		x	0
+		1	agent_background_spy_slave_generic		x	0
+		1	agent_background_spy_talented_generic		x	0
+		1	agent_champion_authority_1_paragon		x	1
+		1	agent_champion_authority_2_unity		x	2
+		1	agent_champion_authority_2_valour		x	2
+		1	agent_champion_subterfuge_1_partisan		x	1
+		1	agent_champion_subterfuge_2_artifice		x	2
+		1	agent_champion_subterfuge_2_stratagem		x	2
+		1	agent_champion_zeal_1_champion		x	1
+		1	agent_champion_zeal_2_strength		x	2
+		1	agent_champion_zeal_2_warfare		x	2
+		1	agent_champion_zeal_3_audacity		x	3
+		1	agent_champion_zeal_3_militancy		x	3
+		1	agent_dignitary_authority_1_dignitary		x	1
+		1	agent_dignitary_authority_2_philosophy		x	2
+		1	agent_dignitary_authority_2_politics		x	2
+		1	agent_dignitary_authority_3_demagogy		x	3
+		1	agent_dignitary_authority_3_martial_philosophy		x	3
+		1	agent_dignitary_subterfuge_1_conspirator		x	1
+		1	agent_dignitary_subterfuge_2_intrigue		x	2
+		1	agent_dignitary_subterfuge_2_treachery		x	2
+		1	agent_dignitary_zeal_1_provocateur		x	1
+		1	agent_dignitary_zeal_2_doom		x	2
+		1	agent_dignitary_zeal_2_propaganda		x	2
+		1	agent_spy_authority_1_agent		x	1
+		1	agent_spy_authority_2_collaboration		x	2
+		1	agent_spy_authority_2_disruption		x	2
+		1	agent_spy_subterfuge_1_spy		x	1
+		1	agent_spy_subterfuge_2_clandestinity		x	2
+		1	agent_spy_subterfuge_2_reconnaisance		x	2
+		1	agent_spy_subterfuge_3_infiltration		x	3
+		1	agent_spy_subterfuge_3_mass_poison		x	3
+		1	agent_spy_zeal_1_antagonist		x	1
+		1	agent_spy_zeal_2_murder		x	2
+		1	agent_spy_zeal_2_sabotage		x	2
+		1	army_1_accomplished_archers		x	1
+main_invasion	inv_iolei	1	army_1_accomplished_archers		x	1
+		1	army_1_accomplished_skirmishers		x	1
+main_invasion	inv_insubres	1	army_1_accomplished_skirmishers		x	1
+main_invasion	inv_iolei	1	army_1_accomplished_skirmishers		x	1
+main_invasion	inv_rome	1	army_1_accomplished_skirmishers		x	1
+main_invasion	inv_samnites	1	army_1_accomplished_skirmishers		x	1
+main_invasion	inv_senones	1	army_1_accomplished_skirmishers		x	1
+main_invasion	inv_syracuse	1	army_1_accomplished_skirmishers		x	1
+main_invasion	inv_taranto	1	army_1_accomplished_skirmishers		x	1
+main_invasion	inv_veneti	1	army_1_accomplished_skirmishers		x	2
+		1	army_1_artillery_experts		x	2
+main_invasion	inv_syracuse	1	army_1_artillery_experts		x	1
+main_invasion	inv_taranto	1	army_1_artillery_experts		x	1
+		1	army_1_dread_charioteers		x	1
+main_rome	rom_kush	1	army_1_dread_charioteers		x	2
+main_rome	rom_nabatea	1	army_1_dread_charioteers		x	2
+		1	army_1_engineering_experts		x	1
+main_rome	rom_kush	1	army_1_engineering_experts		x	2
+main_rome	rom_masaesyli	1	army_1_engineering_experts		x	1
+main_rome	rom_nabatea	1	army_1_engineering_experts		x	2
+main_rome	rom_saba	1	army_1_engineering_experts		x	2
+		1	army_1_formidable_fighters		x	1
+main_invasion	inv_insubres	1	army_1_formidable_fighters		x	1
+main_invasion	inv_iolei	1	army_1_formidable_fighters		x	1
+main_invasion	inv_samnites	1	army_1_formidable_fighters		x	2
+main_invasion	inv_senones	1	army_1_formidable_fighters		x	1
+		1	army_1_formidable_fighters	sc_rom_barb_east	x	2
+		1	army_1_formidable_spearmen		x	1
+main_invasion	inv_syracuse	1	army_1_formidable_spearmen		x	1
+main_invasion	inv_taranto	1	army_1_formidable_spearmen		x	1
+		1	army_1_formidable_swordsmen		x	1
+		1	army_1_siege_experts		x	1
+main_invasion	inv_insubres	1	army_1_siege_experts		x	3
+main_invasion	inv_rome	1	army_1_siege_experts		x	3
+main_invasion	inv_syracuse	1	army_1_siege_experts		x	2
+main_invasion	inv_taranto	1	army_1_siege_experts		x	2
+main_invasion	inv_tarchuna	1	army_1_siege_experts		x	3
+		1	army_1_siege_experts	sc_rom_african_arabian	x	3
+		1	army_1_siege_experts	sc_rom_barb_east	x	3
+		1	army_1_siege_experts	sc_rom_british	x	3
+		1	army_1_siege_experts	sc_rom_celtiberian	x	3
+		1	army_1_siege_experts	sc_rom_celtic	x	3
+		1	army_1_siege_experts	sc_rom_daco_thracian	x	3
+		1	army_1_siege_experts	sc_rom_eastern	x	2
+		1	army_1_siege_experts	sc_rom_gaul	x	3
+		1	army_1_siege_experts	sc_rom_germanic	x	3
+		1	army_1_siege_experts	sc_rom_illyrian	x	3
+		1	army_1_siege_experts	sc_rom_numidian	x	3
+		1	army_1_siege_experts	sc_rom_parthian	x	2
+		1	army_2_ambushers		x	2
+main_invasion		1	army_2_ambushers_samnites		x	1
+main_invasion	inv_iolei	1	army_2_ambushers		x	2
+main_invasion	inv_samnites	1	army_2_ambushers		x	1
+		1	army_2_ambushers	sc_rom_barb_east	x	1
+		1	army_2_desert_ambushers		x	2
+		1	army_2_forest_ambushers		x	1
+main_invasion	inv_insubres	1	army_2_forest_ambushers		x	2
+main_invasion	inv_iolei	1	army_2_forest_ambushers		x	3
+main_invasion	inv_samnites	1	army_2_forest_ambushers		x	2
+		1	army_2_furor_germanicus		x	2
+		1	army_2_inexorable_conquerors		x	2
+main_invasion	inv_senones	1	army_2_inexorable_conquerors		x	3
+		1	army_2_inexorable_horde		x	2
+		1	army_2_inexorable_horde	sc_rom_barb_east	x	1
+		1	army_2_inexorable_horde	sc_rom_germanic	x	1
+		1	army_2_keepers_of_peace		x	2
+main_invasion	inv_insubres	1	army_2_keepers_of_peace		x	1
+main_invasion	inv_tarchuna	1	army_2_keepers_of_peace		x	1
+main_invasion	inv_veneti	1	army_2_keepers_of_peace		x	3
+main_rome	rom_kush	1	army_2_keepers_of_peace		x	1
+main_rome	rom_masaesyli	1	army_2_keepers_of_peace		x	2
+main_rome	rom_nabatea	1	army_2_keepers_of_peace		x	1
+main_rome	rom_saba	1	army_2_keepers_of_peace		x	1
+		1	army_2_stalwart_defenders_barbarian		x	2
+main_invasion	inv_insubres	1	army_2_stalwart_defenders_barbarian		x	2
+main_invasion	inv_iolei	1	army_2_stalwart_defenders_barbarian		x	2
+main_invasion	inv_senones	1	army_2_stalwart_defenders_barbarian		x	2
+		1	army_2_stalwart_defenders_eastern		x	2
+		1	army_2_stalwart_defenders_hellenic		x	2
+main_invasion	inv_syracuse	1	army_2_stalwart_defenders_hellenic		x	2
+main_invasion	inv_taranto	1	army_2_stalwart_defenders_hellenic		x	3
+		1	army_2_stalwart_defenders_rome		x	2
+main_invasion	inv_rome	1	army_2_stalwart_defenders_rome		x	1
+main_invasion	inv_samnites	1	army_2_stalwart_defenders_rome		x	2
+main_invasion	inv_tarchuna	1	army_2_stalwart_defenders_rome		x	1
+main_invasion	inv_veneti	1	army_2_stalwart_defenders_rome		x	2
+		1	army_2_unrelenting_force		x	2
+main_invasion	inv_insubres	1	army_2_unrelenting_force		x	3
+main_invasion	inv_iolei	1	army_2_unrelenting_force		x	4
+main_invasion	inv_rome	1	army_2_unrelenting_force		x	2
+main_invasion	inv_samnites	1	army_2_unrelenting_force		x	4
+main_invasion	inv_senones	1	army_2_unrelenting_force		x	2
+main_invasion	inv_taranto	1	army_2_unrelenting_force		x	3
+main_invasion	inv_tarchuna	1	army_2_unrelenting_force		x	3
+main_invasion	inv_veneti	1	army_2_unrelenting_force		x	3
+		1	army_3_auxiliary_corps		x	3
+main_invasion	inv_rome	1	army_3_auxiliary_corps		x	2
+		1	army_3_barbarian_subjugators		x	3
+		1	army_3_camp_following		x	3
+main_invasion	inv_iolei	1	army_3_camp_following		x	3
+main_invasion	inv_samnites	1	army_3_camp_following		x	1
+main_invasion	inv_senones	1	army_3_camp_following		x	2
+main_invasion	inv_syracuse	1	army_3_camp_following		x	4
+main_invasion	inv_taranto	1	army_3_camp_following		x	4
+		1	army_3_cavalry_masters		x	3
+main_invasion	inv_taranto	1	army_3_cavalry_masters		x	2
+main_invasion	inv_veneti	1	army_3_cavalry_masters		x	2
+		1	army_3_companions		x	3
+main_rome	rom_nabatea	1	army_3_companions		x	2
+		1	army_3_dread_marauders		x	3
+main_invasion	inv_samnites	1	army_3_dread_marauders		x	3
+main_invasion	inv_senones	1	army_3_dread_marauders		x	3
+		1	army_3_dread_marauders	sc_rom_barb_east	x	2
+		1	army_3_immortals		x	3
+main_invasion	inv_rome	1	army_3_indomitable_heavy_warriors		x	4
+		1	army_3_indomitable_hoplites		x	3
+main_invasion	inv_syracuse	1	army_3_indomitable_hoplites		x	4
+		1	army_3_indomitable_infantry		x	3
+main_invasion	inv_rome	1	army_3_indomitable_infantry		x	2
+main_invasion	inv_syracuse	1	army_3_indomitable_infantry		x	3
+main_invasion	inv_tarchuna	1	army_3_indomitable_infantry		x	2
+		1	army_3_indomitable_legionaries		x	3
+main_invasion	inv_rome	1	army_3_indomitable_legionaries		x	4
+		1	army_3_light_cavalry_masters		x	3
+main_invasion	inv_iolei	1	army_3_light_cavalry_masters		x	3
+main_invasion	inv_veneti	1	army_3_light_cavalry_masters		x	1
+main_rome	rom_kush	1	army_3_light_cavalry_masters		x	3
+		1	army_3_light_cavalry_masters	sc_rom_barb_east	x	1
+		1	army_3_light_cavalry_masters	sc_rom_daco_thracian	x	1
+		1	army_3_light_cavalry_masters	sc_rom_eastern	x	1
+		1	army_3_light_cavalry_masters	sc_rom_gaul	x	1
+		1	army_3_light_cavalry_masters	sc_rom_illyrian	x	1
+		1	army_3_light_cavalry_masters	sc_rom_numidian	x	1
+		1	army_3_light_cavalry_masters	sc_rom_parthian	x	1
+		1	army_3_mercenary_host		x	3
+main_invasion	inv_samnites	1	army_3_mercenary_host		x	3
+main_invasion	inv_syracuse	1	army_3_mercenary_host		x	2
+main_invasion	inv_tarchuna	1	army_3_mercenary_host		x	3
+		1	army_3_native_corps		x	2
+main_invasion	inv_syracuse	1	army_3_native_corps		x	3
+		1	army_3_strength_through_unity		x	4
+main_invasion	inv_samnites	1	army_3_strength_through_unity		x	3
+		1	army_3_unfettered_warriors		x	3
+main_invasion	inv_insubres	1	army_3_unfettered_warriors		x	3
+main_invasion	inv_iolei	1	army_3_unfettered_warriors		x	2
+main_invasion	inv_senones	1	army_3_unfettered_warriors		x	1
+main_invasion	inv_tarchuna	1	army_3_unfettered_warriors		x	2
+main_invasion	inv_veneti	1	army_3_unfettered_warriors		x	1
+		1	army_4_andraste_chosen		x	4
+		1	army_4_battle_hardened		x	4
+		1	army_4_caravan_guards		x	4
+main_invasion	inv_insubres	1	army_4_caravan_guards		x	4
+main_invasion	inv_veneti	1	army_4_caravan_guards		x	4
+		1	army_4_cavalry_experts		x	4
+main_invasion	inv_veneti	1	army_4_cavalry_experts		x	4
+		1	army_4_defenders_of_rome		x	4
+main_invasion	inv_rome	1	army_4_defenders_of_rome		x	3
+		1	army_4_expert_archers		x	4
+main_invasion	inv_iolei	1	army_4_expert_archers		x	4
+		1	army_4_hellenic_wartime_legacy		x	4
+		1	army_4_heralds_of_antigonus		x	4
+		1	army_4_hounds_of_molossus		x	4
+main_invasion	inv_rome	1	army_4_hounds_of_molossus		x	3
+main_invasion	inv_syracuse	1	army_4_hounds_of_molossus		x	3
+main_invasion	inv_taranto	1	army_4_hounds_of_molossus		x	3
+		1	army_4_legacy_of_brennus		x	4
+main_invasion	inv_senones	1	army_4_legacy_of_brennus		x	4
+		1	army_4_logistic_experts		x	4
+main_invasion	inv_samnites	1	army_4_logistic_experts		x	4
+		1	army_4_pahlavans_of_the_east		x	4
+		1	army_4_peers_of_leonidas		x	4
+main_invasion	inv_taranto	1	army_4_peers_of_leonidas		x	4
+		1	army_4_propagators		x	4
+main_invasion	inv_tarchuna	1	army_4_propagators		x	4
+		1	army_4_slave_subduers		x	4
+		1	army_4_steppe_horde		x	4
+		1	army_4_the_wrath_of_romulus		x	4
+main_invasion	inv_rome	1	army_4_the_wrath_of_romulus		x	4
+		1	army_4_victors_of_seleucia		x	4
+		1	army_4_war_merchants		x	4
+main_invasion	inv_tarchuna	1	army_4_war_merchants		x	4
+		1	army_4_wolves_teiwaz		x	4
+		1	general_architect_3		x	3
+		1	general_aspbed_4		x	4
+		1	general_axe_3		x	3
+		1	general_azatan_commander_3		x	3
+		1	general_background_non_roman_personal_authority		x	0
+		1	general_background_non_roman_personal_courage		x	0
+		1	general_background_non_roman_personal_dignity		x	0
+		1	general_background_non_roman_personal_dutifulness		x	0
+		1	general_background_non_roman_personal_fortitude		x	0
+		1	general_background_non_roman_personal_frugality		x	0
+		1	general_background_non_roman_personal_gravity		x	0
+		1	general_background_non_roman_personal_humanity		x	0
+		1	general_background_non_roman_personal_humour		x	0
+		1	general_background_non_roman_personal_industriousness		x	0
+		1	general_background_non_roman_personal_mercy		x	0
+		1	general_background_non_roman_personal_prudence		x	0
+		1	general_background_non_roman_personal_respectability		x	0
+		1	general_background_non_roman_personal_sternness		x	0
+		1	general_background_non_roman_personal_tenacity		x	0
+		1	general_background_non_roman_personal_truthfulness		x	0
+		1	general_background_non_roman_personal_wholesomeness		x	0
+		1	general_background_non_roman_public_agriculture		x	0
+		1	general_background_non_roman_public_clemency		x	0
+		1	general_background_non_roman_public_confidence		x	0
+		1	general_background_non_roman_public_dutifulness		x	0
+		1	general_background_non_roman_public_endurance		x	0
+		1	general_background_non_roman_public_fair		x	0
+		1	general_background_non_roman_public_faith		x	0
+		1	general_background_non_roman_public_forethought		x	0
+		1	general_background_non_roman_public_fortune		x	0
+		1	general_background_non_roman_public_freedom		x	0
+		1	general_background_non_roman_public_giving		x	0
+		1	general_background_non_roman_public_harmony		x	0
+		1	general_background_non_roman_public_health		x	0
+		1	general_background_non_roman_public_hope		x	0
+		1	general_background_non_roman_public_joy		x	0
+		1	general_background_non_roman_public_justice		x	0
+		1	general_background_non_roman_public_luck		x	0
+		1	general_background_non_roman_public_mirth		x	0
+		1	general_background_non_roman_public_modesty		x	0
+		1	general_background_non_roman_public_nobility		x	0
+		1	general_background_non_roman_public_peace		x	0
+		1	general_background_non_roman_public_plenty		x	0
+		1	general_background_non_roman_public_prosperity		x	0
+		1	general_background_non_roman_public_spirit		x	0
+		1	general_background_non_roman_public_wealth		x	0
+		1	general_background_roman_personal_authority		x	0
+		1	general_background_roman_personal_courage		x	0
+		1	general_background_roman_personal_dignity		x	0
+		1	general_background_roman_personal_dutifulness		x	0
+		1	general_background_roman_personal_fortitude		x	0
+		1	general_background_roman_personal_frugality		x	0
+		1	general_background_roman_personal_gravity		x	0
+		1	general_background_roman_personal_humanity		x	0
+		1	general_background_roman_personal_humour		x	0
+		1	general_background_roman_personal_industriousness		x	0
+		1	general_background_roman_personal_mercy		x	0
+		1	general_background_roman_personal_prudence		x	0
+		1	general_background_roman_personal_respectability		x	0
+		1	general_background_roman_personal_sternness		x	0
+		1	general_background_roman_personal_tenacity		x	0
+		1	general_background_roman_personal_truthfulness		x	0
+		1	general_background_roman_personal_wholesomeness		x	0
+		1	general_background_roman_public_agriculture		x	0
+		1	general_background_roman_public_clemency		x	0
+		1	general_background_roman_public_confidence		x	0
+		1	general_background_roman_public_dutifulness		x	0
+		1	general_background_roman_public_endurance		x	0
+		1	general_background_roman_public_fair		x	0
+		1	general_background_roman_public_faith		x	0
+		1	general_background_roman_public_forethought		x	0
+		1	general_background_roman_public_fortune		x	0
+		1	general_background_roman_public_freedom		x	0
+		1	general_background_roman_public_giving		x	0
+		1	general_background_roman_public_harmony		x	0
+		1	general_background_roman_public_health		x	0
+		1	general_background_roman_public_hope		x	0
+		1	general_background_roman_public_joy		x	0
+		1	general_background_roman_public_justice		x	0
+		1	general_background_roman_public_luck		x	0
+		1	general_background_roman_public_mirth		x	0
+		1	general_background_roman_public_modesty		x	0
+		1	general_background_roman_public_nobility		x	0
+		1	general_background_roman_public_peace		x	0
+		1	general_background_roman_public_plenty		x	0
+		1	general_background_roman_public_prosperity		x	0
+		1	general_background_roman_public_roman_spirit		x	0
+		1	general_background_roman_public_wealth		x	0
+		1	general_bard_1		x	1
+		1	general_blockade_expert_2		x	2
+		1	general_blockade_expert_3		x	3
+		1	general_border_guardian_3		x	3
+		1	general_bowl_3		x	3
+		1	general_bowman_2		x	2
+		1	general_brute_3		x	3
+		1	general_cetus_4		x	4
+		1	general_commander_1		x	1
+		1	general_commander_2_admiral		x	2
+		1	general_commander_2_cavalry_east		x	2
+		1	general_commander_2_general		x	2
+		1	general_commander_3_artillery		x	3
+		1	general_commander_3_cavalry		x	3
+		1	general_commander_3_infantry		x	3
+		1	general_commander_3_naval_assault		x	3
+		1	general_commander_3_naval_support		x	3
+		1	general_commander_4_great_leader		x	4
+		1	general_commander_barb_2_infantry		x	2
+		1	general_contractor_1		x	1
+		1	general_desert_leader_4		x	4
+		1	general_diplomat_4		x	4
+		1	general_entrepreneur_4		x	4
+		1	general_gre_warmonger_4_virtue		x	2
+		1	general_gruesome_3		x	3
+		1	general_horde_leader_4		x	4
+		1	general_horse_breeder_3		x	3
+		1	general_horse_tamer_3		x	3
+		1	general_horticulturist_3		x	3
+		1	general_inspirational_2		x	2
+		1	general_judge_4		x	4
+		1	general_legend_4		x	4
+		1	general_magnate_4		x	4
+		1	general_manager_3		x	3
+		1	general_marksman_3		x	3
+		1	general_master_hunter_3		x	3
+		1	general_master_magi_4		x	4
+		1	general_master_merchant_3		x	3
+		1	general_nisean_chargers_3		x	3
+		1	general_overseer_4		x	4
+		1	general_paragon_4		x	4
+		1	general_persuasive_3		x	3
+		1	general_philosopher_1		x	1
+		1	general_plough_and_yoke_3		x	3
+		1	general_port_master_1		x	1
+		1	general_raven_2		x	2
+		1	general_religious_2_east		x	2
+		1	general_religious_3		x	3
+		1	general_scientific_2_east		x	2
+		1	general_scientific_3		x	3
+		1	general_scout_2		x	3
+		1	general_sentinel_4		x	4
+		1	general_sleuth_3		x	3
+		1	general_spahbed_4		x	4
+		1	general_stag_3		x	3
+		1	general_strategist_1		x	1
+		1	general_strategist_2_navigator		x	2
+		1	general_strategist_2_tactician		x	2
+		1	general_strategist_3_administration		x	3
+		1	general_strategist_3_assimilator		x	3
+		1	general_strategist_3_covert_action		x	3
+		1	general_strategist_3_covert_action_germanic		x	3
+		1	general_strategist_3_logistics		x	3
+		1	general_strategist_3_mercenary		x	3
+		1	general_strategist_3_siegecraft		x	3
+		1	general_strategist_4_master_tactician		x	4
+		1	general_trafficker_3		x	3
+		1	general_tutor_3		x	3
+		1	general_valorous_4		x	4
+		1	general_warmonger_1		x	1
+		1	general_warmonger_2_marine		x	2
+		1	general_warmonger_2_soldier		x	2
+		1	general_warmonger_2_virtue		x	2
+		1	general_warmonger_3_defence		x	3
+		1	general_warmonger_3_despoil		x	3
+		1	general_warmonger_3_dread		x	3
+		1	general_warmonger_3_offense		x	3
+		1	general_warmonger_3_virtue		x	3
+		1	general_warmonger_4_fearless_warrior		x	4
+		1	general_wolf_3		x	3
+		1	general_wrathful_3		x	3
+		1	navy_1_destroyers		x	1
+main_invasion	inv_syracuse	1	navy_1_destroyers		x	1
+main_invasion	inv_taranto	1	navy_1_destroyers		x	1
+main_invasion	inv_tarchuna	1	navy_1_destroyers		x	1
+		1	navy_1_formidable_marines		x	1
+main_invasion	inv_insubres	1	navy_1_formidable_marines		x	1
+main_invasion	inv_iolei	1	navy_1_formidable_marines		x	1
+main_invasion	inv_rome	1	navy_1_formidable_marines		x	1
+main_invasion	inv_samnites	1	navy_1_formidable_marines		x	1
+main_invasion	inv_senones	1	navy_1_formidable_marines		x	1
+main_invasion	inv_syracuse	1	navy_1_formidable_marines		x	1
+main_invasion	inv_taranto	1	navy_1_formidable_marines		x	1
+main_invasion	inv_tarchuna	1	navy_1_formidable_marines		x	1
+main_invasion	inv_veneti	1	navy_1_formidable_marines		x	1
+		1	navy_1_formidable_marines	sc_rom_barb_east	x	2
+		1	navy_1_great_marksmen		x	1
+main_invasion	inv_insubres	1	navy_1_great_marksmen		x	1
+main_invasion	inv_iolei	1	navy_1_great_marksmen		x	1
+main_invasion	inv_rome	1	navy_1_great_marksmen		x	1
+main_invasion	inv_samnites	1	navy_1_great_marksmen		x	1
+main_invasion	inv_senones	1	navy_1_great_marksmen		x	1
+main_invasion	inv_syracuse	1	navy_1_great_marksmen		x	1
+main_invasion	inv_taranto	1	navy_1_great_marksmen		x	1
+main_invasion	inv_tarchuna	1	navy_1_great_marksmen		x	1
+main_invasion	inv_veneti	1	navy_1_great_marksmen		x	1
+		1	navy_2_blockade_runners		x	2
+main_invasion	inv_insubres	1	navy_2_blockade_runners		x	2
+main_invasion	inv_iolei	1	navy_2_blockade_runners		x	2
+main_invasion	inv_rome	1	navy_2_blockade_runners		x	2
+main_invasion	inv_samnites	1	navy_2_blockade_runners		x	2
+main_invasion	inv_senones	1	navy_2_blockade_runners		x	2
+main_invasion	inv_syracuse	1	navy_2_blockade_runners		x	2
+main_invasion	inv_taranto	1	navy_2_blockade_runners		x	2
+main_invasion	inv_tarchuna	1	navy_2_blockade_runners		x	2
+main_invasion	inv_veneti	1	navy_2_blockade_runners		x	2
+		1	navy_2_dread_pirates		x	2
+main_invasion	inv_senones	1	navy_2_dread_pirates		x	2
+main_invasion	inv_tarchuna	1	navy_2_dread_pirates		x	3
+main_rome	rom_masaesyli	1	navy_2_dread_pirates		x	1
+		1	navy_2_dread_pirates	sc_rom_barb_east	x	1
+		1	navy_2_dread_pirates	sc_rom_british	x	1
+		1	navy_2_dread_pirates	sc_rom_celtiberian	x	1
+		1	navy_2_dread_pirates	sc_rom_celtic	x	1
+		1	navy_2_dread_pirates	sc_rom_daco_thracian	x	1
+		1	navy_2_dread_pirates	sc_rom_gaul	x	1
+		1	navy_2_dread_pirates	sc_rom_germanic	x	1
+		1	navy_2_dread_pirates	sc_rom_illyrian	x	1
+		1	navy_2_intrepid_escorts		x	2
+main_invasion	inv_insubres	1	navy_2_intrepid_escorts		x	2
+main_invasion	inv_iolei	1	navy_2_intrepid_escorts		x	2
+main_invasion	inv_rome	1	navy_2_intrepid_escorts		x	2
+main_invasion	inv_samnites	1	navy_2_intrepid_escorts		x	2
+main_invasion	inv_syracuse	1	navy_2_intrepid_escorts		x	2
+main_invasion	inv_taranto	1	navy_2_intrepid_escorts		x	2
+main_invasion	inv_tarchuna	1	navy_2_intrepid_escorts		x	2
+main_invasion	inv_veneti	1	navy_2_intrepid_escorts		x	2
+		1	navy_2_ship_defenders		x	2
+main_invasion	inv_insubres	1	navy_2_ship_defenders		x	2
+main_invasion	inv_iolei	1	navy_2_ship_defenders		x	2
+main_invasion	inv_rome	1	navy_2_ship_defenders		x	2
+main_invasion	inv_samnites	1	navy_2_ship_defenders		x	2
+main_invasion	inv_senones	1	navy_2_ship_defenders		x	2
+main_invasion	inv_syracuse	1	navy_2_ship_defenders		x	2
+main_invasion	inv_taranto	1	navy_2_ship_defenders		x	2
+main_invasion	inv_tarchuna	1	navy_2_ship_defenders		x	2
+main_invasion	inv_veneti	1	navy_2_ship_defenders		x	2
+		1	navy_3_able_seamen		x	3
+main_invasion	inv_iolei	1	navy_3_able_seamen		x	4
+main_invasion	inv_rome	1	navy_3_able_seamen		x	3
+main_invasion	inv_samnites	1	navy_3_able_seamen		x	3
+main_invasion	inv_senones	1	navy_3_able_seamen		x	3
+main_invasion	inv_syracuse	1	navy_3_able_seamen		x	3
+main_invasion	inv_taranto	1	navy_3_able_seamen		x	3
+main_invasion	inv_veneti	1	navy_3_able_seamen		x	4
+		1	navy_3_battle_hardened		x	4
+		1	navy_3_master_shipwrights		x	3
+main_invasion	inv_insubres	1	navy_3_master_shipwrights		x	3
+main_invasion	inv_iolei	1	navy_3_master_shipwrights		x	3
+main_invasion	inv_rome	1	navy_3_master_shipwrights		x	3
+main_invasion	inv_samnites	1	navy_3_master_shipwrights		x	3
+main_invasion	inv_senones	1	navy_3_master_shipwrights		x	3
+main_invasion	inv_syracuse	1	navy_3_master_shipwrights		x	3
+main_invasion	inv_taranto	1	navy_3_master_shipwrights		x	3
+main_invasion	inv_tarchuna	1	navy_3_master_shipwrights		x	3
+main_invasion	inv_veneti	1	navy_3_master_shipwrights		x	3
+		1	navy_3_pirate_hunters		x	3
+main_invasion	inv_insubres	1	navy_3_pirate_hunters		x	3
+main_invasion	inv_iolei	1	navy_3_pirate_hunters		x	3
+main_invasion	inv_rome	1	navy_3_pirate_hunters		x	3
+main_invasion	inv_samnites	1	navy_3_pirate_hunters		x	3
+main_invasion	inv_syracuse	1	navy_3_pirate_hunters		x	3
+main_invasion	inv_taranto	1	navy_3_pirate_hunters		x	3
+main_invasion	inv_veneti	1	navy_3_pirate_hunters		x	3
+		1	navy_4_children_of_the_aegaean		x	4
+main_invasion	inv_syracuse	1	navy_4_children_of_the_aegaean		x	4
+main_invasion	inv_taranto	1	navy_4_children_of_the_aegaean		x	4
+		1	navy_4_masters_of_the_sea		x	3
+main_invasion	inv_insubres	1	navy_4_masters_of_the_sea		x	4
+main_invasion	inv_iolei	1	navy_4_masters_of_the_sea		x	4
+main_invasion	inv_rome	1	navy_4_masters_of_the_sea		x	4
+main_invasion	inv_samnites	1	navy_4_masters_of_the_sea		x	4
+main_invasion	inv_senones	1	navy_4_masters_of_the_sea		x	4
+main_invasion	inv_syracuse	1	navy_4_masters_of_the_sea		x	4
+main_invasion	inv_taranto	1	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_tarchuna	1	navy_4_masters_of_the_sea		x	4
+main_invasion	inv_veneti	1	navy_4_masters_of_the_sea		x	4
+main_rome	rom_kush	1	navy_4_masters_of_the_sea		x	4
+main_rome	rom_masaesyli	1	navy_4_masters_of_the_sea		x	4
+main_rome	rom_nabatea	1	navy_4_masters_of_the_sea		x	4
+main_rome	rom_saba	1	navy_4_masters_of_the_sea		x	4
+		1	navy_4_pride_of_ptolemy		x	4
+		1	navy_4_professional_piracy		x	4
+main_invasion	inv_senones	1	navy_4_professional_piracy		x	4
+		1	navy_4_scions_of_phoenicia		x	4
+		1	navy_4_trade_route_protectors		x	4
+main_invasion	inv_insubres	1	navy_4_trade_route_protectors		x	4
+		1	navy_4_wardens_of_pontus		x	4
+		1	pel_army_accomplished_skirmishers		x	1
+		1	pel_army_ambushers		x	2
+		1	pel_army_battle_hardened		x	4
+		1	pel_army_formidable_hoplites		x	1
+		1	pel_army_keepers_of_peace		x	2
+		1	pel_army_raiders		x	3
+		1	pel_army_siege_experts		x	1
+		1	pel_army_stalwart_defenders		x	2
+		1	pel_general_commander_commander_1		x	1
+		1	pel_general_commander_hegemon_4		x	4
+		1	pel_general_commander_leader_2		x	2
+		1	pel_general_commander_trainer_3		x	3
+		1	pel_general_fighter_despoil_3		x	3
+		1	pel_general_fighter_fighter_1		x	1
+		1	pel_general_fighter_leads_the_charge_2		x	2
+		1	pel_general_fighter_spirit_of_heracles_4		x	4
+		1	pel_general_strategist_administration_3		x	3
+		1	pel_general_strategist_master_strategos_4		x	4
+		1	pel_general_strategist_pathfinder_2		x	2
+		1	pel_general_strategist_strategist_1		x	1
+		1	pel_navy_children_of_the_aegean		x	4
+		1	pel_navy_formidable_marines		x	1
+		1	pel_navy_great_marksmen		x	1
+		1	pel_navy_interpid_escorts		x	2
+		1	pel_navy_master_shipwrights		x	3
+		1	pel_navy_masters_of_the_sea		x	3
+		1	pel_navy_raiders		x	2
+		1	pel_navy_sea_patrol		x	3
+main_invasion	inv_insubres	1	pel_navy_sea_patrol		x	3
+main_invasion	inv_iolei	1	pel_navy_sea_patrol		x	3
+main_invasion	inv_rome	1	pel_navy_sea_patrol		x	4
+main_invasion	inv_samnites	1	pel_navy_sea_patrol		x	3
+main_invasion	inv_senones	1	pel_navy_sea_patrol		x	3
+main_invasion	inv_tarchuna	1	pel_navy_sea_patrol		x	4
+main_invasion	inv_veneti	1	pel_navy_sea_patrol		x	3
+		2	3c_army_1_Accomplished_Archers		x	3
+		2	3c_army_1_Accomplished_Skirmishers		x	3
+		2	3c_army_1_Artillery_Experts		x	4
+		2	3c_army_1_Dread_Ambushers		x	4
+		2	3c_army_1_Dread_Ambushers_gallic		x	3
+main_invasion	inv_senones	2	3c_army_1_Dread_Ambushers_gallic		x	4
+		2	3c_army_1_Dread_Charioteers		x	4
+		2	3c_army_1_Dread_Charioteers_caledon		x	3
+main_invasion	inv_insubres	2	3c_army_1_Dread_Charioteers		x	5
+main_invasion	inv_senones	2	3c_army_1_Dread_Charioteers		x	5
+		2	3c_army_1_Engineering_Experts		x	3
+		2	3c_army_1_Formidable_Fighters		x	3
+		2	3c_army_1_Formidable_Spearmen		x	3
+		2	3c_army_1_Formidable_Swordsmen		x	3
+		2	3c_army_1_Keepers_of_the_Peace		x	4
+		2	3c_army_1_Keepers_of_the_Peace_gallic		x	4
+		2	3c_army_1_Light_Cavalry_Masters		x	3
+		2	3c_army_1_Siege_Experts		x	3
+		2	3c_army_1_Stalwart_Defenders		x	4
+		2	3c_army_2_Cavalry_Masters		x	4
+		2	3c_army_2_Furor_Celtica		x	4
+		2	3c_army_2_Furor_Germanicus		x	4
+		2	3c_army_2_Inexorable_Conquerors		x	4
+		2	3c_army_2_Unrelenting_Force		x	4
+		2	3c_army_3_Auxiliary_Corps		x	5
+		2	3c_army_3_Barbarian_Subjugators		x	5
+main_invasion	inv_rome	2	3c_army_3_Barbarian_Subjugators		x	2
+main_invasion	inv_taranto	2	3c_army_3_Barbarian_Subjugators		x	3
+main_invasion	inv_tarchuna	2	3c_army_3_Barbarian_Subjugators		x	3
+		2	3c_army_3_Cavalry_Masters		x	5
+		2	3c_army_3_Desert_Warriors		x	5
+		2	3c_army_3_Dread_Marauders		x	5
+		2	3c_army_3_Grand_Camp_Following		x	5
+main_invasion	inv_insubres	2	3c_army_3_Grand_Camp_Following		x	3
+main_invasion	inv_tarchuna	2	3c_army_3_Grand_Camp_Following		x	2
+main_invasion	inv_veneti	2	3c_army_3_Grand_Camp_Following		x	2
+		2	3c_army_3_Indomitable_Infantry		x	5
+		2	3c_army_3_Indomitable_Legionaries		x	5
+		2	3c_army_3_Light_Cavalry_Masters		x	5
+		2	3c_army_3_Mercenary_Host		x	5
+		2	3c_army_3_Spirit_of_the_Immortals		x	5
+		2	3c_army_4_Deadly_Assault_Force		x	6
+		2	3c_army_4_Dread_Invaders		x	6
+		2	3c_army_4_Nomadic_Horde		x	6
+main_invasion	inv_veneti	2	3c_army_4_Nomadic_Horde		x	4
+		2	3c_army_4_Peerless_Marksmen		x	6
+		2	3c_army_4_Sentinels_of_the_North		x	6
+		2	3c_army_4_Sons_of_Shapur		x	6
+		2	3c_army_4_True_Romans		x	6
+		2	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_insubres	2	3c_army_4_Veteran_Army		x	5
+main_invasion	inv_iolei	2	3c_army_4_Veteran_Army		x	5
+main_invasion	inv_rome	2	3c_army_4_Veteran_Army		x	5
+main_invasion	inv_samnites	2	3c_army_4_Veteran_Army		x	5
+main_invasion	inv_senones	2	3c_army_4_Veteran_Army		x	5
+main_invasion	inv_syracuse	2	3c_army_4_Veteran_Army		x	5
+main_invasion	inv_taranto	2	3c_army_4_Veteran_Army		x	5
+main_invasion	inv_tarchuna	2	3c_army_4_Veteran_Army		x	5
+main_invasion	inv_veneti	2	3c_army_4_Veteran_Army		x	5
+		2	3c_army_4_Wolves_of_Teiwaz		x	6
+		2	3c_army_4_Wrath_of_Sol_Invictus		x	6
+		2	3c_general_admiral_1_navigator		x	3
+		2	3c_general_admiral_2_inspiring_admiral		x	4
+		2	3c_general_admiral_2_seasoned_marine		x	4
+		2	3c_general_admiral_3_maritime_archer		x	5
+		2	3c_general_admiral_3_naval_commander		x	5
+		2	3c_general_admiral_4_naval_tactics		x	6
+		2	3c_general_authority_1_efficient_recruiter		x	3
+		2	3c_general_authority_1_law_keeper		x	3
+		2	3c_general_authority_2_infantry_commander		x	4
+		2	3c_general_authority_2_master_builder		x	4
+		2	3c_general_authority_2_naval_commander		x	4
+		2	3c_general_authority_3_cavalry_commander		x	5
+		2	3c_general_authority_3_economic_administrator		x	5
+		2	3c_general_authority_3_inspiring_admiral		x	5
+		2	3c_general_authority_3_inspiring_general		x	5
+		2	3c_general_authority_4_great_leader		x	6
+		2	3c_general_bureaucrat_1_law_keeper		x	3
+		2	3c_general_bureaucrat_2_agricultural_expert		x	4
+		2	3c_general_bureaucrat_2_talented_architect		x	4
+		2	3c_general_bureaucrat_3_industrial_manager		x	5
+		2	3c_general_bureaucrat_3_patron_of_arts		x	5
+		2	3c_general_bureaucrat_4_economic_administrator		x	6
+		2	3c_general_cunning_1_navigator		x	3
+		2	3c_general_cunning_1_strategist		x	3
+		2	3c_general_cunning_2_artillery_master		x	4
+		2	3c_general_cunning_2_military_administrator		x	4
+		2	3c_general_cunning_2_vicious_despoiler		x	4
+		2	3c_general_cunning_3_covert_expert		x	5
+		2	3c_general_cunning_3_mercenary_recruiter		x	5
+		2	3c_general_cunning_3_siege_master		x	5
+		2	3c_general_cunning_3_skilled_logistician		x	5
+		2	3c_general_cunning_4_master_schemer		x	6
+		2	3c_general_general_1_efficient_recruiter		x	3
+		2	3c_general_general_2_infantry_commander		x	4
+		2	3c_general_general_2_inspiring_general		x	4
+		2	3c_general_general_3_cavalry_commander		x	5
+		2	3c_general_general_3_marching_instructor		x	5
+		2	3c_general_general_4_military_administrator		x	6
+		2	3c_general_mastermind_1_strategist		x	3
+		2	3c_general_mastermind_2_covert_expert		x	4
+		2	3c_general_mastermind_2_mercenary_recruiter		x	4
+		2	3c_general_mastermind_3_artillery_master		x	5
+		2	3c_general_mastermind_3_skilled_logistician		x	5
+		2	3c_general_mastermind_4_siege_master		x	6
+		2	3c_general_soldier_1_master_attacker		x	3
+		2	3c_general_soldier_2_master_defender		x	4
+		2	3c_general_soldier_2_master_of_onslaught		x	4
+		2	3c_general_soldier_3_leader_of_marskmen		x	5
+		2	3c_general_soldier_3_vicious_despoiler		x	5
+		2	3c_general_soldier_4_incarnation_of_dread		x	6
+		2	3c_general_zeal_1_master_defender		x	3
+		2	3c_general_zeal_1_warrior		x	3
+		2	3c_general_zeal_2_master_attacker		x	4
+		2	3c_general_zeal_2_master_of_onslaught		x	4
+		2	3c_general_zeal_2_seasoned_marine		x	4
+		2	3c_general_zeal_3_incarnation_of_dread		x	5
+		2	3c_general_zeal_3_leader_of_marskmen		x	5
+		2	3c_general_zeal_3_marching_instructor		x	5
+		2	3c_general_zeal_3_maritime_archer		x	5
+		2	3c_general_zeal_4_exemplary_soldier		x	6
+		2	3c_navy_1_Destroyers		x	3
+		2	3c_navy_1_Dread_Pirates		x	3
+		2	3c_navy_1_Formidable_Marines		x	3
+		2	3c_navy_1_Naval_Marksmen		x	3
+		2	3c_navy_2_Blockade_Runners		x	4
+		2	3c_navy_2_Intrepid_Escorts		x	4
+		2	3c_navy_2_Ship_Defenders		x	4
+		2	3c_navy_3_Able_Seamen		x	5
+main_invasion	inv_tarchuna	2	3c_navy_3_Able_Seamen		x	4
+		2	3c_navy_3_Master_Shipwrights		x	5
+		2	3c_navy_3_Pirate_Hunters		x	5
+		2	3c_navy_4_Masters_of_the_Sea		x	6
+		2	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_insubres	2	3c_navy_4_Veteran_Fleet		x	5
+main_invasion	inv_iolei	2	3c_navy_4_Veteran_Fleet		x	5
+main_invasion	inv_rome	2	3c_navy_4_Veteran_Fleet		x	5
+main_invasion	inv_samnites	2	3c_navy_4_Veteran_Fleet		x	5
+main_invasion	inv_senones	2	3c_navy_4_Veteran_Fleet		x	5
+main_invasion	inv_syracuse	2	3c_navy_4_Veteran_Fleet		x	5
+main_invasion	inv_taranto	2	3c_navy_4_Veteran_Fleet		x	5
+main_invasion	inv_tarchuna	2	3c_navy_4_Veteran_Fleet		x	5
+main_invasion	inv_veneti	2	3c_navy_4_Veteran_Fleet		x	5
+		2	age_agent_champion_authority_agitator		x	4
+		2	age_agent_champion_authority_drill_sergeant		x	2
+		2	age_agent_champion_authority_drunkard		x	4
+		2	age_agent_champion_authority_efficient		x	5
+		2	age_agent_champion_authority_evocatus		x	5
+		2	age_agent_champion_authority_explorer		x	2
+		2	age_agent_champion_authority_festive		x	4
+		2	age_agent_champion_authority_guardian		x	4
+		2	age_agent_champion_authority_historian		x	2
+		2	age_agent_champion_authority_horsebreeder		x	4
+		2	age_agent_champion_authority_inspirational		x	5
+		2	age_agent_champion_authority_mentor		x	2
+		2	age_agent_champion_authority_officer		x	4
+		2	age_agent_champion_authority_officer_native_units		x	4
+		2	age_agent_champion_authority_paedotribe		x	5
+		2	age_agent_champion_authority_protector		x	4
+		2	age_agent_champion_authority_renowned		x	5
+		2	age_agent_champion_subterfuge_ageestigator		x	4
+		2	age_agent_champion_subterfuge_harasser		x	4
+		2	age_agent_champion_subterfuge_hunter		x	4
+		2	age_agent_champion_subterfuge_interrogator		x	4
+		2	age_agent_champion_subterfuge_intimidating		x	2
+		2	age_agent_champion_subterfuge_murderous		x	6
+		2	age_agent_champion_subterfuge_nocturnal		x	4
+		2	age_agent_champion_subterfuge_resourceful		x	6
+		2	age_agent_champion_subterfuge_siege_expert		x	2
+		2	age_agent_champion_subterfuge_trapper		x	4
+		2	age_agent_champion_subterfuge_wicked		x	2
+		2	age_agent_champion_zeal_arsonist		x	2
+		2	age_agent_champion_zeal_bloodlust		x	5
+		2	age_agent_champion_zeal_centurion		x	2
+		2	age_agent_champion_zeal_duelist		x	5
+		2	age_agent_champion_zeal_eloquent		x	4
+		2	age_agent_champion_zeal_frenzied		x	2
+		2	age_agent_champion_zeal_heroic		x	5
+		2	age_agent_champion_zeal_hoplite		x	2
+		2	age_agent_champion_zeal_marksman		x	2
+		2	age_agent_champion_zeal_militant		x	5
+		2	age_agent_champion_zeal_praefectus		x	5
+		2	age_agent_champion_zeal_raider		x	4
+		2	age_agent_champion_zeal_resilient		x	4
+		2	age_agent_champion_zeal_sadistic		x	4
+		2	age_agent_champion_zeal_terrifying		x	4
+		2	age_agent_dignitary_authority_advocatus		x	2
+		2	age_agent_dignitary_authority_diplomatic		x	6
+		2	age_agent_dignitary_authority_entertainer		x	2
+		2	age_agent_dignitary_authority_financist		x	2
+		2	age_agent_dignitary_authority_herder		x	4
+		2	age_agent_dignitary_authority_lawful		x	2
+		2	age_agent_dignitary_authority_officium		x	6
+		2	age_agent_dignitary_authority_orator		x	2
+		2	age_agent_dignitary_authority_persuasive		x	4
+		2	age_agent_dignitary_authority_philosopher		x	2
+		2	age_agent_dignitary_authority_political		x	2
+		2	age_agent_dignitary_authority_slaver		x	4
+		2	age_agent_dignitary_authority_supplier		x	2
+		2	age_agent_dignitary_authority_tutor		x	6
+		2	age_agent_dignitary_subterfuge_contractor		x	2
+		2	age_agent_dignitary_subterfuge_dealer		x	5
+		2	age_agent_dignitary_subterfuge_embezzler		x	4
+		2	age_agent_dignitary_subterfuge_employer		x	4
+		2	age_agent_dignitary_subterfuge_emporos		x	4
+		2	age_agent_dignitary_subterfuge_fanatic		x	4
+		2	age_agent_dignitary_subterfuge_generous		x	2
+		2	age_agent_dignitary_subterfuge_greedy		x	2
+		2	age_agent_dignitary_subterfuge_imperious		x	4
+		2	age_agent_dignitary_subterfuge_mi'mar		x	2
+		2	age_agent_dignitary_subterfuge_silver_tongue		x	5
+		2	age_agent_dignitary_subterfuge_smuggler		x	5
+		2	age_agent_dignitary_subterfuge_strict		x	2
+		2	age_agent_dignitary_subterfuge_vower		x	4
+		2	age_agent_dignitary_zeal_advisor		x	2
+		2	age_agent_dignitary_zeal_azad		x	4
+		2	age_agent_dignitary_zeal_chant		x	4
+		2	age_agent_dignitary_zeal_corrupt		x	5
+		2	age_agent_dignitary_zeal_leader		x	5
+		2	age_agent_dignitary_zeal_magi		x	4
+		2	age_agent_dignitary_zeal_motivator		x	4
+		2	age_agent_dignitary_zeal_noble		x	4
+		2	age_agent_dignitary_zeal_rhetoric		x	5
+		2	age_agent_dignitary_zeal_romanizer		x	5
+		2	age_agent_dignitary_zeal_sphagia		x	4
+		2	age_agent_dignitary_zeal_underhanded		x	2
+		2	age_agent_dignitary_zeal_warmonger		x	4
+		2	age_agent_spy_authority_conspirator		x	5
+		2	age_agent_spy_authority_despoiler		x	4
+		2	age_agent_spy_authority_hunter		x	5
+		2	age_agent_spy_authority_naturalist		x	2
+		2	age_agent_spy_authority_network		x	2
+		2	age_agent_spy_authority_pathfinder		x	5
+		2	age_agent_spy_authority_spasaka		x	4
+		2	age_agent_spy_authority_speculatore		x	5
+		2	age_agent_spy_authority_studious		x	2
+		2	age_agent_spy_authority_watchman		x	4
+		2	age_agent_spy_subterfuge_actor		x	2
+		2	age_agent_spy_subterfuge_assistant		x	2
+		2	age_agent_spy_subterfuge_contacts		x	5
+		2	age_agent_spy_subterfuge_coordinator		x	4
+		2	age_agent_spy_subterfuge_deceiver		x	5
+		2	age_agent_spy_subterfuge_discord		x	5
+		2	age_agent_spy_subterfuge_hallucinogens		x	5
+		2	age_agent_spy_subterfuge_hideout		x	2
+		2	age_agent_spy_subterfuge_liar		x	4
+		2	age_agent_spy_subterfuge_lookout		x	2
+		2	age_agent_spy_subterfuge_mandrake		x	6
+		2	age_agent_spy_subterfuge_thief		x	2
+		2	age_agent_spy_subterfuge_toxic		x	5
+		2	age_agent_spy_subterfuge_tracker		x	4
+		2	age_agent_spy_zeal_animal_hater		x	4
+		2	age_agent_spy_zeal_blight		x	2
+		2	age_agent_spy_zeal_bookworm		x	4
+		2	age_agent_spy_zeal_careful		x	2
+		2	age_agent_spy_zeal_counterspy		x	2
+		2	age_agent_spy_zeal_deadly		x	5
+		2	age_agent_spy_zeal_looter		x	4
+		2	age_agent_spy_zeal_menace		x	2
+		2	age_agent_spy_zeal_military_espionage		x	4
+		2	age_agent_spy_zeal_saboteur		x	6
+		2	age_agent_spy_zeal_specialist		x	2
+		2	agent_background_champion_athlete_generic		x	3
+		2	agent_background_champion_athlete_hellenic_olympian		x	3
+		2	agent_background_champion_avaricious_generic		x	3
+		2	agent_background_champion_brute_generic		x	3
+		2	agent_background_champion_brute_germanic_berserker		x	3
+		2	agent_background_champion_commoner_generic		x	3
+		2	agent_background_champion_contender_roman_gladiator		x	3
+		2	agent_background_champion_guard_barbarian_sentinel		x	3
+		2	agent_background_champion_guard_generic		x	3
+		2	agent_background_champion_guard_roman_vigile		x	3
+		2	agent_background_champion_martial_artist_eastern_pahlavani		x	3
+		2	agent_background_champion_martial_artist_egyptian_sebekkha		x	3
+		2	agent_background_champion_martial_artist_generic		x	3
+		2	agent_background_champion_martial_artist_greco_roman_pankration		x	3
+		2	agent_background_champion_military_engineer_generic		x	3
+		2	agent_background_champion_officer_barbarian_warmaster		x	3
+		2	agent_background_champion_officer_rome_tribune		x	3
+		2	agent_background_champion_quartermaster_generic		x	3
+		2	agent_background_champion_talented_generic		x	3
+		2	agent_background_champion_warhero_barbarian_wardancer		x	3
+		2	agent_background_champion_warhero_generic		x	3
+		2	agent_background_dignitary_councillor_barbarian_elder		x	3
+		2	agent_background_dignitary_councillor_generic		x	3
+		2	agent_background_dignitary_councillor_roman_senator		x	3
+		2	agent_background_dignitary_councillor_royal_courtier		x	3
+		2	agent_background_dignitary_courtesan_greek_hetaera		x	3
+		2	agent_background_dignitary_healer_generic		x	3
+		2	agent_background_dignitary_merchant_generic		x	3
+		2	agent_background_dignitary_merchant_hellenic_plutocrat		x	3
+		2	agent_background_dignitary_merchant_roman_magnate		x	3
+		2	agent_background_dignitary_militarist_barbarian_warmonger		x	3
+		2	agent_background_dignitary_militarist_generic		x	3
+		2	agent_background_dignitary_orator_barbarian_lore		x	3
+		2	agent_background_dignitary_orator_egypt_chantress		x	3
+		2	agent_background_dignitary_overseer_barbarian_arbiter		x	3
+		2	agent_background_dignitary_overseer_carthaginian_landowner		x	3
+		2	agent_background_dignitary_overseer_generic		x	3
+		2	agent_background_dignitary_overseer_spartan_female_landowner		x	3
+		2	agent_background_dignitary_physician_barbarian_healer		x	3
+		2	agent_background_dignitary_sacrificer_generic		x	3
+		2	agent_background_dignitary_scholar_barbarian_sage		x	3
+		2	agent_background_dignitary_scholar_generic		x	3
+		2	agent_background_dignitary_seer_carthaginian_kohanim		x	3
+		2	agent_background_dignitary_seer_druidic_vates		x	3
+		2	agent_background_dignitary_seer_eastern_astrologer		x	3
+		2	agent_background_dignitary_seer_egyptian_hemet_netjer		x	3
+		2	agent_background_dignitary_seer_generic		x	3
+		2	agent_background_dignitary_seer_germanic_spakona		x	3
+		2	agent_background_dignitary_seer_greek_female_oracle		x	3
+		2	agent_background_dignitary_seer_greek_male_mantis		x	3
+		2	agent_background_dignitary_seer_nomadic_shaman		x	3
+		2	agent_background_dignitary_seer_roman_augur		x	3
+		2	agent_background_dignitary_singer_generic		x	3
+		2	agent_background_dignitary_talented_generic		x	3
+		2	agent_background_dignitary_taxman_generic		x	3
+		2	agent_background_dignitary_taxman_roman_publican		x	3
+		2	agent_background_spy_alchemist_barbarian_herbalist		x	3
+		2	agent_background_spy_attendant_eastern_scribe		x	3
+		2	agent_background_spy_attendant_generic		x	3
+		2	agent_background_spy_courier_generic		x	3
+		2	agent_background_spy_courtesan_generic		x	3
+		2	agent_background_spy_craftsman_generic		x	3
+		2	agent_background_spy_criminal_generic		x	3
+		2	agent_background_spy_farmer_generic		x	3
+		2	agent_background_spy_handler_generic		x	3
+		2	agent_background_spy_poet_celtic_bard		x	3
+		2	agent_background_spy_poet_eastern_gosan		x	3
+		2	agent_background_spy_poet_generic		x	3
+		2	agent_background_spy_poet_germanic_scop		x	3
+		2	agent_background_spy_scout_barbarian_hunter		x	3
+		2	agent_background_spy_scout_generic		x	3
+		2	agent_background_spy_scout_roman_explorator		x	3
+		2	agent_background_spy_shadow_generic		x	3
+		2	agent_background_spy_slave_generic		x	3
+		2	agent_background_spy_talented_generic		x	3
+		2	agent_champion_authority_1_paragon		x	3
+		2	agent_champion_authority_2_unity		x	4
+		2	agent_champion_authority_2_valour		x	4
+		2	agent_champion_subterfuge_1_partisan		x	3
+		2	agent_champion_subterfuge_2_artifice		x	4
+		2	agent_champion_subterfuge_2_stratagem		x	4
+		2	agent_champion_zeal_1_champion		x	3
+		2	agent_champion_zeal_2_strength		x	4
+		2	agent_champion_zeal_2_warfare		x	4
+		2	agent_champion_zeal_3_audacity		x	5
+		2	agent_champion_zeal_3_militancy		x	5
+		2	agent_dignitary_authority_1_dignitary		x	3
+		2	agent_dignitary_authority_2_philosophy		x	4
+		2	agent_dignitary_authority_2_politics		x	4
+		2	agent_dignitary_authority_3_demagogy		x	5
+		2	agent_dignitary_authority_3_martial_philosophy		x	5
+		2	agent_dignitary_subterfuge_1_conspirator		x	3
+		2	agent_dignitary_subterfuge_2_intrigue		x	4
+		2	agent_dignitary_subterfuge_2_treachery		x	4
+		2	agent_dignitary_zeal_1_provocateur		x	3
+		2	agent_dignitary_zeal_2_doom		x	4
+		2	agent_dignitary_zeal_2_propaganda		x	4
+		2	agent_spy_authority_1_agent		x	3
+		2	agent_spy_authority_2_collaboration		x	4
+		2	agent_spy_authority_2_disruption		x	4
+		2	agent_spy_subterfuge_1_spy		x	3
+		2	agent_spy_subterfuge_2_clandestinity		x	4
+		2	agent_spy_subterfuge_2_reconnaisance		x	4
+		2	agent_spy_subterfuge_3_infiltration		x	5
+		2	agent_spy_subterfuge_3_mass_poison		x	5
+		2	agent_spy_zeal_1_antagonist		x	3
+		2	agent_spy_zeal_2_murder		x	4
+		2	agent_spy_zeal_2_sabotage		x	4
+		2	army_1_accomplished_archers		x	3
+main_invasion	inv_iolei	2	army_1_accomplished_archers		x	2
+		2	army_1_accomplished_skirmishers		x	3
+main_invasion	inv_insubres	2	army_1_accomplished_skirmishers		x	2
+main_invasion	inv_iolei	2	army_1_accomplished_skirmishers		x	2
+main_invasion	inv_rome	2	army_1_accomplished_skirmishers		x	2
+main_invasion	inv_samnites	2	army_1_accomplished_skirmishers		x	2
+main_invasion	inv_senones	2	army_1_accomplished_skirmishers		x	2
+main_invasion	inv_syracuse	2	army_1_accomplished_skirmishers		x	2
+main_invasion	inv_taranto	2	army_1_accomplished_skirmishers		x	2
+main_invasion	inv_veneti	2	army_1_accomplished_skirmishers		x	3
+		2	army_1_artillery_experts		x	4
+main_invasion	inv_syracuse	2	army_1_artillery_experts		x	2
+main_invasion	inv_taranto	2	army_1_artillery_experts		x	2
+		2	army_1_dread_charioteers		x	3
+main_rome	rom_kush	2	army_1_dread_charioteers		x	4
+main_rome	rom_nabatea	2	army_1_dread_charioteers		x	4
+		2	army_1_engineering_experts		x	3
+main_rome	rom_kush	2	army_1_engineering_experts		x	4
+main_rome	rom_masaesyli	2	army_1_engineering_experts		x	3
+main_rome	rom_nabatea	2	army_1_engineering_experts		x	4
+main_rome	rom_saba	2	army_1_engineering_experts		x	4
+		2	army_1_formidable_fighters		x	3
+main_invasion	inv_insubres	2	army_1_formidable_fighters		x	2
+main_invasion	inv_iolei	2	army_1_formidable_fighters		x	2
+main_invasion	inv_samnites	2	army_1_formidable_fighters		x	2
+main_invasion	inv_senones	2	army_1_formidable_fighters		x	2
+		2	army_1_formidable_fighters	sc_rom_barb_east	x	4
+		2	army_1_formidable_spearmen		x	3
+main_invasion	inv_syracuse	2	army_1_formidable_spearmen		x	2
+main_invasion	inv_taranto	2	army_1_formidable_spearmen		x	2
+		2	army_1_formidable_swordsmen		x	3
+		2	army_1_siege_experts		x	3
+main_invasion	inv_insubres	2	army_1_siege_experts		x	4
+main_invasion	inv_rome	2	army_1_siege_experts		x	4
+main_invasion	inv_syracuse	2	army_1_siege_experts		x	3
+main_invasion	inv_taranto	2	army_1_siege_experts		x	3
+main_invasion	inv_tarchuna	2	army_1_siege_experts		x	4
+		2	army_1_siege_experts	sc_rom_african_arabian	x	5
+		2	army_1_siege_experts	sc_rom_barb_east	x	5
+		2	army_1_siege_experts	sc_rom_british	x	5
+		2	army_1_siege_experts	sc_rom_celtiberian	x	5
+		2	army_1_siege_experts	sc_rom_celtic	x	5
+		2	army_1_siege_experts	sc_rom_daco_thracian	x	5
+		2	army_1_siege_experts	sc_rom_eastern	x	4
+		2	army_1_siege_experts	sc_rom_gaul	x	5
+		2	army_1_siege_experts	sc_rom_germanic	x	5
+		2	army_1_siege_experts	sc_rom_illyrian	x	5
+		2	army_1_siege_experts	sc_rom_numidian	x	5
+		2	army_1_siege_experts	sc_rom_parthian	x	4
+		2	army_2_ambushers		x	4
+main_invasion		2	army_2_ambushers_samnites		x	2
+main_invasion	inv_iolei	2	army_2_ambushers		x	3
+main_invasion	inv_samnites	2	army_2_ambushers		x	3
+		2	army_2_ambushers	sc_rom_barb_east	x	3
+		2	army_2_desert_ambushers		x	4
+		2	army_2_forest_ambushers		x	3
+main_invasion	inv_insubres	2	army_2_forest_ambushers		x	3
+main_invasion	inv_iolei	2	army_2_forest_ambushers		x	4
+main_invasion	inv_samnites	2	army_2_forest_ambushers		x	3
+		2	army_2_furor_germanicus		x	4
+		2	army_2_inexorable_conquerors		x	4
+main_invasion	inv_senones	2	army_2_inexorable_conquerors		x	4
+		2	army_2_inexorable_horde		x	4
+		2	army_2_inexorable_horde	sc_rom_barb_east	x	3
+		2	army_2_inexorable_horde	sc_rom_germanic	x	3
+		2	army_2_keepers_of_peace		x	4
+main_invasion	inv_insubres	2	army_2_keepers_of_peace		x	2
+main_invasion	inv_tarchuna	2	army_2_keepers_of_peace		x	2
+main_invasion	inv_veneti	2	army_2_keepers_of_peace		x	4
+main_rome	rom_kush	2	army_2_keepers_of_peace		x	3
+main_rome	rom_masaesyli	2	army_2_keepers_of_peace		x	4
+main_rome	rom_nabatea	2	army_2_keepers_of_peace		x	3
+main_rome	rom_saba	2	army_2_keepers_of_peace		x	3
+		2	army_2_stalwart_defenders_barbarian		x	4
+main_invasion	inv_insubres	2	army_2_stalwart_defenders_barbarian		x	3
+main_invasion	inv_iolei	2	army_2_stalwart_defenders_barbarian		x	3
+main_invasion	inv_senones	2	army_2_stalwart_defenders_barbarian		x	3
+		2	army_2_stalwart_defenders_eastern		x	4
+		2	army_2_stalwart_defenders_hellenic		x	4
+main_invasion	inv_syracuse	2	army_2_stalwart_defenders_hellenic		x	3
+main_invasion	inv_taranto	2	army_2_stalwart_defenders_hellenic		x	4
+		2	army_2_stalwart_defenders_rome		x	4
+main_invasion	inv_rome	2	army_2_stalwart_defenders_rome		x	2
+main_invasion	inv_samnites	2	army_2_stalwart_defenders_rome		x	3
+main_invasion	inv_tarchuna	2	army_2_stalwart_defenders_rome		x	2
+main_invasion	inv_veneti	2	army_2_stalwart_defenders_rome		x	3
+		2	army_2_unrelenting_force		x	4
+main_invasion	inv_insubres	2	army_2_unrelenting_force		x	4
+main_invasion	inv_iolei	2	army_2_unrelenting_force		x	5
+main_invasion	inv_rome	2	army_2_unrelenting_force		x	3
+main_invasion	inv_samnites	2	army_2_unrelenting_force		x	5
+main_invasion	inv_senones	2	army_2_unrelenting_force		x	3
+main_invasion	inv_taranto	2	army_2_unrelenting_force		x	4
+main_invasion	inv_tarchuna	2	army_2_unrelenting_force		x	4
+main_invasion	inv_veneti	2	army_2_unrelenting_force		x	4
+		2	army_3_auxiliary_corps		x	5
+main_invasion	inv_rome	2	army_3_auxiliary_corps		x	3
+		2	army_3_barbarian_subjugators		x	5
+		2	army_3_camp_following		x	5
+main_invasion	inv_iolei	2	army_3_camp_following		x	4
+main_invasion	inv_samnites	2	army_3_camp_following		x	2
+main_invasion	inv_senones	2	army_3_camp_following		x	3
+main_invasion	inv_syracuse	2	army_3_camp_following		x	5
+main_invasion	inv_taranto	2	army_3_camp_following		x	5
+		2	army_3_cavalry_masters		x	5
+main_invasion	inv_taranto	2	army_3_cavalry_masters		x	3
+main_invasion	inv_veneti	2	army_3_cavalry_masters		x	3
+		2	army_3_companions		x	5
+main_rome	rom_nabatea	2	army_3_companions		x	4
+		2	army_3_dread_marauders		x	5
+main_invasion	inv_samnites	2	army_3_dread_marauders		x	4
+main_invasion	inv_senones	2	army_3_dread_marauders		x	4
+		2	army_3_dread_marauders	sc_rom_barb_east	x	4
+		2	army_3_immortals		x	5
+main_invasion	inv_rome	2	army_3_indomitable_heavy_warriors		x	5
+		2	army_3_indomitable_hoplites		x	5
+main_invasion	inv_syracuse	2	army_3_indomitable_hoplites		x	5
+		2	army_3_indomitable_infantry		x	5
+main_invasion	inv_rome	2	army_3_indomitable_infantry		x	3
+main_invasion	inv_syracuse	2	army_3_indomitable_infantry		x	4
+main_invasion	inv_tarchuna	2	army_3_indomitable_infantry		x	3
+		2	army_3_indomitable_legionaries		x	5
+main_invasion	inv_rome	2	army_3_indomitable_legionaries		x	5
+		2	army_3_light_cavalry_masters		x	5
+main_invasion	inv_iolei	2	army_3_light_cavalry_masters		x	4
+main_invasion	inv_veneti	2	army_3_light_cavalry_masters		x	2
+main_rome	rom_kush	2	army_3_light_cavalry_masters		x	5
+		2	army_3_light_cavalry_masters	sc_rom_barb_east	x	3
+		2	army_3_light_cavalry_masters	sc_rom_daco_thracian	x	3
+		2	army_3_light_cavalry_masters	sc_rom_eastern	x	3
+		2	army_3_light_cavalry_masters	sc_rom_gaul	x	3
+		2	army_3_light_cavalry_masters	sc_rom_illyrian	x	3
+		2	army_3_light_cavalry_masters	sc_rom_numidian	x	3
+		2	army_3_light_cavalry_masters	sc_rom_parthian	x	3
+		2	army_3_mercenary_host		x	5
+main_invasion	inv_samnites	2	army_3_mercenary_host		x	4
+main_invasion	inv_syracuse	2	army_3_mercenary_host		x	3
+main_invasion	inv_tarchuna	2	army_3_mercenary_host		x	4
+		2	army_3_native_corps		x	4
+main_invasion	inv_syracuse	2	army_3_native_corps		x	4
+		2	army_3_strength_through_unity		x	6
+main_invasion	inv_samnites	2	army_3_strength_through_unity		x	4
+		2	army_3_unfettered_warriors		x	5
+main_invasion	inv_insubres	2	army_3_unfettered_warriors		x	4
+main_invasion	inv_iolei	2	army_3_unfettered_warriors		x	3
+main_invasion	inv_senones	2	army_3_unfettered_warriors		x	2
+main_invasion	inv_tarchuna	2	army_3_unfettered_warriors		x	3
+main_invasion	inv_veneti	2	army_3_unfettered_warriors		x	2
+		2	army_4_andraste_chosen		x	6
+		2	army_4_battle_hardened		x	6
+		2	army_4_caravan_guards		x	6
+main_invasion	inv_insubres	2	army_4_caravan_guards		x	5
+main_invasion	inv_veneti	2	army_4_caravan_guards		x	5
+		2	army_4_cavalry_experts		x	6
+main_invasion	inv_veneti	2	army_4_cavalry_experts		x	5
+		2	army_4_defenders_of_rome		x	6
+main_invasion	inv_rome	2	army_4_defenders_of_rome		x	4
+		2	army_4_expert_archers		x	6
+main_invasion	inv_iolei	2	army_4_expert_archers		x	5
+		2	army_4_hellenic_wartime_legacy		x	6
+		2	army_4_heralds_of_antigonus		x	6
+		2	army_4_hounds_of_molossus		x	6
+main_invasion	inv_rome	2	army_4_hounds_of_molossus		x	4
+main_invasion	inv_syracuse	2	army_4_hounds_of_molossus		x	4
+main_invasion	inv_taranto	2	army_4_hounds_of_molossus		x	4
+		2	army_4_legacy_of_brennus		x	6
+main_invasion	inv_senones	2	army_4_legacy_of_brennus		x	5
+		2	army_4_logistic_experts		x	6
+main_invasion	inv_samnites	2	army_4_logistic_experts		x	5
+		2	army_4_pahlavans_of_the_east		x	6
+		2	army_4_peers_of_leonidas		x	6
+main_invasion	inv_taranto	2	army_4_peers_of_leonidas		x	5
+		2	army_4_propagators		x	6
+main_invasion	inv_tarchuna	2	army_4_propagators		x	5
+		2	army_4_slave_subduers		x	6
+		2	army_4_steppe_horde		x	6
+		2	army_4_the_wrath_of_romulus		x	6
+main_invasion	inv_rome	2	army_4_the_wrath_of_romulus		x	5
+		2	army_4_victors_of_seleucia		x	6
+		2	army_4_war_merchants		x	6
+main_invasion	inv_tarchuna	2	army_4_war_merchants		x	5
+		2	army_4_wolves_teiwaz		x	6
+		2	general_architect_3		x	5
+		2	general_aspbed_4		x	6
+		2	general_axe_3		x	5
+		2	general_azatan_commander_3		x	5
+		2	general_background_non_roman_personal_authority		x	3
+		2	general_background_non_roman_personal_courage		x	3
+		2	general_background_non_roman_personal_dignity		x	3
+		2	general_background_non_roman_personal_dutifulness		x	3
+		2	general_background_non_roman_personal_fortitude		x	3
+		2	general_background_non_roman_personal_frugality		x	3
+		2	general_background_non_roman_personal_gravity		x	3
+		2	general_background_non_roman_personal_humanity		x	3
+		2	general_background_non_roman_personal_humour		x	3
+		2	general_background_non_roman_personal_industriousness		x	3
+		2	general_background_non_roman_personal_mercy		x	3
+		2	general_background_non_roman_personal_prudence		x	3
+		2	general_background_non_roman_personal_respectability		x	3
+		2	general_background_non_roman_personal_sternness		x	3
+		2	general_background_non_roman_personal_tenacity		x	3
+		2	general_background_non_roman_personal_truthfulness		x	3
+		2	general_background_non_roman_personal_wholesomeness		x	3
+		2	general_background_non_roman_public_agriculture		x	3
+		2	general_background_non_roman_public_clemency		x	3
+		2	general_background_non_roman_public_confidence		x	3
+		2	general_background_non_roman_public_dutifulness		x	3
+		2	general_background_non_roman_public_endurance		x	3
+		2	general_background_non_roman_public_fair		x	3
+		2	general_background_non_roman_public_faith		x	3
+		2	general_background_non_roman_public_forethought		x	3
+		2	general_background_non_roman_public_fortune		x	3
+		2	general_background_non_roman_public_freedom		x	3
+		2	general_background_non_roman_public_giving		x	3
+		2	general_background_non_roman_public_harmony		x	3
+		2	general_background_non_roman_public_health		x	3
+		2	general_background_non_roman_public_hope		x	3
+		2	general_background_non_roman_public_joy		x	3
+		2	general_background_non_roman_public_justice		x	3
+		2	general_background_non_roman_public_luck		x	3
+		2	general_background_non_roman_public_mirth		x	3
+		2	general_background_non_roman_public_modesty		x	3
+		2	general_background_non_roman_public_nobility		x	3
+		2	general_background_non_roman_public_peace		x	3
+		2	general_background_non_roman_public_plenty		x	3
+		2	general_background_non_roman_public_prosperity		x	3
+		2	general_background_non_roman_public_spirit		x	3
+		2	general_background_non_roman_public_wealth		x	3
+		2	general_background_roman_personal_authority		x	3
+		2	general_background_roman_personal_courage		x	3
+		2	general_background_roman_personal_dignity		x	3
+		2	general_background_roman_personal_dutifulness		x	3
+		2	general_background_roman_personal_fortitude		x	3
+		2	general_background_roman_personal_frugality		x	3
+		2	general_background_roman_personal_gravity		x	3
+		2	general_background_roman_personal_humanity		x	3
+		2	general_background_roman_personal_humour		x	3
+		2	general_background_roman_personal_industriousness		x	3
+		2	general_background_roman_personal_mercy		x	3
+		2	general_background_roman_personal_prudence		x	3
+		2	general_background_roman_personal_respectability		x	3
+		2	general_background_roman_personal_sternness		x	3
+		2	general_background_roman_personal_tenacity		x	3
+		2	general_background_roman_personal_truthfulness		x	3
+		2	general_background_roman_personal_wholesomeness		x	3
+		2	general_background_roman_public_agriculture		x	3
+		2	general_background_roman_public_clemency		x	3
+		2	general_background_roman_public_confidence		x	3
+		2	general_background_roman_public_dutifulness		x	3
+		2	general_background_roman_public_endurance		x	3
+		2	general_background_roman_public_fair		x	3
+		2	general_background_roman_public_faith		x	3
+		2	general_background_roman_public_forethought		x	3
+		2	general_background_roman_public_fortune		x	3
+		2	general_background_roman_public_freedom		x	3
+		2	general_background_roman_public_giving		x	3
+		2	general_background_roman_public_harmony		x	3
+		2	general_background_roman_public_health		x	3
+		2	general_background_roman_public_hope		x	3
+		2	general_background_roman_public_joy		x	3
+		2	general_background_roman_public_justice		x	3
+		2	general_background_roman_public_luck		x	3
+		2	general_background_roman_public_mirth		x	3
+		2	general_background_roman_public_modesty		x	3
+		2	general_background_roman_public_nobility		x	3
+		2	general_background_roman_public_peace		x	3
+		2	general_background_roman_public_plenty		x	3
+		2	general_background_roman_public_prosperity		x	3
+		2	general_background_roman_public_roman_spirit		x	3
+		2	general_background_roman_public_wealth		x	3
+		2	general_bard_1		x	3
+		2	general_blockade_expert_2		x	4
+		2	general_blockade_expert_3		x	5
+		2	general_border_guardian_3		x	5
+		2	general_bowl_3		x	5
+		2	general_bowman_2		x	4
+		2	general_brute_3		x	5
+		2	general_cetus_4		x	6
+		2	general_commander_1		x	3
+		2	general_commander_2_admiral		x	4
+		2	general_commander_2_cavalry_east		x	4
+		2	general_commander_2_general		x	4
+		2	general_commander_3_artillery		x	5
+		2	general_commander_3_cavalry		x	5
+		2	general_commander_3_infantry		x	5
+		2	general_commander_3_naval_assault		x	5
+		2	general_commander_3_naval_support		x	5
+		2	general_commander_4_great_leader		x	6
+		2	general_commander_barb_2_infantry		x	4
+		2	general_contractor_1		x	3
+		2	general_desert_leader_4		x	6
+		2	general_diplomat_4		x	6
+		2	general_entrepreneur_4		x	6
+		2	general_gre_warmonger_4_virtue		x	4
+		2	general_gruesome_3		x	5
+		2	general_horde_leader_4		x	6
+		2	general_horse_breeder_3		x	5
+		2	general_horse_tamer_3		x	5
+		2	general_horticulturist_3		x	5
+		2	general_inspirational_2		x	4
+		2	general_judge_4		x	6
+		2	general_legend_4		x	6
+		2	general_magnate_4		x	6
+		2	general_manager_3		x	5
+		2	general_marksman_3		x	5
+		2	general_master_hunter_3		x	5
+		2	general_master_magi_4		x	6
+		2	general_master_merchant_3		x	5
+		2	general_nisean_chargers_3		x	5
+		2	general_overseer_4		x	6
+		2	general_paragon_4		x	6
+		2	general_persuasive_3		x	5
+		2	general_philosopher_1		x	3
+		2	general_plough_and_yoke_3		x	5
+		2	general_port_master_1		x	3
+		2	general_raven_2		x	4
+		2	general_religious_2_east		x	4
+		2	general_religious_3		x	5
+		2	general_scientific_2_east		x	4
+		2	general_scientific_3		x	5
+		2	general_scout_2		x	5
+		2	general_sentinel_4		x	6
+		2	general_sleuth_3		x	5
+		2	general_spahbed_4		x	6
+		2	general_stag_3		x	5
+		2	general_strategist_1		x	3
+		2	general_strategist_2_navigator		x	4
+		2	general_strategist_2_tactician		x	4
+		2	general_strategist_3_administration		x	5
+		2	general_strategist_3_assimilator		x	5
+		2	general_strategist_3_covert_action		x	5
+		2	general_strategist_3_covert_action_germanic		x	5
+		2	general_strategist_3_logistics		x	5
+		2	general_strategist_3_mercenary		x	5
+		2	general_strategist_3_siegecraft		x	5
+		2	general_strategist_4_master_tactician		x	6
+		2	general_trafficker_3		x	5
+		2	general_tutor_3		x	5
+		2	general_valorous_4		x	6
+		2	general_warmonger_1		x	3
+		2	general_warmonger_2_marine		x	4
+		2	general_warmonger_2_soldier		x	4
+		2	general_warmonger_2_virtue		x	4
+		2	general_warmonger_3_defence		x	5
+		2	general_warmonger_3_despoil		x	5
+		2	general_warmonger_3_dread		x	5
+		2	general_warmonger_3_offense		x	5
+		2	general_warmonger_3_virtue		x	5
+		2	general_warmonger_4_fearless_warrior		x	6
+		2	general_wolf_3		x	5
+		2	general_wrathful_3		x	5
+		2	navy_1_destroyers		x	3
+main_invasion	inv_syracuse	2	navy_1_destroyers		x	2
+main_invasion	inv_taranto	2	navy_1_destroyers		x	2
+main_invasion	inv_tarchuna	2	navy_1_destroyers		x	2
+		2	navy_1_formidable_marines		x	3
+main_invasion	inv_insubres	2	navy_1_formidable_marines		x	2
+main_invasion	inv_iolei	2	navy_1_formidable_marines		x	2
+main_invasion	inv_rome	2	navy_1_formidable_marines		x	2
+main_invasion	inv_samnites	2	navy_1_formidable_marines		x	2
+main_invasion	inv_senones	2	navy_1_formidable_marines		x	2
+main_invasion	inv_syracuse	2	navy_1_formidable_marines		x	2
+main_invasion	inv_taranto	2	navy_1_formidable_marines		x	2
+main_invasion	inv_tarchuna	2	navy_1_formidable_marines		x	2
+main_invasion	inv_veneti	2	navy_1_formidable_marines		x	2
+		2	navy_1_formidable_marines	sc_rom_barb_east	x	4
+		2	navy_1_great_marksmen		x	3
+main_invasion	inv_insubres	2	navy_1_great_marksmen		x	2
+main_invasion	inv_iolei	2	navy_1_great_marksmen		x	2
+main_invasion	inv_rome	2	navy_1_great_marksmen		x	2
+main_invasion	inv_samnites	2	navy_1_great_marksmen		x	2
+main_invasion	inv_senones	2	navy_1_great_marksmen		x	2
+main_invasion	inv_syracuse	2	navy_1_great_marksmen		x	2
+main_invasion	inv_taranto	2	navy_1_great_marksmen		x	2
+main_invasion	inv_tarchuna	2	navy_1_great_marksmen		x	2
+main_invasion	inv_veneti	2	navy_1_great_marksmen		x	2
+		2	navy_2_blockade_runners		x	4
+main_invasion	inv_insubres	2	navy_2_blockade_runners		x	3
+main_invasion	inv_iolei	2	navy_2_blockade_runners		x	3
+main_invasion	inv_rome	2	navy_2_blockade_runners		x	3
+main_invasion	inv_samnites	2	navy_2_blockade_runners		x	3
+main_invasion	inv_senones	2	navy_2_blockade_runners		x	3
+main_invasion	inv_syracuse	2	navy_2_blockade_runners		x	3
+main_invasion	inv_taranto	2	navy_2_blockade_runners		x	3
+main_invasion	inv_tarchuna	2	navy_2_blockade_runners		x	3
+main_invasion	inv_veneti	2	navy_2_blockade_runners		x	3
+		2	navy_2_dread_pirates		x	4
+main_invasion	inv_senones	2	navy_2_dread_pirates		x	3
+main_invasion	inv_tarchuna	2	navy_2_dread_pirates		x	4
+main_rome	rom_masaesyli	2	navy_2_dread_pirates		x	3
+		2	navy_2_dread_pirates	sc_rom_barb_east	x	3
+		2	navy_2_dread_pirates	sc_rom_british	x	3
+		2	navy_2_dread_pirates	sc_rom_celtiberian	x	3
+		2	navy_2_dread_pirates	sc_rom_celtic	x	3
+		2	navy_2_dread_pirates	sc_rom_daco_thracian	x	3
+		2	navy_2_dread_pirates	sc_rom_gaul	x	3
+		2	navy_2_dread_pirates	sc_rom_germanic	x	3
+		2	navy_2_dread_pirates	sc_rom_illyrian	x	3
+		2	navy_2_intrepid_escorts		x	4
+main_invasion	inv_insubres	2	navy_2_intrepid_escorts		x	3
+main_invasion	inv_iolei	2	navy_2_intrepid_escorts		x	3
+main_invasion	inv_rome	2	navy_2_intrepid_escorts		x	3
+main_invasion	inv_samnites	2	navy_2_intrepid_escorts		x	3
+main_invasion	inv_syracuse	2	navy_2_intrepid_escorts		x	3
+main_invasion	inv_taranto	2	navy_2_intrepid_escorts		x	3
+main_invasion	inv_tarchuna	2	navy_2_intrepid_escorts		x	3
+main_invasion	inv_veneti	2	navy_2_intrepid_escorts		x	3
+		2	navy_2_ship_defenders		x	4
+main_invasion	inv_insubres	2	navy_2_ship_defenders		x	3
+main_invasion	inv_iolei	2	navy_2_ship_defenders		x	3
+main_invasion	inv_rome	2	navy_2_ship_defenders		x	3
+main_invasion	inv_samnites	2	navy_2_ship_defenders		x	3
+main_invasion	inv_senones	2	navy_2_ship_defenders		x	3
+main_invasion	inv_syracuse	2	navy_2_ship_defenders		x	3
+main_invasion	inv_taranto	2	navy_2_ship_defenders		x	3
+main_invasion	inv_tarchuna	2	navy_2_ship_defenders		x	3
+main_invasion	inv_veneti	2	navy_2_ship_defenders		x	3
+		2	navy_3_able_seamen		x	5
+main_invasion	inv_iolei	2	navy_3_able_seamen		x	5
+main_invasion	inv_rome	2	navy_3_able_seamen		x	4
+main_invasion	inv_samnites	2	navy_3_able_seamen		x	4
+main_invasion	inv_senones	2	navy_3_able_seamen		x	4
+main_invasion	inv_syracuse	2	navy_3_able_seamen		x	4
+main_invasion	inv_taranto	2	navy_3_able_seamen		x	4
+main_invasion	inv_veneti	2	navy_3_able_seamen		x	5
+		2	navy_3_battle_hardened		x	6
+		2	navy_3_master_shipwrights		x	5
+main_invasion	inv_insubres	2	navy_3_master_shipwrights		x	4
+main_invasion	inv_iolei	2	navy_3_master_shipwrights		x	4
+main_invasion	inv_rome	2	navy_3_master_shipwrights		x	4
+main_invasion	inv_samnites	2	navy_3_master_shipwrights		x	4
+main_invasion	inv_senones	2	navy_3_master_shipwrights		x	4
+main_invasion	inv_syracuse	2	navy_3_master_shipwrights		x	4
+main_invasion	inv_taranto	2	navy_3_master_shipwrights		x	4
+main_invasion	inv_tarchuna	2	navy_3_master_shipwrights		x	4
+main_invasion	inv_veneti	2	navy_3_master_shipwrights		x	4
+		2	navy_3_pirate_hunters		x	5
+main_invasion	inv_insubres	2	navy_3_pirate_hunters		x	4
+main_invasion	inv_iolei	2	navy_3_pirate_hunters		x	4
+main_invasion	inv_rome	2	navy_3_pirate_hunters		x	4
+main_invasion	inv_samnites	2	navy_3_pirate_hunters		x	4
+main_invasion	inv_syracuse	2	navy_3_pirate_hunters		x	4
+main_invasion	inv_taranto	2	navy_3_pirate_hunters		x	4
+main_invasion	inv_veneti	2	navy_3_pirate_hunters		x	4
+		2	navy_4_children_of_the_aegaean		x	6
+main_invasion	inv_syracuse	2	navy_4_children_of_the_aegaean		x	5
+main_invasion	inv_taranto	2	navy_4_children_of_the_aegaean		x	5
+		2	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_insubres	2	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_iolei	2	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_rome	2	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_samnites	2	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_senones	2	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_syracuse	2	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_taranto	2	navy_4_masters_of_the_sea		x	6
+main_invasion	inv_tarchuna	2	navy_4_masters_of_the_sea		x	5
+main_invasion	inv_veneti	2	navy_4_masters_of_the_sea		x	5
+main_rome	rom_kush	2	navy_4_masters_of_the_sea		x	6
+main_rome	rom_masaesyli	2	navy_4_masters_of_the_sea		x	6
+main_rome	rom_nabatea	2	navy_4_masters_of_the_sea		x	6
+main_rome	rom_saba	2	navy_4_masters_of_the_sea		x	6
+		2	navy_4_pride_of_ptolemy		x	6
+		2	navy_4_professional_piracy		x	6
+main_invasion	inv_senones	2	navy_4_professional_piracy		x	5
+		2	navy_4_scions_of_phoenicia		x	6
+		2	navy_4_trade_route_protectors		x	6
+main_invasion	inv_insubres	2	navy_4_trade_route_protectors		x	5
+		2	navy_4_wardens_of_pontus		x	6
+		2	pel_army_accomplished_skirmishers		x	3
+		2	pel_army_ambushers		x	4
+		2	pel_army_battle_hardened		x	6
+		2	pel_army_formidable_hoplites		x	3
+		2	pel_army_keepers_of_peace		x	4
+		2	pel_army_raiders		x	5
+		2	pel_army_siege_experts		x	3
+		2	pel_army_stalwart_defenders		x	4
+		2	pel_general_commander_commander_1		x	3
+		2	pel_general_commander_hegemon_4		x	6
+		2	pel_general_commander_leader_2		x	4
+		2	pel_general_commander_trainer_3		x	5
+		2	pel_general_fighter_despoil_3		x	5
+		2	pel_general_fighter_fighter_1		x	3
+		2	pel_general_fighter_leads_the_charge_2		x	4
+		2	pel_general_fighter_spirit_of_heracles_4		x	6
+		2	pel_general_strategist_administration_3		x	5
+		2	pel_general_strategist_master_strategos_4		x	6
+		2	pel_general_strategist_pathfinder_2		x	4
+		2	pel_general_strategist_strategist_1		x	3
+		2	pel_navy_children_of_the_aegean		x	6
+		2	pel_navy_formidable_marines		x	3
+		2	pel_navy_great_marksmen		x	3
+		2	pel_navy_interpid_escorts		x	4
+		2	pel_navy_master_shipwrights		x	5
+		2	pel_navy_masters_of_the_sea		x	5
+		2	pel_navy_raiders		x	4
+		2	pel_navy_sea_patrol		x	5
+main_invasion	inv_insubres	2	pel_navy_sea_patrol		x	4
+main_invasion	inv_iolei	2	pel_navy_sea_patrol		x	4
+main_invasion	inv_rome	2	pel_navy_sea_patrol		x	5
+main_invasion	inv_samnites	2	pel_navy_sea_patrol		x	4
+main_invasion	inv_senones	2	pel_navy_sea_patrol		x	4
+main_invasion	inv_tarchuna	2	pel_navy_sea_patrol		x	5
+main_invasion	inv_veneti	2	pel_navy_sea_patrol		x	4
+		3	3c_army_1_Accomplished_Archers		x	5
+		3	3c_army_1_Accomplished_Skirmishers		x	5
+		3	3c_army_1_Artillery_Experts		x	6
+		3	3c_army_1_Dread_Ambushers		x	6
+		3	3c_army_1_Dread_Ambushers_gallic		x	5
+main_invasion	inv_senones	3	3c_army_1_Dread_Ambushers_gallic		x	5
+		3	3c_army_1_Dread_Charioteers		x	6
+		3	3c_army_1_Dread_Charioteers_caledon		x	5
+main_invasion	inv_insubres	3	3c_army_1_Dread_Charioteers		x	6
+main_invasion	inv_senones	3	3c_army_1_Dread_Charioteers		x	6
+		3	3c_army_1_Engineering_Experts		x	5
+		3	3c_army_1_Formidable_Fighters		x	5
+		3	3c_army_1_Formidable_Spearmen		x	5
+		3	3c_army_1_Formidable_Swordsmen		x	5
+		3	3c_army_1_Keepers_of_the_Peace		x	6
+		3	3c_army_1_Keepers_of_the_Peace_gallic		x	6
+		3	3c_army_1_Light_Cavalry_Masters		x	5
+		3	3c_army_1_Siege_Experts		x	5
+		3	3c_army_1_Stalwart_Defenders		x	6
+		3	3c_army_2_Cavalry_Masters		x	6
+		3	3c_army_2_Furor_Celtica		x	6
+		3	3c_army_2_Furor_Germanicus		x	6
+		3	3c_army_2_Inexorable_Conquerors		x	6
+		3	3c_army_2_Unrelenting_Force		x	6
+		3	3c_army_3_Auxiliary_Corps		x	7
+		3	3c_army_3_Barbarian_Subjugators		x	7
+main_invasion	inv_rome	3	3c_army_3_Barbarian_Subjugators		x	3
+main_invasion	inv_taranto	3	3c_army_3_Barbarian_Subjugators		x	4
+main_invasion	inv_tarchuna	3	3c_army_3_Barbarian_Subjugators		x	4
+		3	3c_army_3_Cavalry_Masters		x	7
+		3	3c_army_3_Desert_Warriors		x	7
+		3	3c_army_3_Dread_Marauders		x	7
+		3	3c_army_3_Grand_Camp_Following		x	7
+main_invasion	inv_insubres	3	3c_army_3_Grand_Camp_Following		x	4
+main_invasion	inv_tarchuna	3	3c_army_3_Grand_Camp_Following		x	3
+main_invasion	inv_veneti	3	3c_army_3_Grand_Camp_Following		x	3
+		3	3c_army_3_Indomitable_Infantry		x	7
+		3	3c_army_3_Indomitable_Legionaries		x	7
+		3	3c_army_3_Light_Cavalry_Masters		x	7
+		3	3c_army_3_Mercenary_Host		x	7
+		3	3c_army_3_Spirit_of_the_Immortals		x	7
+		3	3c_army_4_Deadly_Assault_Force		x	8
+		3	3c_army_4_Dread_Invaders		x	8
+		3	3c_army_4_Nomadic_Horde		x	8
+main_invasion	inv_veneti	3	3c_army_4_Nomadic_Horde		x	5
+		3	3c_army_4_Peerless_Marksmen		x	8
+		3	3c_army_4_Sentinels_of_the_North		x	8
+		3	3c_army_4_Sons_of_Shapur		x	8
+		3	3c_army_4_True_Romans		x	8
+		3	3c_army_4_Veteran_Army		x	8
+main_invasion	inv_insubres	3	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_iolei	3	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_rome	3	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_samnites	3	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_senones	3	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_syracuse	3	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_taranto	3	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_tarchuna	3	3c_army_4_Veteran_Army		x	6
+main_invasion	inv_veneti	3	3c_army_4_Veteran_Army		x	6
+		3	3c_army_4_Wolves_of_Teiwaz		x	8
+		3	3c_army_4_Wrath_of_Sol_Invictus		x	8
+		3	3c_general_admiral_1_navigator		x	5
+		3	3c_general_admiral_2_inspiring_admiral		x	6
+		3	3c_general_admiral_2_seasoned_marine		x	6
+		3	3c_general_admiral_3_maritime_archer		x	7
+		3	3c_general_admiral_3_naval_commander		x	7
+		3	3c_general_admiral_4_naval_tactics		x	8
+		3	3c_general_authority_1_efficient_recruiter		x	5
+		3	3c_general_authority_1_law_keeper		x	5
+		3	3c_general_authority_2_infantry_commander		x	6
+		3	3c_general_authority_2_master_builder		x	6
+		3	3c_general_authority_2_naval_commander		x	6
+		3	3c_general_authority_3_cavalry_commander		x	7
+		3	3c_general_authority_3_economic_administrator		x	7
+		3	3c_general_authority_3_inspiring_admiral		x	7
+		3	3c_general_authority_3_inspiring_general		x	7
+		3	3c_general_authority_4_great_leader		x	8
+		3	3c_general_bureaucrat_1_law_keeper		x	5
+		3	3c_general_bureaucrat_2_agricultural_expert		x	6
+		3	3c_general_bureaucrat_2_talented_architect		x	6
+		3	3c_general_bureaucrat_3_industrial_manager		x	7
+		3	3c_general_bureaucrat_3_patron_of_arts		x	7
+		3	3c_general_bureaucrat_4_economic_administrator		x	8
+		3	3c_general_cunning_1_navigator		x	5
+		3	3c_general_cunning_1_strategist		x	5
+		3	3c_general_cunning_2_artillery_master		x	6
+		3	3c_general_cunning_2_military_administrator		x	6
+		3	3c_general_cunning_2_vicious_despoiler		x	6
+		3	3c_general_cunning_3_covert_expert		x	7
+		3	3c_general_cunning_3_mercenary_recruiter		x	7
+		3	3c_general_cunning_3_siege_master		x	7
+		3	3c_general_cunning_3_skilled_logistician		x	7
+		3	3c_general_cunning_4_master_schemer		x	8
+		3	3c_general_general_1_efficient_recruiter		x	5
+		3	3c_general_general_2_infantry_commander		x	6
+		3	3c_general_general_2_inspiring_general		x	6
+		3	3c_general_general_3_cavalry_commander		x	7
+		3	3c_general_general_3_marching_instructor		x	7
+		3	3c_general_general_4_military_administrator		x	8
+		3	3c_general_mastermind_1_strategist		x	5
+		3	3c_general_mastermind_2_covert_expert		x	6
+		3	3c_general_mastermind_2_mercenary_recruiter		x	6
+		3	3c_general_mastermind_3_artillery_master		x	7
+		3	3c_general_mastermind_3_skilled_logistician		x	7
+		3	3c_general_mastermind_4_siege_master		x	8
+		3	3c_general_soldier_1_master_attacker		x	5
+		3	3c_general_soldier_2_master_defender		x	6
+		3	3c_general_soldier_2_master_of_onslaught		x	6
+		3	3c_general_soldier_3_leader_of_marskmen		x	7
+		3	3c_general_soldier_3_vicious_despoiler		x	7
+		3	3c_general_soldier_4_incarnation_of_dread		x	8
+		3	3c_general_zeal_1_master_defender		x	5
+		3	3c_general_zeal_1_warrior		x	5
+		3	3c_general_zeal_2_master_attacker		x	6
+		3	3c_general_zeal_2_master_of_onslaught		x	6
+		3	3c_general_zeal_2_seasoned_marine		x	6
+		3	3c_general_zeal_3_incarnation_of_dread		x	7
+		3	3c_general_zeal_3_leader_of_marskmen		x	7
+		3	3c_general_zeal_3_marching_instructor		x	7
+		3	3c_general_zeal_3_maritime_archer		x	7
+		3	3c_general_zeal_4_exemplary_soldier		x	8
+		3	3c_navy_1_Destroyers		x	5
+		3	3c_navy_1_Dread_Pirates		x	5
+		3	3c_navy_1_Formidable_Marines		x	5
+		3	3c_navy_1_Naval_Marksmen		x	5
+		3	3c_navy_2_Blockade_Runners		x	6
+		3	3c_navy_2_Intrepid_Escorts		x	6
+		3	3c_navy_2_Ship_Defenders		x	6
+		3	3c_navy_3_Able_Seamen		x	7
+main_invasion	inv_tarchuna	3	3c_navy_3_Able_Seamen		x	5
+		3	3c_navy_3_Master_Shipwrights		x	7
+		3	3c_navy_3_Pirate_Hunters		x	7
+		3	3c_navy_4_Masters_of_the_Sea		x	8
+		3	3c_navy_4_Veteran_Fleet		x	8
+main_invasion	inv_insubres	3	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_iolei	3	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_rome	3	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_samnites	3	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_senones	3	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_syracuse	3	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_taranto	3	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_tarchuna	3	3c_navy_4_Veteran_Fleet		x	6
+main_invasion	inv_veneti	3	3c_navy_4_Veteran_Fleet		x	6
+		3	age_agent_champion_authority_agitator		x	5
+		3	age_agent_champion_authority_drill_sergeant		x	3
+		3	age_agent_champion_authority_drunkard		x	5
+		3	age_agent_champion_authority_efficient		x	7
+		3	age_agent_champion_authority_evocatus		x	7
+		3	age_agent_champion_authority_explorer		x	3
+		3	age_agent_champion_authority_festive		x	5
+		3	age_agent_champion_authority_guardian		x	5
+		3	age_agent_champion_authority_historian		x	3
+		3	age_agent_champion_authority_horsebreeder		x	5
+		3	age_agent_champion_authority_inspirational		x	5
+		3	age_agent_champion_authority_mentor		x	3
+		3	age_agent_champion_authority_officer		x	5
+		3	age_agent_champion_authority_officer_native_units		x	5
+		3	age_agent_champion_authority_paedotribe		x	3
+		3	age_agent_champion_authority_protector		x	3
+		3	age_agent_champion_authority_renowned		x	3
+		3	age_agent_champion_subterfuge_ageestigator		x	5
+		3	age_agent_champion_subterfuge_harasser		x	5
+		3	age_agent_champion_subterfuge_hunter		x	5
+		3	age_agent_champion_subterfuge_interrogator		x	5
+		3	age_agent_champion_subterfuge_intimidating		x	3
+		3	age_agent_champion_subterfuge_murderous		x	7
+		3	age_agent_champion_subterfuge_nocturnal		x	5
+		3	age_agent_champion_subterfuge_resourceful		x	7
+		3	age_agent_champion_subterfuge_siege_expert		x	3
+		3	age_agent_champion_subterfuge_trapper		x	5
+		3	age_agent_champion_subterfuge_wicked		x	3
+		3	age_agent_champion_zeal_arsonist		x	3
+		3	age_agent_champion_zeal_bloodlust		x	7
+		3	age_agent_champion_zeal_centurion		x	3
+		3	age_agent_champion_zeal_duelist		x	7
+		3	age_agent_champion_zeal_eloquent		x	5
+		3	age_agent_champion_zeal_frenzied		x	3
+		3	age_agent_champion_zeal_heroic		x	7
+		3	age_agent_champion_zeal_hoplite		x	3
+		3	age_agent_champion_zeal_marksman		x	3
+		3	age_agent_champion_zeal_militant		x	7
+		3	age_agent_champion_zeal_praefectus		x	7
+		3	age_agent_champion_zeal_raider		x	5
+		3	age_agent_champion_zeal_resilient		x	5
+		3	age_agent_champion_zeal_sadistic		x	5
+		3	age_agent_champion_zeal_terrifying		x	5
+		3	age_agent_dignitary_authority_advocatus		x	3
+		3	age_agent_dignitary_authority_diplomatic		x	7
+		3	age_agent_dignitary_authority_entertainer		x	3
+		3	age_agent_dignitary_authority_financist		x	3
+		3	age_agent_dignitary_authority_herder		x	5
+		3	age_agent_dignitary_authority_lawful		x	3
+		3	age_agent_dignitary_authority_officium		x	7
+		3	age_agent_dignitary_authority_orator		x	3
+		3	age_agent_dignitary_authority_persuasive		x	5
+		3	age_agent_dignitary_authority_philosopher		x	3
+		3	age_agent_dignitary_authority_political		x	3
+		3	age_agent_dignitary_authority_slaver		x	5
+		3	age_agent_dignitary_authority_supplier		x	3
+		3	age_agent_dignitary_authority_tutor		x	7
+		3	age_agent_dignitary_subterfuge_contractor		x	3
+		3	age_agent_dignitary_subterfuge_dealer		x	7
+		3	age_agent_dignitary_subterfuge_embezzler		x	5
+		3	age_agent_dignitary_subterfuge_employer		x	5
+		3	age_agent_dignitary_subterfuge_emporos		x	5
+		3	age_agent_dignitary_subterfuge_fanatic		x	5
+		3	age_agent_dignitary_subterfuge_generous		x	3
+		3	age_agent_dignitary_subterfuge_greedy		x	3
+		3	age_agent_dignitary_subterfuge_imperious		x	5
+		3	age_agent_dignitary_subterfuge_mi'mar		x	3
+		3	age_agent_dignitary_subterfuge_silver_tongue		x	7
+		3	age_agent_dignitary_subterfuge_smuggler		x	7
+		3	age_agent_dignitary_subterfuge_strict		x	3
+		3	age_agent_dignitary_subterfuge_vower		x	5
+		3	age_agent_dignitary_zeal_advisor		x	3
+		3	age_agent_dignitary_zeal_azad		x	5
+		3	age_agent_dignitary_zeal_chant		x	5
+		3	age_agent_dignitary_zeal_corrupt		x	7
+		3	age_agent_dignitary_zeal_leader		x	7
+		3	age_agent_dignitary_zeal_magi		x	5
+		3	age_agent_dignitary_zeal_motivator		x	5
+		3	age_agent_dignitary_zeal_noble		x	5
+		3	age_agent_dignitary_zeal_rhetoric		x	7
+		3	age_agent_dignitary_zeal_romanizer		x	7
+		3	age_agent_dignitary_zeal_sphagia		x	5
+		3	age_agent_dignitary_zeal_underhanded		x	3
+		3	age_agent_dignitary_zeal_warmonger		x	5
+		3	age_agent_spy_authority_conspirator		x	7
+		3	age_agent_spy_authority_despoiler		x	5
+		3	age_agent_spy_authority_hunter		x	7
+		3	age_agent_spy_authority_naturalist		x	3
+		3	age_agent_spy_authority_network		x	3
+		3	age_agent_spy_authority_pathfinder		x	7
+		3	age_agent_spy_authority_spasaka		x	5
+		3	age_agent_spy_authority_speculatore		x	7
+		3	age_agent_spy_authority_studious		x	3
+		3	age_agent_spy_authority_watchman		x	5
+		3	age_agent_spy_subterfuge_actor		x	3
+		3	age_agent_spy_subterfuge_assistant		x	3
+		3	age_agent_spy_subterfuge_contacts		x	7
+		3	age_agent_spy_subterfuge_coordinator		x	5
+		3	age_agent_spy_subterfuge_deceiver		x	7
+		3	age_agent_spy_subterfuge_discord		x	7
+		3	age_agent_spy_subterfuge_hallucinogens		x	7
+		3	age_agent_spy_subterfuge_hideout		x	3
+		3	age_agent_spy_subterfuge_liar		x	5
+		3	age_agent_spy_subterfuge_lookout		x	3
+		3	age_agent_spy_subterfuge_mandrake		x	7
+		3	age_agent_spy_subterfuge_thief		x	3
+		3	age_agent_spy_subterfuge_toxic		x	7
+		3	age_agent_spy_subterfuge_tracker		x	5
+		3	age_agent_spy_zeal_animal_hater		x	5
+		3	age_agent_spy_zeal_blight		x	3
+		3	age_agent_spy_zeal_bookworm		x	5
+		3	age_agent_spy_zeal_careful		x	3
+		3	age_agent_spy_zeal_counterspy		x	3
+		3	age_agent_spy_zeal_deadly		x	7
+		3	age_agent_spy_zeal_looter		x	5
+		3	age_agent_spy_zeal_menace		x	3
+		3	age_agent_spy_zeal_military_espionage		x	5
+		3	age_agent_spy_zeal_saboteur		x	7
+		3	age_agent_spy_zeal_specialist		x	3
+		3	agent_background_champion_athlete_generic		x	5
+		3	agent_background_champion_athlete_hellenic_olympian		x	5
+		3	agent_background_champion_avaricious_generic		x	5
+		3	agent_background_champion_brute_generic		x	5
+		3	agent_background_champion_brute_germanic_berserker		x	5
+		3	agent_background_champion_commoner_generic		x	5
+		3	agent_background_champion_contender_roman_gladiator		x	5
+		3	agent_background_champion_guard_barbarian_sentinel		x	5
+		3	agent_background_champion_guard_generic		x	5
+		3	agent_background_champion_guard_roman_vigile		x	5
+		3	agent_background_champion_martial_artist_eastern_pahlavani		x	5
+		3	agent_background_champion_martial_artist_egyptian_sebekkha		x	5
+		3	agent_background_champion_martial_artist_generic		x	5
+		3	agent_background_champion_martial_artist_greco_roman_pankration		x	5
+		3	agent_background_champion_military_engineer_generic		x	5
+		3	agent_background_champion_officer_barbarian_warmaster		x	5
+		3	agent_background_champion_officer_rome_tribune		x	5
+		3	agent_background_champion_quartermaster_generic		x	5
+		3	agent_background_champion_talented_generic		x	5
+		3	agent_background_champion_warhero_barbarian_wardancer		x	5
+		3	agent_background_champion_warhero_generic		x	5
+		3	agent_background_dignitary_councillor_barbarian_elder		x	5
+		3	agent_background_dignitary_councillor_generic		x	5
+		3	agent_background_dignitary_councillor_roman_senator		x	5
+		3	agent_background_dignitary_councillor_royal_courtier		x	5
+		3	agent_background_dignitary_courtesan_greek_hetaera		x	5
+		3	agent_background_dignitary_healer_generic		x	5
+		3	agent_background_dignitary_merchant_generic		x	5
+		3	agent_background_dignitary_merchant_hellenic_plutocrat		x	5
+		3	agent_background_dignitary_merchant_roman_magnate		x	5
+		3	agent_background_dignitary_militarist_barbarian_warmonger		x	5
+		3	agent_background_dignitary_militarist_generic		x	5
+		3	agent_background_dignitary_orator_barbarian_lore		x	5
+		3	agent_background_dignitary_orator_egypt_chantress		x	5
+		3	agent_background_dignitary_overseer_barbarian_arbiter		x	5
+		3	agent_background_dignitary_overseer_carthaginian_landowner		x	5
+		3	agent_background_dignitary_overseer_generic		x	5
+		3	agent_background_dignitary_overseer_spartan_female_landowner		x	5
+		3	agent_background_dignitary_physician_barbarian_healer		x	5
+		3	agent_background_dignitary_sacrificer_generic		x	5
+		3	agent_background_dignitary_scholar_barbarian_sage		x	5
+		3	agent_background_dignitary_scholar_generic		x	5
+		3	agent_background_dignitary_seer_carthaginian_kohanim		x	5
+		3	agent_background_dignitary_seer_druidic_vates		x	5
+		3	agent_background_dignitary_seer_eastern_astrologer		x	5
+		3	agent_background_dignitary_seer_egyptian_hemet_netjer		x	5
+		3	agent_background_dignitary_seer_generic		x	5
+		3	agent_background_dignitary_seer_germanic_spakona		x	5
+		3	agent_background_dignitary_seer_greek_female_oracle		x	5
+		3	agent_background_dignitary_seer_greek_male_mantis		x	5
+		3	agent_background_dignitary_seer_nomadic_shaman		x	5
+		3	agent_background_dignitary_seer_roman_augur		x	5
+		3	agent_background_dignitary_singer_generic		x	5
+		3	agent_background_dignitary_talented_generic		x	5
+		3	agent_background_dignitary_taxman_generic		x	5
+		3	agent_background_dignitary_taxman_roman_publican		x	5
+		3	agent_background_spy_alchemist_barbarian_herbalist		x	5
+		3	agent_background_spy_attendant_eastern_scribe		x	5
+		3	agent_background_spy_attendant_generic		x	5
+		3	agent_background_spy_courier_generic		x	5
+		3	agent_background_spy_courtesan_generic		x	5
+		3	agent_background_spy_craftsman_generic		x	5
+		3	agent_background_spy_criminal_generic		x	5
+		3	agent_background_spy_farmer_generic		x	5
+		3	agent_background_spy_handler_generic		x	5
+		3	agent_background_spy_poet_celtic_bard		x	5
+		3	agent_background_spy_poet_eastern_gosan		x	5
+		3	agent_background_spy_poet_generic		x	5
+		3	agent_background_spy_poet_germanic_scop		x	5
+		3	agent_background_spy_scout_barbarian_hunter		x	5
+		3	agent_background_spy_scout_generic		x	5
+		3	agent_background_spy_scout_roman_explorator		x	5
+		3	agent_background_spy_shadow_generic		x	5
+		3	agent_background_spy_slave_generic		x	5
+		3	agent_background_spy_talented_generic		x	5
+		3	agent_champion_authority_1_paragon		x	5
+		3	agent_champion_authority_2_unity		x	6
+		3	agent_champion_authority_2_valour		x	6
+		3	agent_champion_subterfuge_1_partisan		x	5
+		3	agent_champion_subterfuge_2_artifice		x	6
+		3	agent_champion_subterfuge_2_stratagem		x	6
+		3	agent_champion_zeal_1_champion		x	5
+		3	agent_champion_zeal_2_strength		x	6
+		3	agent_champion_zeal_2_warfare		x	6
+		3	agent_champion_zeal_3_audacity		x	7
+		3	agent_champion_zeal_3_militancy		x	7
+		3	agent_dignitary_authority_1_dignitary		x	5
+		3	agent_dignitary_authority_2_philosophy		x	6
+		3	agent_dignitary_authority_2_politics		x	6
+		3	agent_dignitary_authority_3_demagogy		x	7
+		3	agent_dignitary_authority_3_martial_philosophy		x	7
+		3	agent_dignitary_subterfuge_1_conspirator		x	5
+		3	agent_dignitary_subterfuge_2_intrigue		x	6
+		3	agent_dignitary_subterfuge_2_treachery		x	6
+		3	agent_dignitary_zeal_1_provocateur		x	5
+		3	agent_dignitary_zeal_2_doom		x	6
+		3	agent_dignitary_zeal_2_propaganda		x	6
+		3	agent_spy_authority_1_agent		x	5
+		3	agent_spy_authority_2_collaboration		x	6
+		3	agent_spy_authority_2_disruption		x	6
+		3	agent_spy_subterfuge_1_spy		x	5
+		3	agent_spy_subterfuge_2_clandestinity		x	6
+		3	agent_spy_subterfuge_2_reconnaisance		x	6
+		3	agent_spy_subterfuge_3_infiltration		x	7
+		3	agent_spy_subterfuge_3_mass_poison		x	7
+		3	agent_spy_zeal_1_antagonist		x	5
+		3	agent_spy_zeal_2_murder		x	6
+		3	agent_spy_zeal_2_sabotage		x	6
+		3	army_1_accomplished_archers		x	5
+main_invasion	inv_iolei	3	army_1_accomplished_archers		x	3
+		3	army_1_accomplished_skirmishers		x	5
+main_invasion	inv_insubres	3	army_1_accomplished_skirmishers		x	3
+main_invasion	inv_iolei	3	army_1_accomplished_skirmishers		x	3
+main_invasion	inv_rome	3	army_1_accomplished_skirmishers		x	3
+main_invasion	inv_samnites	3	army_1_accomplished_skirmishers		x	3
+main_invasion	inv_senones	3	army_1_accomplished_skirmishers		x	3
+main_invasion	inv_syracuse	3	army_1_accomplished_skirmishers		x	3
+main_invasion	inv_taranto	3	army_1_accomplished_skirmishers		x	3
+main_invasion	inv_veneti	3	army_1_accomplished_skirmishers		x	4
+		3	army_1_artillery_experts		x	6
+main_invasion	inv_syracuse	3	army_1_artillery_experts		x	3
+main_invasion	inv_taranto	3	army_1_artillery_experts		x	3
+		3	army_1_dread_charioteers		x	5
+main_rome	rom_kush	3	army_1_dread_charioteers		x	6
+main_rome	rom_nabatea	3	army_1_dread_charioteers		x	6
+		3	army_1_engineering_experts		x	5
+main_rome	rom_kush	3	army_1_engineering_experts		x	6
+main_rome	rom_masaesyli	3	army_1_engineering_experts		x	5
+main_rome	rom_nabatea	3	army_1_engineering_experts		x	6
+main_rome	rom_saba	3	army_1_engineering_experts		x	6
+		3	army_1_formidable_fighters		x	5
+main_invasion	inv_insubres	3	army_1_formidable_fighters		x	3
+main_invasion	inv_iolei	3	army_1_formidable_fighters		x	3
+main_invasion	inv_samnites	3	army_1_formidable_fighters		x	3
+main_invasion	inv_senones	3	army_1_formidable_fighters		x	3
+		3	army_1_formidable_fighters	sc_rom_barb_east	x	6
+		3	army_1_formidable_spearmen		x	5
+main_invasion	inv_syracuse	3	army_1_formidable_spearmen		x	3
+main_invasion	inv_taranto	3	army_1_formidable_spearmen		x	3
+		3	army_1_formidable_swordsmen		x	5
+		3	army_1_siege_experts		x	5
+main_invasion	inv_insubres	3	army_1_siege_experts		x	5
+main_invasion	inv_rome	3	army_1_siege_experts		x	5
+main_invasion	inv_syracuse	3	army_1_siege_experts		x	4
+main_invasion	inv_taranto	3	army_1_siege_experts		x	4
+main_invasion	inv_tarchuna	3	army_1_siege_experts		x	5
+		3	army_1_siege_experts	sc_rom_african_arabian	x	7
+		3	army_1_siege_experts	sc_rom_barb_east	x	7
+		3	army_1_siege_experts	sc_rom_british	x	7
+		3	army_1_siege_experts	sc_rom_celtiberian	x	7
+		3	army_1_siege_experts	sc_rom_celtic	x	7
+		3	army_1_siege_experts	sc_rom_daco_thracian	x	7
+		3	army_1_siege_experts	sc_rom_eastern	x	6
+		3	army_1_siege_experts	sc_rom_gaul	x	7
+		3	army_1_siege_experts	sc_rom_germanic	x	7
+		3	army_1_siege_experts	sc_rom_illyrian	x	7
+		3	army_1_siege_experts	sc_rom_parthian	x	6
+		3	army_2_ambushers		x	6
+main_invasion		3	army_2_ambushers_samnites		x	3
+main_invasion	inv_iolei	3	army_2_ambushers		x	4
+main_invasion	inv_samnites	3	army_2_ambushers		x	4
+		3	army_2_ambushers	sc_rom_barb_east	x	5
+		3	army_2_desert_ambushers		x	6
+		3	army_2_forest_ambushers		x	5
+main_invasion	inv_insubres	3	army_2_forest_ambushers		x	4
+main_invasion	inv_iolei	3	army_2_forest_ambushers		x	5
+main_invasion	inv_samnites	3	army_2_forest_ambushers		x	4
+		3	army_2_furor_germanicus		x	6
+		3	army_2_inexorable_conquerors		x	6
+main_invasion	inv_senones	3	army_2_inexorable_conquerors		x	5
+		3	army_2_inexorable_horde		x	6
+		3	army_2_inexorable_horde	sc_rom_barb_east	x	5
+		3	army_2_inexorable_horde	sc_rom_germanic	x	5
+		3	army_2_keepers_of_peace		x	6
+main_invasion	inv_insubres	3	army_2_keepers_of_peace		x	3
+main_invasion	inv_tarchuna	3	army_2_keepers_of_peace		x	3
+main_invasion	inv_veneti	3	army_2_keepers_of_peace		x	5
+main_rome	rom_kush	3	army_2_keepers_of_peace		x	5
+main_rome	rom_masaesyli	3	army_2_keepers_of_peace		x	6
+main_rome	rom_nabatea	3	army_2_keepers_of_peace		x	5
+main_rome	rom_saba	3	army_2_keepers_of_peace		x	5
+		3	army_2_stalwart_defenders_barbarian		x	6
+main_invasion	inv_insubres	3	army_2_stalwart_defenders_barbarian		x	4
+main_invasion	inv_iolei	3	army_2_stalwart_defenders_barbarian		x	4
+main_invasion	inv_senones	3	army_2_stalwart_defenders_barbarian		x	4
+		3	army_2_stalwart_defenders_eastern		x	6
+		3	army_2_stalwart_defenders_hellenic		x	6
+main_invasion	inv_syracuse	3	army_2_stalwart_defenders_hellenic		x	4
+main_invasion	inv_taranto	3	army_2_stalwart_defenders_hellenic		x	5
+		3	army_2_stalwart_defenders_rome		x	6
+main_invasion	inv_rome	3	army_2_stalwart_defenders_rome		x	3
+main_invasion	inv_samnites	3	army_2_stalwart_defenders_rome		x	4
+main_invasion	inv_tarchuna	3	army_2_stalwart_defenders_rome		x	3
+main_invasion	inv_veneti	3	army_2_stalwart_defenders_rome		x	4
+		3	army_2_unrelenting_force		x	6
+main_invasion	inv_insubres	3	army_2_unrelenting_force		x	5
+main_invasion	inv_iolei	3	army_2_unrelenting_force		x	6
+main_invasion	inv_rome	3	army_2_unrelenting_force		x	4
+main_invasion	inv_samnites	3	army_2_unrelenting_force		x	6
+main_invasion	inv_senones	3	army_2_unrelenting_force		x	4
+main_invasion	inv_taranto	3	army_2_unrelenting_force		x	5
+main_invasion	inv_tarchuna	3	army_2_unrelenting_force		x	5
+main_invasion	inv_veneti	3	army_2_unrelenting_force		x	5
+		3	army_3_auxiliary_corps		x	7
+main_invasion	inv_rome	3	army_3_auxiliary_corps		x	4
+		3	army_3_barbarian_subjugators		x	7
+		3	army_3_camp_following		x	7
+main_invasion	inv_iolei	3	army_3_camp_following		x	5
+main_invasion	inv_samnites	3	army_3_camp_following		x	3
+main_invasion	inv_senones	3	army_3_camp_following		x	4
+main_invasion	inv_syracuse	3	army_3_camp_following		x	6
+main_invasion	inv_taranto	3	army_3_camp_following		x	6
+		3	army_3_cavalry_masters		x	7
+main_invasion	inv_taranto	3	army_3_cavalry_masters		x	4
+main_invasion	inv_veneti	3	army_3_cavalry_masters		x	4
+		3	army_3_companions		x	7
+main_rome	rom_nabatea	3	army_3_companions		x	6
+		3	army_3_dread_marauders		x	7
+main_invasion	inv_samnites	3	army_3_dread_marauders		x	5
+main_invasion	inv_senones	3	army_3_dread_marauders		x	5
+		3	army_3_dread_marauders	sc_rom_barb_east	x	6
+		3	army_3_immortals		x	7
+main_invasion	inv_rome	3	army_3_indomitable_heavy_warriors		x	6
+		3	army_3_indomitable_hoplites		x	7
+main_invasion	inv_syracuse	3	army_3_indomitable_hoplites		x	6
+		3	army_3_indomitable_infantry		x	7
+main_invasion	inv_rome	3	army_3_indomitable_infantry		x	4
+main_invasion	inv_syracuse	3	army_3_indomitable_infantry		x	5
+main_invasion	inv_tarchuna	3	army_3_indomitable_infantry		x	4
+		3	army_3_indomitable_legionaries		x	7
+main_invasion	inv_rome	3	army_3_indomitable_legionaries		x	6
+		3	army_3_light_cavalry_masters		x	7
+main_invasion	inv_iolei	3	army_3_light_cavalry_masters		x	5
+main_invasion	inv_veneti	3	army_3_light_cavalry_masters		x	3
+main_rome	rom_kush	3	army_3_light_cavalry_masters		x	7
+		3	army_3_light_cavalry_masters	sc_rom_barb_east	x	5
+		3	army_3_light_cavalry_masters	sc_rom_daco_thracian	x	5
+		3	army_3_light_cavalry_masters	sc_rom_eastern	x	5
+		3	army_3_light_cavalry_masters	sc_rom_gaul	x	5
+		3	army_3_light_cavalry_masters	sc_rom_illyrian	x	5
+		3	army_3_light_cavalry_masters	sc_rom_parthian	x	5
+		3	army_3_mercenary_host		x	7
+main_invasion	inv_samnites	3	army_3_mercenary_host		x	5
+main_invasion	inv_syracuse	3	army_3_mercenary_host		x	4
+main_invasion	inv_tarchuna	3	army_3_mercenary_host		x	5
+		3	army_3_native_corps		x	6
+main_invasion	inv_syracuse	3	army_3_native_corps		x	5
+		3	army_3_strength_through_unity		x	8
+main_invasion	inv_samnites	3	army_3_strength_through_unity		x	5
+		3	army_3_unfettered_warriors		x	7
+main_invasion	inv_insubres	3	army_3_unfettered_warriors		x	5
+main_invasion	inv_iolei	3	army_3_unfettered_warriors		x	4
+main_invasion	inv_senones	3	army_3_unfettered_warriors		x	3
+main_invasion	inv_tarchuna	3	army_3_unfettered_warriors		x	4
+main_invasion	inv_veneti	3	army_3_unfettered_warriors		x	3
+		3	army_4_andraste_chosen		x	8
+		3	army_4_battle_hardened		x	8
+		3	army_4_caravan_guards		x	8
+main_invasion	inv_insubres	3	army_4_caravan_guards		x	6
+main_invasion	inv_veneti	3	army_4_caravan_guards		x	6
+		3	army_4_cavalry_experts		x	8
+main_invasion	inv_veneti	3	army_4_cavalry_experts		x	6
+		3	army_4_defenders_of_rome		x	8
+main_invasion	inv_rome	3	army_4_defenders_of_rome		x	5
+		3	army_4_expert_archers		x	8
+main_invasion	inv_iolei	3	army_4_expert_archers		x	6
+		3	army_4_hellenic_wartime_legacy		x	8
+		3	army_4_heralds_of_antigonus		x	8
+		3	army_4_hounds_of_molossus		x	8
+main_invasion	inv_rome	3	army_4_hounds_of_molossus		x	5
+main_invasion	inv_syracuse	3	army_4_hounds_of_molossus		x	5
+main_invasion	inv_taranto	3	army_4_hounds_of_molossus		x	5
+		3	army_4_legacy_of_brennus		x	8
+main_invasion	inv_senones	3	army_4_legacy_of_brennus		x	6
+		3	army_4_logistic_experts		x	8
+main_invasion	inv_samnites	3	army_4_logistic_experts		x	6
+		3	army_4_pahlavans_of_the_east		x	8
+		3	army_4_peers_of_leonidas		x	8
+main_invasion	inv_taranto	3	army_4_peers_of_leonidas		x	6
+		3	army_4_propagators		x	8
+main_invasion	inv_tarchuna	3	army_4_propagators		x	6
+		3	army_4_slave_subduers		x	8
+		3	army_4_steppe_horde		x	8
+		3	army_4_the_wrath_of_romulus		x	8
+main_invasion	inv_rome	3	army_4_the_wrath_of_romulus		x	6
+		3	army_4_victors_of_seleucia		x	8
+		3	army_4_war_merchants		x	8
+main_invasion	inv_tarchuna	3	army_4_war_merchants		x	6
+		3	army_4_wolves_teiwaz		x	8
+		3	general_architect_3		x	7
+		3	general_aspbed_4		x	8
+		3	general_axe_3		x	7
+		3	general_azatan_commander_3		x	7
+		3	general_background_non_roman_personal_authority		x	5
+		3	general_background_non_roman_personal_courage		x	5
+		3	general_background_non_roman_personal_dignity		x	5
+		3	general_background_non_roman_personal_dutifulness		x	5
+		3	general_background_non_roman_personal_fortitude		x	5
+		3	general_background_non_roman_personal_frugality		x	5
+		3	general_background_non_roman_personal_gravity		x	5
+		3	general_background_non_roman_personal_humanity		x	5
+		3	general_background_non_roman_personal_humour		x	5
+		3	general_background_non_roman_personal_industriousness		x	5
+		3	general_background_non_roman_personal_mercy		x	5
+		3	general_background_non_roman_personal_prudence		x	5
+		3	general_background_non_roman_personal_respectability		x	5
+		3	general_background_non_roman_personal_sternness		x	5
+		3	general_background_non_roman_personal_tenacity		x	5
+		3	general_background_non_roman_personal_truthfulness		x	5
+		3	general_background_non_roman_personal_wholesomeness		x	5
+		3	general_background_non_roman_public_agriculture		x	5
+		3	general_background_non_roman_public_clemency		x	5
+		3	general_background_non_roman_public_confidence		x	5
+		3	general_background_non_roman_public_dutifulness		x	5
+		3	general_background_non_roman_public_endurance		x	5
+		3	general_background_non_roman_public_fair		x	5
+		3	general_background_non_roman_public_faith		x	5
+		3	general_background_non_roman_public_forethought		x	5
+		3	general_background_non_roman_public_fortune		x	5
+		3	general_background_non_roman_public_freedom		x	5
+		3	general_background_non_roman_public_giving		x	5
+		3	general_background_non_roman_public_harmony		x	5
+		3	general_background_non_roman_public_health		x	5
+		3	general_background_non_roman_public_hope		x	5
+		3	general_background_non_roman_public_joy		x	5
+		3	general_background_non_roman_public_justice		x	5
+		3	general_background_non_roman_public_luck		x	5
+		3	general_background_non_roman_public_mirth		x	5
+		3	general_background_non_roman_public_modesty		x	5
+		3	general_background_non_roman_public_nobility		x	5
+		3	general_background_non_roman_public_peace		x	5
+		3	general_background_non_roman_public_plenty		x	5
+		3	general_background_non_roman_public_prosperity		x	5
+		3	general_background_non_roman_public_spirit		x	5
+		3	general_background_non_roman_public_wealth		x	5
+		3	general_background_roman_personal_authority		x	5
+		3	general_background_roman_personal_courage		x	5
+		3	general_background_roman_personal_dignity		x	5
+		3	general_background_roman_personal_dutifulness		x	5
+		3	general_background_roman_personal_fortitude		x	5
+		3	general_background_roman_personal_frugality		x	5
+		3	general_background_roman_personal_gravity		x	5
+		3	general_background_roman_personal_humanity		x	5
+		3	general_background_roman_personal_humour		x	5
+		3	general_background_roman_personal_industriousness		x	5
+		3	general_background_roman_personal_mercy		x	5
+		3	general_background_roman_personal_prudence		x	5
+		3	general_background_roman_personal_respectability		x	5
+		3	general_background_roman_personal_sternness		x	5
+		3	general_background_roman_personal_tenacity		x	5
+		3	general_background_roman_personal_truthfulness		x	5
+		3	general_background_roman_personal_wholesomeness		x	5
+		3	general_background_roman_public_agriculture		x	5
+		3	general_background_roman_public_clemency		x	5
+		3	general_background_roman_public_confidence		x	5
+		3	general_background_roman_public_dutifulness		x	5
+		3	general_background_roman_public_endurance		x	5
+		3	general_background_roman_public_fair		x	5
+		3	general_background_roman_public_faith		x	5
+		3	general_background_roman_public_forethought		x	5
+		3	general_background_roman_public_fortune		x	5
+		3	general_background_roman_public_freedom		x	5
+		3	general_background_roman_public_giving		x	5
+		3	general_background_roman_public_harmony		x	5
+		3	general_background_roman_public_health		x	5
+		3	general_background_roman_public_hope		x	5
+		3	general_background_roman_public_joy		x	5
+		3	general_background_roman_public_justice		x	5
+		3	general_background_roman_public_luck		x	5
+		3	general_background_roman_public_mirth		x	5
+		3	general_background_roman_public_modesty		x	5
+		3	general_background_roman_public_nobility		x	5
+		3	general_background_roman_public_peace		x	5
+		3	general_background_roman_public_plenty		x	5
+		3	general_background_roman_public_prosperity		x	5
+		3	general_background_roman_public_roman_spirit		x	5
+		3	general_background_roman_public_wealth		x	5
+		3	general_bard_1		x	5
+		3	general_blockade_expert_2		x	6
+		3	general_blockade_expert_3		x	7
+		3	general_border_guardian_3		x	7
+		3	general_bowl_3		x	7
+		3	general_bowman_2		x	6
+		3	general_brute_3		x	7
+		3	general_cetus_4		x	8
+		3	general_commander_1		x	5
+		3	general_commander_2_admiral		x	6
+		3	general_commander_2_cavalry_east		x	6
+		3	general_commander_2_general		x	6
+		3	general_commander_3_artillery		x	7
+		3	general_commander_3_cavalry		x	7
+		3	general_commander_3_infantry		x	7
+		3	general_commander_3_naval_assault		x	7
+		3	general_commander_3_naval_support		x	7
+		3	general_commander_4_great_leader		x	8
+		3	general_commander_barb_2_infantry		x	6
+		3	general_contractor_1		x	5
+		3	general_desert_leader_4		x	8
+		3	general_diplomat_4		x	8
+		3	general_entrepreneur_4		x	8
+		3	general_gre_warmonger_4_virtue		x	6
+		3	general_gruesome_3		x	7
+		3	general_horde_leader_4		x	8
+		3	general_horse_breeder_3		x	7
+		3	general_horse_tamer_3		x	7
+		3	general_horticulturist_3		x	7
+		3	general_inspirational_2		x	6
+		3	general_judge_4		x	8
+		3	general_legend_4		x	8
+		3	general_magnate_4		x	8
+		3	general_manager_3		x	7
+		3	general_marksman_3		x	7
+		3	general_master_hunter_3		x	7
+		3	general_master_magi_4		x	8
+		3	general_master_merchant_3		x	7
+		3	general_nisean_chargers_3		x	7
+		3	general_overseer_4		x	8
+		3	general_paragon_4		x	8
+		3	general_persuasive_3		x	7
+		3	general_philosopher_1		x	5
+		3	general_plough_and_yoke_3		x	7
+		3	general_port_master_1		x	5
+		3	general_raven_2		x	6
+		3	general_religious_2_east		x	6
+		3	general_religious_3		x	7
+		3	general_scientific_2_east		x	6
+		3	general_scientific_3		x	7
+		3	general_scout_2		x	7
+		3	general_sentinel_4		x	8
+		3	general_sleuth_3		x	7
+		3	general_spahbed_4		x	8
+		3	general_stag_3		x	7
+		3	general_strategist_1		x	5
+		3	general_strategist_2_navigator		x	6
+		3	general_strategist_2_tactician		x	6
+		3	general_strategist_3_administration		x	7
+		3	general_strategist_3_assimilator		x	7
+		3	general_strategist_3_covert_action		x	7
+		3	general_strategist_3_covert_action_germanic		x	7
+		3	general_strategist_3_logistics		x	7
+		3	general_strategist_3_mercenary		x	7
+		3	general_strategist_3_siegecraft		x	7
+		3	general_strategist_4_master_tactician		x	8
+		3	general_trafficker_3		x	7
+		3	general_tutor_3		x	7
+		3	general_valorous_4		x	8
+		3	general_warmonger_1		x	5
+		3	general_warmonger_2_marine		x	6
+		3	general_warmonger_2_soldier		x	6
+		3	general_warmonger_2_virtue		x	6
+		3	general_warmonger_3_defence		x	7
+		3	general_warmonger_3_despoil		x	7
+		3	general_warmonger_3_dread		x	7
+		3	general_warmonger_3_offense		x	7
+		3	general_warmonger_3_virtue		x	7
+		3	general_warmonger_4_fearless_warrior		x	8
+		3	general_wolf_3		x	7
+		3	general_wrathful_3		x	7
+		3	navy_1_destroyers		x	5
+main_invasion	inv_syracuse	3	navy_1_destroyers		x	3
+main_invasion	inv_taranto	3	navy_1_destroyers		x	3
+main_invasion	inv_tarchuna	3	navy_1_destroyers		x	3
+		3	navy_1_formidable_marines		x	5
+main_invasion	inv_insubres	3	navy_1_formidable_marines		x	3
+main_invasion	inv_iolei	3	navy_1_formidable_marines		x	3
+main_invasion	inv_rome	3	navy_1_formidable_marines		x	3
+main_invasion	inv_samnites	3	navy_1_formidable_marines		x	3
+main_invasion	inv_senones	3	navy_1_formidable_marines		x	3
+main_invasion	inv_syracuse	3	navy_1_formidable_marines		x	3
+main_invasion	inv_taranto	3	navy_1_formidable_marines		x	3
+main_invasion	inv_tarchuna	3	navy_1_formidable_marines		x	3
+main_invasion	inv_veneti	3	navy_1_formidable_marines		x	3
+		3	navy_1_formidable_marines	sc_rom_barb_east	x	6
+		3	navy_1_great_marksmen		x	5
+main_invasion	inv_insubres	3	navy_1_great_marksmen		x	3
+main_invasion	inv_iolei	3	navy_1_great_marksmen		x	3
+main_invasion	inv_rome	3	navy_1_great_marksmen		x	3
+main_invasion	inv_samnites	3	navy_1_great_marksmen		x	3
+main_invasion	inv_senones	3	navy_1_great_marksmen		x	3
+main_invasion	inv_syracuse	3	navy_1_great_marksmen		x	3
+main_invasion	inv_taranto	3	navy_1_great_marksmen		x	3
+main_invasion	inv_tarchuna	3	navy_1_great_marksmen		x	3
+main_invasion	inv_veneti	3	navy_1_great_marksmen		x	3
+		3	navy_2_blockade_runners		x	6
+main_invasion	inv_insubres	3	navy_2_blockade_runners		x	4
+main_invasion	inv_iolei	3	navy_2_blockade_runners		x	4
+main_invasion	inv_rome	3	navy_2_blockade_runners		x	4
+main_invasion	inv_samnites	3	navy_2_blockade_runners		x	4
+main_invasion	inv_senones	3	navy_2_blockade_runners		x	4
+main_invasion	inv_syracuse	3	navy_2_blockade_runners		x	4
+main_invasion	inv_taranto	3	navy_2_blockade_runners		x	4
+main_invasion	inv_tarchuna	3	navy_2_blockade_runners		x	4
+main_invasion	inv_veneti	3	navy_2_blockade_runners		x	4
+		3	navy_2_dread_pirates		x	6
+main_invasion	inv_senones	3	navy_2_dread_pirates		x	4
+main_invasion	inv_tarchuna	3	navy_2_dread_pirates		x	5
+main_rome	rom_masaesyli	3	navy_2_dread_pirates		x	5
+		3	navy_2_dread_pirates	sc_rom_barb_east	x	5
+		3	navy_2_dread_pirates	sc_rom_british	x	5
+		3	navy_2_dread_pirates	sc_rom_celtiberian	x	5
+		3	navy_2_dread_pirates	sc_rom_celtic	x	5
+		3	navy_2_dread_pirates	sc_rom_daco_thracian	x	5
+		3	navy_2_dread_pirates	sc_rom_gaul	x	5
+		3	navy_2_dread_pirates	sc_rom_germanic	x	5
+		3	navy_2_dread_pirates	sc_rom_illyrian	x	5
+		3	navy_2_intrepid_escorts		x	6
+main_invasion	inv_insubres	3	navy_2_intrepid_escorts		x	4
+main_invasion	inv_iolei	3	navy_2_intrepid_escorts		x	4
+main_invasion	inv_rome	3	navy_2_intrepid_escorts		x	4
+main_invasion	inv_samnites	3	navy_2_intrepid_escorts		x	4
+main_invasion	inv_syracuse	3	navy_2_intrepid_escorts		x	4
+main_invasion	inv_taranto	3	navy_2_intrepid_escorts		x	4
+main_invasion	inv_tarchuna	3	navy_2_intrepid_escorts		x	4
+main_invasion	inv_veneti	3	navy_2_intrepid_escorts		x	4
+		3	navy_2_ship_defenders		x	6
+main_invasion	inv_insubres	3	navy_2_ship_defenders		x	4
+main_invasion	inv_iolei	3	navy_2_ship_defenders		x	4
+main_invasion	inv_rome	3	navy_2_ship_defenders		x	4
+main_invasion	inv_samnites	3	navy_2_ship_defenders		x	4
+main_invasion	inv_senones	3	navy_2_ship_defenders		x	4
+main_invasion	inv_syracuse	3	navy_2_ship_defenders		x	4
+main_invasion	inv_taranto	3	navy_2_ship_defenders		x	4
+main_invasion	inv_tarchuna	3	navy_2_ship_defenders		x	4
+main_invasion	inv_veneti	3	navy_2_ship_defenders		x	4
+		3	navy_3_able_seamen		x	7
+main_invasion	inv_iolei	3	navy_3_able_seamen		x	6
+main_invasion	inv_rome	3	navy_3_able_seamen		x	5
+main_invasion	inv_samnites	3	navy_3_able_seamen		x	5
+main_invasion	inv_senones	3	navy_3_able_seamen		x	5
+main_invasion	inv_syracuse	3	navy_3_able_seamen		x	5
+main_invasion	inv_taranto	3	navy_3_able_seamen		x	5
+main_invasion	inv_veneti	3	navy_3_able_seamen		x	6
+		3	navy_3_battle_hardened		x	8
+		3	navy_3_master_shipwrights		x	7
+main_invasion	inv_insubres	3	navy_3_master_shipwrights		x	5
+main_invasion	inv_iolei	3	navy_3_master_shipwrights		x	5
+main_invasion	inv_rome	3	navy_3_master_shipwrights		x	5
+main_invasion	inv_samnites	3	navy_3_master_shipwrights		x	5
+main_invasion	inv_senones	3	navy_3_master_shipwrights		x	5
+main_invasion	inv_syracuse	3	navy_3_master_shipwrights		x	5
+main_invasion	inv_taranto	3	navy_3_master_shipwrights		x	5
+main_invasion	inv_tarchuna	3	navy_3_master_shipwrights		x	5
+main_invasion	inv_veneti	3	navy_3_master_shipwrights		x	5
+		3	navy_3_pirate_hunters		x	7
+main_invasion	inv_insubres	3	navy_3_pirate_hunters		x	5
+main_invasion	inv_iolei	3	navy_3_pirate_hunters		x	5
+main_invasion	inv_rome	3	navy_3_pirate_hunters		x	5
+main_invasion	inv_samnites	3	navy_3_pirate_hunters		x	5
+main_invasion	inv_syracuse	3	navy_3_pirate_hunters		x	5
+main_invasion	inv_taranto	3	navy_3_pirate_hunters		x	5
+main_invasion	inv_veneti	3	navy_3_pirate_hunters		x	5
+		3	navy_4_children_of_the_aegaean		x	8
+main_invasion	inv_syracuse	3	navy_4_children_of_the_aegaean		x	6
+main_invasion	inv_taranto	3	navy_4_children_of_the_aegaean		x	6
+		3	navy_4_masters_of_the_sea		x	7
+main_invasion	inv_insubres	3	navy_4_masters_of_the_sea		x	6
+main_invasion	inv_iolei	3	navy_4_masters_of_the_sea		x	6
+main_invasion	inv_rome	3	navy_4_masters_of_the_sea		x	6
+main_invasion	inv_samnites	3	navy_4_masters_of_the_sea		x	6
+main_invasion	inv_senones	3	navy_4_masters_of_the_sea		x	6
+main_invasion	inv_syracuse	3	navy_4_masters_of_the_sea		x	6
+main_invasion	inv_taranto	3	navy_4_masters_of_the_sea		x	7
+main_invasion	inv_tarchuna	3	navy_4_masters_of_the_sea		x	6
+main_invasion	inv_veneti	3	navy_4_masters_of_the_sea		x	6
+main_rome	rom_kush	3	navy_4_masters_of_the_sea		x	8
+main_rome	rom_masaesyli	3	navy_4_masters_of_the_sea		x	8
+main_rome	rom_nabatea	3	navy_4_masters_of_the_sea		x	8
+main_rome	rom_saba	3	navy_4_masters_of_the_sea		x	8
+		3	navy_4_pride_of_ptolemy		x	8
+		3	navy_4_professional_piracy		x	8
+main_invasion	inv_senones	3	navy_4_professional_piracy		x	6
+		3	navy_4_scions_of_phoenicia		x	8
+		3	navy_4_trade_route_protectors		x	8
+main_invasion	inv_insubres	3	navy_4_trade_route_protectors		x	6
+		3	navy_4_wardens_of_pontus		x	8
+		3	pel_army_accomplished_skirmishers		x	5
+		3	pel_army_ambushers		x	6
+		3	pel_army_battle_hardened		x	8
+		3	pel_army_formidable_hoplites		x	5
+		3	pel_army_keepers_of_peace		x	6
+		3	pel_army_raiders		x	7
+		3	pel_army_siege_experts		x	5
+		3	pel_army_stalwart_defenders		x	6
+		3	pel_general_commander_commander_1		x	5
+		3	pel_general_commander_hegemon_4		x	8
+		3	pel_general_commander_leader_2		x	6
+		3	pel_general_commander_trainer_3		x	7
+		3	pel_general_fighter_despoil_3		x	7
+		3	pel_general_fighter_fighter_1		x	5
+		3	pel_general_fighter_leads_the_charge_2		x	6
+		3	pel_general_fighter_spirit_of_heracles_4		x	8
+		3	pel_general_strategist_administration_3		x	7
+		3	pel_general_strategist_master_strategos_4		x	8
+		3	pel_general_strategist_pathfinder_2		x	6
+		3	pel_general_strategist_strategist_1		x	5
+		3	pel_navy_children_of_the_aegean		x	8
+		3	pel_navy_formidable_marines		x	5
+		3	pel_navy_great_marksmen		x	5
+		3	pel_navy_interpid_escorts		x	6
+		3	pel_navy_master_shipwrights		x	7
+		3	pel_navy_masters_of_the_sea		x	7
+		3	pel_navy_raiders		x	5
+		3	pel_navy_sea_patrol		x	7
+main_invasion	inv_insubres	3	pel_navy_sea_patrol		x	5
+main_invasion	inv_iolei	3	pel_navy_sea_patrol		x	5
+main_invasion	inv_rome	3	pel_navy_sea_patrol		x	6
+main_invasion	inv_samnites	3	pel_navy_sea_patrol		x	5
+main_invasion	inv_senones	3	pel_navy_sea_patrol		x	5
+main_invasion	inv_tarchuna	3	pel_navy_sea_patrol		x	6
+main_invasion	inv_veneti	3	pel_navy_sea_patrol		x	5

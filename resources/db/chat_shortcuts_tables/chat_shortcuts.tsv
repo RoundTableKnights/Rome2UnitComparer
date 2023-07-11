@@ -1,0 +1,14 @@
+key	game_area
+#chat_shortcuts_tables;0;db/chat_shortcuts_tables/chat_shortcuts	
+add	all
+all	BattleUI
+block	all
+help	all
+invite	FrontEnd
+mute	all
+pm	all
+profile	all
+r	all
+team	BattleUI
+unblock	all
+unmute	all

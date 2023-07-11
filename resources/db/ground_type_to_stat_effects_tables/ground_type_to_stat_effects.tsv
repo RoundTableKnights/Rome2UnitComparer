@@ -1,0 +1,10 @@
+affected_stat	ground_type	multiplier
+#ground_type_to_stat_effects_tables;1;db/ground_type_to_stat_effects_tables/ground_type_to_stat_effects		
+stat_speed	deep_water	0.4000
+stat_speed	forest	0.7000
+stat_speed	road	1.5000
+stat_speed	rock	0.6000
+stat_speed	scrub	0.9000
+stat_speed	shallow_water	0.6500
+stat_speed	sharp_stones	0.1500
+stat_speed	snow	0.8000

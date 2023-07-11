@@ -1,0 +1,28 @@
+agent	ability	localised_name	localised_ability_name
+#agent_to_agent_abilities_tables;3;db/agent_to_agent_abilities_tables/agent_to_agent_abilities			
+champion	assist_army	Military Training	Progressively [[col:green]]increases the experience[[/col]] of all its units.
+champion	assist_province	Military Fervour	Brings word of glorious battles and great victories, thereby [[col:green]]inspiring the local populace[[/col]].
+champion	hinder_agent	Agent Subversion	Perform an act of disruption on the enemy agent.
+champion	hinder_army	Army Sabotage	Perform an act of disruption on the enemy army.
+champion	hinder_character	Assassination	Attempt to kill an enemy general or agent.
+champion	hinder_province	Guerrilla Action	Wreaks [[col:green]]despair amongst the populace[[/col]] with small-scale military actions.
+champion	hinder_settlement	Settlement Sabotage	Perform an act of disruption on the enemy settlement.
+champion	passive_ability	Adventuring	Acquires a [[col:green]]small amount of wealth[[/col]], increasing as the champion wanders further from friendly territory.
+colonel	command_force	[PLACEHOLDER]	[PLACEHOLDER]
+dignitary	assist_army	Military Administration	[[col:green]]Reduces upkeep costs[[/col]] of all units in the parent army via their financial knowledge and people skills.
+dignitary	assist_province	Administration	Advises local officials, thereby [[col:green]]increasing tax rates[[/col]].
+dignitary	hinder_agent	Agent Subversion	Perform an act of disruption on the enemy agent.
+dignitary	hinder_army	Army Sabotage	Perform an act of disruption on the enemy army.
+dignitary	hinder_character	Character Subversion	Perform an act of disruption on an enemy general or agent.
+dignitary	hinder_province	Corruption	Corrupts local officials, exacting from them a percentage of the [[col:green]]local settlement's wealth[[/col]].
+dignitary	hinder_settlement	Settlement Sabotage	Perform an act of disruption on the enemy settlement.
+dignitary	passive_ability	Culture	Gradually [[col:green]]spreads your culture[[/col]] throughout the local province.\n[[col:yellow]]Ineffective where your culture is already dominant.[[/col]]
+general	command_force	[PLACEHOLDER]	[PLACEHOLDER]
+spy	assist_army	Military Intelligence	[[col:green]]Increases the movement range[[/col]] of the parent army's general by scouting ahead and contacting their sources.
+spy	assist_province	Counter-intelligence	Establishes a local spy network, improving the [[col:green]]chance of detecting hidden agents and armies[[/col]] in the area.
+spy	hinder_agent	Agent Subversion	Perform an act of disruption on the enemy agent.
+spy	hinder_army	Army Sabotage	Perform an act of disruption on the enemy army.
+spy	hinder_character	Assassination	Attempt to kill an enemy general or agent.
+spy	hinder_province	Intelligence	Establishes a local spy network, improving the [[col:green]]chance of detecting hidden agents and armies[[/col]] in the area.
+spy	hinder_settlement	Settlement Sabotage	Perform an act of disruption on the enemy settlement.
+spy	passive_ability	Infiltration	Allows [[col:green]]covert movement[[/col]] about the campaign map, unseen unless spotted by keen-eyed rivals.

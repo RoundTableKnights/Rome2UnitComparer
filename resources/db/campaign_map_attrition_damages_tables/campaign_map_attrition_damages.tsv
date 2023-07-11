@@ -1,0 +1,13 @@
+key	percent_unit_damage
+#campaign_map_attrition_damages_tables;0;db/campaign_map_attrition_damages_tables/campaign_map_attrition_damages	
+rom_attrition_besieged	15
+rom_attrition_desertion	20
+rom_attrition_discipline	15
+rom_attrition_disease	20
+rom_attrition_faction_heavy	7
+rom_attrition_faction_light	3
+rom_attrition_faction_medium	5
+rom_attrition_heavy	1
+rom_attrition_light	1
+rom_attrition_medium	1
+rom_attrition_sieging	5

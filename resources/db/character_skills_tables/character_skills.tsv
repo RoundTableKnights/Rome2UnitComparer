@@ -1,0 +1,623 @@
+key	image_path	localised_description	localised_name	pre_battle_speech_parameter	unlocked_at_rank	is_background_skill	is_female_only_background_skill	is_male_only_background_skill	background_weighting
+#character_skills_tables;3;db/character_skills_tables/character_skills									
+3c_army_1_Accomplished_Archers	army_tradition_archers.png	A single arrow may pierce many hearts. 	Accomplished Archers		1	false	false	false	0.0000
+3c_army_1_Accomplished_Skirmishers	army_1_accomplished_skirmishers.png	Hand-to-hand combat is a dangerous business. 	Accomplished Skirmishers		1	false	false	false	0.0000
+3c_army_1_Artillery_Experts	army_1_artillery_experts.png	The firing of great weapons takes a delicacy that few appreciate. 	Artillery Experts		2	false	false	false	0.0000
+3c_army_1_Dread_Ambushers	army_2_ambushers.png	"Out of the shadows they came, wreathed in darkness…" 	Dread Ambushers		2	false	false	false	0.0000
+3c_army_1_Dread_Ambushers_gallic	army_2_ambushers.png	"Out of the shadows they came, wreathed in darkness…" 	Dread Ambushers		1	false	false	false	0.0000
+3c_army_1_Dread_Charioteers	army_1_dread_charioteers.png	The sound of approaching wheels can strike fear into the stoutest hearts. 	Dread Charioteers		2	false	false	false	0.0000
+3c_army_1_Dread_Charioteers_caledon	army_1_dread_charioteers.png	The sound of approaching wheels can strike fear into the stoutest hearts. 	Dread Charioteers		1	false	false	false	0.0000
+3c_army_1_Engineering_Experts	army_1_engineering_experts.png	When men move the earth itself, are they not like gods? 	Engineering Experts		1	false	false	false	0.0000
+3c_army_1_Formidable_Fighters	army_1_formidable_fighters.png	Some men are born fighters. 	Formidable Fighters		1	false	false	false	0.0000
+3c_army_1_Formidable_Spearmen	army_1_formidable_swordsmen.png	A spear has many uses and a master knows them all.	Formidable Spearmen		1	false	false	false	0.0000
+3c_army_1_Formidable_Swordsmen	army_1_formidable_fighters.png	A sword should be an extension of a man's arm. 	Formidable Swordsmen		1	false	false	false	0.0000
+3c_army_1_Keepers_of_the_Peace	army_2_keepers_peace.png	Someone has to consider peace.	Keepers of the Peace		2	false	false	false	0.0000
+3c_army_1_Keepers_of_the_Peace_gallic	army_2_keepers_peace.png	Someone has to consider peace. 	Keepers of the Peace		1	false	false	false	0.0000
+3c_army_1_Light_Cavalry_Masters	army_3_light_cavalry_masters.png	A fleet and agile horse needs a fleet and agile rider. 	Light Cavalry Masters		1	false	false	false	0.0000
+3c_army_1_Siege_Experts	army_1_engineering_experts.png	A high wall is but a pebble beneath the feet of resourceful men. 	Siege Experts		1	false	false	false	0.0000
+3c_army_1_Stalwart_Defenders	army_2_stalwart_defenders.png	Few can stand strong in the face of impossible odds. 	Stalwart Defenders		2	false	false	false	0.0000
+3c_army_2_Cavalry_Masters	army_3_cavalry_masters.png	Horsemanship is man and beast as one.	Cavalry Masters		2	false	false	false	0.0000
+3c_army_2_Furor_Celtica	army_2_furor_germanicus.png	Celtic fury should not be taken lightly.	Furor Celtica		2	false	false	false	0.0000
+3c_army_2_Furor_Germanicus	army_2_furor_germanicus.png	Men have come to fear the forests of Germania.	Furor Germanicus		2	false	false	false	0.0000
+3c_army_2_Inexorable_Conquerors	army_2_inexorable_conquerors.png	A swarm of locusts destroys everything in its path.	Inexorable Conquerors		2	false	false	false	0.0000
+3c_army_2_Unrelenting_Force	army_2_unrelenting_force.png	When a man no longer fears death, there is no stopping him. 	Unrelenting Force		2	false	false	false	0.0000
+3c_army_3_Auxiliary_Corps	army_3_auxiliary_corps.png	The wise commander always considers the consequences of defeat. 	Auxiliary Corps		3	false	false	false	0.0000
+3c_army_3_Barbarian_Subjugators	army_3_barbarian_subjugators.png	The might of a barbarian horde is terrifying to behold. 	Barbarian Subjugators		3	false	false	false	0.0000
+3c_army_3_Cavalry_Masters	army_3_cavalry_masters.png	Horsemanship is when man and beast are one.	Cavalry Masters		3	false	false	false	0.0000
+3c_army_3_Desert_Warriors	Army_3c_desert_warriors.png	The desert's hardships produce tough warriors.	Desert Warriors		3	false	false	false	0.0000
+3c_army_3_Dread_Marauders	army_3_dread_marauders.png	The lust for plunder can turn men into monsters.	Dread Marauders		3	false	false	false	0.0000
+3c_army_3_Grand_Camp_Following	army_3_camp_following.png	The hustle and bustle of camp attracts many interesting characters.	Grand Camp Following		3	false	false	false	0.0000
+3c_army_3_Indomitable_Infantry	army_3_indomitable_infantry.png	The bond between fighting men is unbreakable.	Indomitable Infantry		3	false	false	false	0.0000
+3c_army_3_Indomitable_Legionaries	army_3_indomitable_legionaries.png	Men grow strong through rigorous training and the blood of their enemies.	Indomitable Legionaries		3	false	false	false	0.0000
+3c_army_3_Light_Cavalry_Masters	army_3_light_cavalry_masters.png	A fleet and agile horse needs a fleet and agile rider.	Light Cavalry Masters		3	false	false	false	0.0000
+3c_army_3_Mercenary_Host	army_3_mercenary_host.png	Gold invariably buys many deadly friends.	Mercenary Host		3	false	false	false	0.0000
+3c_army_3_Spirit_of_the_Immortals	army_3_immortals.png	Death would never reach them, only their enemies.	Spirit of the Immortals		3	false	false	false	0.0000
+3c_army_4_Deadly_Assault_Force	Army_3c_deadly_assault_force.png	The fearsome Germanic hordes crush everything unlucky enough to get in their way.	Deadly Assault Force		4	false	false	false	0.0000
+3c_army_4_Dread_Invaders	Army_3c_dread_invaders.png	A wave of death came to the Saxon Shore, as if sent by the gods.	Dread Invaders		4	false	false	false	0.0000
+3c_army_4_Nomadic_Horde	army_4_nomads.png	The very echo of their horses' hooves is enough to terrify a man.	Nomadic Horde		4	false	false	false	0.0000
+3c_army_4_Peerless_Marksmen	Army_3c_peerless_marksmen.png	Their bows strike as fast as their eyes could spot an enemy.	Peerless Marksmen		4	false	false	false	0.0000
+3c_army_4_Sentinels_of_the_North	army_4_andraste_chosen.png	The north can never truly be conquered.	Sentinels of the North		4	false	false	false	0.0000
+3c_army_4_Sons_of_Shapur	army_4_pahlavans_of_the_east.png	Shapur's finest soldiers, a terror to the western world.	Sons of Shapur		4	false	false	false	0.0000
+3c_army_4_True_Romans	Army_3c_true_romans.png	The hallmark of Roman supremacy.	True Romans		4	false	false	false	0.0000
+3c_army_4_Veteran_Army	army_4_veteran_army.png	Only the best soldiers live to become veterans. 	Veteran Army		4	false	false	false	0.0000
+3c_army_4_Wolves_of_Teiwaz	army_4_wolves_teiwaz.png	The wolf pack protects its own. 	Wolves of Teiwaz		4	false	false	false	0.0000
+3c_army_4_Wrath_of_Sol_Invictus	Army_3c_wrath_of_sol_invictus.png	Carrying the banner of the Unconquered Sun.	Wrath of Sol Invictus		4	false	false	false	0.0000
+3c_general_admiral_1_navigator	General_3c_navigator_colourized.png	The sea hides a multitude of paths for those who know how to find them.	Navigator		1	false	false	false	0.0000
+3c_general_admiral_2_inspiring_admiral	General_3c_inspiring_admiral_colourized.png	Sometimes a ship is held together only by the will of her crew.	Inspiring Admiral		2	false	false	false	0.0000
+3c_general_admiral_2_seasoned_marine	General_3c_seasoned_marine_colourized.png	"Get me close to them, oarsmen! That's all I need!"	Seasoned Marine		2	false	false	false	0.0000
+3c_general_admiral_3_maritime_archer	General_3c_maritime_archer_colourized.png	"Riddle their boat with arrows. Arrows on fire!"	Naval Archer		3	false	false	false	0.0000
+3c_general_admiral_3_naval_commander	General_3c_naval_commander_colourized.png	A wise admiral understands both his sailors and the sea.	Naval Commander		3	false	false	false	0.0000
+3c_general_admiral_4_naval_tactics	General_3c_naval_tactics_colourized.png	Every wave is an ally to the skilled mariner.	Naval Tactics		4	false	false	false	0.0000
+3c_general_authority_1_efficient_recruiter	General_3c_efficient_recruiter.png	Proper care of new recruits produces superior veterans.	Efficient Recruiter		1	false	false	false	0.0000
+3c_general_authority_1_law_keeper	general_warmonger_3_virtue.png	"There is only one rule – abide by the laws! All the laws!"	Law Keeper		1	false	false	false	0.0000
+3c_general_authority_2_infantry_commander	general_commander_3_infantry.png	"On my mark, form shieldwall and advance!"	Infantry Commander		2	false	false	false	0.0000
+3c_general_authority_2_master_builder	agent_background_champion_military_engineer.png	A soldier should never stay idle.	Master Builder		2	false	false	false	0.0000
+3c_general_authority_2_naval_commander	general_commander_3_naval_assault.png	A wise admiral understands both his sailors and the sea.	Naval Commander		2	false	false	false	0.0000
+3c_general_authority_3_cavalry_commander	general_commander_3_cavalry.png	"This is how you do a wedge, boys. And now - again!"	Cavalry Commander		3	false	false	false	0.0000
+3c_general_authority_3_economic_administrator	agent_background_spy_craftsman.png	Often it takes an army man to put civil matters right.	Economic Administrator		3	false	false	false	0.0000
+3c_general_authority_3_inspiring_admiral	general_commander_2_admiral.png	Sometimes a ship is held together only by the will of her crew.	Inspiring Admiral		3	false	false	false	0.0000
+3c_general_authority_3_inspiring_general	general_commander_2_general.png	The mere presence of some men turn their subordinates into lions.	Inspiring General		3	false	false	false	0.0000
+3c_general_authority_4_great_leader	general_commander_4_great_leader.png	"As we march into battle, remember this! You are not my soldiers! You are my brothers!"	Great Leader		4	false	false	false	0.0000
+3c_general_bureaucrat_1_law_keeper	General_3c_law_keeper_colourized.png	"There is only one rule – abide by the laws! All the laws!"	Law Keeper		1	false	false	false	0.0000
+3c_general_bureaucrat_2_agricultural_expert	General_3c_agricultural_expert_colourized.png	Take care of the land and it will take care of you.	Agricultural Expert		2	false	false	false	0.0000
+3c_general_bureaucrat_2_talented_architect	General_3c_master_builder_colourized.png	"Columns! Marble ones! Yes, we need more of those!"	Talented Architect		2	false	false	false	0.0000
+3c_general_bureaucrat_3_industrial_manager	General_3c_industrial_manager_colourized.png	When every craftsman works hard, profit is guaranteed.	Industrial Manager		3	false	false	false	0.0000
+3c_general_bureaucrat_3_patron_of_arts	General_3c_patron_of_arts_colourized.png	"So, a song is it? Let's hear it out."	Patron of Arts		3	false	false	false	0.0000
+3c_general_bureaucrat_4_economic_administrator	General_3c_economic_administrator_colourized.png	Often it takes an army man to put civil matters right.	Economic Administrator		4	false	false	false	0.0000
+3c_general_cunning_1_navigator	general_strategist_2_navigator.png	The sea hides a multitude of paths for those who know how to find them.	Navigator		1	false	false	false	0.0000
+3c_general_cunning_1_strategist	general_strategist_2_tactician.png	A proper general knows when to march and when to rest.	Strategist		1	false	false	false	0.0000
+3c_general_cunning_2_artillery_master	general_commander_3_artillery.png	"That's the angle, yes. Poor bastards won't realise what hit them."	Artillery Master		2	false	false	false	0.0000
+3c_general_cunning_2_military_administrator	general_strategist_3_administration.png	Dealing with numbers and calculations is a battle in its own right.	Military Administrator		2	false	false	false	0.0000
+3c_general_cunning_2_vicious_despoiler	general_warmonger_3_despoil.png	It's simple: brutality brings loot and loot brings power.	Vicious Despoiler		2	false	false	false	0.0000
+3c_general_cunning_3_covert_expert	general_strategist_3_covert_action.png	Even the most numerous host can be brought down by trickery.	Covert Expert		3	false	false	false	0.0000
+3c_general_cunning_3_mercenary_recruiter	general_strategist_3_mercenary.png	Men whose sole cause is gold are easy to find.	Mercenary Recruiter		3	false	false	false	0.0000
+3c_general_cunning_3_siege_master	general_strategist_3_siegecraft.png	"No one leaves this place and no one enters... but us!"	Siege Master		3	false	false	false	0.0000
+3c_general_cunning_3_skilled_logistician	general_strategist_3_logistics.png	A sated soldier fights much longer than a starving one.	Skilled Logistician		3	false	false	false	0.0000
+3c_general_cunning_4_master_schemer	general_strategist_4_master_tactician.png	"My plans are too deep and complex to explain. You'll have to trust me."	Master Planner		4	false	false	false	0.0000
+3c_general_general_1_efficient_recruiter	General_3c_efficient_recruiter_colourized.png	Proper care of new recruits produces superior veterans.	Efficient Recruiter		1	false	false	false	0.0000
+3c_general_general_2_infantry_commander	General_3c_infantry_commander_colourized.png	"On my mark, form shieldwall and advance!"	Infantry Commander		2	false	false	false	0.0000
+3c_general_general_2_inspiring_general	General_3c_inspiring_general_colourized.png	The mere presence of some men turn their subordinates into lions.	Inspiring General		2	false	false	false	0.0000
+3c_general_general_3_cavalry_commander	General_3c_Cavalry Commander_colourized.png	"This is how you do a wedge, boys. And now - again!"	Cavalry Commander		3	false	false	false	0.0000
+3c_general_general_3_marching_instructor	General_3c_marching_instructor_colourized.png	"Come on, keep up! There's plenty of time 'til sunset!"	Marching Instructor		3	false	false	false	0.0000
+3c_general_general_4_military_administrator	General_3c_military_administrator_colourized.png	Dealing with numbers and calculations is a battle in its own right.	Military Administrator		4	false	false	false	0.0000
+3c_general_mastermind_1_strategist	General_3c_strategist_colourized.png	A proper general knows when to march and when to rest.	Strategist		1	false	false	false	0.0000
+3c_general_mastermind_2_covert_expert	General_3c_covert_expert_colourized.png	Even the most numerous host can be brought down by trickery.	Covert Expert		2	false	false	false	0.0000
+3c_general_mastermind_2_mercenary_recruiter	General_3c_mercenary_recruiter_colourized.png	Men whose sole cause is gold are easy to find.	Mercenary Recruiter		2	false	false	false	0.0000
+3c_general_mastermind_3_artillery_master	General_3c_artillery_master_colourized.png	"That's the angle, yes. Poor bastards won't realise what hit them."	Artillery Master		3	false	false	false	0.0000
+3c_general_mastermind_3_skilled_logistician	General_3c_skilled_logistician_colourized.png	A sated soldier fights much longer than a starving one.	Skilled Logistician		3	false	false	false	0.0000
+3c_general_mastermind_4_siege_master	General_3c_siege_master_colourized.png	"No one exits this place and no one enters. But us!"	Siege Master		4	false	false	false	0.0000
+3c_general_soldier_1_master_attacker	General_3c_master_attacker_colourized.png	"Ride with me! Unto flames, madness and war! Ride! Ride!"	Master Attacker		1	false	false	false	0.0000
+3c_general_soldier_2_master_defender	General_3c_Master_deffender_colourized.png	"Not a single step back! Here we stand and here we prevail!"	Master Defender		2	false	false	false	0.0000
+3c_general_soldier_2_master_of_onslaught	General_3c_master_of_onslaught_colourized.png	"Slaughter the standing, trample the wounded. Then do it again and again!"	Slaughterlord		2	false	false	false	0.0000
+3c_general_soldier_3_leader_of_marskmen	General_3c_leader_of_marksmen_colourized.png	What better way to win a battle than by massacring all foes from a distance?	Master Archer		3	false	false	false	0.0000
+3c_general_soldier_3_vicious_despoiler	General_3c_vicious_despoiler_colourized.png	It's simple: brutality brings loot and loot brings power.	Vicious Despoiler		3	false	false	false	0.0000
+3c_general_soldier_4_incarnation_of_dread	General_3c_incarnation_of_dread_colourized.png	"Yes, they know my name. I can smell their fear."	Incarnation of Dread		4	false	false	false	0.0000
+3c_general_zeal_1_master_defender	general_warmonger_3_defence.png	"Not a single step back! Here we stand and here we prevail!"	Master Defender		1	false	false	false	0.0000
+3c_general_zeal_1_warrior	general_warmonger_1_warmonger.png	It takes grit and guts to lead from the front.	Warrior		1	false	false	false	0.0000
+3c_general_zeal_2_master_attacker	agent_champion_authority_2_valour.png	"Ride with me! Unto flames, madness and war! Ride! Ride!"	Master Attacker		2	false	false	false	0.0000
+3c_general_zeal_2_master_of_onslaught	general_warmonger_3_offense.png	"Slaughter the standing, trample the wounded. Then do it again and again!"	Slaughterlord		2	false	false	false	0.0000
+3c_general_zeal_2_seasoned_marine	general_warmonger_2_marine.png	"Get me close to them, oarsmen! That's all I need!"	Seasoned Marine		2	false	false	false	0.0000
+3c_general_zeal_3_incarnation_of_dread	general_warmonger_3_dread.png	"Yes, they know my name. I can smell their fear."	Incarnation of Dread		3	false	false	false	0.0000
+3c_general_zeal_3_leader_of_marskmen	agent_background_champion_warhero.png	What better way to win a battle than by massacring all foes from a distance?	Master Archer		3	false	false	false	0.0000
+3c_general_zeal_3_marching_instructor	agent_background_spy_courier.png	"Come on, keep up! There's plenty of time till sunset!"	Marching Instructor		3	false	false	false	0.0000
+3c_general_zeal_3_maritime_archer	general_commander_3_naval_support.png	"Riddle their boat with arrows. Arrows on fire!"	Maritime Archer		3	false	false	false	0.0000
+3c_general_zeal_4_exemplary_soldier	general_warmonger_4_fearless_warrior.png	"Quickly! Give me a new sword or I'll have at them with my bare fists!"	Exemplary Soldier		4	false	false	false	0.0000
+3c_navy_1_Destroyers	navy_1_destroyers.png	Enemy ships will never sail if they are reduced to kindling.	Destroyers		1	false	false	false	0.0000
+3c_navy_1_Dread_Pirates	navy_2_dread_pirates.png	A gift for plunder and murder builds a fearsome reputation. 	Dread Pirates		1	false	false	false	0.0000
+3c_navy_1_Formidable_Marines	navy_1_formidable_marines.png	The deck of a ship is a tough battle ground.	Formidable Marines		1	false	false	false	0.0000
+3c_navy_1_Naval_Marksmen	navy_1_great_marksmen.png	Through howling winds and rolling waves their arrows still fly true.	Naval Marksmen		1	false	false	false	0.0000
+3c_navy_2_Blockade_Runners	navy_2_blockade_runners.png	Only the most daring men can run a blockade.	Blockade Runners		2	false	false	false	0.0000
+3c_navy_2_Intrepid_Escorts	navy_2_intrepid_escorts.png	Some men live for adventure and the thrill of new tides.	Intrepid Escorts		2	false	false	false	0.0000
+3c_navy_2_Ship_Defenders	navy_2_ship_defenders.png	Few men have the strength to stand when all hope seems to be lost.	Ship Defenders		2	false	false	false	0.0000
+3c_navy_3_Able_Seamen	navy_3_able_seamen.png	Only the bravest men take the sea as their mistress.	Able Seamen		3	false	false	false	0.0000
+3c_navy_3_Master_Shipwrights	navy_3_master_shipwrights.png	Wood whispers, but only the greatest craftsmen hear it.	Master Shipwrights		3	false	false	false	0.0000
+3c_navy_3_Pirate_Hunters	navy_3_pirate_hunters.png	"Pirates?! Vile and dissolute creatures, the lot of them."	Pirate Hunters		3	false	false	false	0.0000
+3c_navy_4_Masters_of_the_Sea	navy_marines.png	Honour the gods and they will always give you a fair wind. 	Masters of the Sea		4	false	false	false	0.0000
+3c_navy_4_Veteran_Fleet	navy_4_veteran_fleet.png	"The sea is in our blood and we are in hers." 	Veteran Fleet		4	false	false	false	0.0000
+age_agent_champion_authority_agitator	general_legend.png	"What have the Romans ever done for us?"	Agitator		3	false	false	false	0.0000
+age_agent_champion_authority_drill_sergeant	age_agent_officer.png	Victory loves preparation.	Drill Sergeant		1	false	false	false	0.0000
+age_agent_champion_authority_drunkard	age_agent_drunkard.png	"Ho! Ho! Ho! To the bottle I go!"	Drunkard		1	false	false	false	0.0000
+age_agent_champion_authority_efficient	General_3c_economic_administrator.png	I'm here to raise forces, not to be anyone's friend.	Efficient		5	false	false	false	0.0000
+age_agent_champion_authority_evocatus	general_commander_3_infantry_colourized.png	Once a soldier, always a soldier.	Evocatus		5	false	false	false	0.0000
+age_agent_champion_authority_explorer	general_scout_2.png	There is more to life than war.	Explorer		1	false	false	false	0.0000
+age_agent_champion_authority_festive	general_bard.png	"Bring me wine and send for the girls!"	Festive		1	false	false	false	0.0000
+age_agent_champion_authority_guardian	age_agent_guardian.png	"I swear by the gods to protect you with my life!"	Guardian		3	false	false	false	0.0000
+age_agent_champion_authority_historian	agent_dignitary_authority_3_martial_philosophy_colourized.png	We must learn from past times, lest we make the same mistakes.	Historian		1	false	false	false	0.0000
+age_agent_champion_authority_horsebreeder	general_horse_breeder.png	Champion riders need suitable steeds.	Horsebreeder		1	false	false	false	0.0000
+age_agent_champion_authority_inspirational	agent_champion_authority_2_valour_colourized.png	"Our enemies are not gods, for they bleed the same red as any man!"	Inspirational		5	false	false	false	0.0000
+age_agent_champion_authority_mentor	agent_dignitary_authority_3_martial_philosophy_colourized.png	"Follow my lead."	Mentor		1	false	false	false	0.0000
+age_agent_champion_authority_officer	general_commander_2_general_colourized.png	Serve Rome and you will be rewarded.	Officer		1	false	false	false	0.0000
+age_agent_champion_authority_officer_native_units	general_commander_2_general_colourized.png	Serve Roma and you will be rewarded.	Officer		1	false	false	false	0.0000
+age_agent_champion_authority_paedotribe	agent_background_champion_athlete_colourized.png	"I'll make warriors of you yet!"	Paedotribe		5	false	false	false	0.0000
+age_agent_champion_authority_protector	general_aspbed.png	"Let them come - the more the merrier!"	Protector		3	false	false	false	0.0000
+age_agent_champion_authority_renowned	general_aspbed.png	Men dream of my might, women want me to marry their daughters.	Renowned		5	false	false	false	0.0000
+age_agent_champion_subterfuge_ageestigator	agent_champion_subterfuge_1_partisan_colourized.png	"I never forget a face."	Investigator		3	false	false	false	0.0000
+age_agent_champion_subterfuge_guerilla	agent_champion_subterfuge_1_partisan_colourized.png	The enemy advances, we retreat; the enemy tires, we attack.	Guerilla		5	false	false	false	0.0000
+age_agent_champion_subterfuge_harasser	age_agent_harasser.png	They are in for a string of 'unfortunate accidents'...	Harasser		5	false	false	false	0.0000
+age_agent_champion_subterfuge_hunter	agent_champion_subterfuge_1_partisan_colourized.png	Be the hunter, not the hunted.	Hunter		3	false	false	false	0.0000
+age_agent_champion_subterfuge_interrogator	general_master_merchant.png	"Who do you work for?"	Interrogator		3	false	false	false	0.0000
+age_agent_champion_subterfuge_intimidating	age_agent_intimidating.png	The lion does not concern himself with the opinions of the sheep.	Intimidating		1	false	false	false	0.0000
+age_agent_champion_subterfuge_murderous	age_agent_murderous.png	"They were dead the moment they saw my face."	Murderous		1	false	false	false	0.0000
+age_agent_champion_subterfuge_nocturnal	agent_spy_subterfuge_3_infiltration_colourized.png	No enemy can bear a sight so unexpected and hellish as a ghostly army in the night.	Nocturnal		3	false	false	false	0.0000
+age_agent_champion_subterfuge_resourceful	general_strategist_3_mercenary_colourized.png	"All I need is a few good men."	Resourceful		5	false	false	false	0.0000
+age_agent_champion_subterfuge_siege_expert	general_strategist_3_siegecraft_colourized.png	"I want ladders on those walls and rams on the doors!"	Siege Expert		1	false	false	false	0.0000
+age_agent_champion_subterfuge_tactician	general_strategist_2_tactician_colourized.png	Flank their lines and they will fall like leaves.	Tactician		1	false	false	false	0.0000
+age_agent_champion_subterfuge_trapper	age_agent_trapper.png	Curious is the trapmaker's art - his efficacy goes unwitnessed by his own eyes.	Trapper		1	false	false	false	0.0000
+age_agent_champion_subterfuge_wicked	agent_champion_subterfuge_2_artifice_colourized.png	"Where you're going, you won't need that arm!"	Wicked		1	false	false	false	0.0000
+age_agent_champion_zeal_arsonist	agent_spy_zeal_2_sabotage_colourized.png	Rome wasn't built in a day, but burned in one.	Arsonist		1	false	false	false	0.0000
+age_agent_champion_zeal_bloodlust	agent_champion_zeal_1_champion_colourized.png	"Crush your enemies, see them driven before you, and hear the lamentation of their women!"	Bloodlust		5	false	false	false	0.0000
+age_agent_champion_zeal_centurion	age_agent_centurion.png	"PULLO! SINGLE FORMATION!"	Centurion		3	false	false	false	0.0000
+age_agent_champion_zeal_duelist	general_warmonger_3_offense_colourized.png	You are one, the enemy is one - what is there to fear?	Duelist		5	false	false	false	0.0000
+age_agent_champion_zeal_eloquent	general_inspirational.png	"Let me tell you about the time I fought 10 men at once..."	Eloquent		1	false	false	false	0.0000
+age_agent_champion_zeal_frenzied	general_warmonger_1_warmonger_colourized.png	Glorious battle is the strongest drug of all!	Frenzied		1	false	false	false	0.0000
+age_agent_champion_zeal_heroic	agent_champion_zeal_3_audacity_colourized.png	"I will fight for all that is just or I will die trying!"	Heroic		5	false	false	false	0.0000
+age_agent_champion_zeal_hoplite	age_agent_hoplite.png	Each man protects the one to his left, from thigh to neck, with his shield.	Hoplite		1	false	false	false	0.0000
+age_agent_champion_zeal_marksman	general_marksman_3.png	An arrow is not afraid of shooting from the bow - only of not reaching the target!	Marksman		1	false	false	false	0.0000
+age_agent_champion_zeal_militant	agent_champion_zeal_3_militancy_colourized.png	"Men, our enemies call us cowards - let's prove them wrong!"	Militant		5	false	false	false	0.0000
+age_agent_champion_zeal_praefectus	age_agent_praefectus.png	"I serve the Senate and the People of Rome!"	Praefectus		1	false	false	false	0.0000
+age_agent_champion_zeal_raider	general_warmonger_3_despoil_colourized.png	Give them nothing, but take from them everything!	Raider		3	false	false	false	0.0000
+age_agent_champion_zeal_resilient	agent_champion_zeal_2_strength_colourized.png	"Is that it? I was just beginning to enjoy myself!"	Resilient		3	false	false	false	0.0000
+age_agent_champion_zeal_sadistic	general_warmonger_3_dread_colourized.png	"March, you maggots, march until your feet bleed!"	Sadistic		1	false	false	false	0.0000
+age_agent_champion_zeal_terrifying	agent_dignitary_zeal_2_doom_colourized.png	"I will feast on your heart!"	Terrifying		3	false	false	false	0.0000
+age_agent_dignitary_authority_advocatus	General_3c_economic_administrator.png	"Is there some other form of law?"	Advocatus		1	false	false	false	0.0000
+age_agent_dignitary_authority_conservative	agent_champion_authority_1_paragon_colourized.png	"Who are you to question the ways of our elders?"	Conservative		3	false	false	false	0.0000
+age_agent_dignitary_authority_diplomatic	age_agent_diplomat.png	"Our leader sends his compliments."	Diplomatic		5	false	false	false	0.0000
+age_agent_dignitary_authority_entertainer	General_3c_patron_of_arts.png	"Summon the artists, the festival draws near!"	Entertainer		1	false	false	false	0.0000
+age_agent_dignitary_authority_financist	agent_dignitary_authority_2_politics_colourized.png	"Enlist today!"	Economist		1	false	false	false	0.0000
+age_agent_dignitary_authority_herder	general_horse_breeder.png	"Sometimes I prefer sheep to people."	Herder		1	false	false	false	0.0000
+age_agent_dignitary_authority_lawful	General_3c_law_keeper.png	No man is above the law.	Lawful		1	false	false	false	0.0000
+age_agent_dignitary_authority_medicine-man	agent_champion_authority_1_paragon_colourized.png	"Drink this if you want to live."	Medicine-Man		5	false	false	false	0.0000
+age_agent_dignitary_authority_officium	age_agent_officium.png	The higher we are placed, the more humbly we should walk.	Officium		5	false	false	false	0.0000
+age_agent_dignitary_authority_orator	agent_champion_authority_2_unity_colourized.png	Discard your false beliefs and recognise the true gods!	Orator		3	false	false	false	0.0000
+age_agent_dignitary_authority_persuasive	agent_spy_authority_2_collaboration_colourized.png	"Let me make this abundantly clear..."	Persuasive		3	false	false	false	0.0000
+age_agent_dignitary_authority_philosopher	agent_dignitary_authority_2_philosophy_colourized.png	"By all means, get married: if you find a good wife, you'll be happy; if not, you'll become a philosopher."	Philosopher		1	false	false	false	0.0000
+age_agent_dignitary_authority_political	agent_champion_authority_1_paragon_colourized.png	"There is no reason to question your loyalty, correct?"	Political		1	false	false	false	0.0000
+age_agent_dignitary_authority_slaver	General_3c_law_keeper.png	"Where other men see glory, I see gold."	Slaver		3	false	false	false	0.0000
+age_agent_dignitary_authority_supplier	General_3c_agricultural_expert.png	"Send for the local farmers, our soldiers need to be fed."	Supplier		3	false	false	false	0.0000
+age_agent_dignitary_authority_tutor	agent_dignitary_authority_3_martial_philosophy_colourized.png	"I can teach you a few things..."	Tutor		5	false	false	false	0.0000
+age_agent_dignitary_subterfuge_contractor	agent_champion_subterfuge_2_stratagem_colourized.png	"The gold is yours... just sign here... and here."	Contractor		1	false	false	false	0.0000
+age_agent_dignitary_subterfuge_dealer	general_strategist_3_mercenary_colourized.png	"I only sell arms, I don't care what happens to them after that."	Dealer		5	false	false	false	0.0000
+age_agent_dignitary_subterfuge_embezzler	age_agent_thief.png	"No one will know, I assure you."	Embezzler		3	false	false	false	0.0000
+age_agent_dignitary_subterfuge_employer	general_strategist_3_administration_colourized.png	"How many do we need?"	Employer		1	false	false	false	0.0000
+age_agent_dignitary_subterfuge_emporos	age_agent_emporos.png	"If you buy a hundred, I'll throw in a few slaves."	Emporos		3	false	false	false	0.0000
+age_agent_dignitary_subterfuge_fanatic	age_agent_fanatic.png	You shall make a fine tribute.	Fanatic		3	false	false	false	0.0000
+age_agent_dignitary_subterfuge_generous	age_agent_generous.png	"Go home, tend to your wife. We'll speak of the gold next month."	Generous		1	false	false	false	0.0000
+age_agent_dignitary_subterfuge_greedy	general_entrepreneur.png	"Fine, yes, do what you like, now show me the gold!"	Greedy		3	false	false	false	0.0000
+age_agent_dignitary_subterfuge_imperious	agent_champion_subterfuge_1_partisan_colourized.png	"If they're old enough to hold a sword, they will fight!"	Imperious		3	false	false	false	0.0000
+age_agent_dignitary_subterfuge_mi'mar	agent_champion_subterfuge_2_stratagem_colourized.png	"I'll make this city fit for a shah!"	Mi'mar		1	false	false	false	0.0000
+age_agent_dignitary_subterfuge_silver_tongue	age_agent_liar.png	"Think about your family... would you let them down?"	Silver Tongue		5	false	false	false	0.0000
+age_agent_dignitary_subterfuge_smuggler	general_valorous.png	"Does it really matter *how* I got them?"	Smuggler		5	false	false	false	0.0000
+age_agent_dignitary_subterfuge_strict	age_agent_strict.png	In this world, nothing can be said to be certain, except death and taxes.	Strict		1	false	false	false	0.0000
+age_agent_dignitary_subterfuge_vower	general_strategist_3_administration_colourized.png	"I promise you, fight for us and you will be rewarded!"	Vower		1	false	false	false	0.0000
+age_agent_dignitary_zeal_advisor	general_tutor.png	"Leave it to me, sir!"	Advisor		3	false	false	false	0.0000
+age_agent_dignitary_zeal_azad	age_agent_azad.png	Nobility and command go hand in hand.	Azad		1	false	false	false	0.0000
+age_agent_dignitary_zeal_chant	age_agent_chant.png	"Allfather, hear me!"	Chant		3	false	false	false	0.0000
+age_agent_dignitary_zeal_corrupt	age_agent_corrupt.png	Anything can be done for the right price.	Corrupt		5	false	false	false	0.0000
+age_agent_dignitary_zeal_leader	general_magnate.png	Actions speak louder than words.	Leader		5	false	false	false	0.0000
+age_agent_dignitary_zeal_magi	general_master_magi.png	"Gaze upon the sacred fire and see the truth!"	Magi		3	false	false	false	0.0000
+age_agent_dignitary_zeal_motivator	general_persuasive.png	"I'm not paying you to make jokes, I'm paying you to kill them!"	Motivator		3	false	false	false	0.0000
+age_agent_dignitary_zeal_noble	age_agent_rethoric.png	Nobility and command go hand in hand.	Noble		1	false	false	false	0.0000
+age_agent_dignitary_zeal_rhetoric	age_agent_rethoric.png	"I believe it is quite obvious that my argument is correct."	Rhetoric		5	false	false	false	0.0000
+age_agent_dignitary_zeal_romanizer	age_agent_romanizer.png	The best life is the Roman life.	Romanizer		5	false	false	false	0.0000
+age_agent_dignitary_zeal_sphagia	age_agent_sphagia.png	"Look upon us this tribute, mighty gods, and grant us your favour!"	Sphagia		3	false	false	false	0.0000
+age_agent_dignitary_zeal_underhanded	agent_dignitary_zeal_2_propaganda_colourized.png	"Please listen as if you were sober and intelligent, not a drink-sodden miscreant!"	Underhanded		1	false	false	false	0.0000
+age_agent_dignitary_zeal_warmonger	general_warmonger_1_warmonger_colourized.png	"I don't need merchants, I need warriors!"	Warmonger		3	false	false	false	0.0000
+age_agent_spy_authority_conspirator	general_commander_4_great_leader_colourized.png	A good spy works alone, a great spy works with others.	Conspirator		3	false	false	false	0.0000
+age_agent_spy_authority_despoiler	agent_spy_authority_2_disruption_colourized.png	The head is not the only part of the arrow that burns.	Despoiler		2	false	false	false	0.0000
+age_agent_spy_authority_hunter	general_raven_2.png	Those born in wild places can hear them whisper their secrets.	Hunter		3	false	false	false	0.0000
+age_agent_spy_authority_naturalist	age_agent_naturalist.png	Herbs save more lives than foolish Greek healers.	Naturalist		1	false	false	false	0.0000
+age_agent_spy_authority_network	agent_spy_authority_2_collaboration_colourized.png	You can't keep an eye on an entire empire all by yourself.	Network		1	false	false	false	0.0000
+age_agent_spy_authority_pathfinder	agent_dignitary_authority_1_dignitary_colourized.png	"Moving through this forest will be like a walk on a Roman road."	Pathfinder		3	false	false	false	0.0000
+age_agent_spy_authority_spasaka	age_agent_spasaka.png	"No, no, enjoy your lunch, I'll tend to the soldiers."	Spasaka		2	false	false	false	0.0000
+age_agent_spy_authority_speculatore	agent_champion_authority_1_paragon_colourized.png	When in Rome, trust no one.	Speculatore		2	false	false	false	0.0000
+age_agent_spy_authority_studious	agent_dignitary_authority_3_martial_philosophy_colourized.png	"These people's customs are… interesting."	Studious		1	false	false	false	0.0000
+age_agent_spy_authority_survivalist	agent_dignitary_authority_1_dignitary_colourized.png	"Noooo, don't eat that mushroom!"	Survivalist		1	false	false	false	0.0000
+age_agent_spy_authority_watchman	general_scout_2.png	Watching is a skill that all men have but few appreciate.	Watchman		2	false	false	false	0.0000
+age_agent_spy_subterfuge_actor	age_agent_actor.png	"My skill is comparible only to Thespis himself!"	Actor		1	false	false	false	0.0000
+age_agent_spy_subterfuge_assistant	general_master_merchant.png	"Show me what needs doing."	Assistant		1	false	false	false	0.0000
+age_agent_spy_subterfuge_bootlegger	agent_champion_subterfuge_1_partisan_colourized.png	"This will turn a hefty profit."	Bootlegger		2	false	false	false	0.0000
+age_agent_spy_subterfuge_contacts	agent_champion_subterfuge_1_partisan_colourized.png	"I know these villagers, let ask for directions."	Contacts		3	false	false	false	0.0000
+age_agent_spy_subterfuge_coordinator	general_strategist_2_tactician_colourized.png	"The route has been scouted - all you have to do is follow me."	Co-ordinator		2	false	false	false	0.0000
+age_agent_spy_subterfuge_deceiver	agent_champion_subterfuge_1_partisan_colourized.png	"They went that way!"	Deceiver		3	false	false	false	0.0000
+age_agent_spy_subterfuge_discord	agent_dignitary_subterfuge_2_intrigue_colourized.png	Administration, when handled poorly, can cause more damage than an army.	Discord		3	false	false	false	0.0000
+age_agent_spy_subterfuge_hallucinogens	agent_dignitary_subterfuge_2_treachery_colourized.png	"They won't be in fighting shape, but at least they'll die happy!"	Hallucinogens		2	false	false	false	0.0000
+age_agent_spy_subterfuge_hideout	agent_spy_subterfuge_3_infiltration_colourized.png	All the best plans are made in darkened rooms.	Hideout		1	false	false	false	0.0000
+age_agent_spy_subterfuge_liar	age_agent_liar.png	"He stole your money, I saw him!"	Liar		2	false	false	false	0.0000
+age_agent_spy_subterfuge_lookout	general_scout.png	Not all doors need keys.	Lookout		1	false	false	false	0.0000
+age_agent_spy_subterfuge_mandrake	agent_spy_subterfuge_3_mass_poison_colourized.png	Men have died merely gathering the plant.	Mandrake		3	false	false	false	0.0000
+age_agent_spy_subterfuge_thief	age_agent_thief.png	"The way she's wearing that jewel means she's simply begging me to steal it."	Thief		1	false	false	false	0.0000
+age_agent_spy_subterfuge_toxic	agent_champion_subterfuge_2_artifice_colourized.png	The poisoner's art is a delicate one.	Toxic		3	false	false	false	0.0000
+age_agent_spy_subterfuge_tracker	agent_champion_subterfuge_1_partisan_colourized.png	"These footprints are fresh."	Tracker		2	false	false	false	0.0000
+age_agent_spy_zeal_animal_hater	age_agent_animal_hater.png	"Those beasts are nothing but a meal to me."	Animal Hater		2	false	false	false	0.0000
+age_agent_spy_zeal_blight	general_warmonger_1_warmonger_colourized.png	"Take what you can carry, destroy the rest!"	Blight		1	false	false	false	0.0000
+age_agent_spy_zeal_bookworm	general_scientific.png	"Hold on, I'm coming, I just want to finish this book."	Bookworm		2	false	false	false	0.0000
+age_agent_spy_zeal_careful	age_agent_careful.png	There are the paranoid and there are the dead.	Careful		1	false	false	false	0.0000
+age_agent_spy_zeal_counterspy	age_agent_counterspy.png	"Their spies are like children - naïve and clumsy."	Counterspy		1	false	false	false	0.0000
+age_agent_spy_zeal_deadly	age_agent_deadly.png	Not all men have the stomach to do what must be done. 	Deadly		3	false	false	false	0.0000
+age_agent_spy_zeal_looter	general_warmonger_3_despoil_colourized.png	"Jewels, cattle, linens - take everything!"	Looter		2	false	false	false	0.0000
+age_agent_spy_zeal_menace	age_agent_menace.png	If they can't protect it, they do not deserve to have it.	Menace		1	false	false	false	0.0000
+age_agent_spy_zeal_military_espionage	age_agent_espionage.png	"It was very generous of them to share their movements, even if they don't know they've done it..."	Military Espionage		2	false	false	false	0.0000
+age_agent_spy_zeal_saboteur	age_agent_saboteur.png	Victory in battle depends on having war's proper tools.	Saboteur		2	false	false	false	0.0000
+age_agent_spy_zeal_specialist	general_persuasive.png	"They'll never see me coming."	Specialist		1	false	false	false	0.0000
+agent_background_champion_athlete_generic	agent_background_champion_athlete.png	"My strength is legendary!"	Athlete		0	true	false	false	1.0000
+agent_background_champion_athlete_hellenic_olympian	agent_background_champion_athlete.png	"You boy! Bring me my oil!"	Olympian		0	true	false	false	1.0000
+agent_background_champion_avaricious_generic	agent_background_champion_raider.png	A true warrior knows how to enjoy the spoils of war.	Avaricous		0	true	false	false	1.0000
+agent_background_champion_brute_generic	agent_background_champion_brute.png	"I am required to kill, so I kill."	Brute		0	true	false	false	1.0000
+agent_background_champion_brute_germanic_berserker	agent_background_champion_brute.png	"Blahh ahhhh grrragaggagahhh!"	Berserker		0	true	false	false	1.0000
+agent_background_champion_commoner_generic	agent_background_champion_officer.png	"The common man, I fight for him!"	Commoner		0	true	false	false	1.0000
+agent_background_champion_contender_roman_gladiator	agent_background_champion_contender.png	"Today I saw a slave become more powerful than the Emperor of Rome."	Gladiator		0	true	false	false	1.0000
+agent_background_champion_guard_barbarian_sentinel	agent_background_champion_guard.png	"Through the long dark I keep my silent vigil."	Sentinel		0	true	false	false	1.0000
+agent_background_champion_guard_generic	agent_background_champion_guard.png	"The night is dark and full of terrors."	Guardsman		0	true	false	false	1.0000
+agent_background_champion_guard_roman_vigile	agent_background_champion_guard.png	The city is a different place at night…	Vigile		0	true	false	false	1.0000
+agent_background_champion_martial_artist_eastern_pahlavani	agent_background_champion_martial_artist.png	"Learn modesty if you desire knowledge." 	Pahlavani Master		0	true	false	false	1.0000
+agent_background_champion_martial_artist_egyptian_sebekkha	agent_background_champion_martial_artist.png	"None can escape the jaws of the mighty crocodile." 	Sebekkha Master		0	true	false	false	1.0000
+agent_background_champion_martial_artist_generic	agent_background_champion_martial_artist.png	"I could pluck out your eye before you even had chance to blink!"	Martial Artist		0	true	false	false	1.0000
+agent_background_champion_martial_artist_greco_roman_pankration	agent_background_champion_martial_artist.png	"I am Hercules reborn!"	Pankration Master		0	true	false	false	1.0000
+agent_background_champion_military_engineer_generic	agent_background_champion_military_engineer.png	Great engines of war are the product of great minds.	Military Engineer		0	true	false	false	1.0000
+agent_background_champion_officer_barbarian_warmaster	agent_background_champion_officer.png	A person who inspires loyalty is a valuable treasure.	Warmaster		0	true	false	false	1.0000
+agent_background_champion_officer_rome_tribune	agent_background_champion_officer.png	Men need someone they can look up to.	Military Tribune		0	true	false	false	1.0000
+agent_background_champion_quartermaster_generic	agent_background_champion_quartermaster.png	A well-kept list is a gift from the gods.	Quartermaster		0	true	false	false	1.0000
+agent_background_champion_talented_generic	agent_background_champion_contender.png	Gifted by the gods from birth.	Talented		0	true	false	false	1.0000
+agent_background_champion_warhero_barbarian_wardancer	agent_background_champion_warhero.png	"Ancestors! We honour you! Honour us with your protection." 	Wardancer		0	true	false	false	1.0000
+agent_background_champion_warhero_generic	agent_background_champion_warhero.png	Tales of valour and glory gladden the heart.	War Hero		0	true	false	false	1.0000
+agent_background_dignitary_councillor_barbarian_elder	agent_background_dignitary_councillor.png	Long years bring the wisdom to listen when others speak. 	Elder		0	true	false	false	1.0000
+agent_background_dignitary_councillor_generic	agent_background_dignitary_councillor.png	"I often regret that I have spoken, never that I have been silent."	Councillor		0	true	false	false	1.0000
+agent_background_dignitary_councillor_roman_senator	agent_background_dignitary_councillor.png	The senate is the people, chosen from among the people, by the people.	Senator		0	true	false	false	1.0000
+agent_background_dignitary_councillor_royal_courtier	agent_background_dignitary_councillor.png	A wide grin hides many disloyal thoughts.	Courtier		0	true	false	false	1.0000
+agent_background_dignitary_courtesan_greek_hetaera	agent_background_dignitary_courtesan.png	"The movement of her hips is mesmerising!"	Hetaera		0	true	true	false	1.0000
+agent_background_dignitary_healer_generic	agent_background_dignitary_physician.png	"Drink this... and don't ask what's in it!"	Healer		0	true	false	false	1.0000
+agent_background_dignitary_merchant_generic	agent_background_dignitary_merchant.png	The power of trade should never be underestimated.	Merchant		0	true	false	false	1.0000
+agent_background_dignitary_merchant_hellenic_plutocrat	agent_background_dignitary_merchant.png	Power in the hands of the wealthy just makes sense.	Plutocrat		0	true	false	false	1.0000
+agent_background_dignitary_merchant_roman_magnate	agent_background_dignitary_merchant.png	"Fish guts! That's where the money is!"	Magnate		0	true	false	false	1.0000
+agent_background_dignitary_militarist_barbarian_warmonger	general_strategist_1_strategist.png	"Our ancestors demand blood, would you disappoint them?!"	Warhawk		0	true	false	false	1.0000
+agent_background_dignitary_militarist_generic	general_strategist_1_strategist.png	"Peace?! I hate the word!"	Militarist		0	true	false	false	1.0000
+agent_background_dignitary_orator_barbarian_lore	agent_background_dignitary_orator.png	His words are those of the ancestors, handed down through generations.	Loremaster		0	true	false	false	1.0000
+agent_background_dignitary_orator_egypt_chantress	agent_background_dignitary_orator.png	A beautiful voice lightens even the darkest tombs. 	Chantress		0	true	false	false	1.0000
+agent_background_dignitary_overseer_barbarian_arbiter	agent_background_dignitary_overseer.png	A fair and impartial ear is important in matters of land. 	Arbiter		0	true	false	false	1.0000
+agent_background_dignitary_overseer_carthaginian_landowner	agent_background_dignitary_overseer.png	Land can bestow great wealth and power on its owner. 	Landowner		0	true	false	false	1.0000
+agent_background_dignitary_overseer_generic	agent_background_dignitary_overseer.png	It is important to make the most of your estate.	Overseer		0	true	false	false	1.0000
+agent_background_dignitary_overseer_spartan_female_landowner	agent_background_dignitary_overseer.png	A harsh tongue and an eagle eye make for a well-kept estate.	Landowner		0	true	true	false	1.0000
+agent_background_dignitary_physician_barbarian_healer	agent_background_dignitary_physician.png	"Drink this. And don't ask what's in it!"	Healer		0	true	false	false	1.0000
+agent_background_dignitary_sacrificer_generic	agent_background_dignitary_sacrificer.png	The favour of the gods comes at a price.	Sacrificer		0	true	false	false	1.0000
+agent_background_dignitary_scholar_barbarian_sage	agent_background_dignitary_scholar.png	The wise forget more than the foolish will ever know. 	Sage		0	true	false	false	1.0000
+agent_background_dignitary_scholar_generic	agent_background_dignitary_scholar.png	Everything you need to know about life can be found on a scroll.	Scholar		0	true	false	false	1.0000
+agent_background_dignitary_seer_carthaginian_kohanim	agent_background_dignitary_seer.png	"I have gazed into the fire and seen your destiny."	Kohanim		0	true	false	false	1.0000
+agent_background_dignitary_seer_druidic_vates	agent_background_dignitary_seer.png	"I have been to the oaks: they call for war!"	Vates		0	true	false	false	1.0000
+agent_background_dignitary_seer_eastern_astrologer	agent_background_dignitary_seer.png	Knowledge of the stars and their movements has its uses.	Astrologer		0	true	false	false	1.0000
+agent_background_dignitary_seer_egyptian_hemet_netjer	agent_background_dignitary_seer.png	Knowledge of the will of the gods is a gift given to few.	Hemet Netjer		0	true	false	false	1.0000
+agent_background_dignitary_seer_generic	agent_background_dignitary_seer.png	"I have seen the future… You won't like it."	Seer		0	true	false	false	1.0000
+agent_background_dignitary_seer_germanic_spakona	agent_background_dignitary_seer.png	"I have seen war in the intestines of a badger!"	Spakona		0	true	false	false	1.0000
+agent_background_dignitary_seer_greek_female_oracle	agent_background_dignitary_seer.png	"The gods pour their words through me. I am their vassal."	Oracle		0	true	true	false	1.0000
+agent_background_dignitary_seer_greek_male_mantis	agent_background_dignitary_seer.png	"I am touched by mighty Zeus!"	Mantis		0	true	false	true	1.0000
+agent_background_dignitary_seer_nomadic_shaman	agent_background_dignitary_seer.png	A life lived in service to the gods, there is none better.	Shaman		0	true	false	false	1.0000
+agent_background_dignitary_seer_roman_augur	agent_background_dignitary_seer.png	"An eagle from the west! This is an ill omen…"	Augur		0	true	false	false	1.0000
+agent_background_dignitary_singer_generic	agent_background_dignitary_orator.png	A soothing voice can be more powerful than any weapon.	Singer		0	true	false	false	1.0000
+agent_background_dignitary_talented_generic	agent_background_dignitary_courtesan.png	Gifted by the gods from birth.	Talented		0	true	true	false	1.0000
+agent_background_dignitary_taxman_generic	agent_background_dignitary_taxman.png	"One for me, one for the treasury, one for me, one for the treasury"	Tax Collector		0	true	false	false	1.0000
+agent_background_dignitary_taxman_roman_publican	agent_background_dignitary_taxman.png	There is no nobler calling than that of the tax collector. 	Publican		0	true	false	false	1.0000
+agent_background_spy_alchemist_barbarian_herbalist	agent_background_spy_alchemist.png	"A little of this, and a little of that…"	Herbalist		0	true	false	false	1.0000
+agent_background_spy_attendant_eastern_scribe	agent_background_spy_attendant.png	Never offend a scribe: he can ruin you for all eternity. 	Scribe		0	true	false	false	1.0000
+agent_background_spy_attendant_generic	agent_background_spy_attendant.png	An unassuming manner and an understanding ear are vital in an attendant.	Attendant		0	true	false	false	1.0000
+agent_background_spy_courier_generic	agent_background_spy_courier.png	Some things need to be carried in secrecy.	Courier		0	true	false	false	1.0000
+agent_background_spy_courtesan_generic	agent_background_spy_courtesan.png	It's surprising what you can learn when you're staring at the ceiling.	Brothelworker		0	true	false	false	1.0000
+agent_background_spy_craftsman_generic	agent_background_spy_craftsman.png	It pays to be good with your hands.	Artisan		0	true	false	false	1.0000
+agent_background_spy_criminal_generic	agent_background_spy_criminal.png	"I will not speak of my crimes, so don't ask!"	Criminal		0	true	false	false	1.0000
+agent_background_spy_farmer_generic	general_strategist_3_logistics.png	Those who work the land understand its secrets.	Farmer		0	true	false	false	1.0000
+agent_background_spy_handler_generic	agent_spy_background_handler.png	Only one person should know where all the bodies are buried. 	Handler		0	true	false	false	1.0000
+agent_background_spy_poet_celtic_bard	agent_background_spy_poet.png	"My words are those of my father and his father before him."	Bard		0	true	false	false	1.0000
+agent_background_spy_poet_eastern_gosan	agent_background_spy_poet.png	Fine words spoken in a soft voice sooth the hearts of men.	Gosan		0	true	false	false	1.0000
+agent_background_spy_poet_generic	agent_background_spy_poet.png	"I can spin a tale that would make even the gods spill their darkest secrets…"	Poet		0	true	false	false	1.0000
+agent_background_spy_poet_germanic_scop	agent_background_spy_poet.png	"Those who do not harken to my words will find themselves short an ear!"	Scop		0	true	false	false	1.0000
+agent_background_spy_scout_barbarian_hunter	general_strategist_1_strategist.png	Those born in the wild places hear them whisper their secrets.	Hunter		0	true	false	false	1.0000
+agent_background_spy_scout_generic	general_strategist_1_strategist.png	A light tread and nimble feet are a scout's greatest weapons.	Scout		0	true	false	false	1.0000
+agent_background_spy_scout_roman_explorator	general_strategist_1_strategist.png	Few have seen the furthest reaches of the world and returned to tell the tale.	Explorator		0	true	false	false	1.0000
+agent_background_spy_shadow_generic	agent_background_spy_actor.png	Someone of many faces is difficult to trace…	Shadow		0	true	false	false	1.0000
+agent_background_spy_slave_generic	agent_background_spy_assassin.png	"I will never betray you, I swear it!"	Slave		0	true	false	false	1.0000
+agent_background_spy_talented_generic	agent_background_spy_alchemist.png	Gifted by the gods from birth.	Talented		0	true	false	false	1.0000
+agent_champion_authority_1_paragon	agent_champion_authority_1_paragon_colourized.png	When perfection is reached what more can one do?	Paragon		1	false	false	false	0.0000
+agent_champion_authority_2_unity	agent_champion_authority_2_unity_colourized.png	A true champion can unite mortal enemies under one banner.	Unity		2	false	false	false	0.0000
+agent_champion_authority_2_valour	agent_champion_authority_2_valour_colourized.png	Valour is a gift from the gods given to few mortals.	Valour		2	false	false	false	0.0000
+agent_champion_subterfuge_1_partisan	agent_champion_subterfuge_1_partisan_colourized.png	The enemy should never be given a moment's rest.	Partisan		1	false	false	false	0.0000
+agent_champion_subterfuge_2_artifice	agent_champion_subterfuge_2_artifice_colourized.png	A little cunning saves a lot of effort.	Artifice		2	false	false	false	0.0000
+agent_champion_subterfuge_2_stratagem	agent_champion_subterfuge_2_stratagem_colourized.png	Those who show no interest in strategy are doomed to fail.	Stratagem		2	false	false	false	0.0000
+agent_champion_zeal_1_champion	agent_champion_zeal_1_champion_colourized.png	Everyone loves a winner.	Champion		1	false	false	false	0.0000
+agent_champion_zeal_2_strength	agent_champion_zeal_2_strength_colourized.png	The strength of one's character is more important than the strength of one's arms. 	Strength		2	false	false	false	0.0000
+agent_champion_zeal_2_warfare	agent_champion_zeal_3_warfare_colourized.png	Peace makes sheep of even the bravest lions.	Warfare		2	false	false	false	0.0000
+agent_champion_zeal_3_audacity	agent_champion_zeal_3_audacity_colourized.png	"The god of war hates those who hesitate."	Audacity		3	false	false	false	0.0000
+agent_champion_zeal_3_militancy	agent_champion_zeal_3_militancy_colourized.png	Sometimes aggression is the only open path.	Militancy		3	false	false	false	0.0000
+agent_dignitary_authority_1_dignitary	agent_dignitary_authority_1_dignitary_colourized.png	"I am not a man of the people, but I do try to be a man for the people."	Dignitary		1	false	false	false	0.0000
+agent_dignitary_authority_2_philosophy	agent_dignitary_authority_2_philosophy_colourized.png	"Philosophy is the highest music."	Philosophy		2	false	false	false	0.0000
+agent_dignitary_authority_2_politics	agent_dignitary_authority_2_politics_colourized.png	Politicians can be tamed like any other animal.	Politics		2	false	false	false	0.0000
+agent_dignitary_authority_3_demagogy	agent_dignitary_authority_3_demagogy_colourized.png	Win the love of the mob and anything is possible.	Demagogy		3	false	false	false	0.0000
+agent_dignitary_authority_3_martial_philosophy	agent_dignitary_authority_3_martial_philosophy_colourized.png	To win a battle you must first understand war. 	Martial Philosophy		3	false	false	false	0.0000
+agent_dignitary_subterfuge_1_conspirator	agent_dignitary_subterfuge_1_conspirator_colourized.png	A devious mind travels to many dark and interesting places. 	Conspirator		1	false	false	false	0.0000
+agent_dignitary_subterfuge_2_intrigue	agent_dignitary_subterfuge_2_intrigue_colourized.png	What is life without a little intrigue?	Intrigue		2	false	false	false	0.0000
+agent_dignitary_subterfuge_2_treachery	agent_dignitary_subterfuge_2_treachery_colourized.png	Old age and treachery will always beat youth and exuberance. 	Treachery		2	false	false	false	0.0000
+agent_dignitary_zeal_1_provocateur	agent_dignitary_zeal_1_provocateur_colourized.png	Words can start a fire just as surely as a flame.	Provocateur		1	false	false	false	0.0000
+agent_dignitary_zeal_2_doom	agent_dignitary_zeal_2_doom_colourized.png	"The end is nigh, the earth shall open and swallow us whole!"	Doom		2	false	false	false	0.0000
+agent_dignitary_zeal_2_propaganda	agent_dignitary_zeal_2_propaganda_colourized.png	History is written by the victors…	Propaganda		2	false	false	false	0.0000
+agent_spy_authority_1_agent	agent_spy_authority_1_agent_colourized.png	All men have a weakness. It just needs to be exposed.	Agent		1	false	false	false	0.0000
+agent_spy_authority_2_collaboration	agent_spy_authority_2_collaboration_colourized.png	A good spy works alone, a great spy works with others. 	Collaboration		2	false	false	false	0.0000
+agent_spy_authority_2_disruption	agent_spy_authority_2_disruption_colourized.png	A spy's greatest tool is disruption.	Disruption		2	false	false	false	0.0000
+agent_spy_subterfuge_1_spy	agent_spy_subterfuge_1_spy_colourized.png	Watching is a skill that all men have but few appreciate. 	Spy		1	false	false	false	0.0000
+agent_spy_subterfuge_2_clandestinity	agent_spy_subterfuge_2_clandestinity_colourized.png	All the best plans are made in darkened rooms.	Furtiveness		2	false	false	false	0.0000
+agent_spy_subterfuge_2_reconnaisance	agent_spy_subterfuge_2_reconnaisance_colourized.png	Only a fool goes in blind.	Reconnaissance		2	false	false	false	0.0000
+agent_spy_subterfuge_3_infiltration	agent_spy_subterfuge_3_infiltration_colourized.png	Not all doors need keys.	Infiltration		3	false	false	false	0.0000
+agent_spy_subterfuge_3_mass_poison	agent_spy_subterfuge_3_mass_poison_colourized.png	The poisoner's art is a delicate one.	Mass Poisoning		3	false	false	false	0.0000
+agent_spy_zeal_1_antagonist	agent_spy_zeal_1_antagonist_colourized.png	Some are driven to acts of stupidity when the red mist descends.	Antagonist		1	false	false	false	0.0000
+agent_spy_zeal_2_murder	agent_spy_zeal_2_murder_colourized.png	Not all men have the stomach to do what must be done. 	Murder		2	false	false	false	0.0000
+agent_spy_zeal_2_sabotage	agent_spy_zeal_2_sabotage_colourized.png	A wanton disregard for the property of others has its benefits.	Sabotage		2	false	false	false	0.0000
+army_1_accomplished_archers	army_tradition_archers.png	A single arrow may pierce many hearts.	Accomplished Archers		1	false	false	false	0.0000
+army_1_accomplished_skirmishers	army_1_accomplished_skirmishers.png	Hand-to-hand combat is a dangerous business.	Accomplished Skirmishers		1	false	false	false	0.0000
+army_1_artillery_experts	army_1_artillery_experts.png	The firing of great weapons takes a delicacy that few appreciate.	Artillery Experts		1	false	false	false	0.0000
+army_1_dread_charioteers	army_1_dread_charioteers.png	The sound of approaching wheels can strike fear into the stoutest hearts.	Dread Charioteers		1	false	false	false	0.0000
+army_1_engineering_experts	army_1_engineering_experts.png	When men move the earth itself, are they not like gods?	Engineering Experts		1	false	false	false	0.0000
+army_1_formidable_fighters	army_1_formidable_fighters.png	Some men are born fighters.	Formidable Fighters		1	false	false	false	0.0000
+army_1_formidable_spearmen	army_1_formidable_swordsmen.png	A spear has many uses and a master knows them all.	Formidable Spearmen		1	false	false	false	0.0000
+army_1_formidable_swordsmen	army_1_formidable_fighters.png	A sword should be an extension of a man's arm.	Formidable Swordsmen		1	false	false	false	0.0000
+army_1_siege_experts	army_1_engineering_experts.png	A high wall is but a pebble beneath the feet of resourceful men.	Siege Experts		1	false	false	false	0.0000
+army_2_ambushers	army_2_ambushers.png	"Out of the shadows they came, wreathed in darkness…"	Dread Ambushers		1	false	false	false	0.0000
+army_2_ambushers_samnites	army_2_ambushers.png	"Out of the shadows they came, wreathed in darkness…" 	Dread Ambushers		1	false	false	false	0.0000
+army_2_desert_ambushers	army_desert_ambushers.png	They rise from the very sands of the desert.	Dread Desert Ambushers		1	false	false	false	0.0000
+army_2_forest_ambushers	army_forest_ambushers.png	In mist and shadow they hide, silent and deadly.	Dread Forest Ambushers		1	false	false	false	0.0000
+army_2_furor_germanicus	army_2_furor_germanicus.png	Men have come to fear the forests of Germania.	Furor Germanicus		1	false	false	false	0.0000
+army_2_inexorable_conquerors	army_2_inexorable_conquerors.png	When men have no care for the conquered, no one is safe.	Inexorable Conquerors		1	false	false	false	0.0000
+army_2_inexorable_horde	army_2_inexorable_conquerors.png	A swarm of locusts destroys everything in its path.	Inexorable Horde		1	false	false	false	0.0000
+army_2_keepers_of_peace	army_2_keepers_peace.png	Someone has to consider peace.	Keepers of the Peace		1	false	false	false	0.0000
+army_2_stalwart_defenders_barbarian	army_2_stalwart_defenders.png	Few can stand strong in the face of impossible odds.	Stalwart Defenders		1	false	false	false	0.0000
+army_2_stalwart_defenders_eastern	army_2_stalwart_defenders.png	Few can stand strong in the face of impossible odds.	Stalwart Defenders		1	false	false	false	0.0000
+army_2_stalwart_defenders_hellenic	army_2_stalwart_defenders.png	Few can stand strong in the face of impossible odds.	Stalwart Defenders		1	false	false	false	0.0000
+army_2_stalwart_defenders_rome	army_2_stalwart_defenders.png	Few can stand strong in the face of impossible odds.	Stalwart Defenders		1	false	false	false	0.0000
+army_2_unrelenting_force	army_2_unrelenting_force.png	When a man no longer fears death, there is no stopping him.	Unrelenting Force		1	false	false	false	0.0000
+army_3_auxiliary_corps	army_3_auxiliary_corps.png	The wise commander always considers the consequences of defeat.	Auxiliary Corps		1	false	false	false	0.0000
+army_3_barbarian_subjugators	army_3_barbarian_subjugators.png	The might of a barbarian horde is terrifying to behold.	Barbarian Subjugators		1	false	false	false	0.0000
+army_3_camp_following	army_3_camp_following.png	The hustle and bustle of camp attracts many interesting characters.	Grand Camp Following		1	false	false	false	0.0000
+army_3_cavalry_masters	army_3_cavalry_masters.png	Horsemanship is man and beast as one.	Cavalry Masters		1	false	false	false	0.0000
+army_3_companions	army_3_companions.png	When men are as brothers they will happily die for one another.	Companions		1	false	false	false	0.0000
+army_3_dread_marauders	army_3_dread_marauders.png	The lust for plunder can turn men into monsters.	Dread Marauders		1	false	false	false	0.0000
+army_3_immortals	army_3_immortals.png	"Stand before death and tell him, 'Not today'."	Immortals		1	false	false	false	0.0000
+army_3_indomitable_heavy_warriors	army_3_companions.png	Men grow strong through rigorous training and the blood of their enemies.	Indomitable Heavy Warriors		4	false	false	false	0.0000
+army_3_indomitable_hoplites	army_3_indomitable_hoplites.png	A hoplite is only as strong as his brothers-in-arms.	Indomitable Hoplites		1	false	false	false	0.0000
+army_3_indomitable_infantry	army_3_indomitable_infantry.png	The bond between fighting men is unbreakable. 	Indomitable Infantry		1	false	false	false	0.0000
+army_3_indomitable_legionaries	army_3_indomitable_legionaries.png	Men grow strong through rigorous training and the blood of their enemies.	Indomitable Legionaries		1	false	false	false	0.0000
+army_3_light_cavalry_masters	army_3_light_cavalry_masters.png	A fleet and agile horse needs a fleet and agile rider.	Light Cavalry Masters		1	false	false	false	0.0000
+army_3_mercenary_host	army_3_mercenary_host.png	Gold buys many deadly friends.	Mercenary Host		1	false	false	false	0.0000
+army_3_native_corps	army_3_auxiliary_corps.png	The wise commander always considers the consequences of defeat.	Native Corps		1	false	false	false	0.0000
+army_3_strength_through_unity	army_3_strength_through_unity.png	For a single branch can be easily broken, unlike a whole bundle.	Strength Through Unity		3	false	false	false	0.0000
+army_3_unfettered_warriors	army_3_unfettered_warriors.png	A man free from restraint can achieve great things.	Unfettered Warriors		1	false	false	false	0.0000
+army_4_andraste_chosen	army_4_andraste_chosen.png	Those who fight for the goddess never truly die.	Andraste's Chosen		1	false	false	false	0.0000
+army_4_battle_hardened	army_4_veteran_army.png	Only the best soldiers live to become veterans.	Veteran Army		1	false	false	false	0.0000
+army_4_caravan_guards	army_4_caravan_guards.png	Our trade requires no less protection than our people.	Caravan Guards		4	false	false	false	0.0000
+army_4_cavalry_experts	army_4_cavalry_experts.png	A lifetime is not enough to make all of a horse's benefits.	Cavalry Experts		4	false	false	false	0.0000
+army_4_defenders_of_rome	army_4_defenders_rome.png	Rome is mother to all, and she must be protected.	Defenders of Rome		1	false	false	false	0.0000
+army_4_expert_archers	army_4_expert_archers.png	"10,000 days of bow practice is a good start."	Expert Archers		4	false	false	false	0.0000
+army_4_hellenic_wartime_legacy	dk_hellenic_wartime_legacy.png	It's best to emulate your enemies practices if they prove superior.	Hellenic Wartime Legacy		4	false	false	false	0.0000
+army_4_heralds_of_antigonus	army_4_heralds_of_antigonus.png	The men of Macedon are Alexander reborn.	Heralds of Antigonus		1	false	false	false	0.0000
+army_4_hounds_of_molossus	army_4_hounds_molossus.png	"Killing's the sweetest thing there is."	Hounds of Molossus		1	false	false	false	0.0000
+army_4_legacy_of_brennus	army_4_legacy_of_brennus.png	His strength runs deep in our veins.	Legacy of Brennus		1	false	false	false	0.0000
+army_4_logistic_experts	army_4_logistic_experts.png	To know the ways of nature puts one a step ahead of his enemies.	Logistic Experts		4	false	false	false	0.0000
+army_4_pahlavans_of_the_east	army_4_pahlavans_of_the_east.png	Men of the east have no peers.	Pahlavans of the East		1	false	false	false	0.0000
+army_4_peers_of_leonidas	army_4_peers_of_leonidas.png	As brave as the great King himself. 	Peers of Leonidas		1	false	false	false	0.0000
+army_4_propagators	army_4_propagators.png	"When in Rome, do as the Romans do..." 	Propagators		4	false	false	false	0.0000
+army_4_slave_subduers	dk_slave_subduers.png	A slave should know his premises and be reminded of them constantly.	Slave Subduers		4	false	false	false	0.0000
+army_4_steppe_horde	army_4_nomads.png	Men without number, swift as the wind, fierce as a storm: their enemies will tremble before them!	Nomadic Horde		1	false	false	false	0.0000
+army_4_the_wrath_of_romulus	army_4_the_wrath_of_romulus.png	“Great empires are not maintained by timidity.”	The Wrath of Romulus		4	false	false	false	0.0000
+army_4_victors_of_seleucia	army_4_victors_of_seleucia.png	Our great empire needs brave and honourable protectors.	Victors of Seleucia		1	false	false	false	0.0000
+army_4_war_merchants	army_4_war_merchants.png	"War doesn't seem so terrible when you're weighing the spoils."	War Merchants		4	false	false	false	0.0000
+army_4_wolves_teiwaz	army_4_wolves_teiwaz.png	The wolf pack protects its own.	Wolves of Teiwaz		1	false	false	false	0.0000
+general_architect_3	general_architect.png	"Let no one ignorant of geometry enter here!"	Architect		3	false	false	false	0.0000
+general_aspbed_4	general_aspbed.png	Hundreds of riders and mounts, charging as one.	Aspbed		4	false	false	false	0.0000
+general_axe_3	general_axe.png	A symbol of might, a utility tool or a skull splitter, to be used as one finds fit.	Axe		3	false	false	false	0.0000
+general_azatan_commander_3	general_azatan_commander.png	The best of the nobility clad in the best armour!	Azatan Commander		3	false	false	false	0.0000
+general_background_non_roman_personal_authority	agent_champion_authority_1_paragon.png	This man's long-accumulated prestige enables him to influence those around him.[FEM]This woman's long-accumulated prestige enables her to influence those around her.	Authority		0	true	false	true	1.0000
+general_background_non_roman_personal_courage	general_roman.png	This person has the morals of a true warrior.	Courage		0	true	false	true	1.0000
+general_background_non_roman_personal_dignity	agent_background_champion_raider.png	Reputation and influence are entirely worthy in this person's case.	Dignity		0	true	false	true	1.0000
+general_background_non_roman_personal_dutifulness	agent_background_dignitary_seer.png	This person respects the natural order of things, and knows their place precisely.	Constancy		0	true	false	true	1.0000
+general_background_non_roman_personal_fortitude	agent_background_champion_warhero.png	Bravery on the battlefield is worthy.	Fortitude		0	true	false	true	1.0000
+general_background_non_roman_personal_frugality	agent_background_dignitary_merchant.png	This person is properly frugal in all things, but never mean.	Frugality		0	true	false	true	1.0000
+general_background_non_roman_personal_gravity	agent_background_dignitary_orator.png	When this person speaks others listen. Carefully.	Austerity		0	true	false	true	1.0000
+general_background_non_roman_personal_humanity	agent_background_dignitary_councillor.png	This person persuades by example, not words.	Civility		0	true	false	false	1.0000
+general_background_non_roman_personal_humour	agent_background_spy_actor.png	An open, friendly manner puts all who deal with this person at ease.	Humour		0	true	false	false	1.0000
+general_background_non_roman_personal_industriousness	agent_background_spy_craftsman.png	This person works hard every hour the gods send.	Diligence		0	true	false	false	1.0000
+general_background_non_roman_personal_mercy	agent_champion_authority_2_unity.png	This man's humanity and forbearance are considered by all to be great virtues.	Compassion		0	true	false	true	1.0000
+general_background_non_roman_personal_prudence	agent_champion_subterfuge_1_partisan.png	Experience tempers this man's actions.	Prudence		0	true	false	true	1.0000
+general_background_non_roman_personal_respectability	agent_champion_authority_2_unity.png	This person's upstanding decency banishes any hint of corruption.	Decency		0	true	false	false	1.0000
+general_background_non_roman_personal_sternness	general_warmonger_3_dread.png	Self-control grants control of many things.	Temperance		0	true	false	true	1.0000
+general_background_non_roman_personal_tenacity	agent_champion_zeal_1_champion.png	If you cut him with a knife, he'll come back with a spear. He'll keep coming until one of you is dust.	Tenacity		0	true	false	true	1.0000
+general_background_non_roman_personal_truthfulness	agent_background_dignitary_orator.png	Honesty is this man's watchword.[FEM]Honesty is this woman's watchword.	Candour		0	true	false	false	1.0000
+general_background_non_roman_personal_wholesomeness	agent_background_dignitary_councillor.png	This man's body is a temple, inside and out.	Honour		0	true	false	true	1.0000
+general_background_non_roman_public_agriculture	general_strategist_3_logistics.png	The plough is mightier than the sword.	Agriculture		0	true	false	false	1.0000
+general_background_non_roman_public_clemency	agent_background_dignitary_councillor.png	Mercy in a conqueror is always strength.	Mercy		0	true	false	false	1.0000
+general_background_non_roman_public_confidence	agent_champion_zeal_1_champion.png	I will have my way, in this life or the next.	Confidence		0	true	false	true	1.0000
+general_background_non_roman_public_dutifulness	agent_background_dignitary_seer.png	This reverent man is seen to obey the gods in all things.	Devotion		0	true	false	true	1.0000
+general_background_non_roman_public_endurance	agent_champion_authority_1_paragon.png	A firm hand on the tiller of the ship of state.	Wilfulness		0	true	false	false	1.0000
+general_background_non_roman_public_fair	agent_background_spy_attendant.png	"A fair shake all round, that's what I say. Unusual, isn't it?"	Impartiality		0	true	false	false	1.0000
+general_background_non_roman_public_faith	agent_dignitary_authority_3_demagogy.png	My word is my bond. Backed by my sword.	Faith		0	true	false	true	1.0000
+general_background_non_roman_public_forethought	agent_champion_subterfuge_1_partisan.png	Fate has fired many arrows at this man, and he had dodged them all.	Judgment		0	true	false	true	1.0000
+general_background_non_roman_public_fortune	agent_background_spy_poet.png	Luck is not enough. You must use luck when it comes.	Fortune		0	true	false	true	1.0000
+general_background_non_roman_public_freedom	agent_champion_authority_2_unity.png	"You are free to do as you please. And I am free to stop you."	Freedom		0	true	false	true	1.0000
+general_background_non_roman_public_giving	agent_dignitary_subterfuge_2_intrigue.png	Generosity adds to a man's popularity.	Philanthropy		0	true	false	false	1.0000
+general_background_non_roman_public_harmony	agent_background_dignitary_overseer.png	Unity among the people pleases the gods.	Harmony		0	true	false	true	1.0000
+general_background_non_roman_public_health	agent_background_dignitary_physician.png	"I am told that even the poor find shit offensive, don't you know…"	Welfare		0	true	false	true	1.0000
+general_background_non_roman_public_hope	agent_background_dignitary_councillor.png	The gods will look after the people. They always do.	Hope		0	true	false	false	1.0000
+general_background_non_roman_public_joy	agent_background_spy_poet.png	"Crisis? What crisis?"	Joy		0	true	false	false	1.0000
+general_background_non_roman_public_justice	agent_background_dignitary_overseer.png	If you have nothing to hide then you have nothing to fear.	Justice		0	true	false	true	1.0000
+general_background_non_roman_public_luck	agent_background_spy_poet.png	Good fortune has a way of marking some men.	Luck		0	true	false	true	1.0000
+general_background_non_roman_public_mirth	agent_background_spy_actor.png	"I like a titter. But there are limits..."	Mirth		0	true	false	true	1.0000
+general_background_non_roman_public_modesty	agent_dignitary_authority_2_politics.png	Modesty is a becoming trait in beautiful women, and those in high office.	Modesty		0	true	false	false	1.0000
+general_background_non_roman_public_nobility	agent_champion_authority_2_unity.png	Blood will out.	Nobility		0	true	false	false	1.0000
+general_background_non_roman_public_peace	agent_dignitary_background_diplomat.png	Peace with honour honours all.	Peace		0	true	false	false	1.0000
+general_background_non_roman_public_plenty	general_strategist_3_logistics.png	"Look, we make the pie bigger, then everyone can have some… No. It's not a real pie."	Plenty		0	true	false	false	1.0000
+general_background_non_roman_public_prosperity	agent_background_dignitary_councillor.png	"I do only what any good man would."	Prosperity		0	true	false	false	1.0000
+general_background_non_roman_public_spirit	general_roman.png	This person is the embodiment of all that is good and true in men. 	Excellence		0	true	false	false	1.0000
+general_background_non_roman_public_wealth	agent_background_dignitary_merchant.png	There is absolutely nothing wrong with money when it serves the common good.	Wealth		0	true	false	false	1.0000
+general_background_roman_personal_authority	agent_champion_authority_1_paragon.png	This man's long-accumulated prestige enables him to influence those around him.[FEM]This woman's long-accumulated prestige enables her to influence those around her.	Auctoritas		0	true	false	true	1.0000
+general_background_roman_personal_courage	general_roman.png	This man has the morals of a true Roman.	Virtus		0	true	false	true	1.0000
+general_background_roman_personal_dignity	agent_background_champion_raider.png	Reputation and influence are entirely worthy in this man's case.	Dignitas		0	true	false	true	1.0000
+general_background_roman_personal_dutifulness	agent_background_dignitary_seer.png	This man respects the natural order of things, and knows his place precisely.	Pietas		0	true	false	true	1.0000
+general_background_roman_personal_fortitude	agent_background_champion_warhero.png	Bravery on the battlefield is worthy.	Fortitudo		0	true	false	true	1.0000
+general_background_roman_personal_frugality	agent_background_dignitary_merchant.png	This Roman is properly frugal in all things, but never mean.	Frugalitas		0	true	false	true	1.0000
+general_background_roman_personal_gravity	agent_background_dignitary_orator.png	When this man speaks others listen. Carefully.	Gravitas		0	true	false	true	1.0000
+general_background_roman_personal_humanity	agent_background_dignitary_councillor.png	This person persuades by example, not words.	Humanitas		0	true	false	false	1.0000
+general_background_roman_personal_humour	agent_background_spy_actor.png	An open, friendly manner puts all who deal with this man at ease.	Comitas		0	true	false	true	1.0000
+general_background_roman_personal_industriousness	agent_background_spy_craftsman.png	This man works hard in every hour the gods send.	Industria		0	true	false	true	1.0000
+general_background_roman_personal_mercy	agent_champion_authority_2_unity.png	This man's humanity and forbearance are considered by all to be great virtues.	Clementia		0	true	false	true	1.0000
+general_background_roman_personal_prudence	agent_champion_subterfuge_1_partisan.png	Experience tempers this man's actions.	Prudentia		0	true	false	true	1.0000
+general_background_roman_personal_respectability	agent_champion_authority_2_unity.png	Straightforward, Roman integrity banishes any hint of corruption.	Honestas		0	true	false	false	1.0000
+general_background_roman_personal_sternness	general_warmonger_3_dread.png	Self-control grants control of many things.	Severitas		0	true	false	false	1.0000
+general_background_roman_personal_tenacity	agent_champion_zeal_1_champion.png	If you cut him with a knife, he'll come back with a gladius. He'll keep coming until one of you is dust.	Firmitas		0	true	false	true	1.0000
+general_background_roman_personal_truthfulness	agent_background_dignitary_orator.png	Honesty is this man's watchword.	Veritas		0	true	false	false	1.0000
+general_background_roman_personal_wholesomeness	agent_background_dignitary_councillor.png	This man's body is a temple, inside and out.	Salubritas		0	true	false	true	1.0000
+general_background_roman_public_agriculture	general_strategist_3_logistics.png	I like pigs. Do you like pigs? Jupiter's best snack. Ever.	Uberitas		0	true	false	true	1.0000
+general_background_roman_public_clemency	agent_background_dignitary_councillor.png	Mercy in a conqueror is always strength.	Clementia		0	true	false	false	1.0000
+general_background_roman_public_confidence	agent_champion_zeal_1_champion.png	"The arrest lists. Make sure everyone on them has the chance to honourably kill themselves…"	Securitas		0	true	false	true	1.0000
+general_background_roman_public_dutifulness	agent_background_dignitary_seer.png	Piety means obeying the gods in all things.	Pietas		0	true	false	false	1.0000
+general_background_roman_public_endurance	agent_champion_authority_1_paragon.png	A firm hand on the tiller of the ship of state.	Patientia		0	true	false	false	1.0000
+general_background_roman_public_fair	agent_background_spy_attendant.png	"A fair shake all round, that's what I say. Unusual, isn't it?"	Aequitas		0	true	false	true	1.0000
+general_background_roman_public_faith	agent_dignitary_authority_3_demagogy.png	My word is my bond. Backed by my sword.	Fides		0	true	false	false	1.0000
+general_background_roman_public_forethought	agent_champion_subterfuge_1_partisan.png	Fate has fired many arrows at this man, and he had dodged them all.	Providentia		0	true	false	true	1.0000
+general_background_roman_public_fortune	agent_background_spy_poet.png	Luck is not enough. You must use luck when it comes.	Fortuna		0	true	false	false	1.0000
+general_background_roman_public_freedom	agent_champion_authority_2_unity.png	"I am free to be master. You are free to be a slave."	Libertas		0	true	false	false	1.0000
+general_background_roman_public_giving	agent_dignitary_subterfuge_2_intrigue.png	Generosity adds to a man's popularity.	Liberalitas		0	true	false	true	1.0000
+general_background_roman_public_harmony	agent_background_dignitary_overseer.png	Unity among the Romans pleases the gods.	Concordia		0	true	false	true	1.0000
+general_background_roman_public_health	agent_background_dignitary_physician.png	"I am told that even the poor find shit offensive, don't you know…"	Salus		0	true	false	true	1.0000
+general_background_roman_public_hope	agent_background_dignitary_councillor.png	The gods will look after Rome. They always do.	Spes		0	true	false	true	1.0000
+general_background_roman_public_joy	agent_background_spy_poet.png	"Crisis? What crisis?"	Laetitia		0	true	false	false	1.0000
+general_background_roman_public_justice	agent_background_dignitary_overseer.png	The rod and axe have their uses.	Justitia		0	true	false	true	1.0000
+general_background_roman_public_luck	agent_background_spy_poet.png	Good fortune has a way of marking some men.	Bonus Eventus		0	true	false	true	1.0000
+general_background_roman_public_mirth	agent_background_spy_actor.png	"I like a titter. But there are limits..."	Hilaritas		0	true	false	true	1.0000
+general_background_roman_public_modesty	agent_dignitary_authority_2_politics.png	Modesty is a becoming trait in beautiful women, and Romans in high office.	Pudicita		0	true	false	false	1.0000
+general_background_roman_public_nobility	agent_champion_authority_2_unity.png	Blood will out.	Nobilitas		0	true	false	false	1.0000
+general_background_roman_public_peace	agent_dignitary_background_diplomat.png	Peace with honour honours all.	Pax		0	true	false	false	1.0000
+general_background_roman_public_plenty	general_strategist_3_logistics.png	"Look, we make the pie bigger, then everyone can have some… No. It's not a real pie."	Abundantia		0	true	false	false	1.0000
+general_background_roman_public_prosperity	agent_background_dignitary_councillor.png	"I do only what any good Roman would."	Felicitas		0	true	false	false	1.0000
+general_background_roman_public_roman_spirit	general_roman.png	This man is the embodiment of all that is good and true in Romans.	Genius		0	true	false	true	1.0000
+general_background_roman_public_wealth	agent_background_dignitary_merchant.png	There is absolutely nothing wrong with money when it serves Rome.	Ops		0	true	false	false	1.0000
+general_bard_1	general_bard.png	Only a mouthful can silence the expressive mind.	Bard		1	false	false	false	0.0000
+general_blockade_expert_2	general_blockade_expert.png	"No one sails in or out!"	Blockade Expert		2	false	false	false	0.0000
+general_blockade_expert_3	general_blockade_expert.png	"No one sails in or out!"	Blockade Expert		3	false	false	false	0.0000
+general_border_guardian_3	general_border_guardian.png	The calm sleep of the people depends on our watchmen.	Border Guardian		3	false	false	false	0.0000
+general_bowl_3	general_bowl.png	Conceived in water and seasoned in fire, the righteous spirit becomes divine.	Bowl		3	false	false	false	0.0000
+general_bowman_2	general_marksman.png	A true archer goes out of his way to practice his skills.	Bowman		2	false	false	false	0.0000
+general_brute_3	general_brute.png	Strong as a bear, alert as a fox, temperament of a boar.	Brute		3	false	false	false	0.0000
+general_cetus_4	general_cetus.png	As summoned from the depths, none survive to speak of their meeting with the Cetus.	Cetus 		4	false	false	false	0.0000
+general_commander_1	general_commander_1_commander_colourized.png	"He who is brave is free."	Commander		1	false	false	false	0.0000
+general_commander_2_admiral	general_commander_2_admiral_colourized.png	"Those who command the sea command everything."	Admiral		2	false	false	false	0.0000
+general_commander_2_cavalry_east	general_commander_3_cavalry_colourized.png	"The horse is the strength of the army."	Cavalry Command		2	false	false	false	0.0000
+general_commander_2_general	general_commander_2_general_colourized.png	"My mother bore me a general, not a warrior."	General		2	false	false	false	0.0000
+general_commander_3_artillery	general_commander_3_artillery_colourized.png	"At my signal, fire everything. Even your bed-slave!"	Artillery Command		3	false	false	false	0.0000
+general_commander_3_cavalry	general_commander_3_cavalry_colourized.png	"The horse is the strength of the army."	Cavalry Command		3	false	false	false	0.0000
+general_commander_3_infantry	general_commander_3_infantry_colourized.png	"Learn to obey before you learn to command."	Infantry Command		3	false	false	false	0.0000
+general_commander_3_naval_assault	general_commander_3_naval_assault_colourized.png	"Knowledge of naval matters is an art as much as any other."	Naval Assault		3	false	false	false	0.0000
+general_commander_3_naval_support	general_commander_3_naval_support_colourized.png	"It is always well to moor your ship with two anchors."	Naval Support		3	false	false	false	0.0000
+general_commander_4_great_leader	general_commander_4_great_leader_colourized.png	"Gold is tried by fire, the brave by adversity."	Great Leader		4	false	false	false	0.0000
+general_commander_barb_2_infantry	general_commander_3_infantry_colourized.png	"Learn to obey before you learn to command."	Infantry Command		2	false	false	false	0.0000
+general_contractor_1	general_contractor.png	All bonds seem tighter when set in stone.	Contractor		1	false	false	false	0.0000
+general_desert_leader_4	general_desert_leader.png	Rough conditions breed the sturdiest of men.	Desert Leader		4	false	false	false	0.0000
+general_diplomat_4	general_diplomat.png	"Look and see which way the wind blows before you commit yourself."	Diplomat		4	false	false	false	0.0000
+general_entrepreneur_4	general_entrepreneur.png	Knowledge is of no use unless put into practice.	Entrepreneur		4	false	false	false	0.0000
+general_gre_warmonger_4_virtue	general_warmonger_3_virtue_colourized.png	A virtuous person can be relied upon to do their duty.	Virtue		2	false	false	false	0.0000
+general_gruesome_3	general_gruesome.png	A load of enemy blood served in his skull, with a scalp as a napkin. 	Gruesome		3	false	false	false	0.0000
+general_horde_leader_4	general_horde_leader.png	One to lead us to great victories and fresh pastures.	Horde Leader		4	false	false	false	0.0000
+general_horse_breeder_3	general_horse_breeder.png	More than a livestock, our horses are our riches.	Horse Breeder		3	false	false	false	0.0000
+general_horse_tamer_3	general_horse_tamer.png	No matter how spirited, each stud can be bridled.	Horse Tamer		3	false	false	false	0.0000
+general_horticulturist_3	general_horticulturist.png	The crops of the earth are as poems to the mind.	Horticulturist		3	false	false	false	0.0000
+general_inspirational_2	general_inspirational.png	"It is during our darkest moments that we must focus to see the light."	Inspirational		2	false	false	false	0.0000
+general_judge_4	agent_champion_subterfuge_2_stratagem_colourized.png	"Good people do not need laws to tell them to act responsibly; bad people will find a way around the laws."	Judge		4	false	false	false	0.0000
+general_legend_4	general_legend.png	A person only truly dies when no longer spoken of.	Legend		4	false	false	false	0.0000
+general_magnate_4	general_magnate.png	"You see this town over there? I own it!"	Magnate		4	false	false	false	0.0000
+general_manager_3	general_manager.png	A good leader is able to manage more than his army.	Manager		4	false	false	false	0.0000
+general_marksman_3	general_bowman.png	"The left eye or the right?"	Marksman		3	false	false	false	0.0000
+general_master_hunter_3	general_master_hunter.png	An arrow flies best if shot between two heartbeats.	Master Hunter		3	false	false	false	0.0000
+general_master_magi_4	general_master_magi.png	"...thus spake Zoroaster!" 	Master Magi		4	false	false	false	0.0000
+general_master_merchant_3	general_master_merchant.png	Warrior by assignment only, a trader does few things better than profit.	Master Merchant		3	false	false	false	0.0000
+general_nisean_chargers_3	general_nisean_chargers.png	Tall and swift, horned and winged, these mounts have no equal!	Nisean Chargers		3	false	false	false	0.0000
+general_overseer_4	agent_champion_subterfuge_1_partisan_colourized.png	Few things can escape a diligent person's gaze. 	Overseer		4	false	false	false	0.0000
+general_paragon_4	agent_champion_authority_1_paragon_colourized.png	"...for illustrious men have the whole earth for their tomb."	Paragon		4	false	false	false	0.0000
+general_persuasive_3	general_persuasive.png	"It's a terrible thing to speak well and yet still be wrong." 	Persuasive		3	false	false	false	0.0000
+general_philosopher_1	general_philosopher.png	"The hen… or the egg?" 	Philosopher		1	false	false	false	0.0000
+general_plough_and_yoke_3	general_plough_and_yoke.png	Insight on how to live off the earth is as valuable as gold.	Plough & Yoke		3	false	false	false	0.0000
+general_port_master_1	general_port_master.png	Trade or war bound, all of Carthage's ships needs a refuge.	Port Master		1	false	false	false	0.0000
+general_raven_2	general_raven.png	With the wings of a bird and the wits of a man.	Raven		2	false	false	false	0.0000
+general_religious_2_east	general_religious.png	"Whatever comes from the gods, it's impossible for a man to turn back."	Religious		2	false	false	false	0.0000
+general_religious_3	general_religious.png	"Whatever comes from the gods, it's impossible for a man to turn back."	Religious		3	false	false	false	0.0000
+general_scientific_2_east	general_scientific.png	"Everything in excess is opposed to nature." 	Scientific		2	false	false	false	0.0000
+general_scientific_3	general_scientific.png	"Everything in excess is opposed to nature." 	Scientific		3	false	false	false	0.0000
+general_scout_2	general_scout.png	Good surveillance is half a battle won. 	Scout		2	false	false	false	0.0000
+general_sentinel_4	general_sentinel.png	"Only through my death will my people be conquered!"	Sentinel		4	false	false	false	0.0000
+general_sleuth_3	age_agent_trapper.png	Certain skills are best established among other people.	Sleuth		3	false	false	false	0.0000
+general_spahbed_4	general_spahbed.png	"We march breave and forever loyal to our general!"	Spahbed		4	false	false	false	0.0000
+general_stag_3	general_stag.png	Admirable and noble, the embodiment of laudability.	Stag		3	false	false	false	0.0000
+general_strategist_1	general_strategist_1_strategist_colourized.png	"It is more advantageous to overcome the enemy by cunning... than by force."	Strategist		1	false	false	false	0.0000
+general_strategist_2_navigator	general_strategist_2_navigator_colourized.png	A carefully planned route saves lives.	Navigator		2	false	false	false	0.0000
+general_strategist_2_tactician	general_strategist_2_tactician_colourized.png	"Pay proper attention, and the nature of the ground is a fundamental factor in victory."	Tactician		2	false	false	false	0.0000
+general_strategist_3_administration	general_strategist_3_administration_colourized.png	Knowing where the gold is at all times is vital.	Administration		3	false	false	false	0.0000
+general_strategist_3_assimilator	general_assimilator.png	'Pax Romana' is the only alternative to war!	Assimilator		3	false	false	false	0.0000
+general_strategist_3_covert_action	general_strategist_3_covert_action_colourized.png	Some times it is perfectly acceptable to attack from behind.	Covert Action		3	false	false	false	0.0000
+general_strategist_3_covert_action_germanic	general_strategist_3_covert_action_colourized.png	Some times it is perfectly acceptable to attack from behind.	Covert Action		3	false	false	false	0.0000
+general_strategist_3_logistics	general_strategist_3_logistics_colourized.png	Proper planning and preparation prevents a poor performance.	Logistics		3	false	false	false	0.0000
+general_strategist_3_mercenary	general_strategist_3_mercenary_colourized.png	"I can get you anyone! Archers, slingers: just name your needs!"	Mercenary Contacts		3	false	false	false	0.0000
+general_strategist_3_siegecraft	general_strategist_3_siegecraft_colourized.png	They shall set engines of war against thy walls, and with their axes they shall break down their towers.	Siegecraft		3	false	false	false	0.0000
+general_strategist_4_master_tactician	general_sleuth.png	A true tactician can win a battle before the lines are even drawn.	Master Tactician		4	false	false	false	0.0000
+general_trafficker_3	general_trafficker.png	A little extra profit can't hurt the mission scope.	Trafficker		3	false	false	false	0.0000
+general_tutor_3	general_tutor.png	"One thing I know is that I know nothing."	Tutor		3	false	false	false	0.0000
+general_valorous_4	general_valorous.png	"Courage leads to heaven; fear leads to death."	Valorous		4	false	false	false	0.0000
+general_warmonger_1	general_warmonger_1_warmonger_colourized.png	"An army of deer led by a lion is more to be feared than an army of lions led by a deer."	Warrior		1	false	false	false	0.0000
+general_warmonger_2_marine	general_warmonger_2_marine_colourized.png	A steady shot on rough seas is a rare treasure.	Marine		2	false	false	false	0.0000
+general_warmonger_2_marine_carthage	general_warmonger_2_marine_colourized.png	A steady shot on rough seas is a rare treasure.	Marine		0	false	false	false	0.0000
+general_warmonger_2_soldier	general_warmonger_2_soldier_colourized.png	Good soldiers know much of the world and, most importantly, their place in it.	Soldier		2	false	false	false	0.0000
+general_warmonger_2_virtue	general_warmonger_3_virtue_colourized.png	A virtuous person can be relied upon to do their duty.	Virtue		2	false	false	false	0.0000
+general_warmonger_3_defence	general_warmonger_3_defence_colourized.png	The general is the principal sentinel of his army. He should always be careful of its preservation and see that it is never exposed to misfortune.[FEM]The general is the principal sentinel of her army. She should always be careful of its preservation and see that it is never exposed to misfortune.	Defence		3	false	false	false	0.0000
+general_warmonger_3_despoil	general_warmonger_3_despoil_colourized.png	"I like to kill my enemies, take their gold and enjoy their women."[FEM]"I like to kill my enemies, take their gold and revel in victory."	Despoil		3	false	false	false	0.0000
+general_warmonger_3_dread	general_warmonger_3_dread_colourized.png	A dread reputation gives the strength of twenty armies.	Dread		3	false	false	false	0.0000
+general_warmonger_3_offense	general_warmonger_3_offense_colourized.png	"Don't just stand there! Attack!"	Offense		3	false	false	false	0.0000
+general_warmonger_3_virtue	general_warmonger_3_virtue_colourized.png	A virtuous person can be relied upon to do their duty.	Virtue		3	false	false	false	0.0000
+general_warmonger_4_fearless_warrior	general_warmonger_4_fearless_warrior_colourized.png	Someone without fear can be a double-edged sword.	Fearless Warrior		4	false	false	false	0.0000
+general_wolf_3	general_wolf.png	A lone wolf with a heart of stone, eager to outstand to survive.	Wolf		3	false	false	false	0.0000
+general_wrathful_3	general_wrathful.png	"Now they will pay for all the misdeeds our men endured!"	Wrathful		3	false	false	false	0.0000
+navy_1_destroyers	navy_1_destroyers.png	Enemy ships will never sail if they are reduced to kindling.	Destroyers		1	false	false	false	0.0000
+navy_1_formidable_marines	navy_1_formidable_marines.png	The deck of a ship is a tough battle ground.	Formidable Marines		1	false	false	false	0.0000
+navy_1_great_marksmen	navy_1_great_marksmen.png	Through howling winds and rolling waves their arrows still fly true.  	Great Marksmen		1	false	false	false	0.0000
+navy_2_blockade_runners	navy_2_blockade_runners.png	Only the most daring men can run a blockade.	Blockade Runners		1	false	false	false	0.0000
+navy_2_dread_pirates	navy_2_dread_pirates.png	A gift for plunder and murder builds a fearsome reputation.	Dread Pirates		1	false	false	false	0.0000
+navy_2_intrepid_escorts	navy_2_intrepid_escorts.png	Some men live for adventure and the thrill of new tides.	Intrepid Escorts		1	false	false	false	0.0000
+navy_2_ship_defenders	navy_2_ship_defenders.png	Few men have the strength to stand when all hope seems to be lost.	Ship Defenders		1	false	false	false	0.0000
+navy_3_able_seamen	navy_3_able_seamen.png	Only the bravest men take the sea as their mistress.	Able Seamen		1	false	false	false	0.0000
+navy_3_battle_hardened	navy_4_veteran_fleet.png	"The sea is in our blood and we are in hers." 	Veteran Fleet		1	false	false	false	0.0000
+navy_3_master_shipwrights	navy_3_master_shipwrights.png	Wood whispers, but only the greatest craftsmen hear it.	Master Shipwrights		1	false	false	false	0.0000
+navy_3_pirate_hunters	navy_3_pirate_hunters.png	"Pirates?! Vile and dissolute creatures, the lot of them."	Pirate Hunters		1	false	false	false	0.0000
+navy_4_children_of_the_aegaean	navy_4_children_of_the_aegaean.png	Poseidon watches over his children.	Children of the Aegean		1	false	false	false	0.0000
+navy_4_masters_of_the_sea	navy_marines.png	Honour the gods and they will always give you a fair wind. 	Masters of the Sea		1	false	false	false	0.0000
+navy_4_pride_of_ptolemy	navy_4_pride_of_ptolemy.png	Only the masters of the ocean are worthy to serve mighty Pharaoh. 	Pride of Ptolemy		1	false	false	false	0.0000
+navy_4_professional_piracy	dk_professional_piracy.png	Blessed are the men who endure temptation. All others can become pirates.	Professional Piracy		4	false	false	false	0.0000
+navy_4_scions_of_phoenicia	navy_4_scions_of_phoenicia.png	The might of Carthage lies in her fleet. 	Scions of Phoenicia		1	false	false	false	0.0000
+navy_4_trade_route_protectors	dk_trade_route_protectors.png	One's trade flow is one's lifeline and should be treasured as such.	Trade Route Protectors		4	false	false	false	0.0000
+navy_4_wardens_of_pontus	navy_4_wardens_of_pontus.png	It is an honour to protect mighty Pontus.	Wardens of Pontus		1	false	false	false	0.0000
+pel_army_accomplished_skirmishers	army_1_accomplished_skirmishers.png	You don't need to fight at close quarters to ensure the enemy go home on their shields.	Accomplished Skirmishers		0	false	false	false	0.0000
+pel_army_ambushers	army_2_ambushers.png	Hushed words on the wind, blowing through the trees and valleys. Surprise and death follow in their wake."	Army Ambushers		0	false	false	false	0.0000
+pel_army_battle_hardened	army_2_unrelenting_force.png	When a man no longer fears death, there is no stopping him.	Battle-hardened		0	false	false	false	0.0000
+pel_army_formidable_hoplites	army_3_indomitable_hoplites.png	Though the world may shatter around it, this phalanx remains unyielding.	Formidable Hoplites		0	false	false	false	0.0000
+pel_army_keepers_of_peace	army_2_keepers_peace.png	Someone has to consider peace.	Keepers of Peace		0	false	false	false	0.0000
+pel_army_raiders	army_3_dread_marauders.png	The lust for plunder can turn men into monsters.	Raiders		0	false	false	false	0.0000
+pel_army_siege_experts	army_1_engineering_experts.png	Though the battlefields bestow glory, it is on the city walls that victory is found.	Siege Experts		0	false	false	false	0.0000
+pel_army_stalwart_defenders	army_3_companions.png	When men are as brothers they will happily die for one another.	Stalwart Defenders		0	false	false	false	0.0000
+pel_general_commander_commander_1	general_commander_1_commander_colourized.png	"He who is brave is free."	Commander		0	false	false	false	0.0000
+pel_general_commander_hegemon_4	general_commander_4_great_leader_colourized.png	"Gold is tried by fire, the brave by adversity."	Hegemon		0	false	false	false	0.0000
+pel_general_commander_leader_2	general_warmonger_3_virtue_pel_colourized.png	"Gold is tried by fire, the brave by adversity."	Leader		0	false	false	false	0.0000
+pel_general_commander_trainer_3	agent_background_champion_athlete_colourized.png	"I will make you solid foundations of a good phalanx wall!"	Trainer		0	false	false	false	0.0000
+pel_general_fighter_despoil_3	general_warmonger_3_despoil_colourized.png	"I like to kill my enemies, take their gold and enjoy their women."[FEM]"I like to kill my enemies, take their gold and revel in victory."	Despoil		0	false	false	false	0.0000
+pel_general_fighter_fighter_1	general_warmonger_2_soldier_colourized.png	Good soldiers know much of the world and, most importantly, their place in it.	Fighter		0	false	false	false	0.0000
+pel_general_fighter_leads_the_charge_2	general_warmonger_3_offense_colourized.png	"Don't just stand there! Attack!"	Leads the Charge		0	false	false	false	0.0000
+pel_general_fighter_spirit_of_heracles_4	general_warmonger_1_warmonger_colourized.png	"It is no good being descended from Herakles if your deeds are not worthy of his name!"	Spirit of Heracles		0	false	false	false	0.0000
+pel_general_strategist_administration_3	general_strategist_3_administration_colourized.png	Weapons decide battles, but do not win wars. Smart spending is the ultimate arbiter of victory.	Administration		0	false	false	false	0.0000
+pel_general_strategist_master_strategos_4	general_strategist_4_master_tactician_colourized.png	A true tactician can win a battle before the lines are even drawn.	Master Tactician		0	false	false	false	0.0000
+pel_general_strategist_pathfinder_2	general_strategist_3_covert_action_colourized.png	When faced with a wall of spears, consider Achilles, and try for their unprotected heels.	Pathfinder		0	false	false	false	0.0000
+pel_general_strategist_strategist_1	general_strategist_1_strategist_colourized.png	"It is more advantageous to overcome the enemy by cunning... than by force."	Strategist		0	false	false	false	0.0000
+pel_navy_children_of_the_aegean	navy_3_masters_sea.png	Poseidon watches over his children.	Children of the Aegean		0	false	false	false	0.0000
+pel_navy_formidable_marines	navy_1_formidable_marines.png	The deck of a ship is a tough battle ground.	Formidable Marines		0	false	false	false	0.0000
+pel_navy_great_marksmen	navy_1_great_marksmen.png	Through howling winds and rolling waves their arrows still fly true.  	Great Marksmen		0	false	false	false	0.0000
+pel_navy_interpid_escorts	navy_2_intrepid_escorts.png	Some men live for adventure and the thrill of new tides.	Intrepid Escorts		0	false	false	false	0.0000
+pel_navy_master_shipwrights	navy_3_master_shipwrights.png	Wood whispers, but only the greatest craftsmen hear it.	Master Shipwrights		0	false	false	false	0.0000
+pel_navy_masters_of_the_sea	navy_marines.png	Honour the gods and they will always give you a fair wind. 	Masters of the Sea		0	false	false	false	0.0000
+pel_navy_raiders	navy_2_dread_pirates.png	The lust for plunder can turn men from civilisation.	Raiders		0	false	false	false	0.0000
+pel_navy_sea_patrol	navy_sea_patrol.png	"No man, nor beast nor kraken has ever bested me on these waves!"	Sea Patrol		0	false	false	false	0.0000

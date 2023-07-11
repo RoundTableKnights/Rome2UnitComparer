@@ -1,0 +1,13 @@
+key	onscreen_name	global_effects_description	local_effects_description
+#battlefield_buildings_names_tables;0;db/battlefield_buildings_names_tables/battlefield_buildings_names			
+arrow_tower	Arrow Tower		Fires arrows on nearby enemies
+bridge	Bridge		
+building	Building		
+fort_tower	Fort Tower		Fires on nearby enemies
+fort_wall	Fort Wall		
+gate	Gatehouse		Allows passage to and from the settlement
+gate_oil	Boiling Oil Gatehouse		Pours boiling oil onto nearby enemies
+house	House		
+ruin	Ruin		
+scorpio_tower	Scorpion Tower		Fires bolts on nearby enemies
+watchtower	Watchtower		Fires rubble on nearby enemies

@@ -1,0 +1,16 @@
+id	max_payment_value	payment_treachery_value	payment_offered_multiplier	payment_requested_multiplier
+#cai_personality_deal_evaluation_components_tables;2;db/cai_personality_deal_evaluation_components_tables/cai_personality_deal_evaluation_components				
+default	20.0000	0.0000	20.0000	10.0000
+friendly	20.0000	0.0000	20.0000	10.0000
+loyal	20.0000	0.0000	20.0000	10.0000
+money_driven	30.0000	0.0000	24.0000	14.0000
+money_hater	10.0000	0.0000	24.0000	7.0000
+opportunistic	20.0000	0.0000	20.0000	10.0000
+pel_greek	20.0000	0.0000	25.0000	10.0000
+pel_tricky_allies	20.0000	0.0000	25.0000	10.0000
+pro_passive	0.0000	0.0000	0.0000	0.0000
+stance_driven	20.0000	0.0000	20.0000	10.0000
+strength_driven	20.0000	0.0000	20.0000	10.0000
+trader	30.0000	0.0000	20.0000	12.0000
+unfriendly	15.0000	0.0000	20.0000	8.0000
+warlike	15.0000	0.0000	20.0000	8.0000

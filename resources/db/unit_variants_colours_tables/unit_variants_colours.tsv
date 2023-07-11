@@ -1,0 +1,9 @@
+faction	unit_variant	soldier_type	primary_colour_hex	secondary_colour_hex	tertiary_colour_hex
+#unit_variants_colours_tables;1;db/unit_variants_colours_tables/unit_variants_colours					
+	Bri_Druidic_Nobles	soldier	E8E8E8	78788A	969D9C
+pro_gaul	Bri_Druidic_Nobles	soldier	E8E8E8	78788A	969D9C
+	Carthaginian_Sacred_Band	soldier	671975	FFFFFF	48247F
+	Ger_Night_Hunters	soldier	323232	2C0F0C	261018
+	Rom_Praetorian_Guard	soldier	8D0D04	4B103F	640D04
+pro_rome	Rom_Praetorian_Guard	soldier	8D0D04	55102A	640D04
+	Rom_Praetorians	soldier	8D0D04	4B103F	640D04

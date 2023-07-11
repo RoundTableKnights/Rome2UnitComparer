@@ -1,0 +1,40 @@
+key	type	is_naval	specification	screenshot_path	map_path	team_size_1	team_size_2	release	multiplayer	singleplayer	intro_movie	year	defender_funds_ratio	has_key_buildings	matchmaking	playable_area_width	playable_area_height	is_large_settlement	has_15m_walls
+#battles_tables;6;db/battles_tables/battles																			
+Alesia	napoleon_historic	false	Script\AL_Alesia\AL_Battle.xml	Script/AL_Alesia/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Ambush_Dense_Forest_Rugged	ambush	false	terrain/battles/ambush_dense_forest_rugged/	BattleTerrain/presets/screenshot_small.png		4	4	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+Arena_North_Africa	classic	false	terrain/battles/arena_north_africa/	Arena.png		10	10	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+Arena_Tile	classic	false	terrain/battles/Arena/	Arena.png		10	10	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+Cannae	napoleon_historic	false	Script\CN_Cannae\CN_Battle.xml	Script/CN_Cannae/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Canyon	classic	false	terrain/battles/canyon/	terrain/tiles/battle/multiplayer/canyon/custom/screenshot_small.png		4	4	false	true	true		0	0.0000	false	true	0.0000	0.0000	false	false
+Capua	historic	false	Script\PA_Prologue_Capua\PA_Battle.xml	BattleTerrain/presets/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Carrhae	historic	false	Script\CR_Carrhae\CR_Battle.xml	BattleTerrain/presets/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Carthage	napoleon_historic	false	Script\SC_Siege_of_Carthage\SC_Battle.xml	Script/SC_Siege_of_Carthage/screenshot_small.png		1	1	false	false	true		0	0.0000	false	false	0.0000	0.0000	false	false
+Cynoscephalae	historic	false	Script\CY_Cynoscephalae\CY_Battle.xml	BattleTerrain/presets/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Divus_Plains	classic	false	terrain/battles/divusplains/	terrain/battles/divusplains/screenshot_small.png		4	4	false	true	true		0	0.0000	false	true	0.0000	0.0000	false	false
+Double_Ridge	classic	false	terrain/battles/double_ridge/	terrain/tiles/battle/multiplayer/doubleridge/custom/screenshot_small.png		4	4	false	true	true		0	0.0000	false	true	0.0000	0.0000	false	false
+Flat_Map	classic	false	Terrain/battles/AutoTest/	BattleTerrain/presets/screenshot_small.png		1	1	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+James_Buckle_Map_A	classic	false	terrain/battles/multiplayer/	BattleTerrain/presets/screenshot_small.png		1	1	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+Nile	napoleon_historic	false	Script\NI_Nile\NI_Battle.xml	Script/NI_Nile/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Oasis	classic	false	terrain/battles/oasis/	terrain/tiles/battle/multiplayer/oasis/custom/screenshot_small.png		4	4	false	true	true		0	0.0000	false	true	0.0000	0.0000	false	false
+Pharsalus	historic	false	Script\PH_Pharsalus\PH_Battle.xml	BattleTerrain/presets/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Pydna	napoleon_historic	false	Script\PY_Pydna\PY_Battle.xml	Script/PY_Pydna/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Raphia	napoleon_historic	false	Script\RA_Raphia\RA_Battle.xml	Script/RA_Raphia/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Sea_02	naval	true	Terrain/battles/dummytile/	BattleTerrain/presets/screenshot_small.png		4	4	false	true	true		0	0.0000	false	true	0.0000	0.0000	false	false
+Silarus_River	historic	false	Script\SR_Silarus_River\SR_Battle.xml	BattleTerrain/presets/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Teutoburg_Forest	napoleon_historic	false	Script\TF_Teutoburg_Forest\TF_Battle.xml	Script/TF_Teutoburg_Forest/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Valley	classic	false	terrain/battles/valley/	terrain/tiles/battle/multiplayer/canyon/custom/screenshot_small.png		4	4	false	true	true		0	0.0000	false	true	0.0000	0.0000	false	false
+Watling_Street	historic	false	Script\WS_Watling_Street\WS_Battle.xml	BattleTerrain/presets/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Zama	napoleon_historic	false	Script\ZA_Zama\ZA_Battle.xml	Script/ZA_Zama/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+Zela	historic	false	Script\ZE_Zela\ZE_Battle.xml	BattleTerrain/presets/screenshot_small.png		1	1	false	false	false		0	0.0000	false	false	0.0000	0.0000	false	false
+coastal_island	classic	false	terrain/battles/coastal_island/	terrain/tiles/battle/multiplayer/coastal_island/custom/screenshot_small.png		4	4	false	true	true		0	0.0000	false	true	0.0000	0.0000	false	false
+minor_egyptian_city_a	unfortified_settlement	false	Terrain/battles/minor_egyptian_city_a/			4	4	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+minor_egyptian_city_c	unfortified_settlement	false	Terrain/battles/minor_egyptian_city_c/			4	4	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+minor_greek_city_c	unfortified_settlement	false	Terrain/battles/minor_greek_city_c/			4	4	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+minor_persian_city_b	unfortified_settlement	false	Terrain/battles/minor_persian_city_b/			4	4	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+minor_persian_port_b	unfortified_port	false	Terrain/battles/minor_persian_port_b/			4	4	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+placeholder_ambush	ambush	false	Terrain/battles/4v4_test_map_v2/	BattleTerrain/presets/screenshot_small.png		1	1	false	false	true		0	0.0000	false	false	0.0000	0.0000	false	false
+sho_mp_rice_fields_no_kbs	classic	false	Terrain/battles/4v4_test_map_v2/	BattleTerrain/presets/screenshot_small.png		4	4	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+test_coastal_landing	coastal_battle	false	terrain/battles/coastal_island/	terrain/tiles/battle/multiplayer/coastal_island/custom/screenshot_small.png		1	1	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+test_river_map	river_crossing_battle	false	Terrain/battles/river_test/	BattleTerrain/presets/screenshot_small.png		1	1	false	false	true		0	0.0000	false	false	0.0000	0.0000	false	false
+test_unfortified_settlement	unfortified_settlement	false	Terrain/battles/4v4_test_map_v2/	BattleTerrain/presets/screenshot_small.png		1	1	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false
+tile_limes_battle	limes	false	Terrain/battles/limes_test/	BattleTerrain/presets/screenshot_small.png		4	4	false	true	true		0	0.0000	false	false	0.0000	0.0000	false	false

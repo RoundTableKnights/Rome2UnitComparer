@@ -1,0 +1,15 @@
+component	parent
+#cai_personality_deal_evaluation_component_overrides_tables;0;db/cai_personality_deal_evaluation_component_overrides_tables/cai_personality_deal_evaluation_component_overrides	
+friendly	default
+loyal	default
+money_driven	default
+money_hater	default
+opportunistic	default
+pel_greek	default
+pel_tricky_allies	default
+pro_passive	default
+stance_driven	default
+strength_driven	default
+trader	default
+unfriendly	default
+warlike	default

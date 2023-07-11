@@ -1,0 +1,26 @@
+key	campaign	movement_cost	threshold	turns_required_to_upgrade_to	turns_required_to_downgrade_from
+#campaign_map_roads_tables;0;db/campaign_map_roads_tables/campaign_map_roads					
+3c_main_road_lv_1	main_3c	80	1.0000	1	1
+3c_main_road_lv_2	main_3c	50	10.0000	1	1
+3c_main_road_lv_3	main_3c	50	100.0000	1	1
+emp_main_road_lv_1	main_emperor	80	1.0000	1	1
+emp_main_road_lv_2	main_emperor	50	10.0000	1	1
+emp_main_road_lv_3	main_emperor	50	100.0000	1	1
+gaul_road_lv_1	main_gaul	80	1.0000	1	1
+gaul_road_lv_2	main_gaul	50	10.0000	1	1
+gaul_road_lv_3	main_gaul	50	100.0000	1	1
+inv_road_lv_1	main_invasion	80	1.0000	1	1
+inv_road_lv_2	main_invasion	80	10.0000	1	1
+inv_road_lv_3	main_invasion	80	100.0000	1	1
+pel_main_road_lv_1	main_greek	80	1.0000	1	1
+pel_main_road_lv_2	main_greek	50	10.0000	1	1
+pel_main_road_lv_3	main_greek	50	100.0000	1	1
+prologue_01_roads_01	prologue_01	85	1.0000	1	1
+prologue_02_roads_01	prologue_02	85	1.0000	1	1
+prologue_03_roads_01	prologue_03	100	1.0000	1	1
+pun_roads_01	main_punic	80	1.0000	1	1
+pun_roads_02	main_punic	50	10.0000	1	1
+pun_roads_03	main_punic	50	100.0000	1	1
+rom_main_road_lv_1	main_rome	80	1.0000	1	1
+rom_main_road_lv_2	main_rome	50	10.0000	1	1
+rom_main_road_lv_3	main_rome	50	100.0000	1	1

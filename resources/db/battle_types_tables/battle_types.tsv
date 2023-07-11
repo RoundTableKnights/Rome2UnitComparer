@@ -1,0 +1,17 @@
+type	sort_order	defender_funds_ratio	max_teamsize
+#battle_types_tables;2;db/battle_types_tables/battle_types			
+Tutorial	-1	1.0000	4
+ambush	2	1.0000	1
+campaign_battle	-1	1.0000	4
+capture_point	-1	1.0000	4
+classic	0	1.0000	4
+coastal_battle	3	0.9000	4
+historic	-1	1.0000	4
+limes	-1	1.0000	4
+napoleon_historic	-1	1.0000	4
+naval	1	1.0000	4
+naval_siege	6	0.9000	4
+river_crossing_battle	4	0.9000	4
+siege	5	0.9000	4
+unfortified_port	8	0.9000	4
+unfortified_settlement	7	0.9000	4

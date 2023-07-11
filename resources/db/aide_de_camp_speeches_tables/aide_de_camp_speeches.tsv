@@ -1,0 +1,38 @@
+key	picture_in_picture	offset_angle	offset_range	circunvent_cooldown	cinematic_event
+#aide_de_camp_speeches_tables;6;db/aide_de_camp_speeches_tables/aide_de_camp_speeches					
+adc_allied_general_killed	true	0.0000	11.0000	false	61_general_killed
+adc_enemy_fort_about_to_be_captured	true	0.0000	11.0000	false	44_enemy_captured_watch
+adc_enemy_gate_captured	true	0.0000	11.0000	false	44_enemy_captured_watch
+adc_enemy_gate_destroyed	true	0.0000	11.0000	false	44_enemy_captured_watch
+adc_enemy_general_killed	true	0.0000	11.0000	false	61_general_killed
+adc_enemy_hidden_unit_spotted	true	0.0000	20.0000	false	05_enemy_spotted
+adc_enemy_point_captured	true	0.0000	11.0000	false	44_enemy_captured_watch
+adc_enemy_reinforcements	true	0.0000	11.0000	true	
+adc_enemy_tower_captured	true	0.0000	55.0000	false	44_enemy_captured_watch
+adc_enemy_tower_destroyed	true	0.0000	55.0000	false	65_building_destroyed
+adc_losing	false	0.0000	55.0000	false	14_lost_land
+adc_own_ally_attacked	false	0.0000	3.0000	false	
+adc_own_ally_destroyed	false	0.0000	12.0000	false	41_target_dest_land
+adc_own_fort_about_to_be_captured	true	0.0000	11.0000	false	44_enemy_captured_watch
+adc_own_gate_captured	true	0.0000	11.0000	false	44_enemy_captured_watch
+adc_own_gate_destroyed	true	0.0000	11.0000	false	44_enemy_captured_watch
+adc_own_general_attacked	true	0.0000	11.0000	true	61_general_killed
+adc_own_general_injured	true	0.0000	11.0000	true	61_general_killed
+adc_own_general_killed	true	0.0000	11.0000	true	61_general_killed
+adc_own_hidden_unit_spotted	true	0.0000	20.0000	false	05_enemy_spotted
+adc_own_point_captured	true	0.0000	11.0000	false	44_enemy_captured_watch
+adc_own_reinforcements	true	0.0000	11.0000	true	05_enemy_spotted
+adc_own_ship_being_boarded	true	0.0000	55.0000	false	06_boarding
+adc_own_ship_on_fire	true	0.0000	3.0000	false	38_on_fire_naval
+adc_own_siege_equipment_destroyed	false	0.0000	3.0000	false	
+adc_own_tower_captured	true	0.0000	55.0000	false	44_enemy_captured_watch
+adc_own_tower_destroyed	true	0.0000	55.0000	false	65_building_destroyed
+adc_own_unit_berserk	false	0.0000	11.0000	false	40_berserk
+adc_own_unit_lost	true	0.0000	11.0000	false	
+adc_own_unit_out_of_ammo	true	0.0000	11.0000	false	
+adc_own_unit_routed	true	0.0000	11.0000	false	11_ally_routing
+adc_own_unit_routed_female	true	0.0000	11.0000	false	11_ally_routing
+adc_own_unit_wavering	false	0.0000	3.0000	false	11_ally_routing
+adc_own_unit_wavering_female	false	0.0000	3.0000	false	11_ally_routing
+adc_walls_breached	true	0.0000	11.0000	false	62_building_breached
+adc_winning	false	0.0000	55.0000	false	15_won_land

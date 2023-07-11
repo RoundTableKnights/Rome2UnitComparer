@@ -1,0 +1,9 @@
+key	move_points	line_of_sight	playable	portrait_override	primary_attribute	religion	faction_total_cap	cost	in_encyclopedia
+#agents_tables;8;db/agents_tables/agents									
+champion	3500	7	true		zeal		10	1000	true
+colonel	3400	5	true		zeal		0	0	false
+dignitary	3000	5	true		authority		10	1000	true
+general	4200	7	true		authority		10	250	true
+minister	0	0	false		authority		0	0	false
+recruitment_pool_agent	0	0	false		authority		10	0	false
+spy	4000	9	true		subterfuge		10	1000	true

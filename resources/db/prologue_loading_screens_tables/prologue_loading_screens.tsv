@@ -1,0 +1,13 @@
+index	background_image	inset_image	pane_on_left	campaign
+#prologue_loading_screens_tables;1;db/prologue_loading_screens_tables/prologue_loading_screens				
+0	UI\loading_ui\load_images\prologue_load_siege.png	UI\EventPics\rom_under_siege.png	false	
+17	UI\loading_ui\load_images\prologue_load_battle.png	UI\EventPics\rom_army_up.png	true	
+21	UI\loading_ui\load_images\prologue_load_victory.png	UI\EventPics\rom_land_victory.png	false	prologue_02
+25	UI\loading_ui\load_images\prologue_load_siege.png	UI\EventPics\rom_trade.png	true	
+30	UI\loading_ui\load_images\prologue_load_victory.png	UI\EventPics\rom_celebration.png	true	prologue_03
+33	UI\loading_ui\load_images\prologue_load_battle.png	UI\EventPics\rom_revolt.png	false	
+39	UI\loading_ui\load_images\prologue_load_battle.png	UI\EventPics\rom_navy_up.png	false	
+45	UI\loading_ui\load_images\prologue_load_battle.png	UI\EventPics\rom_civ_down.png	false	
+50	UI\loading_ui\load_images\prologue_load_siege.png	UI\EventPics\barb_under_siege.png	false	
+51	UI\loading_ui\load_images\prologue_load_captive.png	UI\EventPics\rom_prologue_rutilus.png	true	
+8	UI\loading_ui\load_images\prologue_load_victory.png	UI\EventPics\rom_settlement_lost.png	false	prologue_01

@@ -1,0 +1,35 @@
+event_key	optional_campaign_key	has_position	icon	is_region_position	movie_id
+#event_log_descriptions_tables;3;db/event_log_descriptions_tables/event_log_descriptions					
+assassination_successful		true	rom_event_death.png	false	0
+battle_fought		true	rom_event_military.png	false	0
+campaign_lost		false	rom_event_death.png	false	0
+campaign_won		false	rom_event_peacekeeping.png	false	0
+char_defects_theirs		false	rom_event_civil.png	false	0
+char_defects_yours		false	rom_event_civil.png	false	0
+char_develops_skill		false	rom_event_civil.png	false	0
+char_dies_assassin		true	rom_event_death.png	false	0
+char_dies_battle		true	rom_event_death.png	false	0
+char_dies_diplomacy		false	rom_event_diplomacy.png	false	0
+char_dies_executed		true	rom_event_death.png	false	0
+char_dies_natural		false	rom_event_death.png	false	0
+char_dies_suicide		true	rom_event_death.png	false	0
+char_recruited		true	rom_event_civil.png	false	0
+char_succession		false	rom_event_document.png	false	0
+diplo_agreement_broken		false	rom_event_diplomacy.png	false	0
+diplo_agreement_negotiated		false	rom_event_diplomacy.png	false	0
+diplo_client_state_established		false	rom_event_diplomacy.png	false	0
+diplo_client_state_secedes		false	rom_event_diplomacy.png	false	0
+diplo_faction_encountered		true	rom_event_new_civ.png	false	0
+diplo_gift_given		false	rom_event_diplomacy.png	false	0
+diplo_peace		false	rom_event_peacekeeping.png	false	0
+diplo_vassal_state_established		false	rom_event_diplomacy.png	false	0
+diplo_vassal_state_secedes		false	rom_event_diplomacy.png	false	0
+diplo_war		false	rom_event_military.png	false	0
+faction_destroyed		true	rom_event_message.png	false	0
+faction_development		false	rom_event_pottery.png	false	0
+faction_emerges		true	rom_event_new_civ.png	true	0
+faction_region_taken		true	rom_event_local.png	true	0
+rebel_crushed		true	rom_event_military.png	true	0
+rebel_crushed_slave		true	rom_event_military.png	true	0
+rebel_outbreak		true	rom_event_military.png	true	0
+rebel_outbreak_slave		true	rom_event_military.png	true	0

@@ -1,0 +1,10 @@
+key
+#cai_military_aggressiveness_policies_tables;0;db/cai_military_aggressiveness_policies_tables/cai_military_aggressiveness_policies
+cai_pmap_default
+cai_pmap_high
+cai_pmap_low
+cai_pmap_low_to_high
+cai_pmap_medium
+cai_pmap_medium_to_high
+cai_pmap_very_high
+cai_pmap_very_low

@@ -1,0 +1,21 @@
+key	model	originating_subculture	priority	relative_frequency
+#trade_display_originating_subculture_trade_model_options_tables;1;db/trade_display_originating_subculture_trade_model_options_tables/trade_display_originating_subculture_trade_model_options				
+0	trade_ox	sc_rom_british	1.0000	1.0000
+105	trade_ox	sc_rom_italic	1.0000	1.0000
+106	trade_ox	sc_rom_iapygian	1.0000	1.0000
+110	trade_ox	sc_rom_etruscan	1.0000	1.0000
+113	trade_ox	sc_rom_nuragic	1.0000	1.0000
+13	trade_ox	sc_rom_gaul	1.0000	1.0000
+20	trade_ox	sc_rom_roman	1.0000	1.0000
+23	trade_camel	sc_rom_parthian	1.0000	1.0000
+33	trade_ox	sc_rom_celtic	1.0000	1.0000
+40	trade_ox	sc_rom_germanic	1.0000	1.0000
+42	trade_camel	sc_rom_african_arabian	1.0000	1.0000
+48	trade_ox	sc_rom_barb_east	1.0000	1.0000
+5	trade_camel	sc_rom_egyptian	1.0000	1.0000
+51	trade_ox	sc_rom_celtiberian	1.0000	1.0000
+61	trade_camel	sc_rom_eastern	0.0000	1.0000
+67	trade_ox	sc_rom_greek	0.0000	1.0000
+74	trade_ox	sc_rom_pontic	0.0000	1.0000
+88	trade_camel	sc_rom_carthaginian	0.0000	1.0000
+98	trade_camel	sc_rom_numidian	1.0000	1.0000

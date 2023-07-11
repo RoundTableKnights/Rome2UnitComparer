@@ -1,0 +1,15 @@
+key	applies_to_ai	factor	value
+#loyalty_effects_tables;0;db/loyalty_effects_tables/loyalty_effects			
+adoption	true	adoption	1
+became_heir	true	heir	2
+bribed	true	bribed	-1
+granted_office	true	granted_office	1
+greater_than_his_lord	true	greater_than_his_lord	-1
+lost_office_shortly_after_being_granted_it	false	lost_office_shortly_after_being_granted_it	0
+lower_level_character_granted_office	true	lower_level_character_granted_office	-1
+married_daughter	true	married_daughter	1
+removed_from_office	false	removed_from_office	-1
+removed_from_office_2	true	granted_office	-1
+replaced_as_heir	true	heir	-3
+upstart_generals	false	upstart_generals	-1
+upstart_sons	false	upstart_sons	-1

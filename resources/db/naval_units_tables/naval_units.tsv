@@ -1,0 +1,177 @@
+key	campaign_action_points	category	class	historical_description_text	ship	short_description_text	strengths_&_weaknesses_text	unit_type_icon	supports_first_person	primary_naval_weapon	secondary_naval_weapon	rank_depth	attribute_groups	can_board	unit_card	is_composite	ignition_threshold	can_ram
+#naval_units_tables;17;db/naval_units_tables/naval_units																		
+3c_barbarian_greek_five	4500	medium_ship	shp_mis	roman_five	barbarian_greek_five	roman_five	barbarian_five		false			1		true	3c_Ship_Quadreme	true	704	true
+3c_barbarian_heavy_raider	4500	medium_ship	shp_mel	barbarian_heavy_raider	barbarian_heavy_raider	barbarian_heavy_raider	heavy_raider		false			1		true	3c_Ship_Heavy_Raider	true	1032	false
+3c_barbarian_medium_raider_melee	4500	medium_ship	shp_mel	barbarian_heavy_raider	barbarian_medium_raider	barbarian_medium_raider_melee	medium_raider_melee		false			1		true	3c_Ship_Medium_Raider	true	854	false
+3c_barbarian_medium_raider_ranged	4500	medium_ship	shp_mis	barbarian_heavy_raider	barbarian_medium_raider	barbarian_medium_raider_ranged	medium_raider_ranged		false			1		true	3c_Ship_Medium_Raider	true	854	false
+3c_barbarian_persian_four	4500	medium_ship	shp_mel	roman_four	barbarian_persian_four	roman_four	barbarian_four		false			1		true	3c_Ship_Quadreme	true	608	true
+3c_barbarian_raider_melee	4500	medium_ship	shp_mel	barbarian_heavy_raider	barbarian_raider	barbarian_raider_melee	raider_melee		false			1		true	3c_Ship_Raider	true	700	false
+3c_barbarian_raider_ranged	4500	medium_ship	shp_mis	barbarian_heavy_raider	barbarian_raider	barbarian_raider_ranged	raider_ranged		false			1		true	3c_Ship_Raider	true	700	false
+3c_barbarian_roman_ballista_five	4500	medium_ship	shp_art	roman_five	barbarian_roman_five_art	roman_ballista_five	ballista_five		false			1		true	3c_Ship_Quadreme_Ballista	false	654	true
+3c_barbarian_roman_onager_five	4500	medium_ship	shp_art	roman_five	barbarian_roman_five_art	egyptian_onager_five	onager_five		false			1		true	3c_Ship_Quadreme_Onager	false	654	true
+3c_barbarian_transport	4500	light_ship	shp_trn	barbarian_heavy_raider	barbarian_transport	barbarian_transport	barbarian_transport		false			1		true	3c_Ship_Heavy_Raider	true	512	false
+3c_barbarian_transport_small	4500	light_ship	shp_trn	roman_transport	barbarian_transport_small	roman_transport	transport		false			1		true	3c_Ship_Medium_Raider	true	300	false
+3c_egyptian_ballista_five	4500	medium_ship	shp_art	roman_five	egyptian_five_art	roman_ballista_five	ballista_five		false			1		true	3c_Ship_Quadreme	false	510	true
+3c_egyptian_double_hft_eight	4500	heavy_ship	shp_mel	greek_seven	egyptian_eight	egyptian_double_hft_eight	double_hft_eight		false	egyptian_heavy_tower	egyptian_heavy_tower	1		true	3c_Ship_Octeres_Heavy_Tower	false	1026	true
+3c_egyptian_eight	4500	heavy_ship	shp_mel	greek_seven	egyptian_eight	egyptian_eight	eight		false			1		true	3c_Ship_Octeres	true	1026	true
+3c_egyptian_fire_pot_two	4500	light_ship	shp_mel	roman_two	egyptian_two	greek_fire_pot_two	fire_pot_two		false	fire_pots		1		true	3c_Ship_Hemiolia_Fire_Pot	false	251	true
+3c_egyptian_five	4500	medium_ship	shp_mis	roman_five	egyptian_five	roman_five	five		false			1		true	3c_Ship_Quadreme	true	510	true
+3c_egyptian_lft_five	4500	medium_ship	shp_mis	roman_five	egyptian_five	egyptian_lft_five	lft_five		false	egyptian_fighting_tower		1		true	3c_Ship_Quadreme_Tower	false	510	true
+3c_egyptian_onager_five	4500	medium_ship	shp_art	roman_five	egyptian_five_art	egyptian_onager_five	onager_five		false			1		true	3c_Ship_Quadreme_Onager	false	510	true
+3c_egyptian_one_halfer	4500	light_ship	shp_mis	egyptian_one_halfer	egyptian_one_halfer	egyptian_one_halfer	one_halfer		false			1		true	3c_Ship_Hemiolia	true	201	true
+3c_egyptian_scorpio_three	4500	medium_ship	shp_mis	roman_three	egyptian_three	roman_scorpio_three	scorpio_three		false	scorpio_shp		1		true	3c_Ship_Trihemiolia_Scorpion	false	347	true
+3c_egyptian_six	4500	heavy_ship	shp_mel	roman_six	egyptian_six	roman_six	six		false			1		true	3c_Ship_Hexareme	true	603	true
+3c_egyptian_three	4500	medium_ship	shp_mis	roman_three	egyptian_three	roman_three	three		false			1		true	3c_Ship_Trihemiolia	true	347	true
+3c_egyptian_transport	4500	light_ship	shp_trn	roman_transport	egyptian_transport	roman_transport	transport		false			1		true	3c_Ship_Quadreme	true	230	false
+3c_egyptian_transport_small	4500	light_ship	shp_trn	roman_transport	egyptian_transport_small	roman_transport	transport		false			1		true	3c_Ship_Hemiolia	true	200	false
+3c_egyptian_two	4500	light_ship	shp_mel	roman_two	egyptian_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	251	true
+3c_egyptian_two_halfer	4500	light_ship	shp_mis	greek_two_halfer	egyptian_two_halfer	greek_two_halfer	two_halfer		false			1		true	3c_Ship_Hemiolia	true	293	true
+3c_greek_ballista_five	4500	medium_ship	shp_art	roman_five	greek_five_art	roman_ballista_five	ballista_five		false			1		true	3c_Ship_Quadreme_Ballista	false	510	true
+3c_greek_double_scorpio_five	4500	medium_ship	shp_mis	roman_five	greek_five	persian_double_scorpio_five	double_scorpio_five		false	scorpio_shp	scorpio_shp	1		true	3c_Ship_Quadreme_Scorpion	false	510	true
+3c_greek_fire_pot_two	4500	light_ship	shp_mel	roman_two	greek_two	greek_fire_pot_two	fire_pot_two		false	fire_pots		1		true	3c_Ship_Hemiolia_Fire_Pot	false	251	true
+3c_greek_five	4500	medium_ship	shp_mis	roman_five	greek_five	roman_five	five		false			1		true	3c_Ship_Quadreme	true	510	true
+3c_greek_four	4500	medium_ship	shp_mel	roman_four	greek_four	roman_four	four		false			1		true	3c_Ship_Quadreme	true	413	true
+3c_greek_lft_five	4500	medium_ship	shp_mis	roman_five	greek_five	egyptian_lft_five	lft_five		false	greek_light_tower		1		true	3c_Ship_Quadreme_Tower	false	510	true
+3c_greek_onager_five	4500	medium_ship	shp_art	roman_five	greek_five_art	egyptian_onager_five	onager_five		false			1		true	3c_Ship_Quadreme_Onager	false	510	true
+3c_greek_one_halfer	4500	light_ship	shp_mis	egyptian_one_halfer	greek_one_halfer	egyptian_one_halfer	one_halfer		false			1		true	3c_Ship_Hemiolia	true	201	true
+3c_greek_scorpio_hft_seven	4500	heavy_ship	shp_mis	greek_seven	greek_seven	greek_scorpio_hft_seven	scorpio_hft_seven		false	greek_heavy_tower	greek_heavy_tower	1		true	3c_Ship_Octeres_Heavy_Tower	false	809	true
+3c_greek_scorpio_three	4500	medium_ship	shp_mis	roman_three	greek_three	roman_scorpio_three	scorpio_three		false	scorpio_shp		1		true	3c_Ship_Trihemiolia_Scorpion	false	347	true
+3c_greek_seven	4500	heavy_ship	shp_mis	greek_seven	greek_seven	greek_seven	seven		false			1		true	3c_Ship_Octeres	true	809	true
+3c_greek_six	4500	heavy_ship	shp_mel	roman_six	greek_six	roman_six	six		false			1		true	3c_Ship_Hexareme	true	523	true
+3c_greek_three	4500	medium_ship	shp_mis	roman_three	greek_three	roman_three	three		false			1		true	3c_Ship_Trihemiolia	true	347	true
+3c_greek_transport	4500	light_ship	shp_trn	roman_transport	greek_transport	roman_transport	transport		false			1		true	3c_Ship_Quadreme	true	230	false
+3c_greek_transport_small	4500	light_ship	shp_trn	roman_transport	greek_transport_small	roman_transport	transport		false			1		true	3c_Ship_Hemiolia	true	200	false
+3c_greek_two	4500	light_ship	shp_mel	roman_two	greek_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	251	true
+3c_greek_two_halfer	4500	light_ship	shp_mis	greek_two_halfer	greek_two_halfer	greek_two_halfer	two_halfer		false			1		true	3c_Ship_Hemiolia	true	293	true
+3c_pel_athenai_three	4500	medium_ship	shp_mel	roman_three	athenai_three	pel_three	three		false			1		true	3c_Ship_Trihemiolia	true	347	true
+3c_pel_athenai_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	251	true
+3c_pel_greek_three	4500	medium_ship	shp_mel	roman_three	pel_three	pel_three	three		false			1		true	3c_Ship_Trihemiolia	true	347	true
+3c_pel_greek_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	251	true
+3c_pel_korinthos_three	4500	medium_ship	shp_mel	roman_three	korinthos_three	pel_three	three		false			1		true	3c_Ship_Trihemiolia	true	347	true
+3c_pel_korinthos_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	251	true
+3c_pel_persian_three	4500	medium_ship	shp_mel	roman_three	pel_three	pel_three	three		false			1		true	3c_Ship_Trihemiolia	true	347	true
+3c_pel_persian_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	251	true
+3c_pel_thraike_three	4500	medium_ship	shp_mel	roman_three	pel_three	pel_three	three		false			1		true	3c_Ship_Trihemiolia	true	347	true
+3c_pel_thraike_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	251	true
+3c_pel_transport	4500	light_ship	shp_trn	roman_transport	pel_transport	Pel_Transport_Tooltip	transport		false			1		true	3c_Ship_Hemiolia	true	230	false
+3c_persian_ballista_five	4500	medium_ship	shp_art	roman_five	persian_five_art	roman_ballista_five	ballista_five		false			1		true	3c_Ship_Quadreme_Ballista	false	763	true
+3c_persian_double_scorpio_five	4500	medium_ship	shp_mis	roman_five	persian_five	persian_double_scorpio_five	double_scorpio_five		false	scorpio_shp	scorpio_shp	1		true	3c_Ship_Quadreme_Scorpion	false	763	true
+3c_persian_fire_pot_two	4500	light_ship	shp_mel	roman_two	persian_two	greek_fire_pot_two	fire_pot_two		false	fire_pots		1		true	3c_Ship_Hemiolia_Fire_Pot	false	396	true
+3c_persian_five	4500	medium_ship	shp_mis	roman_five	persian_five	roman_five	five		false			1		true	3c_Ship_Quadreme	true	763	true
+3c_persian_four	4500	medium_ship	shp_mel	roman_four	persian_four	roman_four	four		false			1		true	3c_Ship_Quadreme	true	623	true
+3c_persian_lft_five	4500	medium_ship	shp_mis	roman_five	persian_five	egyptian_lft_five	lft_five		false	persian_fighting_tower		1		true	3c_Ship_Quadreme_Tower	false	763	true
+3c_persian_lft_six	4500	heavy_ship	shp_mel	roman_six	persian_six	egyptian_lft_five	lft_six		false		persian_fighting_tower	1		true	3c_Ship_Hexareme_Tower	false	897	true
+3c_persian_onager_five	4500	medium_ship	shp_art	roman_five	persian_five_art	egyptian_onager_five	onager_five		false			1		true	3c_Ship_Quadreme_Onager	false	763	true
+3c_persian_one_halfer	4500	light_ship	shp_mis	egyptian_one_halfer	persian_one_halfer	egyptian_one_halfer	one_halfer		false			1		true	3c_Ship_Hemiolia	true	327	true
+3c_persian_scorpio_three	4500	medium_ship	shp_mis	roman_three	persian_three	roman_scorpio_three	scorpio_three		false	scorpio_shp		1		true	3c_Ship_Trihemiolia_Scorpion	false	531	true
+3c_persian_six	4500	heavy_ship	shp_mel	roman_six	persian_six	roman_six	six		false			1		true	3c_Ship_Hexareme	true	897	true
+3c_persian_three	4500	medium_ship	shp_mis	roman_three	persian_three	roman_three	three		false			1		true	3c_Ship_Trihemiolia	true	531	true
+3c_persian_transport	4500	light_ship	shp_trn	roman_transport	persian_transport	roman_transport	transport		false			1		true	3c_Ship_Quadreme	true	321	false
+3c_persian_transport_small	4500	light_ship	shp_trn	roman_transport	persian_transport_small	roman_transport	transport		false			1		true	3c_Ship_Hemiolia	true	250	false
+3c_persian_two	4500	light_ship	shp_mel	roman_two	persian_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	396	true
+3c_persian_two_halfer	4500	light_ship	shp_mis	greek_two_halfer	persian_two_halfer	greek_two_halfer	two_halfer		false			1		true	3c_Ship_Hemiolia	true	455	true
+3c_roman_ballista_five	4500	medium_ship	shp_art	roman_five	roman_five_art	roman_ballista_five	ballista_five		false			1		true	3c_Ship_Quadreme_Ballista	false	510	true
+3c_roman_fire_pot_two	4500	light_ship	shp_mel	roman_two	roman_two	greek_fire_pot_two	fire_pot_two		false	fire_pots		1		true	3c_Ship_Hemiolia_Fire_Pot	false	251	true
+3c_roman_five	4500	medium_ship	shp_mis	roman_five	roman_five	roman_five	five		false			1		true	3c_Ship_Quadreme	true	510	true
+3c_roman_four	4500	medium_ship	shp_mel	roman_four	roman_four	roman_four	four		false			1		true	3c_Ship_Quadreme	true	413	true
+3c_roman_harpax_six	4500	heavy_ship	shp_mel	roman_six	roman_harpax_six	roman_harpax_six	harpax_six		false	harpax		1		true	3c_Ship_Hexareme	false	603	true
+3c_roman_lft_six	4500	heavy_ship	shp_mel	roman_six	roman_six	egyptian_lft_five	lft_six		false		roman_fighting_tower	1		true	3c_Ship_Hexareme_Tower	false	603	true
+3c_roman_onager_five	4500	medium_ship	shp_art	roman_five	roman_five_art	egyptian_onager_five	onager_five		false			1		true	3c_Ship_Quadreme_Onager	false	510	true
+3c_roman_one_halfer	4500	light_ship	shp_mis	egyptian_one_halfer	roman_one_halfer	egyptian_one_halfer	one_halfer		false			1		true	3c_Ship_Hemiolia	true	201	true
+3c_roman_scorpio_three	4500	medium_ship	shp_mis	roman_three	roman_three	roman_scorpio_three	scorpio_three		false	scorpio_shp		1		true	3c_Ship_Trihemiolia_Scorpion	false	347	true
+3c_roman_six	4500	heavy_ship	shp_mel	roman_six	roman_six	roman_six	six		false			1		true	3c_Ship_Hexareme	true	603	true
+3c_roman_three	4500	medium_ship	shp_mis	roman_three	roman_three	roman_three	three		false			1		true	3c_Ship_Trihemiolia	true	347	true
+3c_roman_transport	4500	light_ship	shp_trn	roman_transport	roman_transport	roman_transport	transport		false			1		true	3c_Ship_Quadreme	true	298	false
+3c_roman_transport_small	4500	light_ship	shp_trn	roman_transport	roman_transport_small	roman_transport	transport		false			1		true	3c_Ship_Hemiolia	true	230	false
+3c_roman_two	4500	light_ship	shp_mel	roman_two	roman_two	roman_two	two		false			1		true	3c_Ship_Hemiolia	true	251	true
+3c_roman_two_halfer	4500	light_ship	shp_mis	greek_two_halfer	roman_two_halfer	greek_two_halfer	two_halfer		false			1		true	3c_Ship_Hemiolia	true	293	true
+barbarian_greek_five	4500	medium_ship	shp_mis	roman_five	barbarian_greek_five	roman_five	barbarian_five		false			1		true	barbarian_greek_5	true	704	true
+barbarian_heavy_raider	4500	medium_ship	shp_mel	barbarian_heavy_raider	barbarian_heavy_raider	barbarian_heavy_raider	heavy_raider		false			1		true	barbarian_heavy_raider	true	1032	false
+barbarian_medium_raider_melee	4500	medium_ship	shp_mel	barbarian_heavy_raider	barbarian_medium_raider	barbarian_medium_raider_melee	medium_raider_melee		false			1		true	barbarian_medium_raider_2	true	854	false
+barbarian_medium_raider_ranged	4500	medium_ship	shp_mis	barbarian_heavy_raider	barbarian_medium_raider	barbarian_medium_raider_ranged	medium_raider_ranged		false			1		true	barbarian_medium_raider_2	true	854	false
+barbarian_persian_four	4500	medium_ship	shp_mel	roman_four	barbarian_persian_four	roman_four	barbarian_four		false			1		true	barbarian_persian_four	true	608	true
+barbarian_raider_melee	4500	medium_ship	shp_mel	barbarian_heavy_raider	barbarian_raider	barbarian_raider_melee	raider_melee		false			1		true	barbarian_raider_1	true	700	false
+barbarian_raider_ranged	4500	medium_ship	shp_mis	barbarian_heavy_raider	barbarian_raider	barbarian_raider_ranged	raider_ranged		false			1		true	barbarian_raider_1	true	700	false
+barbarian_roman_ballista_five	4500	medium_ship	shp_art	roman_five	barbarian_roman_five_art	roman_ballista_five	ballista_five		false			1		true	Persian_ballista_five	false	654	true
+barbarian_roman_onager_five	4500	medium_ship	shp_art	roman_five	barbarian_roman_five_art	egyptian_onager_five	onager_five		false			1		true	barbarian_roman_onager_five	false	654	true
+barbarian_transport	4500	light_ship	shp_trn	barbarian_heavy_raider	barbarian_transport	barbarian_transport	barbarian_transport		false			1		true	barbarian_heavy_raider	true	512	false
+barbarian_transport_small	4500	light_ship	shp_trn	roman_transport	barbarian_transport_small	roman_transport	transport		false			1		true	barbarian_medium_raider_2	true	300	false
+egyptian_ballista_five	4500	medium_ship	shp_art	roman_five	egyptian_five_art	roman_ballista_five	ballista_five		false			1		true	Persian_ballista_five	false	510	true
+egyptian_double_hft_eight	4500	heavy_ship	shp_mel	greek_seven	egyptian_eight	egyptian_double_hft_eight	double_hft_eight		false	egyptian_heavy_tower	egyptian_heavy_tower	1		true	egyptian_double_hft_eight	false	1026	true
+egyptian_eight	4500	heavy_ship	shp_mel	greek_seven	egyptian_eight	egyptian_eight	eight		false			1		true	egyptian_eight	true	1026	true
+egyptian_fire_pot_two	4500	light_ship	shp_mel	roman_two	egyptian_two	greek_fire_pot_two	fire_pot_two		false	fire_pots		1		true	egyptian_fire_pot_two	false	251	true
+egyptian_five	4500	medium_ship	shp_mis	roman_five	egyptian_five	roman_five	five		false			1		true	roman_five	true	510	true
+egyptian_lft_five	4500	medium_ship	shp_mis	roman_five	egyptian_five	egyptian_lft_five	lft_five		false	egyptian_fighting_tower		1		true	egyptian_lft_five	false	510	true
+egyptian_onager_five	4500	medium_ship	shp_art	roman_five	egyptian_five_art	egyptian_onager_five	onager_five		false			1		true	egyptian_onager_five	false	510	true
+egyptian_one_halfer	4500	light_ship	shp_mis	egyptian_one_halfer	egyptian_one_halfer	egyptian_one_halfer	one_halfer		false			1		true	roman_one_halfer	true	201	true
+egyptian_scorpio_three	4500	medium_ship	shp_mis	roman_three	egyptian_three	roman_scorpio_three	scorpio_three		false	scorpio_shp		1		true	egyptian_scorpio_three	false	347	true
+egyptian_six	4500	heavy_ship	shp_mel	roman_six	egyptian_six	roman_six	six		false			1		true	barbarian_egyptian_six	true	603	true
+egyptian_three	4500	medium_ship	shp_mis	roman_three	egyptian_three	roman_three	three		false			1		true	roman_three	true	347	true
+egyptian_transport	4500	light_ship	shp_trn	roman_transport	egyptian_transport	roman_transport	transport		false			1		true	roman_five	true	230	false
+egyptian_transport_small	4500	light_ship	shp_trn	roman_transport	egyptian_transport_small	roman_transport	transport		false			1		true	roman_two	true	200	false
+egyptian_two	4500	light_ship	shp_mel	roman_two	egyptian_two	roman_two	two		false			1		true	roman_two	true	251	true
+egyptian_two_halfer	4500	light_ship	shp_mis	greek_two_halfer	egyptian_two_halfer	greek_two_halfer	two_halfer		false			1		true	roman_two_halfer	true	293	true
+greek_ballista_five	4500	medium_ship	shp_art	roman_five	greek_five_art	roman_ballista_five	ballista_five		false			1		true	Persian_ballista_five	false	510	true
+greek_double_scorpio_five	4500	medium_ship	shp_mis	roman_five	greek_five	persian_double_scorpio_five	double_scorpio_five		false	scorpio_shp	scorpio_shp	1		true	greek_double_scorpio_five	false	510	true
+greek_fire_pot_two	4500	light_ship	shp_mel	roman_two	greek_two	greek_fire_pot_two	fire_pot_two		false	fire_pots		1		true	greek_fire_pot_two	false	251	true
+greek_five	4500	medium_ship	shp_mis	roman_five	greek_five	roman_five	five		false			1		true	roman_five	true	510	true
+greek_four	4500	medium_ship	shp_mel	roman_four	greek_four	roman_four	four		false			1		true	roman_four	true	413	true
+greek_lft_five	4500	medium_ship	shp_mis	roman_five	greek_five	egyptian_lft_five	lft_five		false	greek_light_tower		1		true	greek_lft_five	false	510	true
+greek_onager_five	4500	medium_ship	shp_art	roman_five	greek_five_art	egyptian_onager_five	onager_five		false			1		true	greek_onager_five	false	510	true
+greek_one_halfer	4500	light_ship	shp_mis	egyptian_one_halfer	greek_one_halfer	egyptian_one_halfer	one_halfer		false			1		true	roman_one_halfer	true	201	true
+greek_scorpio_hft_seven	4500	heavy_ship	shp_mis	greek_seven	greek_seven	greek_scorpio_hft_seven	scorpio_hft_seven		false	greek_heavy_tower	greek_heavy_tower	1		true	greek_scorpio_hft_seven	false	809	true
+greek_scorpio_three	4500	medium_ship	shp_mis	roman_three	greek_three	roman_scorpio_three	scorpio_three		false	scorpio_shp		1		true	greek_scorpio_three	false	347	true
+greek_seven	4500	heavy_ship	shp_mis	greek_seven	greek_seven	greek_seven	seven		false			1		true	greek_seven	true	809	true
+greek_six	4500	heavy_ship	shp_mel	roman_six	greek_six	roman_six	six		false			1		true	roman_six	true	523	true
+greek_three	4500	medium_ship	shp_mis	roman_three	greek_three	roman_three	three		false			1		true	roman_three	true	347	true
+greek_transport	4500	light_ship	shp_trn	roman_transport	greek_transport	roman_transport	transport		false			1		true	roman_five	true	230	false
+greek_transport_small	4500	light_ship	shp_trn	roman_transport	greek_transport_small	roman_transport	transport		false			1		true	roman_two	true	200	false
+greek_two	4500	light_ship	shp_mel	roman_two	greek_two	roman_two	two		false			1		true	roman_two	true	251	true
+greek_two_halfer	4500	light_ship	shp_mis	greek_two_halfer	greek_two_halfer	greek_two_halfer	two_halfer		false			1		true	roman_two_halfer	true	293	true
+greek_two_halfer_double	4500	light_ship	shp_mis	greek_two_halfer	greek_two_halfer	greek_two_halfer	two_halfer		false			1		true	roman_two_halfer	true	293	true
+inv_rom_greek_five	4500	medium_ship	shp_mis	roman_five	greek_five	roman_five	five		false			1		true	roman_five	true	510	false
+inv_rom_greek_four	4500	medium_ship	shp_mel	roman_four	greek_four	roman_four	four		false			1		true	roman_four	true	413	false
+inv_rom_greek_three	4500	medium_ship	shp_mis	roman_three	greek_three	roman_three	three		false			1		true	roman_three	true	347	false
+inv_rom_greek_two	4500	light_ship	shp_mel	roman_two	greek_two	roman_two	two		false			1		true	roman_two	true	251	false
+pel_athenai_three	4500	medium_ship	shp_mel	roman_three	athenai_three	pel_three	three		false			1		true	roman_three	true	347	true
+pel_athenai_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	roman_two	true	251	true
+pel_greek_three	4500	medium_ship	shp_mel	roman_three	pel_three	pel_three	three		false			1		true	roman_three	true	347	true
+pel_greek_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	roman_two	true	251	true
+pel_korinthos_three	4500	medium_ship	shp_mel	roman_three	korinthos_three	pel_three	three		false			1		true	roman_three	true	347	true
+pel_korinthos_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	roman_two	true	251	true
+pel_persian_three	4500	medium_ship	shp_mel	roman_three	pel_three	pel_three	three		false			1		true	roman_three	true	347	true
+pel_persian_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	roman_two	true	251	true
+pel_thraike_three	4500	medium_ship	shp_mel	roman_three	pel_three	pel_three	three		false			1		true	roman_three	true	347	true
+pel_thraike_two	4500	light_ship	shp_mis	roman_two	pel_two	roman_two	two		false			1		true	roman_two	true	251	true
+pel_transport	4500	light_ship	shp_trn	roman_transport	pel_transport	Pel_Transport_Tooltip	transport		false			1		true	pel_transport	true	230	false
+persian_ballista_five	4500	medium_ship	shp_art	roman_five	persian_five_art	roman_ballista_five	ballista_five		false			1		true	Persian_ballista_five	false	763	true
+persian_double_scorpio_five	4500	medium_ship	shp_mis	roman_five	persian_five	persian_double_scorpio_five	double_scorpio_five		false	scorpio_shp	scorpio_shp	1		true	Persian_double_scorpio_five	false	763	true
+persian_fire_pot_two	4500	light_ship	shp_mel	roman_two	persian_two	greek_fire_pot_two	fire_pot_two		false	fire_pots		1		true	Persian_fire_pot_two	false	396	true
+persian_five	4500	medium_ship	shp_mis	roman_five	persian_five	roman_five	five		false			1		true	roman_five	true	763	true
+persian_four	4500	medium_ship	shp_mel	roman_four	persian_four	roman_four	four		false			1		true	barbarian_persian_four	true	623	true
+persian_lft_five	4500	medium_ship	shp_mis	roman_five	persian_five	egyptian_lft_five	lft_five		false	persian_fighting_tower		1		true	Persian_lft_five	false	763	true
+persian_lft_six	4500	heavy_ship	shp_mel	roman_six	persian_six	egyptian_lft_five	lft_six		false		persian_fighting_tower	1		true	persian_lft_six	false	897	true
+persian_onager_five	4500	medium_ship	shp_art	roman_five	persian_five_art	egyptian_onager_five	onager_five		false			1		true	Persian_onager_five	false	763	true
+persian_one_halfer	4500	light_ship	shp_mis	egyptian_one_halfer	persian_one_halfer	egyptian_one_halfer	one_halfer		false			1		true	roman_one_halfer	true	327	true
+persian_scorpio_three	4500	medium_ship	shp_mis	roman_three	persian_three	roman_scorpio_three	scorpio_three		false	scorpio_shp		1		true	Persian_scorpio_three	false	531	true
+persian_six	4500	heavy_ship	shp_mel	roman_six	persian_six	roman_six	six		false			1		true	roman_six	true	897	true
+persian_three	4500	medium_ship	shp_mis	roman_three	persian_three	roman_three	three		false			1		true	roman_three	true	531	true
+persian_transport	4500	light_ship	shp_trn	roman_transport	persian_transport	roman_transport	transport		false			1		true	roman_five	true	321	false
+persian_transport_small	4500	light_ship	shp_trn	roman_transport	persian_transport_small	roman_transport	transport		false			1		true	roman_two	true	250	false
+persian_two	4500	light_ship	shp_mel	roman_two	persian_two	roman_two	two		false			1		true	roman_two	true	396	true
+persian_two_halfer	4500	light_ship	shp_mis	greek_two_halfer	persian_two_halfer	greek_two_halfer	two_halfer		false			1		true	roman_two_halfer	true	455	true
+roman_ballista_five	4500	medium_ship	shp_art	roman_five	roman_five_art	roman_ballista_five	ballista_five		false			1		true	roman_ballista_five	false	510	true
+roman_fire_pot_two	4500	light_ship	shp_mel	roman_two	roman_two	greek_fire_pot_two	fire_pot_two		false	fire_pots		1		true	roman_fire_pot_two	false	251	true
+roman_five	4500	medium_ship	shp_mis	roman_five	roman_five	roman_five	five		false			1		true	roman_five	true	510	true
+roman_four	4500	medium_ship	shp_mel	roman_four	roman_four	roman_four	four		false			1		true	roman_four	true	413	true
+roman_harpax_six	4500	heavy_ship	shp_mel	roman_six	roman_harpax_six	roman_harpax_six	harpax_six		false	harpax		1		true	roman_harpax_six	false	603	true
+roman_lft_six	4500	heavy_ship	shp_mel	roman_six	roman_six	egyptian_lft_five	lft_six		false		roman_fighting_tower	1		true	roman_lft_six	false	603	true
+roman_onager_five	4500	medium_ship	shp_art	roman_five	roman_five_art	egyptian_onager_five	onager_five		false			1		true	roman_onager_five	false	510	true
+roman_one_halfer	4500	light_ship	shp_mis	egyptian_one_halfer	roman_one_halfer	egyptian_one_halfer	one_halfer		false			1		true	roman_one_halfer	true	201	true
+roman_scorpio_three	4500	medium_ship	shp_mis	roman_three	roman_three	roman_scorpio_three	scorpio_three		false	scorpio_shp		1		true	roman_scorpio_three	false	347	true
+roman_six	4500	heavy_ship	shp_mel	roman_six	roman_six	roman_six	six		false			1		true	roman_six	true	603	true
+roman_three	4500	medium_ship	shp_mis	roman_three	roman_three	roman_three	three		false			1		true	roman_three	true	347	true
+roman_transport	4500	light_ship	shp_trn	roman_transport	roman_transport	roman_transport	transport		false			1		true	roman_five	true	298	false
+roman_transport_small	4500	light_ship	shp_trn	roman_transport	roman_transport_small	roman_transport	transport		false			1		true	roman_two	true	230	false
+roman_two	4500	light_ship	shp_mel	roman_two	roman_two	roman_two	two		false			1		true	roman_two	true	251	true
+roman_two_halfer	4500	light_ship	shp_mis	greek_two_halfer	roman_two_halfer	greek_two_halfer	two_halfer		false			1		true	roman_two_halfer	true	293	true

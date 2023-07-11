@@ -1,0 +1,10 @@
+agent_key	campaign_effect_scope_key
+#campaign_effect_scope_agent_junctions_tables;0;db/campaign_effect_scope_agent_junctions_tables/campaign_effect_scope_agent_junctions	
+champion	all_agents
+dignitary	all_agents
+general	all_agents
+spy	all_agents
+general	all_your_generals
+champion	only_agents
+dignitary	only_agents
+spy	only_agents

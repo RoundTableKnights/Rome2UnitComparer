@@ -1,0 +1,815 @@
+key	is_sea	owner_bundle	unnamed colour group_1
+#regions_tables;3;db/regions_tables/regions			
+emp_achaia_athenae	false		010000
+emp_achaia_gortyna	false		050000
+emp_achaia_sparta	false	rom_wonder_olympia	0A0000
+emp_aegyptos_alexandria	false	rom_wonder_pharos_alexandria	0F0000
+emp_aegyptos_diospolis	false		140000
+emp_aegyptos_memphis	false	rom_wonder_necropolis_giza	190000
+emp_aegyptos_myos_hormos	false		1E0000
+emp_aethiopia_aksum	false		230000
+emp_aethiopia_meroe	false		280000
+emp_aethiopia_ptolemais_theron	false		2D0000
+emp_africa_carthago	false	settlement_carthago	320000
+emp_africa_hadrumentum	false		370000
+emp_africa_leptis_magna	false		3C0000
+emp_africa_macomades	false		410000
+emp_aquitania_burdigala	false		460000
+emp_aquitania_gergovia	false		4B0000
+emp_aquitania_limonum	false		500000
+emp_arabia_felix_eudaemon	false		550000
+emp_arabia_felix_maas_gat	false		5A0000
+emp_arabia_felix_marib	false		5F0000
+emp_arabia_magna_adummatu	false		640000
+emp_arabia_magna_gerrha	false		690000
+emp_arabia_magna_yathrib	false		6E0000
+emp_aria_amul	false		730000
+emp_aria_artacoana	false		780000
+emp_aria_merv	false		7D0000
+emp_armenia_arsamosata	false		820000
+emp_armenia_artaxa	false		870000
+emp_armenia_carana	false		8C0000
+emp_armenia_tigranocerta	false		910000
+emp_asia_ephesus	false	rom_wonder_mausoleum_mausolus	960000
+emp_asia_pergamum	false	settlement_pergamon	FF00FF
+emp_asia_pessinus	false		9B0000
+emp_asia_rhodos	false	rom_wonder_colossus_rhodes	A06432
+emp_bactria_baktria	false	settlement_baktra	A00000
+emp_bactria_eucratides	false		A50000
+emp_bactria_kapisene	false		AA0000
+emp_baetica_corduba	false		AF0000
+emp_baetica_gades	false	rom_wonder_pillars_hercules	B40000
+emp_baetica_toletum	false		B90000
+emp_belgica_nemecatum	false		BE0000
+emp_belgica_treverorum	false		C30000
+emp_bithynia_et_pontus_amaseia	false		C80000
+emp_bithynia_et_pontus_nicomedia	false		CD0000
+emp_bithynia_et_pontus_sinope	false		D20000
+emp_bithynia_et_pontus_trapezos	false		D70000
+emp_bosporus_panticapaeum	false		DC0000
+emp_bosporus_phanagoria	false		E10000
+emp_bosporus_tanais	false		E60000
+emp_britannia_camulodunum	false		EB0000
+emp_britannia_iska	false	rom_wonder_stonehenge	F00000
+emp_britannia_mordiunon	false		F50000
+emp_britannia_sleaford	false		FA0000
+emp_carmania_bam	false	rom_wonder_bam_citadel	FF0000
+emp_carmania_harmozia	false		000500
+emp_caucasia_gabata	false		000A00
+emp_caucasia_mtskheta	false		000F00
+emp_caucasia_phasis	false		001400
+emp_chorasmia_akhur	false		001900
+emp_chorasmia_aktau	false		001E00
+emp_cisalpina_genua	false		002300
+emp_cisalpina_mediolanium	false		002800
+emp_cisalpina_patavium	false		002D00
+emp_corsica_et_sardinia_aleria	false		003200
+emp_corsica_et_sardinia_caralis	false		003700
+emp_dacia_pelendava	false		003C00
+emp_dacia_petrodava	false		004100
+emp_dacia_piscul	false		004600
+emp_dacia_zarmizegetusa	false	rom_wonder_kogaionon	004B00
+emp_galatia_et_cappadocia_ancyra	false		005000
+emp_galatia_et_cappadocia_iconium	false		005500
+emp_galatia_et_cappadocia_mazaca	false	rom_wonder_mount_argaeus	005A00
+emp_galatia_et_cappadocia_side	false		005F00
+emp_gallia_bibracte	false		006400
+emp_gallia_cenabum	false		006900
+emp_gallia_darioritum	false	rom_wonder_karnag	006E00
+emp_gallia_iuliobana	false		007300
+emp_gedrosia_oraea	false		007800
+emp_gedrosia_phrada	false		007D00
+emp_gedrosia_pura	false		008200
+emp_germania_minor_bavay	false		008700
+emp_germania_minor_vesonto	false		008C00
+emp_hercynia_bergium	false		009100
+emp_hercynia_budorgis	false		009600
+emp_hercynia_istros	false		009B00
+emp_hispania_ibossim	false		00A000
+emp_hispania_nova_carthago	false		00A500
+emp_hispania_numantia	false		00AA00
+emp_hispania_saguntum	false		00AF00
+emp_illyricum_dyrrachium	false		00B400
+emp_illyricum_narona	false		00B900
+emp_illyricum_salona	false		00BE00
+emp_italia_beneventum	false	rom_wonder_mount_vesuvius	00C300
+emp_italia_brundisium	false		00C800
+emp_italia_cosentia	false		00CD00
+emp_judea_jerusalem	false		00D200
+emp_judea_salamis	false		00D700
+emp_judea_tyros	false		00DC00
+emp_latium_ariminium	false		00E100
+emp_latium_arretium	false		00E600
+emp_latium_asculum	false		00EB00
+emp_latium_roma	false	settlement_rome	00F000
+emp_libya_ammonium	false	rom_wonder_oracle_amun_re	00F500
+emp_libya_augila	false		00FA00
+emp_libya_cyrene	false		00FF00
+emp_libya_paraitonion	false		000005
+emp_lugii_arsenium	false		00000A
+emp_lugii_carrodunum	false		00000F
+emp_lugii_grinev	false		000014
+emp_lugii_oblin	false		000019
+emp_lusitania_ebora	false		00001E
+emp_lusitania_olisipo	false		000023
+emp_macedonia_apollonia	false		000028
+emp_macedonia_pharsalus	false	rom_wonder_mount_olympus	00002D
+emp_macedonia_thessalonica	false	settlement_pella	000032
+emp_magna_germania_flevium	false		000037
+emp_magna_germania_treva	false		00003C
+emp_magna_germania_tulifurdum	false		000041
+emp_mauretania_rutubis	false		000046
+emp_mauretania_siga	false		00004B
+emp_mauretania_tingis	false	rom_wonder_pillars_hercules	000050
+emp_media_magna_arsakia	false		000055
+emp_media_magna_ekbatana	false		00005A
+emp_media_magna_gazaca	false		00005F
+emp_media_magna_phraaspa	false		000064
+emp_mesopotamia_charax	false		000069
+emp_mesopotamia_ctesiphon	false	rom_wonder_babylon	00006E
+emp_mesopotamia_edessa	false		000073
+emp_mesopotamia_hatra	false		000078
+emp_nabataea_charmuthas	false		00007D
+emp_nabataea_hegra	false		000082
+emp_nabataea_petra	false		000087
+emp_narbonensis_massilia	false		00008C
+emp_narbonensis_narbo	false		000091
+emp_narbonensis_tolosa	false		000096
+emp_numidia_capsa	false		00009B
+emp_numidia_cirta	false		0000A0
+emp_numidia_dimmidi	false		0000A5
+emp_numidia_iol	false		0000AA
+emp_palmyra_dura	false		0000AF
+emp_palmyra_palmyra	false		0000B4
+emp_pannonia_aquincum	false		0000B9
+emp_pannonia_segestica	false		0000BE
+emp_pannonia_singidun	false		0000C3
+emp_parthia_hekatompylos	false		0000C8
+emp_parthia_nisa	false		0000CD
+emp_parthia_susia	false		0000D2
+emp_parthia_zadrakata	false	rom_wonder_mount_damavand	0000D7
+emp_persis_gor	false		0000DC
+emp_persis_persepolis	false	rom_wonder_necropolis_rostam	0000F0
+emp_persis_susa	false	rom_wonder_mount_behistun	0000F5
+emp_phazania_cydamus	false		0000FA
+emp_phazania_garama	false		0000FF
+emp_pretanic_isles_eilodon	false		050500
+emp_pretanic_isles_elbana	false		0A0A00
+emp_pretanic_isles_stanwick	false		9B9B00
+emp_raetia_et_noricum_kelheim	false		A0A000
+emp_raetia_et_noricum_koria	false		A5A500
+emp_raetia_et_noricum_noreia	false		AAAA00
+emp_raetia_et_noricum_octoduris	false		AFAF00
+emp_riv_danuvius	true		0000E1
+emp_riv_nilos	true		0000E6
+emp_riv_rhenus	true		0000EB
+emp_sarmatia_melgunov	false		B4B400
+emp_sarmatia_olbia	false		B9B900
+emp_sarmatia_solokha	false		BEBE00
+emp_scythia_gelonus	false		C3C300
+emp_scythia_samandar	false		C8C800
+emp_scythia_sarai	false		CDCD00
+emp_scythia_siracena	false		D2D200
+emp_sea_lake	true		0F0F00
+emp_sea_mare_adriaticum	true		141400
+emp_sea_mare_aegaeum	true		191900
+emp_sea_mare_aegyptum	true		1E1E00
+emp_sea_mare_africum	true		232300
+emp_sea_mare_carpathium	true		282800
+emp_sea_mare_caspium	true		2D2D00
+emp_sea_mare_hibernicum	true		323200
+emp_sea_mare_hispanum	true		373700
+emp_sea_mare_ibericum	true		3C3C00
+emp_sea_mare_indicum	true		414100
+emp_sea_mare_internum	true		464600
+emp_sea_mare_ionium	true		4B4B00
+emp_sea_mare_phoenicum	true		505000
+emp_sea_mare_suevicum	true		555500
+emp_sea_mare_tyrrhenum	true		5A5A00
+emp_sea_oceanus_atlanticus	true		5F5F00
+emp_sea_oceanus_britannicus	true		646400
+emp_sea_oceanus_gallicus	true		696900
+emp_sea_oceanus_germanicus	true		6E6E00
+emp_sea_pontus_cimmerius	true		737300
+emp_sea_pontus_euxinus	true		787800
+emp_sea_pontus_thracius	true		7D7D00
+emp_sea_sinus_aquitanus	true		828200
+emp_sea_sinus_arabicus	true		878700
+emp_sea_sinus_gallicus	true		8C8C00
+emp_sea_sinus_persicus	true		919100
+emp_sea_syrtis	true		969600
+emp_sicily_agrigentum	false		D7D700
+emp_sicily_panormus	false		DCDC00
+emp_sicily_syracuse	false	rom_wonder_mount_etna	E1E100
+emp_suebia_calancorum	false		E6E600
+emp_suebia_pelplin	false		EBEB00
+emp_suebia_setidava	false		F0F000
+emp_suebia_virunium	false		F5F500
+emp_syria_antioch	false	settlement_antioch	FAFA00
+emp_syria_samosata	false		0F0019
+emp_syria_tarsus	false		23002D
+emp_syria_thapsacus	false		370041
+emp_tarraconensis_aracillum	false		4B0050
+emp_tarraconensis_brigantium	false		5F0064
+emp_tarraconensis_tarraco	false		730078
+emp_terra_incognita	false		DCDC00
+emp_thracia_antheia	false		820087
+emp_thracia_naissos	false		910096
+emp_thracia_odessos	false		A000AA
+emp_thracia_pulpudeva	false	rom_wonder_sanctuary_great_gods	AF00B4
+emp_transoxania_bukhara	false		BE00C3
+emp_transoxania_maracanda	false		D200DC
+gaul_aquitania_aquae_tarbellicae	false		006400
+gaul_aquitania_burdigala	false		007800
+gaul_aquitania_elimberris	false		005A00
+gaul_aquitania_sotium	false		006E00
+gaul_arduenna_silva_divoduron	false		460000
+gaul_arduenna_silva_durocorteron	false		500000
+gaul_arduenna_silva_noviodunon	false		5A0000
+gaul_arduenna_silva_treverorum	false		3C0000
+gaul_aremorica_condate	false		00DC00
+gaul_aremorica_darioritum	false	rom_wonder_karnag	00D200
+gaul_aremorica_namnetum	false		00C800
+gaul_aremorica_vorgion	false		00E600
+gaul_britannia_durovernon	false		00F000
+gaul_britannia_iska	false		000005
+gaul_britannia_venta_belgarum	false	rom_wonder_stonehenge	00FA00
+gaul_gergovia_avaricon	false		EB0000
+gaul_gergovia_durotincon	false		E10000
+gaul_gergovia_nemossos	false		D70000
+gaul_germania_inferior_atuatuca	false		0A0000
+gaul_germania_inferior_bagacum	false		140000
+gaul_helvetia_octoduron	false		B90000
+gaul_helvetia_turicum	false		AF0000
+gaul_insubria_medhlan	false		000A00
+gaul_insubria_vercelum	false		001400
+gaul_liguria_genua	false		001E00
+gaul_liguria_pollentia	false		002800
+gaul_lugdunensis_bibracte	false		CD0000
+gaul_lugdunensis_vienna	false		C30000
+gaul_lutetia_cenabum	false		00A000
+gaul_lutetia_crociatonum	false		00BE00
+gaul_lutetia_lexovion	false		00B400
+gaul_lutetia_suindinum	false		00AA00
+gaul_maxima_sequanorum_rauricon	false		820000
+gaul_maxima_sequanorum_vesontio	false		8C0000
+gaul_narbonensis_divona	false		005000
+gaul_narbonensis_narbo_martius	false		003200
+gaul_narbonensis_segodunum	false		004600
+gaul_narbonensis_tolosa	false		003C00
+gaul_pictavis_ambatia	false		009600
+gaul_pictavis_lemonum	false		008C00
+gaul_pictavis_mediolanum_santonum	false		008200
+gaul_riv_rhine	true		0000E1
+gaul_riv_seine	true		0000E6
+gaul_riv_thames	true		0000EB
+gaul_sea_atlantic	true		1E1E00
+gaul_sea_britannicus	true		232300
+gaul_sea_lake	true		0F0F00
+gaul_sea_med	true		282800
+gaul_senonia_agedineum	false		9B0000
+gaul_senonia_alesia	false		960000
+gaul_senonia_lutetia	false		A50000
+gaul_silva_carbonaria_bratuspantion	false		1E0000
+gaul_silva_carbonaria_gesoriacum	false		320000
+gaul_silva_carbonaria_nemetocenna	false		280000
+gaul_silva_nigra_argentorate	false		780000
+gaul_silva_nigra_noviiomagos	false		6E0000
+gaul_silva_nigra_uburzis	false		640000
+gaul_terra_incognita	false		DCDC00
+gaul_transalpina_massalia	false		F50000
+gaul_transalpina_vasio	false		FF0000
+inv_apulia_barion	false		00A000
+inv_apulia_herdonia	false		009600
+inv_apulia_siponto	false		009B00
+inv_apulia_sylbion	false	inv_wonder_ancient_temple_of_hera	00A500
+inv_balaria_alghero	false		0A0A00
+inv_balaria_nurra	false	inv_wonder_menhirs_of_old	A0A000
+inv_balaria_olbia	false	inv_wonder_the_tomb_of_giants	050505
+inv_balaria_sassari	false		9B9B00
+inv_bruttium_consentia	false		005A00
+inv_bruttium_croton	false		006900
+inv_bruttium_terina	false		00050A
+inv_bruttium_thurii	false	inv_wonder_ruins_of_sybaris	000505
+inv_calabria_brentesion	false		009100
+inv_calabria_hydrus	false		008C00
+inv_calabria_manduria	false		008700
+inv_calabria_taranto	false	inv_wonder_temple_of_poseidon	008200
+inv_campania_capua	false		00B400
+inv_campania_neapolis	false	inv_wonder_temple_of_cumaean_sibyl	00AA00
+inv_campania_pithecusae	false		F5F5F5
+inv_campania_poseidonia	false	inv_wonder_heroon_of_founders	00AF00
+inv_carthago_carthago	false		000500
+inv_carthago_kerkouane	false		F0F0F0
+inv_carthago_utica	false		000A00
+inv_corsica_aethalia	false	inv_wonder_aethalia_chimneys	FF0000
+inv_corsica_aleria	false		002300
+inv_corsica_mantinorum	false		002D00
+inv_corsica_pallas	false		002800
+inv_elymia_agrigento	false	inv_wonder_heroon_of_theron	003200
+inv_elymia_entella	false	inv_wonder_ruins_of_selinunte	003700
+inv_elymia_motya	false		004100
+inv_elymia_panormus	false		003C00
+inv_etruria_luna	false		000073
+inv_etruria_pisa	false		00006E
+inv_etruria_sarsina	false		00007D
+inv_etruria_viesul	false		000078
+inv_frentania_aesernia	false		00D200
+inv_frentania_histonium	false		00D700
+inv_frentania_teate	false		00E100
+inv_gallia_cispadana_felsina	false		0000A0
+inv_gallia_cispadana_parma	false		00009B
+inv_gallia_cispadana_placentia	false		000096
+inv_gallia_cispadana_ravenna	false		0000A5
+inv_gallia_transpadana_brixia	false		0000CD
+inv_gallia_transpadana_eporedia	false		0000C3
+inv_gallia_transpadana_mediolanum	false		0000BE
+inv_gallia_transpadana_vercelum	false		0000C8
+inv_ioleia_bosa	false		001900
+inv_ioleia_caralis	false		000F00
+inv_ioleia_su_nuraxi	false	inv_wonder_great_nuragic_fortified_temple	001400
+inv_ioleia_sulci	false		001E00
+inv_italia_hipponion	false		005F00
+inv_italia_locri	false		00050F
+inv_italia_rhegion	false		000514
+inv_italia_skyllition	false		006400
+inv_latium_anagni	false		00EB00
+inv_latium_antium	false		00E600
+inv_latium_casinum	false		00F000
+inv_latium_fregellae	false		05F000
+inv_lepontii_clavenna	false		0A0000
+inv_lepontii_comum	false		050000
+inv_lepontii_oscela	false		050500
+inv_liguria_albingaunum	false		0000AF
+inv_liguria_asta	false		0000B4
+inv_liguria_retovium	false		0000B9
+inv_liguria_stalia	false		0000AA
+inv_lucania_aceruntia	false		007D00
+inv_lucania_elea	false		007300
+inv_lucania_herakleia	false	inv_wonder_ruins_of_siris	007800
+inv_lucania_potentia	false		006E00
+inv_picenum_ausculum	false		00000F
+inv_picenum_firmum	false		000019
+inv_picenum_hadria	false		000014
+inv_raetia_bergamum	false		0000FA
+inv_raetia_feltria	false		0000FF
+inv_raetia_sebatum	false	inv_wonder_peaks_of_splendour	010000
+inv_raetia_tridentum	false		0000F5
+inv_riv_padus	true		0000E6
+inv_roma_ostia	false		00FA00
+inv_roma_roma	false	inv_wonder_temple_of_albunea	00F500
+inv_sabinium_alba_fucens	false		000A0A
+inv_sabinium_cures	false		000005
+inv_sabinium_nursia	false	ivn_wonder_corno_grande	00000A
+inv_sabinium_reate	false		00FF00
+inv_samnium_bovianum	false		00BE00
+inv_samnium_compsa	false		00C800
+inv_samnium_corfinium	false		00CD00
+inv_samnium_terventum	false		00C300
+inv_sea_fretum_siculum	true		323200
+inv_sea_fretum_yapigium	true		414100
+inv_sea_lake	true		B4B400
+inv_sea_mare_adriaticum	true		464600
+inv_sea_mare_africum	true		232300
+inv_sea_mare_corsicum	true		141400
+inv_sea_mare_ionium	true		373700
+inv_sea_mare_ligusticum	true		0F0F00
+inv_sea_mare_sadroum	true		1E1E00
+inv_sea_mare_siculum	true		2D2D00
+inv_sea_mare_tyrrhenum	true		191900
+inv_sea_sinus_laus	true		282800
+inv_sea_sinus_tarentinus	true		3C3C00
+inv_sea_sinus_venetus	true		4B4B00
+inv_senonia_ariminum	false		000082
+inv_senonia_caesena	false		000091
+inv_senonia_sena	false		000087
+inv_sicania_agyrion	false		A5A500
+inv_sicania_catana	false		AFAF00
+inv_sicania_cephaloidis	false	inv_wonder_tropaion_of_himera	AAAA00
+inv_sicania_messene	false		0000E1
+inv_sikelia_gela	false		004B00
+inv_sikelia_hybla_heraea	false		FAFAFA
+inv_sikelia_leontini	false	inv_wonder_latomies	005500
+inv_sikelia_syracuse	false	inv_wonder_great_theatre_of_syracuse	004600
+inv_tarchuna_fufluna	false	inv_wonder_tombs_of_the_first_kings	000055
+inv_tarchuna_tarchuna	false	inv_wonders_terme_di_saturnia	000046
+inv_tarchuna_vatluna	false		000050
+inv_tarchuna_velusna	false		00004B
+inv_terra_incognita	false		DCDC00
+inv_tuscia_aritim	false		00005A
+inv_tuscia_clevsin	false	inv_wonder_sacred_tombs_of_orcla	00005F
+inv_tuscia_felathri	false	inv_wonder_tomb_lars_porsenna	000069
+inv_tuscia_siena	false		000064
+inv_umbria_iguvium	false		00003C
+inv_umbria_perusia	false	inv_wonder_fanum_voltumnae	000041
+inv_umbria_sestinum	false		000037
+inv_umbria_spolettium	false		000032
+inv_vei_caere	false	inv_wonder_city_of_the_dead	00002D
+inv_vei_vei	false	inv_wonder_temple_of_apulu	000023
+inv_venetia_patavium	false		0000D2
+inv_venetia_tarvisium	false		0000D7
+inv_venetia_tegeste	false		0000F0
+inv_venetia_vedinum	false		0000DC
+pel_aigian_khios	false		010000
+pel_aigian_mytilene	false		050000
+pel_aigian_oinoi	false		0A0000
+pel_aigian_samos	false		0F0000
+pel_aitolia_naupaktos	false		140000
+pel_aitolia_thermon	false		190000
+pel_ambrakia_ambrakia	false		1E0000
+pel_ambrakia_anaktorio	false		230000
+pel_ambrakia_pronnoi	false		280000
+pel_amphipolis_amphipolis	false		2D0000
+pel_amphipolis_krinides	false		320000
+pel_argolis_argos	false		370000
+pel_argolis_korinthos	false		3C0000
+pel_argolis_mantinea	false		410000
+pel_argolis_melos	false		460000
+pel_attike_athenai	false	pel_wonder_acropolis	4B0000
+pel_attike_laviro	false	pel_wonder_silver_mines_lavrio	500000
+pel_attike_naxos	false		550000
+pel_attike_paros	false		5A0000
+pel_boiotia_delphi	false	pel_wonder_oracle_delphi	5F0000
+pel_boiotia_lamia	false		640000
+pel_boiotia_opos	false		690000
+pel_boiotia_thebai	false		6E0000
+pel_dodekanisa_karpathos	false		730000
+pel_dodekanisa_kos	false		780000
+pel_dodekanisa_lindos	false		7D0000
+pel_dodekanisa_rodos	false		820000
+pel_elis_elis	false		870000
+pel_elis_olympia	false	pel_wonder_zeus_olympia	8C0000
+pel_elis_patrai	false		910000
+pel_elis_zakynthos	false		960000
+pel_epeiros_antigonia	false		FF00FF
+pel_epeiros_dodona	false	pel_wonder_oracle_dodona	9B0000
+pel_epeiros_elaea	false		A00000
+pel_epeiros_korkyra	false		A50000
+pel_euboia_andros	false		AA0000
+pel_euboia_kalkis	false		AF0000
+pel_euboia_karystos	false		B40000
+pel_euboia_oreos	false		B90000
+pel_hellespontos_byzantion	false		C30000
+pel_hellespontos_kypsela	false		C80000
+pel_hellespontos_perinthos	false		CD0000
+pel_hellespontos_sestos	false		BE0000
+pel_ionia_ephesos	false	pel_wonder_temple_artemis	D20000
+pel_ionia_halikarnassos	false		D70000
+pel_ionia_knidos	false		DC0000
+pel_ionia_miletos	false	pel_wonder_oracle_didyma	E10000
+pel_kalkidike_mende	false		E60000
+pel_kalkidike_olinthos	false		EB0000
+pel_kalkidike_torone	false		F00000
+pel_karia_kibyra	false		F50000
+pel_karia_kolossai	false		FA0000
+pel_karia_phaselis	false		FF0000
+pel_karia_xanthos	false		000500
+pel_krete_gortyna	false		000A00
+pel_krete_knossos	false	pel_wonder_palace_knossos	000F00
+pel_krete_kydonia	false		001400
+pel_lakedaimon_kythera	false		001900
+pel_lakedaimon_messenia	false		001E00
+pel_lakedaimon_pylos	false		002300
+pel_lakedaimon_sparta	false		002800
+pel_lydia_sardeis	false		002D00
+pel_lydia_smyrna	false		003200
+pel_makedon_aigai	false	pel_wonder_royal_tombs_makedon	003700
+pel_makedon_argos_orestiko	false		003C00
+pel_makedon_arnisa	false		004100
+pel_makedon_dion	false	pel_wonder_mount_olympus	004600
+pel_minor_cyclades	false		EB0000
+pel_minor_dodecanese	false		EB0000
+pel_minor_islands	false		EB0000
+pel_minor_saronic	false		EB0000
+pel_minor_sporades	false		EB0000
+pel_mysia_ilion	false	pel_wonder_ruin_troy	004B00
+pel_mysia_kyzikos	false		005000
+pel_mysia_myrina	false		005500
+pel_mysia_pergamon	false		005A00
+pel_sea_arkipelago	true		2D2D00
+pel_sea_dodekanisa	true		232300
+pel_sea_euripos	true		373700
+pel_sea_ikario-pelagos	true		282800
+pel_sea_ionian_pelagos	true		141400
+pel_sea_korinthiakos_kolpos	true		191900
+pel_sea_kritiko_pelgao	true		1E1E00
+pel_sea_lake	true		0F0F00
+pel_sea_propontis	true		373700
+pel_sea_thrakiko_pelagos	true		323200
+pel_terra_incognita	false		DCDC00
+pel_thessaly_larisa	false		005F00
+pel_thessaly_pharsalos	false		006400
+pel_thessaly_pherae	false		006900
+pel_thraike_abdera	false		006E00
+pel_thraike_ainos	false	pel_wonder_sanctuary_great_gods	007300
+pel_thraike_maroneia	false		007800
+pel_thraike_thasos	false		007D00
+pro_campania_campania	false		FF8644
+pro_campania_cilento	false		FF9F84
+pro_latium_latium	false		AD2626
+pro_latium_volsci	false		CE6B6B
+pro_magna_grecia_calabria	false		FFF723
+pro_magna_grecia_italia	false		FFBE56
+pro_magna_grecia_lucania	false		FF6A00
+pro_samnium_apulia	false		629F00
+pro_samnium_irpinia	false		36B500
+pro_samnium_pentria	false		267F00
+pro_samnium_umbria	false		8AC100
+pro_sea_mare_adriaticum	true		141419
+pro_sea_mare_africum	true		232319
+pro_sea_mare_ionium	true		4B4B19
+pro_sea_mare_tyrrhenum	true		5A5A19
+pro_sea_mare_tyrrhenum_australis	true		6E6E19
+pro_terra_incognita	false		DCDC19
+pun_africa_capsa	false		969664
+pun_africa_carthago	false	settlement_carthago	8C8C64
+pun_africa_hadrumentum	false		919164
+pun_aquitania_burdigala	false		9B9B00
+pun_aquitania_iruna	false		969600
+pun_celtiberia_libisosa	false		8C8C00
+pun_celtiberia_numantia	false		878700
+pun_celtiberia_toletum	false		919100
+pun_corsica_et_sardinia_alalia	false		5F5F64
+pun_corsica_et_sardinia_karalis	false		555564
+pun_corsica_et_sardinia_olbia	false		5A5A64
+pun_etruria_arretium	false		D2D200
+pun_etruria_pisae	false		CDCD00
+pun_etruria_tarquinii	false		C8C800
+pun_gallaecia_asturica	false		323200
+pun_gallaecia_lugos	false		3C3C00
+pun_gallaecia_pallantia	false		373700
+pun_gallaecia_portus_amanum	false		414100
+pun_gallia_cisalpina_genua	false		C3C300
+pun_gallia_cisalpina_patavium	false		B4B400
+pun_gallia_cisalpina_placentia	false		B9B900
+pun_gallia_cisalpina_vercellae	false		BEBE00
+pun_gallia_transalpina_lugdunum	false		AFAF00
+pun_gallia_transalpina_massilia	false		A0A000
+pun_gallia_transalpina_nemausus	false		AAAA00
+pun_gallia_transalpina_tolosa	false		A5A500
+pun_hispania_citerior_cissis	false		7D7D00
+pun_hispania_citerior_emporiae	false		737300
+pun_hispania_citerior_ilerda	false		787800
+pun_hispania_citerior_salduba	false		828200
+pun_hispania_ulterior_carthago_nova	false		5F5F00
+pun_hispania_ulterior_ibossim	false		6E6E00
+pun_hispania_ulterior_ilici	false		646400
+pun_hispania_ulterior_saguntum	false		696900
+pun_latium_et_campania_capua	false		F0F000
+pun_latium_et_campania_roma	false	settlement_rome	EBEB00
+pun_latium_et_campania_tarracina	false		DCEB32
+pun_lusitania_ebora	false		505000
+pun_lusitania_helmantica	false		4B4B00
+pun_lusitania_olisipo	false		464600
+pun_magna_graecia_buxentum	false		414164
+pun_magna_graecia_croton	false		373764
+pun_magna_graecia_tarentum	false		323264
+pun_magna_graecia_thurii	false		3C3C64
+pun_mauretania_rutubis	false		696964
+pun_mauretania_siga	false		737364
+pun_mauretania_tingis	false		646464
+pun_mauretania_volubilis	false		6E6E64
+pun_numidia_cirta	false		787864
+pun_numidia_hippo_regius	false		878764
+pun_numidia_iol	false		828264
+pun_numidia_sitifi	false		7D7D64
+pun_samnium_barium	false		FFFF00
+pun_samnium_beneventum	false		F5F500
+pun_samnium_sipontum	false		FAFA00
+pun_sea_atlanticus_oceanus	true		6969FA
+pun_sea_gaditanum_fretum	true		6464FA
+pun_sea_lacus_benacus	true		1919FA
+pun_sea_lacus_salinarum	true		5F5FFA
+pun_sea_lacus_trasimenus	true		1414FA
+pun_sea_lacus_volsiniensis	true		1E1EFA
+pun_sea_mare_adriaticum	true		2323FA
+pun_sea_mare_africum	true		2D2DFA
+pun_sea_mare_baliaricum	true		3737FA
+pun_sea_mare_gallicum	true		3C3CFA
+pun_sea_mare_hispanum	true		5555FA
+pun_sea_mare_ibericum	true		3232FA
+pun_sea_mare_internum	true		5A5AFA
+pun_sea_mare_ionium	true		4B4BFA
+pun_sea_mare_ligusticum	true		4141FA
+pun_sea_mare_sardoum	true		4646FA
+pun_sea_mare_siculum	true		5050FA
+pun_sea_mare_tyrrenum	true		2828FA
+pun_sicilia_lilybaeum	false		505064
+pun_sicilia_messana	false		4B4B64
+pun_sicilia_syracuse	false		464664
+pun_terra_incognita	false		141414
+pun_tripolitana_leptis_magna	false		A0A064
+pun_tripolitana_tacapae	false		9B9B64
+pun_tripolitana_thenteos	false		AAAA64
+pun_tripolitana_turris_tamalleni	false		A5A564
+pun_turdetania_gades	false		5A5A00
+pun_turdetania_kartuba	false		555500
+pun_umbria_et_picenum_ancona	false		E6E600
+pun_umbria_et_picenum_corfinium	false		D7D700
+pun_umbria_et_picenum_pisaurum	false		E1E100
+pun_umbria_et_picenum_spoletium	false		DCDC00
+rom_aegyptos_ta_abt	false		010000
+rom_aegyptos_ta_ament	false	rom_wonder_necropolis_giza	050000
+rom_aegyptos_ta_mehu	false	rom_wonder_pharos_alexandria	0A0000
+rom_aegyptos_ta_shemau	false		0F0000
+rom_africa_byzacium	false		140000
+rom_africa_syrtis	false		190000
+rom_africa_tripolis	false		1E0000
+rom_africa_zeugitana	false	settlement_carthago	230000
+rom_aithiops_ityopya	false		280000
+rom_aithiops_kush	false		2D0000
+rom_aithiops_medjay	false		320000
+rom_aquitania_aquitania	false		370000
+rom_aquitania_gergovia	false		3C0000
+rom_aquitania_pictavis	false		410000
+rom_arabia_felix_himyar	false		460000
+rom_arabia_felix_maka	false		4B0000
+rom_arabia_felix_saba	false		500000
+rom_arabia_magna_dilmun	false		550000
+rom_arabia_magna_kedar	false		5A0000
+rom_arabia_magna_lathrippa	false		5F0000
+rom_arachosia_arachosia	false		640000
+rom_arachosia_paropamisadae	false		690000
+rom_aria_aria	false		6E0000
+rom_aria_drangiana	false		730000
+rom_aria_margiana	false		780000
+rom_armenia_armenia	false		7D0000
+rom_armenia_corduene	false		820000
+rom_armenia_sophene	false		870000
+rom_asia_lydia	false	rom_wonder_mausoleum_mausolus	8C0000
+rom_asia_mysia	false	settlement_pergamon	910000
+rom_asia_phrygia	false		960000
+rom_asia_rhodes	false	rom_wonder_colossus_rhodes	FF00FF
+rom_bactria_baktria	false	settlement_baktra	9B0000
+rom_bactria_tocharia	false		A00000
+rom_baetica_baeturia	false		A50000
+rom_baetica_turdetania	false	rom_wonder_pillars_hercules	AA0000
+rom_belgica_arduenna_silva	false		AF0000
+rom_belgica_silva_carbonaria	false		B40000
+rom_bithynia_et_pontus_bythynia	false		B90000
+rom_bithynia_et_pontus_paphlagonia	false		BE0000
+rom_bithynia_et_pontus_pontos	false		C30000
+rom_bithynia_et_pontus_riza	false		C80000
+rom_bosporus_maeotia	false		CD0000
+rom_bosporus_sindica	false		D20000
+rom_bosporus_taurica	false		D70000
+rom_britannia_brigantia	false		DC0000
+rom_britannia_britannia	false		E10000
+rom_britannia_demetia	false		E60000
+rom_britannia_dumnonia	false	rom_wonder_stonehenge	EB0000
+rom_caledonia_et_hibernia_caledonia	false		F00000
+rom_caledonia_et_hibernia_hibernia	false		F50000
+rom_carmania_eremos_karmania	false	rom_wonder_bam_citadel	FA0000
+rom_carmania_karmania	false		FF0000
+rom_cartaginensis_baleareis	false		000500
+rom_cartaginensis_bastetania	false		000A00
+rom_cartaginensis_celtiberia	false		000F00
+rom_cartaginensis_edetania	false		001400
+rom_caucasia_albania	false		001900
+rom_caucasia_colchis	false		001E00
+rom_caucasia_iberia	false		002300
+rom_celtica_aremorica	false	rom_wonder_karnag	002800
+rom_celtica_lugdunensis	false		002D00
+rom_celtica_lutetia	false		003200
+rom_chorasmia_korasmia	false		003700
+rom_chorasmia_transcaspia	false		003C00
+rom_cilicia_cilicia	false		004100
+rom_cilicia_cyprus	false		004600
+rom_cilicia_pamphylia	false		004B00
+rom_cisalpina_insubria	false		005000
+rom_cisalpina_liguria	false		005500
+rom_cisalpina_venetia	false		005A00
+rom_corsica_et_sardinia_corsica	false		005F00
+rom_corsica_et_sardinia_sardinia	false		006400
+rom_dacia_bastarnia	false		006900
+rom_dacia_dacia_inferior	false		006E00
+rom_dacia_dacia_superior	false	rom_wonder_kogaionon	007300
+rom_galatia_et_cappadocia_cappadocia	false	rom_wonder_mount_argaeus	007800
+rom_galatia_et_cappadocia_commagene	false		007D00
+rom_galatia_et_cappadocia_galatia	false		008200
+rom_galatia_et_cappadocia_lycaonia	false		008700
+rom_gedrosia_gedrosia	false		008C00
+rom_gedrosia_rhambacia	false		009100
+rom_germania_minor_germania_inferior	false		009600
+rom_germania_minor_germania_superior	false		009B00
+rom_hellas_attiki	false		00A000
+rom_hellas_creta	false		00A500
+rom_hellas_peloponnesos	false	rom_wonder_olympia	00AA00
+rom_hercynia_hercynia_silva	false		00AF00
+rom_hercynia_luna_silva	false		00B400
+rom_illyria_dalmatia	false		00B900
+rom_illyria_illyria	false		00BE00
+rom_illyria_liburnia	false		00C300
+rom_italia_etruria	false		00C800
+rom_italia_latium	false	settlement_rome	00CD00
+rom_italia_picenum	false		00D200
+rom_italia_samnium	false	rom_wonder_mount_vesuvius	00D700
+rom_libue_cyrenaica	false		00DC00
+rom_libue_marmarica	false		00E100
+rom_libue_oases	false		00E600
+rom_libue_siwa	false	rom_wonder_oracle_amun_re	00EB00
+rom_lusitania_celtica	false		00F000
+rom_lusitania_lusitania	false		00F500
+rom_macedonia_epeiros	false		00FA00
+rom_macedonia_makedonia	false	settlement_pella	00FF00
+rom_macedonia_thessalia	false	rom_wonder_mount_olympus	000005
+rom_magna_germania_frisia	false		00000A
+rom_magna_germania_silva_bacenis	false		00000F
+rom_magna_germania_silva_nigra	false		000014
+rom_magna_graecia_bruttium	false		000019
+rom_magna_graecia_calabria	false		00001E
+rom_magna_graecia_lilybaion	false		000023
+rom_magna_graecia_sirako	false	rom_wonder_mount_etna	000028
+rom_mauretania_atlas	false		00002D
+rom_mauretania_gaetulia	false		000032
+rom_mauretania_numidia	false		000037
+rom_mauretania_tingitana	false	rom_wonder_pillars_hercules	00003C
+rom_media_magna_atropatene	false		000041
+rom_media_magna_media	false		000046
+rom_media_magna_rhagau	false		00004B
+rom_mesopotamia_athura	false		000050
+rom_mesopotamia_babylonia	false	rom_wonder_babylon	000055
+rom_mesopotamia_mesene	false		00005A
+rom_mesopotamia_osroene	false		00005F
+rom_nabataea_havilah	false		000064
+rom_nabataea_iudaea	false		000069
+rom_nabataea_jordan	false		00006E
+rom_nabataea_lihyan	false		000073
+rom_pannonia_pannonia_inferior	false		000078
+rom_pannonia_pannonia_superior	false		00007D
+rom_pannonia_transdanubia	false		000082
+rom_parthia_astauene	false		000087
+rom_parthia_hyrcania	false	rom_wonder_mount_damavand	00008C
+rom_parthia_parthia	false		000091
+rom_parthia_traxiane	false		000096
+rom_persis_elam	false	rom_wonder_mount_behistun	00009B
+rom_persis_lyan	false		0000A0
+rom_persis_parsa	false	rom_wonder_necropolis_rostam	0000A5
+rom_phazania_tidamensi	false		0000AA
+rom_phazania_zinchecra	false		0000AF
+rom_ponto_caspia_cimmeria	false		0000B4
+rom_ponto_caspia_didoya	false		0000B9
+rom_ponto_caspia_oium	false		0000BE
+rom_ponto_caspia_zyx	false		0000C3
+rom_provincia_narbonensis	false		0000C8
+rom_provincia_transalpina	false		0000CD
+rom_raetia_et_noricum_helvetia	false		0000D2
+rom_raetia_et_noricum_noricum	false		0000D7
+rom_raetia_et_noricum_raetia	false		0000DC
+rom_riv_danuvius	true		0000E1
+rom_riv_nilos	true		0000E6
+rom_riv_rhenus	true		0000EB
+rom_sarmatia_aestia	false		0000F0
+rom_sarmatia_galicia	false		0000F5
+rom_sarmatia_pripet	false		0000FA
+rom_scythia_scythia	false		0000FF
+rom_scythia_turan	false		050500
+rom_scythia_usturt	false		0A0A00
+rom_sea_lake	true		0F0F00
+rom_sea_mare_adriaticum	true		141400
+rom_sea_mare_aegaeum	true		191900
+rom_sea_mare_aegyptum	true		1E1E00
+rom_sea_mare_africum	true		232300
+rom_sea_mare_carpathium	true		282800
+rom_sea_mare_caspium	true		2D2D00
+rom_sea_mare_hibernicum	true		323200
+rom_sea_mare_hispanum	true		373700
+rom_sea_mare_ibericum	true		3C3C00
+rom_sea_mare_indicum	true		414100
+rom_sea_mare_internum	true		464600
+rom_sea_mare_ionium	true		4B4B00
+rom_sea_mare_phoenicum	true		505000
+rom_sea_mare_suevicum	true		555500
+rom_sea_mare_tyrrhenum	true		5A5A00
+rom_sea_oceanus_atlanticus	true		5F5F00
+rom_sea_oceanus_britannicus	true		646400
+rom_sea_oceanus_gallicus	true		696900
+rom_sea_oceanus_germanicus	true		6E6E00
+rom_sea_pontus_cimmerius	true		737300
+rom_sea_pontus_euxinus	true		787800
+rom_sea_pontus_thracius	true		7D7D00
+rom_sea_sinus_aquitanus	true		828200
+rom_sea_sinus_arabicus	true		878700
+rom_sea_sinus_gallicus	true		8C8C00
+rom_sea_sinus_persicus	true		919100
+rom_sea_syrtis	true		969600
+rom_silesia_leda	false		9B9B00
+rom_silesia_silesia	false		A0A000
+rom_suebia_bomeranorum	false		A5A500
+rom_suebia_cimbria	false		AAAA00
+rom_suebia_lusatia	false		AFAF00
+rom_suebia_rugia	false		B4B400
+rom_syria_aram	false		B9B900
+rom_syria_eremos_syria	false		BEBE00
+rom_syria_phonecia	false		C3C300
+rom_syria_syria	false	settlement_antioch	C8C800
+rom_tarraconensis_callaecia	false		CDCD00
+rom_tarraconensis_cantabria	false		D2D200
+rom_tarraconensis_tarraconensis	false		D7D700
+rom_terra_incognita	false		DCDC00
+rom_thracia_byzantion	false		E1E100
+rom_thracia_dardania	false		E6E600
+rom_thracia_moesia	false		EBEB00
+rom_thracia_thracia	false	rom_wonder_sanctuary_great_gods	F0F000
+rom_transoxania_kangju	false		F5F500
+rom_transoxania_sodgiana	false		FAFA00

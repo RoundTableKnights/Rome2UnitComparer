@@ -1,0 +1,12 @@
+key	autonomous_engine	models_entity_weaponry	type
+#naval_weapons_tables;2;db/naval_weapons_tables/naval_weapons			
+egyptian_fighting_tower		egyptian_light_tower	fighting_towers
+egyptian_heavy_tower		egyptian_heavy_tower	fighting_towers
+fire_pots		fire_pots	fire_pots
+greek_heavy_tower		greek_heavy_tower	fighting_towers
+greek_light_tower		greek_light_tower	fighting_towers
+harpax	harpax		grappling_engine
+persian_fighting_tower		persian_light_fighting_tower	fighting_towers
+roman_fighting_tower		roman_light_fighting_tower	fighting_towers
+scorpio	scorpio		autonomous_engine
+scorpio_shp	scorpio_shp		autonomous_engine

@@ -1,0 +1,559 @@
+key	playable	ui_icon	effect_bundle	initial_power	r	g	b	trait1	trait2
+#political_parties_tables;5;db/political_parties_tables/political_parties									
+3c_politics_alani_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	
+3c_politics_alani_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+3c_politics_alani_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_militarist	
+3c_politics_alani_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_pacifist	
+3c_politics_alani_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+3c_politics_alani_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+3c_politics_alani_ruler	true	x	3c_faction_trait_alani	35	210.0000	99.0000	43.0000		
+3c_politics_armenia_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_populist	polit_trait_thirst_for_power
+3c_politics_armenia_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_hates_easterners	
+3c_politics_armenia_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_xenophobe	
+3c_politics_armenia_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_xenophile	polit_trait_diplomat
+3c_politics_armenia_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_likes_greeks	
+3c_politics_armenia_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000	polit_trait_hates_greeks	
+3c_politics_armenia_ruler	true	x	3c_faction_trait_armenia	35	210.0000	99.0000	43.0000		
+3c_politics_caledones_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_xenophile	polit_trait_diplomat
+3c_politics_caledones_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+3c_politics_caledones_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+3c_politics_caledones_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_pacifist	
+3c_politics_caledones_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+3c_politics_caledones_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+3c_politics_caledones_ruler	true	x	3c_faction_trait_caledoni	35	210.0000	99.0000	43.0000		
+3c_politics_gallicemp_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_xenophobe
+3c_politics_gallicemp_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_expansionist	
+3c_politics_gallicemp_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_traditionalist	
+3c_politics_gallicemp_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+3c_politics_gallicemp_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_pacifist	
+3c_politics_gallicemp_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000	polit_trait_agriculturalist	polit_trait_populist
+3c_politics_gallicemp_ruler	true	x	3c_faction_trait_gallic_empire	35	210.0000	99.0000	43.0000		
+3c_politics_gothi_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	
+3c_politics_gothi_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+3c_politics_gothi_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_militarist	
+3c_politics_gothi_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_pacifist	
+3c_politics_gothi_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+3c_politics_gothi_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+3c_politics_gothi_ruler	true	x	3c_faction_trait_gothi	35	210.0000	99.0000	43.0000		
+3c_politics_marcomanni_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	
+3c_politics_marcomanni_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+3c_politics_marcomanni_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_militarist	
+3c_politics_marcomanni_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_pacifist	
+3c_politics_marcomanni_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+3c_politics_marcomanni_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+3c_politics_marcomanni_ruler	true	x	3c_faction_trait_marcomanni	35	210.0000	99.0000	43.0000		
+3c_politics_palmyra_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_xenophobe
+3c_politics_palmyra_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_expansionist	
+3c_politics_palmyra_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_traditionalist	
+3c_politics_palmyra_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+3c_politics_palmyra_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_pacifist	
+3c_politics_palmyra_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000	polit_trait_agriculturalist	polit_trait_populist
+3c_politics_palmyra_ruler	true	x	3c_faction_trait_palmyrene_empire	35	210.0000	99.0000	43.0000		
+3c_politics_rome_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_xenophobe
+3c_politics_rome_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_expansionist	
+3c_politics_rome_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_traditionalist	
+3c_politics_rome_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+3c_politics_rome_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_pacifist	
+3c_politics_rome_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000	polit_trait_agriculturalist	polit_trait_populist
+3c_politics_rome_ruler	true	x	3c_faction_trait_roman_empire	35	210.0000	99.0000	43.0000		
+3c_politics_sassanid_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	
+3c_politics_sassanid_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_pacifist	
+3c_politics_sassanid_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_xenophobe	
+3c_politics_sassanid_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_xenophile	
+3c_politics_sassanid_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_mercantile	
+3c_politics_sassanid_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+3c_politics_sassanid_ruler	true	x	3c_faction_trait_sassanid_empire	35	210.0000	99.0000	43.0000		
+3c_politics_saxones_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_hates_barbarians	polit_trait_thirst_for_power
+3c_politics_saxones_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+3c_politics_saxones_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+3c_politics_saxones_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_pacifist	
+3c_politics_saxones_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+3c_politics_saxones_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+3c_politics_saxones_ruler	true	x	3c_faction_trait_saxoni	35	210.0000	99.0000	43.0000		
+emp_politics_rome_antony_council	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_xenophobe
+emp_politics_rome_antony_libertini	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_pacifist	
+emp_politics_rome_antony_proletarii	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000	polit_trait_agriculturalist	polit_trait_populist
+emp_politics_rome_antony_ruler	true	x	emp_faction_trait_rome_antony	65	210.0000	99.0000	43.0000		
+emp_politics_rome_antony_viri_egregii	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_expansionist	
+emp_politics_rome_antony_viri_eminentissimi	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+emp_politics_rome_antony_viri_perfectissimi	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_traditionalist	
+emp_politics_rome_armenia_artsakh	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_likes_greeks	
+emp_politics_rome_armenia_ayrarat	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000	polit_trait_hates_easterners	
+emp_politics_rome_armenia_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_populist	polit_trait_thirst_for_power
+emp_politics_rome_armenia_ruler	true	x	emp_faction_trait_eastern_armenia	60	210.0000	99.0000	43.0000		
+emp_politics_rome_armenia_tayk	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_hates_greeks	
+emp_politics_rome_armenia_turuberan	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_xenophobe	
+emp_politics_rome_armenia_utik	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_xenophile	polit_trait_diplomat
+emp_politics_rome_dacia_bull	false	x	rom_dummy_effect_bundle	67	237.0000	231.0000	73.0000	polit_trait_hates_greeks	
+emp_politics_rome_dacia_council	false	x	rom_dummy_effect_bundle	67	98.0000	176.0000	228.0000	polit_trait_agriculturalist	polit_trait_pacifist
+emp_politics_rome_dacia_earth	false	x	rom_dummy_effect_bundle	67	229.0000	161.0000	44.0000	polit_trait_agriculturalist	
+emp_politics_rome_dacia_golden_eagle	false	x	rom_dummy_effect_bundle	67	254.0000	229.0000	216.0000	polit_trait_likes_romans	
+emp_politics_rome_dacia_ruler	true	x	emp_faction_trait_daco_thracian_dacia	33	210.0000	99.0000	43.0000		
+emp_politics_rome_dacia_sky	false	x	rom_dummy_effect_bundle	67	34.0000	112.0000	177.0000	polit_trait_likes_greeks	
+emp_politics_rome_dacia_sun	false	x	rom_dummy_effect_bundle	67	0.0000	158.0000	115.0000		
+emp_politics_rome_egypt_carthage	false	x	rom_dummy_effect_bundle	55	237.0000	231.0000	73.0000	polit_trait_mercantile	
+emp_politics_rome_egypt_council	false	x	rom_dummy_effect_bundle	55	98.0000	176.0000	228.0000	polit_trait_likes_greeks	polit_trait_thirst_for_power
+emp_politics_rome_egypt_egyptian	false	x	rom_dummy_effect_bundle	55	254.0000	229.0000	216.0000	polit_trait_traditionalist	polit_trait_xenophobe
+emp_politics_rome_egypt_indian	false	x	rom_dummy_effect_bundle	55	0.0000	158.0000	115.0000		
+emp_politics_rome_egypt_jewish	false	x	rom_dummy_effect_bundle	55	34.0000	112.0000	177.0000	polit_trait_hates_greeks	polit_trait_hates_romans
+emp_politics_rome_egypt_parthian	false	x	rom_dummy_effect_bundle	55	229.0000	161.0000	44.0000	polit_trait_likes_easterners	
+emp_politics_rome_egypt_pretenders	false	x	rom_dummy_effect_bundle	40	245.0000	245.0000	15.0000	polit_trait_hates_romans	
+emp_politics_rome_egypt_ruler	true	x	emp_faction_trait_successors_egypt	45	210.0000	99.0000	43.0000	polit_trait_likes_romans	
+emp_politics_rome_iceni_angry_beast	false	x	rom_dummy_effect_bundle	41	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+emp_politics_rome_iceni_council	false	x	rom_dummy_effect_bundle	41	98.0000	176.0000	228.0000	polit_trait_xenophile	polit_trait_diplomat
+emp_politics_rome_iceni_hill_warriors	false	x	rom_dummy_effect_bundle	41	0.0000	158.0000	115.0000		
+emp_politics_rome_iceni_iron_axe	false	x	rom_dummy_effect_bundle	41	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+emp_politics_rome_iceni_ruler	true	x	emp_faction_trait_britannic_iceni	59	210.0000	99.0000	43.0000		
+emp_politics_rome_iceni_warhorse	false	x	rom_dummy_effect_bundle	41	237.0000	231.0000	73.0000		
+emp_politics_rome_iceni_wooden_shield	false	x	rom_dummy_effect_bundle	41	34.0000	112.0000	177.0000	polit_trait_pacifist	
+emp_politics_rome_lepidus_council	false	x	rom_dummy_effect_bundle	60	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_xenophobe
+emp_politics_rome_lepidus_libertini	false	x	rom_dummy_effect_bundle	60	229.0000	161.0000	44.0000	polit_trait_pacifist	
+emp_politics_rome_lepidus_proletarii	false	x	rom_dummy_effect_bundle	60	237.0000	231.0000	73.0000	polit_trait_agriculturalist	polit_trait_populist
+emp_politics_rome_lepidus_ruler	true	x	emp_faction_trait_rome_lepidus	40	210.0000	99.0000	43.0000		
+emp_politics_rome_lepidus_viri_egregii	false	x	rom_dummy_effect_bundle	60	0.0000	158.0000	115.0000	polit_trait_expansionist	
+emp_politics_rome_lepidus_viri_eminentissimi	false	x	rom_dummy_effect_bundle	60	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+emp_politics_rome_lepidus_viri_perfectissimi	false	x	rom_dummy_effect_bundle	60	254.0000	229.0000	216.0000	polit_trait_traditionalist	
+emp_politics_rome_marcomanni_council	false	x	rom_dummy_effect_bundle	62	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	
+emp_politics_rome_marcomanni_giant_deer	false	x	rom_dummy_effect_bundle	62	34.0000	112.0000	177.0000	polit_trait_pacifist	
+emp_politics_rome_marcomanni_golden_beast	false	x	rom_dummy_effect_bundle	62	229.0000	161.0000	44.0000		
+emp_politics_rome_marcomanni_red_eagle	false	x	rom_dummy_effect_bundle	62	0.0000	158.0000	115.0000		
+emp_politics_rome_marcomanni_ruler	true	x	emp_faction_trait_germanic_marcomanni	38	210.0000	99.0000	43.0000		
+emp_politics_rome_marcomanni_steppe_lords	false	x	rom_dummy_effect_bundle	62	254.0000	229.0000	216.0000	polit_trait_militarist	
+emp_politics_rome_marcomanni_wooden_bow	false	x	rom_dummy_effect_bundle	62	237.0000	231.0000	73.0000		
+emp_politics_rome_octavian_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_xenophobe
+emp_politics_rome_octavian_libertini	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_pacifist	
+emp_politics_rome_octavian_proletarii	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_agriculturalist	polit_trait_populist
+emp_politics_rome_octavian_ruler	true	x	emp_faction_trait_rome_octavian	60	210.0000	99.0000	43.0000		
+emp_politics_rome_octavian_viri_egregii	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000	polit_trait_expansionist	
+emp_politics_rome_octavian_viri_eminentissimi	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+emp_politics_rome_octavian_viri_perfectissimi	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_traditionalist	
+emp_politics_rome_parthia_council	false	x	rom_dummy_effect_bundle	55	98.0000	176.0000	228.0000	polit_trait_likes_easterners	polit_trait_thirst_for_power
+emp_politics_rome_parthia_karen	false	x	rom_dummy_effect_bundle	55	0.0000	158.0000	115.0000	polit_trait_likes_easterners	polit_trait_expansionist
+emp_politics_rome_parthia_mihran	false	x	rom_dummy_effect_bundle	55	34.0000	112.0000	177.0000	polit_trait_hates_romans	polit_trait_militarist
+emp_politics_rome_parthia_ruler	true	x	emp_faction_trait_eastern_parthia	45	210.0000	99.0000	43.0000		
+emp_politics_rome_parthia_spandiyadh	false	x	rom_dummy_effect_bundle	55	229.0000	161.0000	44.0000	polit_trait_likes_greeks	
+emp_politics_rome_parthia_suren	false	x	rom_dummy_effect_bundle	55	254.0000	229.0000	216.0000	polit_trait_mogul	
+emp_politics_rome_parthia_varaz	false	x	rom_dummy_effect_bundle	55	237.0000	231.0000	73.0000	polit_trait_hates_easterners	
+emp_politics_rome_pompey_council	false	x	rom_dummy_effect_bundle	50	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_xenophobe
+emp_politics_rome_pompey_libertini	false	x	rom_dummy_effect_bundle	50	229.0000	161.0000	44.0000	polit_trait_pacifist	
+emp_politics_rome_pompey_proletarii	false	x	rom_dummy_effect_bundle	50	237.0000	231.0000	73.0000	polit_trait_agriculturalist	polit_trait_populist
+emp_politics_rome_pompey_ruler	true	x	emp_faction_trait_rome_pompey	50	210.0000	99.0000	43.0000		
+emp_politics_rome_pompey_viri_egregii	false	x	rom_dummy_effect_bundle	50	0.0000	158.0000	115.0000	polit_trait_expansionist	
+emp_politics_rome_pompey_viri_eminentissimi	false	x	rom_dummy_effect_bundle	50	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+emp_politics_rome_pompey_viri_perfectissimi	false	x	rom_dummy_effect_bundle	50	254.0000	229.0000	216.0000	polit_trait_traditionalist	
+gaul_politics_arverni_angry_beast	false	x	rom_dummy_effect_bundle	45	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+gaul_politics_arverni_council	false	x	rom_dummy_effect_bundle	45	98.0000	176.0000	228.0000	polit_trait_hates_barbarians	polit_trait_thirst_for_power
+gaul_politics_arverni_hill_warriors	false	x	rom_dummy_effect_bundle	45	0.0000	158.0000	115.0000		
+gaul_politics_arverni_iron_axe	false	x	rom_dummy_effect_bundle	45	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+gaul_politics_arverni_ruler	true	x	gaul_faction_trait_gallic_arverni	65	210.0000	99.0000	43.0000		
+gaul_politics_arverni_warhorse	false	x	rom_dummy_effect_bundle	45	237.0000	231.0000	73.0000		
+gaul_politics_arverni_wooden_shield	false	x	rom_dummy_effect_bundle	45	34.0000	112.0000	177.0000	polit_trait_pacifist	
+gaul_politics_nervii_angry_beast	false	x	rom_dummy_effect_bundle	65	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+gaul_politics_nervii_council	false	x	rom_dummy_effect_bundle	65	98.0000	176.0000	228.0000	polit_trait_hates_barbarians	polit_trait_thirst_for_power
+gaul_politics_nervii_hill_warriors	false	x	rom_dummy_effect_bundle	65	0.0000	158.0000	115.0000		
+gaul_politics_nervii_iron_axe	false	x	rom_dummy_effect_bundle	65	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+gaul_politics_nervii_ruler	true	x	gaul_faction_trait_belgic_nervii	75	210.0000	99.0000	43.0000		
+gaul_politics_nervii_warhorse	false	x	rom_dummy_effect_bundle	65	237.0000	231.0000	73.0000		
+gaul_politics_nervii_wooden_shield	false	x	rom_dummy_effect_bundle	65	34.0000	112.0000	177.0000	polit_trait_pacifist	
+gaul_politics_rome_caesar	true	x	gaul_faction_trait_rome	55	210.0000	99.0000	43.0000		
+gaul_politics_rome_libertini	false	x	rom_dummy_effect_bundle	100	229.0000	161.0000	44.0000	polit_trait_pacifist	
+gaul_politics_rome_proletarii	false	x	rom_dummy_effect_bundle	100	237.0000	231.0000	73.0000	polit_trait_agriculturalist	polit_trait_populist
+gaul_politics_rome_senate	false	x	rom_dummy_effect_bundle	100	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_xenophobe
+gaul_politics_rome_viri_egregii	false	x	rom_dummy_effect_bundle	100	0.0000	158.0000	115.0000	polit_trait_expansionist	
+gaul_politics_rome_viri_eminentissimi	false	x	rom_dummy_effect_bundle	100	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+gaul_politics_rome_viri_perfectissimi	false	x	rom_dummy_effect_bundle	100	254.0000	229.0000	216.0000	polit_trait_traditionalist	
+gaul_politics_suebi_angry_beast	false	x	rom_dummy_effect_bundle	65	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+gaul_politics_suebi_council	false	x	rom_dummy_effect_bundle	65	98.0000	176.0000	228.0000	polit_trait_xenophobe	
+gaul_politics_suebi_hill_warriors	false	x	rom_dummy_effect_bundle	65	0.0000	158.0000	115.0000		
+gaul_politics_suebi_iron_axe	false	x	rom_dummy_effect_bundle	65	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+gaul_politics_suebi_ruler	true	x	gaul_faction_trait_germanic_suebi	75	210.0000	99.0000	43.0000		
+gaul_politics_suebi_warhorse	false	x	rom_dummy_effect_bundle	65	237.0000	231.0000	73.0000		
+gaul_politics_suebi_wooden_shield	false	x	rom_dummy_effect_bundle	65	34.0000	112.0000	177.0000	polit_trait_pacifist	
+inv_politics_helveti	false	x	inv_incoming_factions_traits	41	0.0000	158.0000	115.0000		
+inv_politics_hirpini	false	x	inv_incoming_factions_traits	41	0.0000	158.0000	115.0000		
+inv_politics_histri	false	x	inv_incoming_factions_traits	41	0.0000	158.0000	115.0000		
+inv_politics_illyrians	false	x	inv_incoming_factions_traits	100	34.0000	112.0000	177.0000		
+inv_politics_insubres_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_insubres_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_insubres_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_insubres_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_insubres_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_insubres_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_insubres_ruler	true	x	inv_faction_trait_insubres	35	210.0000	99.0000	43.0000		
+inv_politics_iolei_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_iolei_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_iolei_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_iolei_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_iolei_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_iolei_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_iolei_ruler	true	x	inv_faction_trait_iolei	35	210.0000	99.0000	43.0000		
+inv_politics_massyli	false	x	inv_incoming_factions_traits	41	0.0000	158.0000	115.0000		
+inv_politics_nurrensi	false	x	inv_incoming_factions_traits	41	0.0000	158.0000	115.0000		
+inv_politics_rome_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_rome_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_rome_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_rome_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_rome_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_rome_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_rome_party8	false	x	rom_dummy_effect_bundle	35	113.0000	158.0000	89.0000		
+inv_politics_rome_ruler	true	x	inv_faction_trait_rome	35	210.0000	99.0000	43.0000		
+inv_politics_samnites_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_samnites_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_samnites_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_samnites_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_samnites_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_samnites_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_samnites_ruler	true	x	inv_faction_trait_samnites	35	210.0000	99.0000	43.0000		
+inv_politics_senones_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_senones_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_senones_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_senones_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_senones_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_senones_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_senones_ruler	true	x	inv_faction_trait_senones	35	210.0000	99.0000	43.0000		
+inv_politics_sikelians	false	x	inv_incoming_factions_traits	41	0.0000	158.0000	115.0000		
+inv_politics_syracuse_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_syracuse_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_syracuse_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_syracuse_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_syracuse_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_syracuse_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_syracuse_ruler	true	x	inv_faction_trait_syracuse	35	210.0000	99.0000	43.0000		
+inv_politics_taranto_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_taranto_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_taranto_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_taranto_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_taranto_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_taranto_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_taranto_ruler	true	x	inv_faction_trait_taras	35	210.0000	99.0000	43.0000		
+inv_politics_tarchuna_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_tarchuna_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_tarchuna_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_tarchuna_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_tarchuna_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_tarchuna_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_tarchuna_party8	false	x	rom_dummy_effect_bundle	35	113.0000	158.0000	89.0000		
+inv_politics_tarchuna_ruler	true	x	inv_faction_trait_tarchuna	35	210.0000	99.0000	43.0000		
+inv_politics_veneti_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000		
+inv_politics_veneti_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+inv_politics_veneti_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+inv_politics_veneti_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000		
+inv_politics_veneti_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000		
+inv_politics_veneti_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000		
+inv_politics_veneti_ruler	true	x	inv_faction_trait_veneti	35	210.0000	99.0000	43.0000		
+pel_politics_athenai_alkmaionid	true	x	pel_faction_athenai	29	210.0000	99.0000	43.0000		
+pel_politics_athenai_apollo	false	x	rom_dummy_effect_bundle	24	237.0000	231.0000	73.0000	polit_trait_expansionist	
+pel_politics_athenai_ares	false	x	rom_dummy_effect_bundle	24	229.0000	161.0000	44.0000	polit_trait_militarist	
+pel_politics_athenai_aristocratic	false	x	rom_dummy_effect_bundle	26	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+pel_politics_athenai_athena	false	x	rom_dummy_effect_bundle	24	34.0000	112.0000	177.0000	polit_trait_xenophile	
+pel_politics_athenai_philaedae	false	x	rom_dummy_effect_bundle	21	0.0000	158.0000	115.0000		
+pel_politics_athenai_populist	false	x	rom_dummy_effect_bundle	24	254.0000	229.0000	216.0000	polit_trait_populist	
+pel_politics_boiotia_apollo	false	x	rom_dummy_effect_bundle	26	34.0000	112.0000	177.0000	polit_trait_xenophile	
+pel_politics_boiotia_ares	false	x	rom_dummy_effect_bundle	26	229.0000	161.0000	44.0000	polit_trait_militarist	
+pel_politics_boiotia_athena	false	x	rom_dummy_effect_bundle	26	237.0000	231.0000	73.0000	polit_trait_expansionist	
+pel_politics_boiotia_orchomenos	false	x	rom_dummy_effect_bundle	22	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+pel_politics_boiotia_plataea	false	x	rom_dummy_effect_bundle	26	0.0000	158.0000	115.0000		
+pel_politics_boiotia_thebai	true	x	pel_faction_boiotia	29	210.0000	99.0000	43.0000		
+pel_politics_boiotia_thespiae	false	x	rom_dummy_effect_bundle	23	254.0000	229.0000	216.0000	polit_trait_populist	
+pel_politics_korinthos_apollo	false	x	rom_dummy_effect_bundle	23	34.0000	112.0000	177.0000	polit_trait_xenophile	
+pel_politics_korinthos_ares	false	x	rom_dummy_effect_bundle	23	229.0000	161.0000	44.0000	polit_trait_militarist	
+pel_politics_korinthos_athena	false	x	rom_dummy_effect_bundle	23	237.0000	231.0000	73.0000	polit_trait_expansionist	
+pel_politics_korinthos_autocratic	false	x	rom_dummy_effect_bundle	18	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+pel_politics_korinthos_conservative	true	x	pel_faction_korinthos	32	210.0000	99.0000	43.0000		
+pel_politics_korinthos_populist	false	x	rom_dummy_effect_bundle	27	0.0000	158.0000	115.0000		
+pel_politics_korinthos_tyrannic	false	x	rom_dummy_effect_bundle	23	254.0000	229.0000	216.0000	polit_trait_populist	
+pel_politics_sparta_agiad	true	x	pel_faction_sparta	52	210.0000	99.0000	43.0000		
+pel_politics_sparta_apollo	false	x	rom_dummy_effect_bundle	48	34.0000	112.0000	177.0000	polit_trait_xenophile	
+pel_politics_sparta_ares	false	x	rom_dummy_effect_bundle	48	229.0000	161.0000	44.0000	polit_trait_militarist	
+pel_politics_sparta_athena	false	x	rom_dummy_effect_bundle	48	237.0000	231.0000	73.0000	polit_trait_expansionist	
+pel_politics_sparta_eurypontid	false	x	rom_dummy_effect_bundle	48	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+pel_politics_sparta_hera	false	x	rom_dummy_effect_bundle	48	254.0000	229.0000	216.0000	polit_trait_populist	
+pel_politics_sparta_poseidon	false	x	rom_dummy_effect_bundle	48	0.0000	158.0000	115.0000		
+pro_politics_rome_council	true	x	pro_faction_trait_senate	0	98.0000	176.0000	228.0000	polit_trait_bigot	polit_trait_subversive
+pun_politics_arevaci_angry_beast	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+pun_politics_arevaci_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_pacifist	
+pun_politics_arevaci_hill_warriors	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+pun_politics_arevaci_iron_axe	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+pun_politics_arevaci_ruler	true	x	pun_faction_trait_arevaci	60	210.0000	99.0000	43.0000		
+pun_politics_arevaci_warhorse	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000		
+pun_politics_arevaci_wooden_shield	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_pacifist	
+pun_politics_carthage_barcid	true	x	pun_faction_trait_carthage	60	210.0000	99.0000	43.0000	polit_trait_hates_romans	polit_trait_militarist
+pun_politics_carthage_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_mercantile	polit_trait_diplomat
+pun_politics_carthage_party3	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000	polit_trait_patriot	polit_trait_bigot
+pun_politics_carthage_party4	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_mogul	
+pun_politics_carthage_party5	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_mercantile	
+pun_politics_carthage_party6	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_xenophobe	
+pun_politics_carthage_party7	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_populist	
+pun_politics_lusitani_angry_beast	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+pun_politics_lusitani_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_hates_romans	polit_trait_hates_greeks
+pun_politics_lusitani_hill_warriors	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+pun_politics_lusitani_iron_axe	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+pun_politics_lusitani_ruler	true	x	pun_faction_trait_lusitani	60	210.0000	99.0000	43.0000		
+pun_politics_lusitani_warhorse	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000		
+pun_politics_lusitani_wooden_shield	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_pacifist	
+pun_politics_rome_claudia	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	polit_trait_subversive
+pun_politics_rome_cornelia	true	x	pun_faction_trait_rome	60	210.0000	99.0000	43.0000	polit_trait_thirst_for_power	
+pun_politics_rome_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_agriculturalist	polit_trait_traditionalist
+pun_politics_rome_fabia	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_traditionalist	polit_trait_xenophobe
+pun_politics_rome_julia	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000	polit_trait_expansionist	polit_trait_hates_barbarians
+pun_politics_rome_servilia	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000		
+pun_politics_rome_valeria	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+pun_politics_syracuse_apollo	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_xenophile	
+pun_politics_syracuse_ares	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_militarist	
+pun_politics_syracuse_athena	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_expansionist	
+pun_politics_syracuse_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+pun_politics_syracuse_hera	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_populist	
+pun_politics_syracuse_poseidon	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+pun_politics_syracuse_ruler	true	x	pun_faction_trait_syracuse	60	210.0000	99.0000	43.0000		
+rom_politics_ardiaei_bull	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_hates_greeks	
+rom_politics_ardiaei_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_pacifist	
+rom_politics_ardiaei_earth	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_agriculturalist	
+rom_politics_ardiaei_golden_eagle	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_likes_romans	
+rom_politics_ardiaei_ruler	true	x	rom_faction_trait_ardiaei	60	210.0000	99.0000	43.0000		
+rom_politics_ardiaei_sky	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000		
+rom_politics_ardiaei_sun	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_arevaci_angry_beast	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+rom_politics_arevaci_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_hates_barbarians	polit_trait_pacifist
+rom_politics_arevaci_hill_warriors	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_arevaci_iron_axe	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+rom_politics_arevaci_ruler	true	x	pun_faction_trait_arevaci	60	210.0000	99.0000	43.0000		
+rom_politics_arevaci_warhorse	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_militarist	
+rom_politics_arevaci_wooden_shield	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_armenia_artsakh	false	x	rom_dummy_effect_bundle	22	229.0000	161.0000	44.0000	polit_trait_likes_greeks	
+rom_politics_armenia_ayrarat	false	x	rom_dummy_effect_bundle	22	0.0000	158.0000	115.0000	polit_trait_hates_easterners	
+rom_politics_armenia_council	false	x	rom_dummy_effect_bundle	22	98.0000	176.0000	228.0000	polit_trait_populist	polit_trait_thirst_for_power
+rom_politics_armenia_ruler	true	x	rom_faction_trait_armenia	78	210.0000	99.0000	43.0000		
+rom_politics_armenia_tayk	false	x	rom_dummy_effect_bundle	22	237.0000	231.0000	73.0000	polit_trait_hates_greeks	
+rom_politics_armenia_turuberan	false	x	rom_dummy_effect_bundle	22	254.0000	229.0000	216.0000	polit_trait_xenophobe	
+rom_politics_armenia_utik	false	x	rom_dummy_effect_bundle	22	34.0000	112.0000	177.0000	polit_trait_xenophile	polit_trait_diplomat
+rom_politics_arverni_angry_beast	false	x	rom_dummy_effect_bundle	45	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+rom_politics_arverni_council	false	x	rom_dummy_effect_bundle	45	98.0000	176.0000	228.0000	polit_trait_hates_barbarians	polit_trait_thirst_for_power
+rom_politics_arverni_hill_warriors	false	x	rom_dummy_effect_bundle	45	0.0000	158.0000	115.0000		
+rom_politics_arverni_iron_axe	false	x	rom_dummy_effect_bundle	45	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+rom_politics_arverni_ruler	true	x	rom_faction_trait_gallic_arverni	65	210.0000	99.0000	43.0000		
+rom_politics_arverni_warhorse	false	x	rom_dummy_effect_bundle	45	237.0000	231.0000	73.0000	polit_trait_militarist	
+rom_politics_arverni_wooden_shield	false	x	rom_dummy_effect_bundle	45	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_athens_apollo	false	x	rom_dummy_effect_bundle	60	34.0000	112.0000	177.0000	polit_trait_xenophile	
+rom_politics_athens_ares	false	x	rom_dummy_effect_bundle	60	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_athens_athena	false	x	rom_dummy_effect_bundle	60	237.0000	231.0000	73.0000	polit_trait_expansionist	
+rom_politics_athens_council	false	x	rom_dummy_effect_bundle	60	98.0000	176.0000	228.0000	polit_trait_traditionalist	polit_trait_thirst_for_power
+rom_politics_athens_hera	false	x	rom_dummy_effect_bundle	60	254.0000	229.0000	216.0000	polit_trait_populist	
+rom_politics_athens_poseidon	false	x	rom_dummy_effect_bundle	60	0.0000	158.0000	115.0000		
+rom_politics_athens_ruler	true	x	rom_faction_trait_greek_athens	50	210.0000	99.0000	43.0000		
+rom_politics_baktria_carthage	false	x	rom_dummy_effect_bundle	45	237.0000	231.0000	73.0000	polit_trait_mercantile	
+rom_politics_baktria_council	false	x	rom_dummy_effect_bundle	45	98.0000	176.0000	228.0000	polit_trait_likes_greeks	
+rom_politics_baktria_egyptian	false	x	rom_dummy_effect_bundle	45	254.0000	229.0000	216.0000	polit_trait_likes_greeks	
+rom_politics_baktria_indian	false	x	rom_dummy_effect_bundle	45	0.0000	158.0000	115.0000		
+rom_politics_baktria_jewish	false	x	rom_dummy_effect_bundle	45	34.0000	112.0000	177.0000	polit_trait_hates_greeks	
+rom_politics_baktria_parthian	false	x	rom_dummy_effect_bundle	45	229.0000	161.0000	44.0000	polit_trait_likes_easterners	
+rom_politics_baktria_ruler	true	x	rom_faction_trait_successors_baktria	65	210.0000	99.0000	43.0000		
+rom_politics_boii_council	false	x	rom_dummy_effect_bundle	45	98.0000	176.0000	228.0000	polit_trait_militarist	
+rom_politics_boii_giant_deer	false	x	rom_dummy_effect_bundle	45	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_boii_golden_beast	false	x	rom_dummy_effect_bundle	45	229.0000	161.0000	44.0000		
+rom_politics_boii_red_eagle	false	x	rom_dummy_effect_bundle	45	0.0000	158.0000	115.0000		
+rom_politics_boii_ruler	true	x	rom_faction_trait_gallic_boii	65	210.0000	99.0000	43.0000		
+rom_politics_boii_steppe_lords	false	x	rom_dummy_effect_bundle	45	254.0000	229.0000	216.0000	polit_trait_militarist	
+rom_politics_boii_wooden_bow	false	x	rom_dummy_effect_bundle	45	237.0000	231.0000	73.0000		
+rom_politics_carthage_barcid	true	x	rom_faction_trait_carthage_barcid	35	210.0000	99.0000	43.0000	polit_trait_hates_romans	polit_trait_militarist
+rom_politics_carthage_conservative	false	x	rom_dummy_effect_bundle	55	229.0000	161.0000	44.0000	polit_trait_xenophobe	
+rom_politics_carthage_council	false	x	rom_dummy_effect_bundle	55	254.0000	229.0000	216.0000	polit_trait_mogul	
+rom_politics_carthage_hannonid	true	x	rom_faction_trait_carthage_hannonid	35	98.0000	176.0000	228.0000	polit_trait_mercantile	polit_trait_diplomat
+rom_politics_carthage_magonid	true	x	rom_faction_trait_carthage_magonid	35	0.0000	158.0000	115.0000	polit_trait_patriot	polit_trait_bigot
+rom_politics_carthage_maritime	false	x	rom_dummy_effect_bundle	55	237.0000	231.0000	73.0000	polit_trait_mercantile	
+rom_politics_carthage_populist	false	x	rom_dummy_effect_bundle	55	34.0000	112.0000	177.0000	polit_trait_populist	
+rom_politics_cimmeria_apollo	false	x	rom_dummy_effect_bundle	65	34.0000	112.0000	177.0000	polit_trait_xenophile	
+rom_politics_cimmeria_ares	false	x	rom_dummy_effect_bundle	65	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_cimmeria_athena	false	x	rom_dummy_effect_bundle	65	237.0000	231.0000	73.0000	polit_trait_expansionist	
+rom_politics_cimmeria_council	false	x	rom_dummy_effect_bundle	65	98.0000	176.0000	228.0000	polit_trait_traditionalist	polit_trait_thirst_for_power
+rom_politics_cimmeria_hera	false	x	rom_dummy_effect_bundle	65	254.0000	229.0000	216.0000	polit_trait_populist	
+rom_politics_cimmeria_poseidon	false	x	rom_dummy_effect_bundle	65	0.0000	158.0000	115.0000		
+rom_politics_cimmeria_ruler	true	x	rom_faction_trait_black_sea_cimmeria	35	210.0000	99.0000	43.0000		
+rom_politics_colchis_amazon	false	x	rom_dummy_effect_bundle	55	237.0000	231.0000	73.0000	polit_trait_xenophobe	
+rom_politics_colchis_council	false	x	rom_dummy_effect_bundle	55	98.0000	176.0000	228.0000	polit_trait_militarist	polit_trait_patriot
+rom_politics_colchis_descendants	false	x	rom_dummy_effect_bundle	55	254.0000	229.0000	216.0000		
+rom_politics_colchis_keepers	false	x	rom_dummy_effect_bundle	55	34.0000	112.0000	177.0000	polit_trait_patriot	
+rom_politics_colchis_medea	false	x	rom_dummy_effect_bundle	55	229.0000	161.0000	44.0000		
+rom_politics_colchis_ruler	true	x	rom_faction_trait_black_sea_colchis	45	210.0000	99.0000	43.0000		
+rom_politics_colchis_watchers	false	x	rom_dummy_effect_bundle	55	0.0000	158.0000	115.0000		
+rom_politics_egypt_carthage	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000	polit_trait_mercantile	
+rom_politics_egypt_council	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_likes_greeks	polit_trait_thirst_for_power
+rom_politics_egypt_egyptian	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_traditionalist	polit_trait_xenophobe
+rom_politics_egypt_indian	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000		
+rom_politics_egypt_jewish	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_hates_greeks	polit_trait_hates_romans
+rom_politics_egypt_parthian	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_likes_easterners	
+rom_politics_egypt_ptolemaic	true	x	rom_faction_trait_successors_egypt	70	210.0000	99.0000	43.0000		
+rom_politics_epirus_apollo	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_xenophile	
+rom_politics_epirus_ares	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_epirus_athena	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_expansionist	
+rom_politics_epirus_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+rom_politics_epirus_hera	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_populist	
+rom_politics_epirus_poseidon	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_epirus_ruler	true	x	rom_faction_trait_greek_epirus	65	210.0000	99.0000	43.0000		
+rom_politics_galatia_angry_beast	false	x	rom_dummy_effect_bundle	45	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+rom_politics_galatia_council	false	x	rom_dummy_effect_bundle	45	98.0000	176.0000	228.0000		
+rom_politics_galatia_hill_warriors	false	x	rom_dummy_effect_bundle	45	0.0000	158.0000	115.0000		
+rom_politics_galatia_iron_axe	false	x	rom_dummy_effect_bundle	45	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+rom_politics_galatia_ruler	true	x	rom_faction_trait_gallic_galatia	65	210.0000	99.0000	43.0000		
+rom_politics_galatia_warhorse	false	x	rom_dummy_effect_bundle	45	237.0000	231.0000	73.0000		
+rom_politics_galatia_wooden_shield	false	x	rom_dummy_effect_bundle	45	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_getae_bull	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_hates_greeks	
+rom_politics_getae_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_xenophobe	polit_trait_subversive
+rom_politics_getae_earth	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_agriculturalist	
+rom_politics_getae_golden_eagle	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000		
+rom_politics_getae_ruler	true	x	rom_faction_trait_getae	60	210.0000	99.0000	43.0000		
+rom_politics_getae_sky	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000		
+rom_politics_getae_sun	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_iceni_angry_beast	false	x	rom_dummy_effect_bundle	45	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+rom_politics_iceni_council	false	x	rom_dummy_effect_bundle	45	98.0000	176.0000	228.0000	polit_trait_xenophile	polit_trait_diplomat
+rom_politics_iceni_hill_warriors	false	x	rom_dummy_effect_bundle	45	0.0000	158.0000	115.0000		
+rom_politics_iceni_iron_axe	false	x	rom_dummy_effect_bundle	45	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+rom_politics_iceni_ruler	true	x	rom_faction_trait_britannic_iceni	65	210.0000	99.0000	43.0000		
+rom_politics_iceni_warhorse	false	x	rom_dummy_effect_bundle	45	237.0000	231.0000	73.0000		
+rom_politics_iceni_wooden_shield	false	x	rom_dummy_effect_bundle	45	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_kush_party2	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_thirst_for_power	
+rom_politics_kush_party3	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_militarist	
+rom_politics_kush_party4	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_traditionalist	polit_trait_xenophile
+rom_politics_kush_party5	false	x	rom_dummy_effect_bundle	35	210.0000	99.0000	43.0000	polit_trait_hates_greeks	
+rom_politics_kush_party6	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000	polit_trait_likes_greeks	
+rom_politics_kush_party7	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000		
+rom_politics_kush_ruler	true	x	rom_faction_trait_desert_kush	35	98.0000	176.0000	228.0000		
+rom_politics_lusitani_angry_beast	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_xenophobe	polit_trait_militarist
+rom_politics_lusitani_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_hates_romans	polit_trait_hates_greeks
+rom_politics_lusitani_hill_warriors	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_lusitani_iron_axe	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+rom_politics_lusitani_ruler	true	x	pun_faction_trait_lusitani	60	210.0000	99.0000	43.0000		
+rom_politics_lusitani_warhorse	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000		
+rom_politics_lusitani_wooden_shield	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_macedon_antigonid	true	x	rom_faction_trait_successors_macedon	70	210.0000	99.0000	43.0000	polit_trait_expansionist	polit_trait_thirst_for_power
+rom_politics_macedon_carthage	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_mercantile	polit_trait_hates_romans
+rom_politics_macedon_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_likes_greeks	
+rom_politics_macedon_egyptian	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_xenophile	
+rom_politics_macedon_indian	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_macedon_jewish	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_hates_greeks	
+rom_politics_macedon_parthian	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_likes_easterners	
+rom_politics_masaesyli_party2	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_xenophobe
+rom_politics_masaesyli_party3	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_likes_greeks	polit_trait_hates_romans
+rom_politics_masaesyli_party4	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_likes_romans	polit_trait_hates_greeks
+rom_politics_masaesyli_party5	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_thirst_for_power	
+rom_politics_masaesyli_party6	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_masaesyli_party7	false	x	rom_dummy_effect_bundle	35	237.0000	231.0000	73.0000	polit_trait_agriculturalist	
+rom_politics_masaesyli_ruler	true	x	rom_faction_trait_desert_numidia	35	210.0000	99.0000	43.0000		
+rom_politics_massagetae_council	false	x	rom_dummy_effect_bundle	50	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	
+rom_politics_massagetae_giant_deer	false	x	rom_dummy_effect_bundle	50	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_massagetae_golden_beast	false	x	rom_dummy_effect_bundle	50	229.0000	161.0000	44.0000		
+rom_politics_massagetae_red_eagle	false	x	rom_dummy_effect_bundle	50	0.0000	158.0000	115.0000		
+rom_politics_massagetae_ruler	true	x	rom_faction_trait_nomadic_massagetae	70	210.0000	99.0000	43.0000		
+rom_politics_massagetae_steppe_lords	false	x	rom_dummy_effect_bundle	50	254.0000	229.0000	216.0000	polit_trait_militarist	
+rom_politics_massagetae_wooden_bow	false	x	rom_dummy_effect_bundle	50	237.0000	231.0000	73.0000		
+rom_politics_massalia_apollo	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_xenophile	
+rom_politics_massalia_ares	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_massalia_athena	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_expansionist	
+rom_politics_massalia_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_traditionalist	polit_trait_thirst_for_power
+rom_politics_massalia_hera	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_populist	
+rom_politics_massalia_poseidon	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_massalia_ruler	true	x	rom_faction_trait_greek_massilia	60	210.0000	99.0000	43.0000		
+rom_politics_nabatea_party2	false	x	rom_dummy_effect_bundle	35	210.0000	99.0000	43.0000	polit_trait_likes_greeks	
+rom_politics_nabatea_party3	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_hates_greeks	
+rom_politics_nabatea_party4	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_hates_romans	polit_trait_hates_greeks
+rom_politics_nabatea_party5	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_likes_romans	
+rom_politics_nabatea_party6	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_mercantile	
+rom_politics_nabatea_party7	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_mogul	polit_trait_diplomat
+rom_politics_nabatea_ruler	true	x	rom_faction_trait_desert_nabatea	35	237.0000	231.0000	73.0000		
+rom_politics_nervii_angry_beast	false	x	rom_dummy_effect_bundle	45	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+rom_politics_nervii_council	false	x	rom_dummy_effect_bundle	45	98.0000	176.0000	228.0000		
+rom_politics_nervii_hill_warriors	false	x	rom_dummy_effect_bundle	45	0.0000	158.0000	115.0000		
+rom_politics_nervii_iron_axe	false	x	rom_dummy_effect_bundle	45	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+rom_politics_nervii_ruler	true	x	rom_faction_trait_gallic_nervii	65	210.0000	99.0000	43.0000		
+rom_politics_nervii_warhorse	false	x	rom_dummy_effect_bundle	45	237.0000	231.0000	73.0000		
+rom_politics_nervii_wooden_shield	false	x	rom_dummy_effect_bundle	45	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_odrysia_bull	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000	polit_trait_hates_greeks	
+rom_politics_odrysia_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_agriculturalist	polit_trait_pacifist
+rom_politics_odrysia_earth	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_agriculturalist	
+rom_politics_odrysia_golden_eagle	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_likes_romans	
+rom_politics_odrysia_ruler	true	x	rom_faction_trait_odrysia	60	210.0000	99.0000	43.0000		
+rom_politics_odrysia_sky	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_likes_greeks	
+rom_politics_odrysia_sun	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000		
+rom_politics_parthia_arsacid	true	x	rom_faction_trait_eastern_parthia	70	210.0000	99.0000	43.0000		
+rom_politics_parthia_council	false	x	rom_dummy_effect_bundle	50	98.0000	176.0000	228.0000	polit_trait_likes_easterners	polit_trait_thirst_for_power
+rom_politics_parthia_karen	false	x	rom_dummy_effect_bundle	50	0.0000	158.0000	115.0000	polit_trait_likes_easterners	polit_trait_expansionist
+rom_politics_parthia_mihran	false	x	rom_dummy_effect_bundle	50	34.0000	112.0000	177.0000	polit_trait_hates_romans	polit_trait_militarist
+rom_politics_parthia_spandiyadh	false	x	rom_dummy_effect_bundle	50	229.0000	161.0000	44.0000	polit_trait_likes_greeks	
+rom_politics_parthia_suren	false	x	rom_dummy_effect_bundle	50	254.0000	229.0000	216.0000	polit_trait_mogul	
+rom_politics_parthia_varaz	false	x	rom_dummy_effect_bundle	50	237.0000	231.0000	73.0000	polit_trait_hates_easterners	
+rom_politics_pergammon_apollo	false	x	rom_dummy_effect_bundle	75	34.0000	112.0000	177.0000	polit_trait_xenophile	
+rom_politics_pergammon_ares	false	x	rom_dummy_effect_bundle	75	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_pergammon_athena	false	x	rom_dummy_effect_bundle	75	237.0000	231.0000	73.0000	polit_trait_expansionist	
+rom_politics_pergammon_council	false	x	rom_dummy_effect_bundle	75	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+rom_politics_pergammon_hera	false	x	rom_dummy_effect_bundle	75	254.0000	229.0000	216.0000	polit_trait_populist	
+rom_politics_pergammon_poseidon	false	x	rom_dummy_effect_bundle	75	0.0000	158.0000	115.0000		
+rom_politics_pergammon_ruler	true	x	rom_faction_trait_black_sea_pergamon	25	210.0000	99.0000	43.0000		
+rom_politics_pontus_apollo	false	x	rom_dummy_effect_bundle	50	34.0000	112.0000	177.0000	polit_trait_xenophile	
+rom_politics_pontus_ares	false	x	rom_dummy_effect_bundle	50	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_pontus_athena	false	x	rom_dummy_effect_bundle	50	237.0000	231.0000	73.0000	polit_trait_expansionist	
+rom_politics_pontus_council	false	x	rom_dummy_effect_bundle	50	98.0000	176.0000	228.0000	polit_trait_traditionalist	polit_trait_thirst_for_power
+rom_politics_pontus_hera	false	x	rom_dummy_effect_bundle	50	254.0000	229.0000	216.0000	polit_trait_populist	
+rom_politics_pontus_mithridatic	true	x	rom_faction_trait_eastern_pontus	70	210.0000	99.0000	43.0000		
+rom_politics_pontus_poseidon	false	x	rom_dummy_effect_bundle	50	0.0000	158.0000	115.0000		
+rom_politics_rome_claudia	false	x	rom_dummy_effect_bundle	55	237.0000	231.0000	73.0000	polit_trait_thirst_for_power	polit_trait_subversive
+rom_politics_rome_cornelia	true	x	rom_faction_trait_rome_cornelia	35	0.0000	158.0000	115.0000	polit_trait_thirst_for_power	
+rom_politics_rome_council	false	x	rom_dummy_effect_bundle	55	254.0000	229.0000	216.0000	polit_trait_bigot	polit_trait_subversive
+rom_politics_rome_fabia	false	x	rom_dummy_effect_bundle	55	229.0000	161.0000	44.0000	polit_trait_traditionalist	polit_trait_xenophobe
+rom_politics_rome_julia	true	x	rom_faction_trait_rome_julia	35	98.0000	176.0000	228.0000	polit_trait_expansionist	polit_trait_hates_barbarians
+rom_politics_rome_junia	true	x	rom_faction_trait_rome_junia	35	210.0000	99.0000	43.0000	polit_trait_agriculturalist	polit_trait_traditionalist
+rom_politics_rome_servilia	false	x	rom_dummy_effect_bundle	55	34.0000	112.0000	177.0000		
+rom_politics_roxolani_council	false	x	rom_dummy_effect_bundle	50	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_militarist
+rom_politics_roxolani_giant_deer	false	x	rom_dummy_effect_bundle	50	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_roxolani_golden_beast	false	x	rom_dummy_effect_bundle	50	229.0000	161.0000	44.0000		
+rom_politics_roxolani_red_eagle	false	x	rom_dummy_effect_bundle	50	0.0000	158.0000	115.0000		
+rom_politics_roxolani_ruler	true	x	rom_faction_trait_nomadic_roxolani	60	210.0000	99.0000	43.0000		
+rom_politics_roxolani_steppe_lords	false	x	rom_dummy_effect_bundle	50	254.0000	229.0000	216.0000	polit_trait_militarist	
+rom_politics_roxolani_wooden_bow	false	x	rom_dummy_effect_bundle	50	237.0000	231.0000	73.0000		
+rom_politics_royal_scythian_council	false	x	rom_dummy_effect_bundle	50	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	
+rom_politics_royal_scythian_giant_deer	false	x	rom_dummy_effect_bundle	50	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_royal_scythian_golden_beast	false	x	rom_dummy_effect_bundle	50	229.0000	161.0000	44.0000		
+rom_politics_royal_scythian_red_eagle	false	x	rom_dummy_effect_bundle	50	0.0000	158.0000	115.0000		
+rom_politics_royal_scythian_ruler	true	x	rom_faction_trait_nomadic_scythian	70	210.0000	99.0000	43.0000		
+rom_politics_royal_scythian_steppe_lords	false	x	rom_dummy_effect_bundle	50	254.0000	229.0000	216.0000	polit_trait_militarist	
+rom_politics_royal_scythian_wooden_bow	false	x	rom_dummy_effect_bundle	50	237.0000	231.0000	73.0000		
+rom_politics_saba_party2	false	x	rom_dummy_effect_bundle	35	229.0000	161.0000	44.0000	polit_trait_traditionalist	polit_trait_thirst_for_power
+rom_politics_saba_party3	false	x	rom_dummy_effect_bundle	35	210.0000	99.0000	43.0000	polit_trait_militarist	polit_trait_xenophobe
+rom_politics_saba_party4	false	x	rom_dummy_effect_bundle	35	98.0000	176.0000	228.0000	polit_trait_pacifist	polit_trait_xenophile
+rom_politics_saba_party5	false	x	rom_dummy_effect_bundle	35	254.0000	229.0000	216.0000	polit_trait_mercantile	
+rom_politics_saba_party6	false	x	rom_dummy_effect_bundle	35	34.0000	112.0000	177.0000	polit_trait_bigot	polit_trait_expansionist
+rom_politics_saba_party7	false	x	rom_dummy_effect_bundle	35	0.0000	158.0000	115.0000	polit_trait_agriculturalist	
+rom_politics_saba_ruler	true	x	rom_faction_trait_desert_saba	35	237.0000	231.0000	73.0000		
+rom_politics_seleucid_carthage	false	x	rom_dummy_effect_bundle	50	237.0000	231.0000	73.0000	polit_trait_mercantile	
+rom_politics_seleucid_council	false	x	rom_dummy_effect_bundle	50	98.0000	176.0000	228.0000	polit_trait_likes_greeks	
+rom_politics_seleucid_egyptian	false	x	rom_dummy_effect_bundle	50	254.0000	229.0000	216.0000	polit_trait_xenophile	
+rom_politics_seleucid_indian	false	x	rom_dummy_effect_bundle	50	0.0000	158.0000	115.0000		
+rom_politics_seleucid_jewish	false	x	rom_dummy_effect_bundle	50	34.0000	112.0000	177.0000	polit_trait_hates_greeks	polit_trait_hates_romans
+rom_politics_seleucid_parthian	false	x	rom_dummy_effect_bundle	50	229.0000	161.0000	44.0000	polit_trait_hates_easterners	
+rom_politics_seleucid_seleucids	true	x	rom_faction_trait_successors_seleucid	80	210.0000	99.0000	43.0000		
+rom_politics_sparta_apollo	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_xenophile	
+rom_politics_sparta_ares	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_sparta_athena	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_expansionist	
+rom_politics_sparta_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_thirst_for_power	polit_trait_traditionalist
+rom_politics_sparta_hera	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_populist	
+rom_politics_sparta_poseidon	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_sparta_ruler	true	x	rom_faction_trait_greek_sparta	75	210.0000	99.0000	43.0000		
+rom_politics_suebi_angry_beast	false	x	rom_dummy_effect_bundle	55	229.0000	161.0000	44.0000	polit_trait_xenophobe	polit_trait_militarist
+rom_politics_suebi_council	false	x	rom_dummy_effect_bundle	55	98.0000	176.0000	228.0000	polit_trait_xenophobe	
+rom_politics_suebi_hill_warriors	false	x	rom_dummy_effect_bundle	55	0.0000	158.0000	115.0000		
+rom_politics_suebi_iron_axe	false	x	rom_dummy_effect_bundle	55	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+rom_politics_suebi_ruler	true	x	rom_faction_trait_germanic_suebi	70	210.0000	99.0000	43.0000		
+rom_politics_suebi_warhorse	false	x	rom_dummy_effect_bundle	55	237.0000	231.0000	73.0000		
+rom_politics_suebi_wooden_shield	false	x	rom_dummy_effect_bundle	55	34.0000	112.0000	177.0000	polit_trait_pacifist	
+rom_politics_syracuse_apollo	false	x	rom_dummy_effect_bundle	40	34.0000	112.0000	177.0000	polit_trait_xenophile	
+rom_politics_syracuse_ares	false	x	rom_dummy_effect_bundle	40	229.0000	161.0000	44.0000	polit_trait_militarist	
+rom_politics_syracuse_athena	false	x	rom_dummy_effect_bundle	40	237.0000	231.0000	73.0000	polit_trait_expansionist	
+rom_politics_syracuse_council	false	x	rom_dummy_effect_bundle	40	98.0000	176.0000	228.0000	polit_trait_xenophobe	polit_trait_traditionalist
+rom_politics_syracuse_hera	false	x	rom_dummy_effect_bundle	40	254.0000	229.0000	216.0000	polit_trait_populist	
+rom_politics_syracuse_poseidon	false	x	rom_dummy_effect_bundle	40	0.0000	158.0000	115.0000		
+rom_politics_syracuse_ruler	true	x	pun_faction_trait_syracuse	60	210.0000	99.0000	43.0000		
+rom_politics_tylis_angry_beast	false	x	rom_dummy_effect_bundle	45	229.0000	161.0000	44.0000	polit_trait_militarist	polit_trait_xenophobe
+rom_politics_tylis_council	false	x	rom_dummy_effect_bundle	45	98.0000	176.0000	228.0000		
+rom_politics_tylis_hill_warriors	false	x	rom_dummy_effect_bundle	45	0.0000	158.0000	115.0000		
+rom_politics_tylis_iron_axe	false	x	rom_dummy_effect_bundle	45	254.0000	229.0000	216.0000	polit_trait_thirst_for_power	
+rom_politics_tylis_ruler	true	x	rom_faction_trait_tylis	55	210.0000	99.0000	43.0000		
+rom_politics_tylis_warhorse	false	x	rom_dummy_effect_bundle	45	237.0000	231.0000	73.0000		
+rom_politics_tylis_wooden_shield	false	x	rom_dummy_effect_bundle	45	34.0000	112.0000	177.0000	polit_trait_pacifist	

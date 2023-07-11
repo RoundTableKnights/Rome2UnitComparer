@@ -1,0 +1,24 @@
+factor	positive_pip_path
+#region_economics_factors_tables;0;db/region_economics_factors_tables/region_economics_factors	
+base_gdp	data/ui/campaign ui/pips/population_subsistence.png
+farm_gdp	data/ui/campaign ui/pips/agriculture.png
+industry_gdp	data/ui/campaign ui/pips/eco-industry.png
+metsuke_bonus_gdp	data\UI\Campaign UI\Pips\resource_cotton.png
+mine_gdp	data/ui/campaign ui/pips/mining.png
+port_gdp	data/ui/campaign ui/pips/trade_port.png
+town_wealth	data/ui/campaign ui/pips/eco-town_wealth.png
+trade_commodity_coffee_gdp	data/ui/campaign ui/pips/coffee.png
+trade_commodity_cotton_gdp	data/ui/campaign ui/pips/cotton.png
+trade_commodity_furs_gdp	data/ui/campaign ui/pips/furs.png
+trade_commodity_sho_cotton_gdp	data\UI\Campaign UI\Pips\resource_cotton.png
+trade_commodity_sho_crafts_gdp	data\UI\Campaign UI\Pips\resource_craft_goods.png
+trade_commodity_sho_horses_gdp	data\UI\Campaign UI\Pips\resource_warhorses.png
+trade_commodity_sho_iron_gdp	data\UI\Campaign UI\Pips\resource_iron.png
+trade_commodity_sho_medicine_gdp	data\UI\Campaign UI\Pips\resource_spices.png
+trade_commodity_sho_silk_gdp	data\UI\Campaign UI\Pips\resource_silk.png
+trade_commodity_sho_stone_gdp	data\UI\Campaign UI\Pips\resource_stone.png
+trade_commodity_sho_wood_gdp	data\UI\Campaign UI\Pips\resource_cotton.png
+trade_commodity_spices_gdp	data/ui/campaign ui/pips/spices.png
+trade_commodity_sugar_gdp	data/ui/campaign ui/pips/sugar.png
+trade_commodity_tea_gdp	data/ui/campaign ui/pips/tea.png
+trade_commodity_tobacco_gdp	data/ui/campaign ui/pips/tobacco.png

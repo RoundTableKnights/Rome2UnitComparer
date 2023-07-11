@@ -1,0 +1,11 @@
+vehicle	cap	probability
+#battlefield_siege_vehicles_custom_battles_tables;0;db/battlefield_siege_vehicles_custom_battles_tables/battlefield_siege_vehicles_custom_battles		
+battering_ram_medium	1	200.0000
+siege_ladder_15m	4	30.0000
+siege_ladder_8m	4	30.0000
+siege_tower_15m_heavy	3	10.0000
+siege_tower_15m_light	3	10.0000
+siege_tower_15m_medium	6	30.0000
+siege_tower_8m_heavy	3	10.0000
+siege_tower_8m_light	3	10.0000
+siege_tower_8m_medium	6	30.0000

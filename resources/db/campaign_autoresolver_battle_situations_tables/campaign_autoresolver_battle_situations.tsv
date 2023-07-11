@@ -1,0 +1,23 @@
+id	battle_type	night_battle	stance
+#campaign_autoresolver_battle_situations_tables;0;db/campaign_autoresolver_battle_situations_tables/campaign_autoresolver_battle_situations			
+ambush_aggressive	land_ambush		aggressive
+ambush_defensive	land_ambush		defensive
+ambush_generic	land_ambush		
+bridge_aggressive	land_bridge		aggressive
+bridge_defensive	land_bridge		defensive
+bridge_generic	land_bridge		
+generic_aggressive_stance			aggressive
+generic_battle			
+generic_defensive_stance			defensive
+minor_settlement_aggressive_land	settlement_unfortified		aggressive
+minor_settlement_aggressive_naval	unfortified_port		aggressive
+minor_settlement_defensive_land	settlement_unfortified		defensive
+minor_settlement_defensive_naval	unfortified_port		defensive
+minor_settlement_generic_land	settlement_unfortified		
+minor_settlement_generic_naval	unfortified_port		
+settlement_aggressive_land	settlement_standard		aggressive
+settlement_aggressive_naval	port_assault		aggressive
+settlement_defensive_land	settlement_standard		defensive
+settlement_defensive_naval	port_assault		defensive
+settlement_generic_land	settlement_standard		
+settlement_generic_naval	port_assault		

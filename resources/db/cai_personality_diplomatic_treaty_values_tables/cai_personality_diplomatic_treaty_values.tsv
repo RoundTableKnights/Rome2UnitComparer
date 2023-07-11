@@ -1,0 +1,5 @@
+component_id	defensive_alliance	trade_agreement	military_alliance	non_aggression_pact	vassalage_master	vassalage_vassal	client_state_protector	client_state_client	war	military_access
+#cai_personality_diplomatic_treaty_values_tables;1;db/cai_personality_diplomatic_treaty_values_tables/cai_personality_diplomatic_treaty_values										
+default	20.0000	10.0000	30.0000	10.0000	15.0000	10.0000	15.0000	10.0000	-50.0000	5.0000
+diplomat	30.0000	15.0000	45.0000	15.0000	25.0000	20.0000	25.0000	20.0000	-60.0000	10.0000
+historian	20.0000	10.0000	30.0000	10.0000	15.0000	10.0000	15.0000	10.0000	-50.0000	5.0000

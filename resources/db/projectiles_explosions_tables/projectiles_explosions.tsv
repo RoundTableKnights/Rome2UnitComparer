@@ -1,0 +1,14 @@
+key	detonator_type	detonation_type	detonation_radius	detonation_duration	detonation_speed	detonation_damage	projectile_name	projectile_amount	explosion_particle_effect	distance_from_target	error_margin	explosion_particle_effect_on_ground	explosion_audio
+#projectiles_explosions_tables;3;db/projectiles_explosions_tables/projectiles_explosions													
+beehive_pot_explosion	percussive	carcass	7.0000	0.0000	3.0000	5.0000		0	impact_vfx_bee_pot	0.0000	1.0000		beehive
+boiling_oil_splash	percussive	boiling_oil	2.0000	3.0000	2.0000	2.0000		0	impact_vfx_oil_impact	0.0000	0.0000	impact_vfx_oil_impact	none
+carcass_explosion	percussive	carcass	5.0000	0.0000	3.0000	1.0000	animal_carcass_debris	10		0.0000	1.0000		carcass
+f2p_carcass_explosion	percussive	carcass	5.0000	0.0000	5.0000	1.0000	animal_carcass_debris	10		0.0000	1.0000		carcass
+f2p_pot_explosion	percussive	shockwave	5.0000	0.0000	10.0000	1.0000	explosive_pot_artillery	4	impact_vfx_fire_explosion_large	0.0000	1.0000		small
+f2p_rock_small_explosion	percussive	shockwave	4.0000	0.0000	10.0000	10.0000		0	impact_vfx_hit_stone_small	0.0000	0.0000		small
+fireball_explosion	fuse_grenade	shockwave	2.0000	0.0000	5.0000	1.0000		0	impact_vfx_fire_explosion_large	0.0000	1.0000		fireball
+firepot_explosion	percussive	shockwave	5.0000	0.0000	6.0000	100.0000	explosion_debris_firepot	15	impact_vfx_fire_explosion_large	0.0000	1.0000		small
+large_explosion	percussive	shockwave	5.0000	0.0000	6.0000	90.0000	explosion_debris	4	impact_vfx_fire_explosion_huge	0.0000	1.0000		large
+scorpion_pot_explosion	percussive	carcass	7.0000	0.0000	3.0000	5.0000		0	impact_vfx_scorpion_pot	0.0000	1.0000		scorpion_pot
+small_explosion	percussive	shockwave	4.0000	0.0000	6.0000	70.0000	explosion_debris	3	impact_vfx_fire_explosion_large	0.0000	1.0000		small
+snake_pot_explosion	percussive	carcass	7.0000	0.0000	3.0000	15.0000		0	impact_vfx_snake_pot	0.0000	1.0000		snake_pot

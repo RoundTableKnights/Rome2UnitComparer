@@ -1,0 +1,5 @@
+agent_record_key	agent_type_key
+#cai_agent_record_to_cai_agent_type_junctions_tables;0;db/cai_agent_record_to_cai_agent_type_junctions_tables/cai_agent_record_to_cai_agent_type_junctions	
+champion	cai_agent_type_champion
+dignitary	cai_agent_type_dignitary
+spy	cai_agent_type_spy

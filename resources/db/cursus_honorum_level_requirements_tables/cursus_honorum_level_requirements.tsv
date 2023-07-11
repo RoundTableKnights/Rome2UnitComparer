@@ -1,0 +1,173 @@
+level	subculture_key	faction_key	age	rank
+#cursus_honorum_level_requirements_tables;1;db/cursus_honorum_level_requirements_tables/cursus_honorum_level_requirements				
+0	sc_rom_african_arabian		20	1
+1	sc_rom_african_arabian		25	2
+2	sc_rom_african_arabian		30	2
+3	sc_rom_african_arabian		35	3
+4	sc_rom_african_arabian		40	3
+5	sc_rom_african_arabian		40	4
+6	sc_rom_african_arabian		40	5
+0	sc_rom_barb_east		20	1
+1	sc_rom_barb_east		25	2
+2	sc_rom_barb_east		30	2
+3	sc_rom_barb_east		35	3
+4	sc_rom_barb_east		40	3
+5	sc_rom_barb_east		40	4
+6	sc_rom_barb_east		40	5
+0	sc_rom_british		20	1
+1	sc_rom_british		25	2
+2	sc_rom_british		30	2
+3	sc_rom_british		35	3
+4	sc_rom_british		40	3
+5	sc_rom_british		40	4
+6	sc_rom_british		40	5
+0	sc_rom_carthaginian		20	1
+1	sc_rom_carthaginian		25	2
+2	sc_rom_carthaginian		30	2
+3	sc_rom_carthaginian		35	3
+4	sc_rom_carthaginian		40	3
+5	sc_rom_carthaginian		40	4
+6	sc_rom_carthaginian		40	5
+0	sc_rom_celtiberian		20	1
+1	sc_rom_celtiberian		25	2
+2	sc_rom_celtiberian		30	2
+3	sc_rom_celtiberian		35	3
+4	sc_rom_celtiberian		40	3
+5	sc_rom_celtiberian		40	4
+6	sc_rom_celtiberian		40	5
+0	sc_rom_celtic		20	1
+1	sc_rom_celtic		25	2
+2	sc_rom_celtic		30	2
+3	sc_rom_celtic		35	3
+4	sc_rom_celtic		40	3
+5	sc_rom_celtic		40	4
+6	sc_rom_celtic		40	5
+0	sc_rom_daco_thracian		20	1
+1	sc_rom_daco_thracian		25	2
+2	sc_rom_daco_thracian		30	2
+3	sc_rom_daco_thracian		35	3
+4	sc_rom_daco_thracian		40	3
+5	sc_rom_daco_thracian		40	4
+6	sc_rom_daco_thracian		40	5
+0	sc_rom_eastern		20	1
+1	sc_rom_eastern		25	2
+2	sc_rom_eastern		30	2
+3	sc_rom_eastern		35	3
+4	sc_rom_eastern		40	3
+5	sc_rom_eastern		40	4
+6	sc_rom_eastern		40	5
+0	sc_rom_egyptian		20	1
+1	sc_rom_egyptian		25	2
+2	sc_rom_egyptian		30	2
+3	sc_rom_egyptian		35	3
+4	sc_rom_egyptian		40	3
+5	sc_rom_egyptian		40	4
+6	sc_rom_egyptian		40	5
+1	sc_rom_etruscan		25	2
+2	sc_rom_etruscan		30	2
+3	sc_rom_etruscan		35	3
+4	sc_rom_etruscan		40	3
+5	sc_rom_etruscan		40	4
+6	sc_rom_etruscan		0	5
+0	sc_rom_gaul		20	1
+1	sc_rom_gaul		25	2
+2	sc_rom_gaul		30	2
+3	sc_rom_gaul		35	3
+4	sc_rom_gaul		40	3
+5	sc_rom_gaul		40	4
+6	sc_rom_gaul		40	5
+0	sc_rom_germanic		20	1
+1	sc_rom_germanic		25	2
+2	sc_rom_germanic		30	2
+3	sc_rom_germanic		35	3
+4	sc_rom_germanic		40	3
+5	sc_rom_germanic		40	4
+6	sc_rom_germanic		40	5
+0	sc_rom_greek		20	1
+0	sc_rom_greek	pel_athenai	20	1
+0	sc_rom_greek	pel_boiotia	20	1
+0	sc_rom_greek	pel_korinthos	20	1
+0	sc_rom_greek	pel_sparta	20	1
+1	sc_rom_greek		25	2
+1	sc_rom_greek	pel_athenai	20	2
+1	sc_rom_greek	pel_boiotia	20	2
+1	sc_rom_greek	pel_korinthos	20	2
+1	sc_rom_greek	pel_sparta	20	2
+2	sc_rom_greek		30	2
+2	sc_rom_greek	pel_athenai	20	2
+2	sc_rom_greek	pel_boiotia	20	2
+2	sc_rom_greek	pel_korinthos	20	2
+2	sc_rom_greek	pel_sparta	20	2
+3	sc_rom_greek		35	3
+3	sc_rom_greek	pel_athenai	20	3
+3	sc_rom_greek	pel_boiotia	20	3
+3	sc_rom_greek	pel_korinthos	20	3
+3	sc_rom_greek	pel_sparta	20	3
+4	sc_rom_greek		40	3
+4	sc_rom_greek	pel_athenai	20	3
+4	sc_rom_greek	pel_boiotia	20	3
+4	sc_rom_greek	pel_korinthos	20	3
+4	sc_rom_greek	pel_sparta	20	3
+5	sc_rom_greek		40	4
+5	sc_rom_greek	pel_athenai	20	4
+5	sc_rom_greek	pel_boiotia	20	4
+5	sc_rom_greek	pel_korinthos	20	4
+5	sc_rom_greek	pel_sparta	20	4
+6	sc_rom_greek		40	5
+6	sc_rom_greek	pel_athenai	20	5
+6	sc_rom_greek	pel_boiotia	20	5
+6	sc_rom_greek	pel_korinthos	20	5
+6	sc_rom_greek	pel_sparta	20	5
+7	sc_rom_greek	pel_athenai	20	6
+7	sc_rom_greek	pel_boiotia	20	6
+7	sc_rom_greek	pel_korinthos	20	6
+7	sc_rom_greek	pel_sparta	20	6
+0	sc_rom_illyrian		20	1
+1	sc_rom_illyrian		25	2
+2	sc_rom_illyrian		30	2
+3	sc_rom_illyrian		35	3
+4	sc_rom_illyrian		40	3
+5	sc_rom_illyrian		40	4
+6	sc_rom_illyrian		40	5
+0	sc_rom_italic		20	1
+1	sc_rom_italic		25	2
+2	sc_rom_italic		30	2
+3	sc_rom_italic		35	3
+4	sc_rom_italic		40	3
+5	sc_rom_italic		40	4
+6	sc_rom_italic		40	5
+0	sc_rom_numidian		20	1
+1	sc_rom_numidian		25	2
+2	sc_rom_numidian		30	2
+3	sc_rom_numidian		35	3
+4	sc_rom_numidian		40	3
+5	sc_rom_numidian		40	4
+6	sc_rom_numidian		40	5
+0	sc_rom_nuragic		20	1
+1	sc_rom_nuragic		25	2
+2	sc_rom_nuragic		30	2
+3	sc_rom_nuragic		35	3
+4	sc_rom_nuragic		40	3
+5	sc_rom_nuragic		40	4
+6	sc_rom_nuragic		40	5
+0	sc_rom_parthian		20	1
+1	sc_rom_parthian		25	2
+2	sc_rom_parthian		30	2
+3	sc_rom_parthian		35	3
+4	sc_rom_parthian		40	3
+5	sc_rom_parthian		40	4
+6	sc_rom_parthian		40	5
+0	sc_rom_pontic		20	1
+1	sc_rom_pontic		25	2
+2	sc_rom_pontic		30	2
+3	sc_rom_pontic		35	3
+4	sc_rom_pontic		40	3
+5	sc_rom_pontic		40	4
+6	sc_rom_pontic		40	5
+0	sc_rom_roman		20	1
+1	sc_rom_roman		25	2
+2	sc_rom_roman		30	2
+3	sc_rom_roman		35	3
+4	sc_rom_roman		40	3
+5	sc_rom_roman		40	4
+6	sc_rom_roman		40	5

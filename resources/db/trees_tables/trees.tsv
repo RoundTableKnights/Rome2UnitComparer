@@ -1,0 +1,5 @@
+tree_id	distance_to_coast	shrub	high_altitude	conifer
+#trees_tables;0;db/trees_tables/trees				
+lc_tundra-Low_Brush_shrub	1	false	false	false
+lc_tundra-Norway_Spruce_tree	256	false	false	false
+lc_tundra-Thicket_shrub	1	false	false	false

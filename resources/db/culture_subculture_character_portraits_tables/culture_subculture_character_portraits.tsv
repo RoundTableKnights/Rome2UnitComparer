@@ -1,0 +1,17 @@
+culture	faction	portrait_type	subculture	path
+#culture_subculture_character_portraits_tables;0;db/culture_subculture_character_portraits_tables/culture_subculture_character_portraits				
+rom_Barbarian		baby		data\ui\portraits\family_tree_children\rom_baby_west.png
+rom_Eastern		baby		data\ui\portraits\family_tree_children\rom_baby_east.png
+rom_Eastern	rom_kush	baby	sc_rom_african_arabian	data\ui\portraits\family_tree_children\rom_desert_baby.png
+rom_Hellenistic		baby		data\ui\portraits\family_tree_children\rom_baby_west.png
+rom_Roman		baby		data\ui\portraits\family_tree_children\rom_baby_west.png
+rom_Barbarian		boy		data\ui\portraits\family_tree_children\rom_barb_boy.png
+rom_Eastern		boy		data\ui\portraits\family_tree_children\rom_eastern_boy.png
+rom_Eastern	rom_kush	boy	sc_rom_african_arabian	data\ui\portraits\family_tree_children\rom_desert_boy.png
+rom_Hellenistic		boy		data\ui\portraits\family_tree_children\rom_roman_boy.png
+rom_Roman		boy		data\ui\portraits\family_tree_children\rom_roman_boy.png
+rom_Barbarian		girl		data\ui\portraits\family_tree_children\rom_barb_girl.png
+rom_Eastern		girl		data\ui\portraits\family_tree_children\rom_eastern_girl.png
+rom_Eastern	rom_kush	girl	sc_rom_african_arabian	data\ui\portraits\family_tree_children\rom_desert_girl.png
+rom_Hellenistic		girl		data\ui\portraits\family_tree_children\rom_roman_girl.png
+rom_Roman		girl		data\ui\portraits\family_tree_children\rom_roman_girl.png

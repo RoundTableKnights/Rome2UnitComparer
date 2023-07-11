@@ -1,0 +1,99 @@
+key	string
+#region_unit_resources_tables;0;db/region_unit_resources_tables/region_unit_resources	
+3c_Arabian_Auxilia	Arabian Auxilia
+3c_Bactrian_Auxilia	Bactrian Auxilia
+3c_Celtic_Auxilia	Celtic Auxilia
+3c_Eastern_Auxilia	Eastern Auxilia
+3c_Egyptian_Auxilia	Egyptian Auxilia
+3c_Elephant_Auxilia	Elephant Auxilia
+3c_Gallic_Auxilia	Gallic Auxilia
+3c_Germanic_Auxilia	Germanic Auxilia
+3c_Hellenic_Auxilia	Hellenic Auxilia
+3c_Iberian_Auxilia	Iberian Auxilia
+3c_Illyrian_Auxilia	Illyrian Auxilia
+3c_Indian_Elephant_Auxilia	Indian Elephant Auxilia
+3c_Itallian_Auxilia	Itallian Auxillia
+3c_Numidian_Auxilia	Numidian Auxilia
+3c_Persian_Auxilia	Persian Auxilia
+3c_Persian_Cataphract_Auxilia	Persian Cataphract Auxilia
+3c_Roman_Auxilia	Roman Auxilia
+3c_Sabaean_Auxilia	Sabaean Auxilia
+3c_Steppe_Auxilia	Steppe Auxilia
+3c_Thracian_Auxilia	Thracian Auxilia
+3c_local_Auxilia_Achia_and_Macedonia	Local Auxilia Achia & Macedonia
+3c_local_Auxilia_Aegyptos	Local Auxilia Aegyptos
+3c_local_Auxilia_Armenia	Local Auxilia Armenia
+3c_local_Auxilia_Asia	Local Auxilia Asia
+3c_local_Auxilia_Britannia	Local Auxilia Britania
+3c_local_Auxilia_Cappadocia	Local Auxilia Cappadocia
+3c_local_Auxilia_Dacia	Local Auxilia Dacia
+3c_local_Auxilia_Hispania	Local Auxilia Hispania
+3c_local_Auxilia_Libya	Local Auxilia Libya
+3c_local_Auxilia_Parthia	Local Auxilia Parthia
+3c_local_Auxilia_Pontus	Local Auxilia Pontus
+3c_local_Auxilia_Pretanic_Isles	Local Auxilia Pretanic Isles
+3c_local_Auxilia_Syria	Local Auxilia Syria
+Auxilia_Arabian	Arabian Auxilia
+Auxilia_Asia	Local Auxilia Asia
+Auxilia_Assyrian	Assyrian Auxilia
+Auxilia_Bactrian	Bactrian Auxilia
+Auxilia_Bosporus	Local Auxilia Bosporus
+Auxilia_Briton	Briton Auxilia
+Auxilia_Caucasia	Local Auxilia Caucasia
+Auxilia_Celtic	Celtic Auxilia
+Auxilia_Egyptian	Egyptian Auxilia
+Auxilia_Galatia_et_Cappadocia	Local Auxilia Galatia et Cappadocia
+Auxilia_Gallic	Gallic Auxilia
+Auxilia_Germanic	Germanic Auxilia
+Auxilia_Hellas	Local Auxilia Hellas
+Auxilia_Hellenic	Hellenic Auxilia
+Auxilia_Iberian	Iberian Auxilia
+Auxilia_Illyrian	Illyirian Auxilia
+Auxilia_Italian	Italian Auxilia
+Auxilia_Nabatea_ArabiaMagna_ArabiaFelix	Local Auxilia Nabataea, Arabia Magna, Arabia Felix
+Auxilia_North_African	North African Auxilia
+Auxilia_Parthian	Parthian Auxilia
+Auxilia_Persian	Persian Auxilia
+Auxilia_Roman	Roman Auxilia
+Auxilia_Sabaean	Sabaean Auxilia
+Auxilia_Saka	Saka Auxilia
+Auxilia_Sarmatian	Sarmatian Auxilia
+Auxilia_Scythian	Scythian Auxilia
+Auxilia_Syria	Local Auxilia Syria
+Auxilia_Thracia	Local Auxilia Thracia
+Auxilia_Thracian	Thracian Auxilia
+Auxilia_local_Cartaginensis	Local Auxilia Cartaginensis
+Auxilia_local_Gedrosia_Arachosia_Bactria_Aria	Local Auxilia Gedrosia, Arachosia, Bactria, Aria
+Auxilia_local_Macedonia	Local Auxilia Macedonia
+Auxilia_local_Phazania_Libue_Aithiops	Local Auxilia Phazani,a Libue, Aithiops
+Auxilia_local_Raetia_et_Noricum	Local Auxilia Raetia et Noricum
+Auxilia_local_Tarraconensis	Local Auxilia Tarraconensis
+CiG_Regional_Briton	Briton
+CiG_Regional_Celtic	Celtic
+CiG_Regional_German	German
+CiG_Regional_Greek	Greek
+CiG_Regional_Roman	Roman
+inv_local_aequi_units	Local Aequi Units
+inv_local_african_units	Local African Units
+inv_local_brutti_units	Local Bruttii Units
+inv_local_campanian_cavalry	Local Campanian Cavalry
+inv_local_carthago_units	Local Carthage Units
+inv_local_etruscan_units	Local Etruscan Units
+inv_local_gallic_axemen	Local Gallic Axemen
+inv_local_gallic_horsemen	Local Gallic Horsemen
+inv_local_gallic_hunters	Local Gallic Hunters
+inv_local_gallic_units	Local Gallic Units
+inv_local_greek_units	Local Greek Units
+inv_local_highland_italian_units	Local Italian Hill Units
+inv_local_iapygian_units	Local Iapygian Units
+inv_local_latin_units	Local Latin Units
+inv_local_ligurian_units	Local Ligurian Units
+inv_local_lowland_italian_units	Local Italian Units
+inv_local_lucanian_units	Local Lucanian Units
+inv_local_sabine_units	Local Sabine Units
+inv_local_samnite_units	Local Samnite Units
+inv_local_sardi_units	Local Sardinian Units
+inv_local_sicillian_units	Local Sicillian Units
+inv_local_umbrian_units	Local Umbrian Units
+inv_local_veneti_units	Local Veneti Units
+inv_local_volsci_units	Local Volsci Units

@@ -1,0 +1,14 @@
+flag_key
+#special_ability_invalid_usage_flags_tables;0;db/special_ability_invalid_usage_flags_tables/special_ability_invalid_usage_flags
+cannot_perform_missile_attack
+defending_a_zone
+disembarked_from_a_ship
+dismounted
+embarked_on_a_ship
+enemy_in_proximity
+enraged
+manning_equipment
+not_yet_enraged
+officer_dead
+on_a_platform
+phase_is_deployment

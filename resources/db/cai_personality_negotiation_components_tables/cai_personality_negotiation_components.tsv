@@ -1,0 +1,8 @@
+id	angry_reject_max	angry_reject_min	initial_decline	initial_counter	irrelevant_accept	irrelevant_decline	irrelevant_counter_new	irrelevant_counter_last	max_interactions	max_steps_above_acceptable	no_offer_chance	no_payment_chance	num_goals_generated
+#cai_personality_negotiation_components_tables;0;db/cai_personality_negotiation_components_tables/cai_personality_negotiation_components													
+balanced	4	2	1	1	3	0	1	0	3	1	60	80	2
+default	4	2	1	1	3	0	1	0	3	1	60	80	2
+determined	4	2	1	1	3	0	1	0	3	1	60	80	2
+haggler	4	2	1	1	3	0	1	0	3	1	60	80	2
+hot_headed	4	2	1	1	3	0	1	0	3	1	60	80	2
+straightforward	4	2	1	1	3	0	1	0	3	1	60	80	2

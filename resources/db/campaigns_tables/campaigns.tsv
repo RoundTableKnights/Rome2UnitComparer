@@ -1,0 +1,12 @@
+campaign_name	map_name	is_grand	campaign_order	exportable	display_location	is_tutorial	banner_icon	banner_image	available_for_mp	mp_sort_order
+#campaigns_tables;5;db/campaigns_tables/campaigns										
+main_3c	main_emperor	true	3	false	main_emperor	false			true	5
+main_emperor	main_emperor	true	2	false	main_emperor	false			true	1
+main_gaul	main_gaul	false	100	false	main_gaul	false			true	2
+main_greek	main_greek	false	102	false	main_greek	false			true	4
+main_invasion	main_invasion	true	4	false	main_invasion	false			true	6
+main_punic	main_punic	false	101	false	main_punic	false			true	3
+main_rome	main_rome_map	true	1	false	main_rome_map	false			true	0
+prologue_01	prologue_map_01	false	0	false	prologue_map_01	true			false	0
+prologue_02	prologue_map_01	false	0	false	prologue_map_01	true			false	0
+prologue_03	prologue_map_01	false	0	false	prologue_map_01	true			false	0

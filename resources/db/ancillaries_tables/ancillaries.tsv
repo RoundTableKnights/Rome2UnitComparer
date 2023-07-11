@@ -1,0 +1,994 @@
+key	type	applies_to	transferrable	unique_to_world	unique_to_faction	precedence	start_date	end_date	avatar_skill	avatar_special_ability	legendary_item	mp_exclusive	is_wife_ancillary	is_husband_ancillary	is_diplomatic_ancillary	is_dynastic_ancillary	spouse_subculture	category	min_starting_age	max_starting_age	min_expiry_age	max_expiry_age	spouse_type
+#ancillaries_tables;12;db/ancillaries_tables/ancillaries																							
+3c_event_sassanian_sculptor	Ancillary_Young_Man_Civ_Poor	general	true	true	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+dk_foreign_intrigue_advisor	Ancillary_Young_Man_Civ_Rich	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+inv_brennus_sword	Ancillary_Weapons_Long_Sword	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+inv_dionysius_poetry	Ancillary_Manuscript	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+inv_horned_helmet	Ancillary_Armour	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+inv_illyrian_captain	Ancillary_Old_Man_Barb	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+inv_illyrian_deckhand	Ancillary_Young_Man_Barb	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+inv_illyrian_pirate	Ancillary_Young_Man_Barb	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+inv_illyrian_traitor	Ancillary_Young_Man_Civ_Poor	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+inv_statue_of_baal_hammon	Ancillary_Statue	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+inv_statue_of_juno	Ancillary_Statue	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+inv_trophy_bear	Ancillary_Animal_Bear	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+inv_trophy_boar	Ancillary_Animal_Bones	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+inv_trophy_stag	Ancillary_Trophy_Stag	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+inv_trophy_wolf	Ancillary_Pelt	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+inv_weighted_scale	Ancillary_Weighted_Scales	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_army_hero_berber	Ancillary_Berber_Warrior	REPLACE_ME_102514	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_hero_berber_raider	Ancillary_Berber_Warrior	REPLACE_ME_111829	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_hero_saviour	Ancillary_Greek_Hoplite	REPLACE_ME_112053	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_master_armourer	Ancillary_Armour	REPLACE_ME_112229	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_master_beast	Ancillary_Berber_Warrior	REPLACE_ME_112349	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_master_horse_archer	Ancillary_Steppe_Warrior	REPLACE_ME_112507	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_master_horse_numidian	Ancillary_Numidian_Warrior	REPLACE_ME_123615	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_master_horses	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_123705	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_army_master_hunter	Ancillary_Young_Man_Barb	REPLACE_ME_123753	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_army_master_hunter_trouble	Ancillary_Young_Man_Barb	REPLACE_ME_123841	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_army_master_mercenary	Ancillary_Greek_Hoplite	REPLACE_ME_123923	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_master_siege_engineer	Ancillary_Greek_Hoplite	REPLACE_ME_124000	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_master_smith	Ancillary_Old_Man_Civil	REPLACE_ME_124046	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_army_scout_british_chav	Ancillary_Will_Overgard	REPLACE_ME_124136	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_scout_desert	Ancillary_Berber_Warrior	REPLACE_ME_124235	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_scout_desert_arabian	Ancillary_Berber_Warrior	REPLACE_ME_124333	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_army_scout_german	Ancillary_Young_Man_Barb	REPLACE_ME_124423	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_army_shieldbearer	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_124520	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_army_slaver	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_124617	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_army_steed	Ancillary_Animal_Horse	REPLACE_ME_091600	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_auxiliary_philosopher	Ancillary_Old_Man_Civil	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_barbarian_pirate	Ancillary_Old_Man_Barb	REPLACE_ME_161034	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_booze_companion	Ancillary_Tim_Hough	REPLACE_ME_091937	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_brazen_bull	Ancillary_Cauldron	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_christian_priest	Ancillary_Chris_Knight	REPLACE_ME_161035	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_crisis_manager	Ancillary_Tim_Hough	REPLACE_ME_161036	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_east_eunuch_authority	Ancillary_Numidian_Warrior	general	true	true	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_east_eunuch_subterfuge	Ancillary_Numidian_Warrior	general	true	true	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_east_eunuch_zeal	Ancillary_Numidian_Warrior	general	true	true	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_ex_slum_lord	Ancillary_Old_Man_Barb	REPLACE_ME_161037	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_family_aunt_bully	Ancillary_Old_Woman_Civil	REPLACE_ME_092056	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_family_mum_in_law_evil	Ancillary_Old_Woman_Civil	REPLACE_ME_092137	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_family_mum_mental	Ancillary_Old_Woman_Civil	REPLACE_ME_092246	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_govt_dealer_horse	Ancillary_Old_Man_Civil	REPLACE_ME_092421	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_govt_goldsmith	Ancillary_Old_Man_Civil	REPLACE_ME_092508	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_govt_merchant_adventurer	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_092614	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_govt_money_treasurer	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_092702	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_govt_trader_parthia	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_092741	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_govt_translator_polite	Ancillary_Old_Man_Civil	REPLACE_ME_094815	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_house_bard_gallic	Ancillary_Young_Man_Barb	REPLACE_ME_094905	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_house_healer_quack	Ancillary_Old_Man_Civil	REPLACE_ME_095230	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_house_honest_man	Ancillary_Old_Man_Civil	REPLACE_ME_095315	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_house_old_man_1	Ancillary_Old_Man_Civil	REPLACE_ME_095402	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_house_old_man_2	Ancillary_Old_Man_Civil	REPLACE_ME_095506	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_house_tutor	Ancillary_Old_Man_Civil	REPLACE_ME_095554	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_house_tutor_latin	Ancillary_Old_Man_Civil	REPLACE_ME_095708	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_house_wise_man	Ancillary_Old_Man_Barb	REPLACE_ME_095846	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_husband_ambitious	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_arrogant	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_clever	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_diplomatic_TEST	Ancillary_Young_woman_Barb	general	false	false	false	1	-10000	10000			false	false	false	true	true	false		default	16	30	30	50	diplomatic
+r2_sp_anc_all_husband_drunkard	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_dynastic	Ancillary_Young_Man_Civ_Rich	general	false	false	false	1	-10000	10000			false	false	false	true	false	true		default	16	30	30	50	dynastic
+r2_sp_anc_all_husband_faithful	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_gifted	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_miscreant	Ancillary_Dylan	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_poisoner	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_pol_ambitious	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_arrogant	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_clever	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_drunkard	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_faithful	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_gifted	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_miscreant	Ancillary_Dylan	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_poisoner	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_prolific	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_quiet	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_religious	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_pol_rowdy	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_all_husband_prolific	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_quiet	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_religious	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_husband_rowdy	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_immortal_retiree	Ancillary_Becloaked_Figure	REPLACE_ME_155500	true	false	false	0	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_item_armour_cuirass_moon	Ancillary_Chainmail	REPLACE_ME_100026	false	true	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_item_army_bow_parthian	Ancillary_Weapons_Composite_Bow	REPLACE_ME_100124	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_item_disguise_leper	Ancillary_Becloaked_Figure	REPLACE_ME_100609	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_item_disguise_vestal	Ancillary_Eastern_Beauty	REPLACE_ME_100706	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_item_falx	Ancillary_Weapons_Rhomphaia	REPLACE_ME_100752	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_item_glasses	Ancillary_Glass	REPLACE_ME_100900	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_item_shield_practice	Ancillary_Shield_Round	REPLACE_ME_101000	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_local_bandit	Ancillary_Will_Overgard	REPLACE_ME_161038	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_magic_magician	Ancillary_Becloaked_Figure	REPLACE_ME_101048	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_magic_magus_east	Ancillary_Becloaked_Figure	REPLACE_ME_101152	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_magic_soothsayer_1	Ancillary_Becloaked_Figure	REPLACE_ME_101255	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_magic_soothsayer_2	Ancillary_Becloaked_Figure	REPLACE_ME_101346	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_magic_witch_1_medical	Ancillary_Old_Woman_Barb	REPLACE_ME_101432	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_magic_witch_3_advisor	Ancillary_Old_Woman_Barb	REPLACE_ME_101911	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_magic_witch_4_celt	Ancillary_Old_Woman_Barb	REPLACE_ME_102119	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_magic_witch_5_killer	Ancillary_Old_Woman_Barb	REPLACE_ME_102308	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_magic_witch_6_fake	Ancillary_Old_Woman_Civil	REPLACE_ME_101528	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_master_baiter	Ancillary_Becloaked_Figure	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_medic_heal_all	Ancillary_Clay_Jar	REPLACE_ME_102406	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_medic_herbalist	Ancillary_Old_Man_Civil	REPLACE_ME_102459	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_mediocre_prophet	Ancillary_Chris_Knight	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_misc_who	Ancillary_Old_Man_Barb	REPLACE_ME_102547	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_mistress_barbarian	Ancillary_Young_woman_Barb	REPLACE_ME_102640	false	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_mistress_berber	Ancillary_Eastern_Beauty	REPLACE_ME_102758	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_mistress_civilized	Ancillary_Eastern_Beauty	REPLACE_ME_103046	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_mistress_dancer	Ancillary_Eastern_Beauty	REPLACE_ME_103251	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_mistress_floozy	Ancillary_Eastern_Beauty	REPLACE_ME_103409	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_mistress_skilled	Ancillary_Eastern_Beauty	REPLACE_ME_103450	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_mistress_tart	Ancillary_Eastern_Beauty	REPLACE_ME_102906	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_myrrh	Ancillary_Crockery	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_navy_fisherman_wise	Ancillary_Will_Overgard	REPLACE_ME_103531	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_navy_master_pilot	Ancillary_Tim_Hough	REPLACE_ME_103614	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_navy_master_pilot_1	Ancillary_Tim_Hough	REPLACE_ME_143613	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_navy_master_seaman	Ancillary_Tim_Hough	REPLACE_ME_103659	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_navy_pirate	Ancillary_Young_Man_Barb	REPLACE_ME_103741	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_navy_pirate_reformed	Ancillary_Young_Man_Barb	REPLACE_ME_103902	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_navy_shipwright	Ancillary_Dylan	REPLACE_ME_103955	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_obscure_priest	Ancillary_Chris_Knight	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_oil_lamp	Ancillary_Oil_Lamp	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_one_armed_bowman	Ancillary_Berber_Warrior	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_one_eyed_veteran	Ancillary_Greek_Hoplite	REPLACE_ME_114709	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_pannonian_herder_dog	Ancillary_Animal_Dog	agent	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_pet_bear	Ancillary_Animal_Bear	REPLACE_ME_104100	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_pet_monkey_escape	Ancillary_Animal_Monkey	REPLACE_ME_104513	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_pet_monkey_thief	Ancillary_Animal_Monkey	REPLACE_ME_104623	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_pet_sheep	Ancillary_Animal_Sheep	REPLACE_ME_104736	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_pet_snake	Ancillary_Animal_Snake	REPLACE_ME_104814	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_all_portable_loom	Ancillary_Chainmail	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_religion_cultist_secret	Ancillary_Chris_Knight	REPLACE_ME_104900	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_religion_prophet_desert_1	Ancillary_Berber_Warrior	REPLACE_ME_105000	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_religion_prophet_desert_2	Ancillary_Berber_Warrior	REPLACE_ME_105056	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_religion_prophet_mad	Ancillary_Becloaked_Figure	REPLACE_ME_105338	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_religion_secret_dreadful	Ancillary_Becloaked_Figure	REPLACE_ME_105444	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_resourceful_beggar	Ancillary_Young_Man_Civ_Poor	agent	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_slave_exotic	Ancillary_Eastern_Beauty	REPLACE_ME_105539	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_slave_girl_barbarian	Ancillary_Young_woman_Barb	REPLACE_ME_105629	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_spy_mentat_1	Ancillary_Becloaked_Figure	REPLACE_ME_105907	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_spy_mentat_2	Ancillary_Becloaked_Figure	REPLACE_ME_105959	true	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_spy_poisoner	Ancillary_Becloaked_Figure	REPLACE_ME_110344	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_thinker_barbarian	Ancillary_Old_Man_Barb	REPLACE_ME_110435	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_trade_expert	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_110616	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_traitor_barbarian_barb_iberian	Ancillary_Barbarian_Warrior	REPLACE_ME_110859	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_barbarian_celt	Ancillary_Barbarian_Warrior	REPLACE_ME_110714	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_barbarian_gaul	Ancillary_Barbarian_Warrior	REPLACE_ME_111020	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_barbarian_german	Ancillary_Barbarian_Warrior	REPLACE_ME_111210	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_briton	Ancillary_Barbarian_Warrior	REPLACE_ME_111303	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_eastern_generic	Ancillary_Steppe_Warrior	REPLACE_ME_111503	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_eastern_parthia	Ancillary_Steppe_Warrior	REPLACE_ME_111611	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_egypt	Ancillary_Greek_Hoplite	REPLACE_ME_111653	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_greek	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_111756	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_traitor_greek_macedonia	Ancillary_Greek_Hoplite	REPLACE_ME_111857	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_punic	Ancillary_Greek_Hoplite	REPLACE_ME_111421	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_roman_equestrian	Ancillary_Roman_Pre_Marian	REPLACE_ME_111959	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_all_traitor_roman_exile	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_112045	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_traitor_roman_patrician	Ancillary_Old_Man_Civil	REPLACE_ME_112129	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_traitor_roman_plebian	Ancillary_Old_Man_Civil	REPLACE_ME_112214	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_trinket_merchant	Ancillary_Berber_Warrior	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_all_wife_ambitious	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_arrogant	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_clever	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_diplomatic_TEST	Ancillary_Young_woman_Barb	general	false	false	false	1	-10000	10000			false	false	true	false	true	false		default	16	30	30	50	diplomatic
+r2_sp_anc_all_wife_drunkard	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_dynastic	Ancillary_Young_Woman_Civ_Rich	general	false	false	false	1	-10000	10000			false	false	true	false	false	true		default	16	30	30	50	dynastic
+r2_sp_anc_all_wife_faithful	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_fertile	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_great_beauty	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_harridan_nag	Ancillary_Kate	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_poisoner	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_pol_ambitious	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_arrogant	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_clever	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_drunkard	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_faithful	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_fertile	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_great_beauty	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_harridan_nag	Ancillary_Kate	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_poisoner	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_quiet	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_religious	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_pol_shrew	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_all_wife_quiet	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_religious	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wife_shrew	Ancillary_Young_woman_Barb	REPLACE_ME_112214	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_all_wise_rabbi	Ancillary_Old_Man_Civil	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_armenian_religion_vahakan	Ancillary_Becloaked_Figure	REPLACE_ME_112418	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_ambassador	Ancillary_Old_Man_Barb	REPLACE_ME_161212	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_army_guard	Ancillary_Barbarian_Warrior	REPLACE_ME_112732	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_army_hero_celt	Ancillary_Barbarian_Warrior	REPLACE_ME_134907	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_army_hero_chris_knight	Ancillary_Chris_Knight	REPLACE_ME_135036	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_army_hero_gian	Ancillary_Tim_Hough	REPLACE_ME_134957	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_army_hero_old	Ancillary_Old_Man_Barb	REPLACE_ME_134359	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_army_hero_tim	Ancillary_Tim_Hough	REPLACE_ME_120528	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_army_hero_will	Ancillary_Will_Overgard	REPLACE_ME_135112	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_army_sword	Ancillary_Weapons_Long_Sword	REPLACE_ME_162555	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_army_swordbearer	Ancillary_Weapons_Long_Sword	REPLACE_ME_113108	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_army_warrior_famous	Ancillary_Barbarian_Warrior	REPLACE_ME_112827	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_arts_bard	Ancillary_Old_Man_Barb	REPLACE_ME_113006	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_arts_bard_biographer	Ancillary_Old_Man_Barb	REPLACE_ME_113200	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_arts_menhir	Ancillary_Old_Man_Barb	REPLACE_ME_113259	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_astrologer	Ancillary_Becloaked_Figure	REPLACE_ME_153346	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_astronomer	Ancillary_Becloaked_Figure	REPLACE_ME_153430	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_bard	Ancillary_Old_Man_Barb	REPLACE_ME_153625	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_black_cauldron	Ancillary_Cauldron	REPLACE_ME_134746	true	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_childhood_friend	Ancillary_Barbarian_Warrior	REPLACE_ME_123238	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_govt_scribe	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_113336	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_govt_translator	Ancillary_Young_Man_Barb	REPLACE_ME_113449	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_hazel_shells	Ancillary_Crockery	REPLACE_ME_134822	true	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_historian	Ancillary_Old_Man_Barb	REPLACE_ME_154021	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_house_musician	Ancillary_Young_Man_Barb	REPLACE_ME_113540	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_house_musician_gallic	Ancillary_Young_Man_Barb	REPLACE_ME_113640	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_house_old_man	Ancillary_Old_Man_Barb	REPLACE_ME_115450	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_husband_cunning	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_husband_pol_cunning	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_husband_pol_priest	Ancillary_Chris_Knight	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_husband_pol_shieldman	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		apparel	16	30	30	50	political
+r2_sp_anc_barbarian_husband_pol_swordman	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_husband_pol_uncanny	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_husband_priest	Ancillary_Chris_Knight	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_husband_shieldman	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		apparel	16	30	30	50	regular
+r2_sp_anc_barbarian_husband_swordman	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_husband_uncanny	Ancillary_Young_Man_Barb	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_item_bracelet	Ancillary_Torc	REPLACE_ME_160629	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_bronze_mirror	Ancillary_Writing_Tablet	REPLACE_ME_162516	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_chainmail_shirt	Ancillary_Chainmail	REPLACE_ME_161246	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_item_drinking_horn	Ancillary_Drinking_Horn	REPLACE_ME_160742	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_excalibur	Ancillary_Weapons_Long_Sword	REPLACE_ME_142317	false	true	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_item_fish_sauce	Ancillary_Crockery	REPLACE_ME_162423	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_god_hearth	Ancillary_Statuette	REPLACE_ME_115542	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_heart	Ancillary_Heart	REPLACE_ME_115633	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_horn	Ancillary_War_Horn	REPLACE_ME_120954	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_item_limed_head	Ancillary_Severed_Head	REPLACE_ME_121043	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_potion	Ancillary_Crockery	REPLACE_ME_162329	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_skull_cup	Ancillary_Crockery	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_solar_wheel_amulet	Ancillary_Amulet	REPLACE_ME_154103	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_spear_wotan	Ancillary_Weapons_Pike	REPLACE_ME_121439	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_item_torc	Ancillary_Torc	REPLACE_ME_160544	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_item_war_helmet	Ancillary_Jewellery	REPLACE_ME_162245	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_jeweller	Ancillary_Jewellery	REPLACE_ME_144208	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_kate	Ancillary_Kate	REPLACE_ME_120648	true	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_magic_crone	Ancillary_Becloaked_Figure	REPLACE_ME_121531	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_metalworker	Ancillary_Old_Man_Barb	REPLACE_ME_144031	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_midwife	Ancillary_Old_Woman_Barb	REPLACE_ME_134612	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_pelt_white_stag	Ancillary_Pelt	REPLACE_ME_134442	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_pet_raven	Ancillary_Animal_Jackdaw	REPLACE_ME_121802	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_playwright_1	Ancillary_Old_Man_Barb	REPLACE_ME_153510	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_playwright_2	Ancillary_Old_Man_Barb	REPLACE_ME_153548	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_poet	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_153700	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_religion_britannia	Ancillary_Becloaked_Figure	REPLACE_ME_123342	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_religion_druid_shaman	Ancillary_Chris_Knight	REPLACE_ME_135404	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_religion_mabon	Ancillary_Becloaked_Figure	REPLACE_ME_134651	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_religion_shaman	Ancillary_Becloaked_Figure	REPLACE_ME_123152	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_religion_taranis	Ancillary_Becloaked_Figure	REPLACE_ME_135259	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_religion_wise_salmon	Ancillary_Animal_Fish	REPLACE_ME_121907	false	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_road_builder	Ancillary_Young_Man_Barb	REPLACE_ME_142610	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_sheep	Ancillary_Animal_Sheep	REPLACE_ME_142524	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_barbarian_storyteller	Ancillary_Old_Man_Barb	REPLACE_ME_153739	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_wheelwright	Ancillary_Young_Man_Barb	REPLACE_ME_142656	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_barbarian_wife_cunning	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_wife_pol_cunning	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_wife_pol_priestess	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_wife_pol_shieldmaid	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_wife_pol_swordmaid	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_wife_pol_uncanny	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_barbarian_wife_priestess	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_wife_shieldmaid	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_wife_swordmaid	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_wife_uncanny	Ancillary_Young_woman_Barb	general	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_barbarian_witch_doctor	Ancillary_Old_Man_Barb	REPLACE_ME_142742	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_barbarian_woodworker	Ancillary_Young_Man_Barb	REPLACE_ME_144114	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_briton_army_hero_young_irish	Ancillary_Dylan	REPLACE_ME_161339	false	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_briton_army_trumpet_irish	Ancillary_War_Horn	REPLACE_ME_144245	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_briton_army_young_warrior_2	Ancillary_Dylan	REPLACE_ME_145141	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_briton_champion	Ancillary_Barbarian_Warrior	REPLACE_ME_130445	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_briton_judge_irish	Ancillary_Old_Man_Barb	REPLACE_ME_162113	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_briton_religion_belenus	Ancillary_Chris_Knight	REPLACE_ME_135143	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_briton_religion_druid_1	Ancillary_Chris_Knight	REPLACE_ME_130313	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_briton_religion_druid_2	Ancillary_Chris_Knight	REPLACE_ME_130357	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_celtic_army_trumpet	Ancillary_War_Horn	REPLACE_ME_144211	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_celtic_army_young_warrior	Ancillary_Young_Man_Barb	REPLACE_ME_144938	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_antikythera_device	Ancillary_Statuette	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_army_baldrick	Ancillary_Gladiator	REPLACE_ME_135515	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_army_brigand	Ancillary_Gladiator	REPLACE_ME_103046	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_army_diarist	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_140518	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_army_explorer	Ancillary_Greek_Hoplite	REPLACE_ME_103620	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_army_hero	Ancillary_Greek_Hoplite	REPLACE_ME_115214	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_army_inventor	Ancillary_Old_Man_Civil	REPLACE_ME_115323	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_army_inventor_2	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_115436	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_army_master_artillery	Ancillary_Roman_Pre_Marian	REPLACE_ME_115536	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_army_master_drill	Ancillary_Roman_Pre_Marian	REPLACE_ME_120149	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_army_master_engineer	Ancillary_Old_Man_Civil	REPLACE_ME_135932	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_army_messenger_galloper	Ancillary_Animal_Horse	REPLACE_ME_140030	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_army_messenger_runner	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_140145	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_army_quartermaster	Ancillary_Old_Man_Civil	REPLACE_ME_140257	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_army_warrior_veteran	Ancillary_Greek_Hoplite	REPLACE_ME_140402	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_arts_biographer	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_140821	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_arts_comedian	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_140956	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_arts_historian	Ancillary_Old_Man_Civil	REPLACE_ME_141110	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_arts_jeweller	Ancillary_Jewellery	REPLACE_ME_141212	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_arts_librarian	Ancillary_Old_Man_Civil	REPLACE_ME_141314	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_arts_playwright	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_141522	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_arts_satire	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_141617	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_booze_merchant	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_151841	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_bull_leaper_statuette	Ancillary_Mithras	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_creative_accountant	Ancillary_Young_Man_Civ_Rich	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_dioptra	Ancillary_Statuette	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_glassblower	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_154920	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_build_architect	Ancillary_Old_Man_Civil	REPLACE_ME_151935	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_build_mason	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_152041	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_build_roads	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_152134	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_build_surveyor	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_152253	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_coin_expert	Ancillary_Old_Man_Civil	REPLACE_ME_152338	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_engineer_mining	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_152440	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_engineer_water	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_152541	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_farmer	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_152800	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_foreigner	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_153148	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_inventor	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_153301	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_judge_bent	Ancillary_Old_Man_Civil	REPLACE_ME_153400	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_judge_bent_2	Ancillary_Old_Man_Civil	REPLACE_ME_153455	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_judge_honest	Ancillary_Old_Man_Civil	REPLACE_ME_153606	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_judge_magistrate	Ancillary_Old_Man_Civil	REPLACE_ME_153658	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_judge_magistrate_evil	Ancillary_Roman_Pre_Marian	REPLACE_ME_153833	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_govt_mapmaker	Ancillary_Old_Man_Civil	REPLACE_ME_153936	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_mine_overseer	Ancillary_Gladiator	REPLACE_ME_155338	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_money_idiot	Ancillary_Old_Man_Civil	REPLACE_ME_155430	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_money_mathematician	Ancillary_Old_Man_Civil	REPLACE_ME_155519	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_money_tax_farmer	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_155614	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_orator	Ancillary_Scrolls	REPLACE_ME_155904	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_scribe_east	Ancillary_Scrolls	REPLACE_ME_155928	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_scribe_egypt	Ancillary_Scrolls	REPLACE_ME_160251	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_scribe_greek	Ancillary_Scrolls	REPLACE_ME_161459	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_scribe_roman	Ancillary_Scrolls	REPLACE_ME_161604	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_shipping_magnate	Ancillary_Old_Man_Civil	REPLACE_ME_161834	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_spymaster	Ancillary_Becloaked_Figure	REPLACE_ME_161946	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_surveyor_land	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_162057	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_trader_grain	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_162200	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_trader_greek	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_162253	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_govt_translator	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_162350	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_house_athlete	Ancillary_Young_Woman_Civ_Poor	REPLACE_ME_162437	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_house_clerk_freeman	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_092225	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_house_foodtaster	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_092843	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_house_giant_german	Ancillary_Young_Man_Barb	REPLACE_ME_095826	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_house_guard_wrestler	Ancillary_Young_Man_Barb	REPLACE_ME_100441	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_house_mentor_greek	Ancillary_Old_Man_Civil	REPLACE_ME_100535	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_house_musician	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_100725	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_house_wine_steward	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_100818	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_husband_brutal	Ancillary_Tim_Hough	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_educated	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_efficient	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_flirt	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_handyman	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_intelligent	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_mean	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_pol_brutal	Ancillary_Tim_Hough	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_educated	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_efficient	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_flirt	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_handyman	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_intelligent	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_mean	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_political	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_protective	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_sharp_tongue	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_social_climber	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_spendthrift	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_superior	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_unfaithful	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_unsuitable	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_pol_wealthy	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_husband_political	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_protective	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_sharp_tongue	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_social_climber	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_spendthrift	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_superior	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_unfaithful	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_unsuitable	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_husband_wealthy	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_infamous_atheist	Ancillary_Old_Man_Civil	REPLACE_ME_150848	false	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_item_fossil_dinosaur	Ancillary_Animal_Bones	REPLACE_ME_101701	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_item_fossil_mammoth	Ancillary_Animal_Bones	REPLACE_ME_101926	false	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_item_lens	Ancillary_Jewellery	REPLACE_ME_102026	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_item_lens_medical	Ancillary_Jewellery	REPLACE_ME_102147	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_item_notepad	Ancillary_Writing_Tablet	REPLACE_ME_140621	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_item_poison_hemlock_2	Ancillary_Clay_Jar	REPLACE_ME_102323	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_law_torturer	Ancillary_Hooded_Torturer	REPLACE_ME_102811	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_law_torturer_2	Ancillary_Hooded_Torturer	REPLACE_ME_103017	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_loyal_camel	Ancillary_Statuette	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_civilised_magic_astrologer_2	Ancillary_Becloaked_Figure	REPLACE_ME_103112	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_magic_astrologer_3	Ancillary_Becloaked_Figure	REPLACE_ME_103207	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_magic_hermit	Ancillary_Becloaked_Figure	REPLACE_ME_114037	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_magic_hermit_2	Ancillary_Becloaked_Figure	REPLACE_ME_114314	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_magic_magician	Ancillary_Becloaked_Figure	REPLACE_ME_114411	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_magic_miracle_max	Ancillary_Becloaked_Figure	REPLACE_ME_114512	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_magic_mystic_egypt	Ancillary_Becloaked_Figure	REPLACE_ME_120456	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_master_calligrapher	Ancillary_Old_Man_Civil	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_medic_doctor	Ancillary_Old_Man_Civil	REPLACE_ME_120555	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_medic_egyptian	Ancillary_Old_Man_Civil	REPLACE_ME_120654	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_medic_physician	Ancillary_Old_Man_Civil	REPLACE_ME_120827	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_medic_surgeon	Ancillary_Old_Man_Civil	REPLACE_ME_120953	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_mistress_courtesan	Ancillary_Eastern_Beauty	REPLACE_ME_121043	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_mistress_courtesan_top	Ancillary_Eastern_Beauty	REPLACE_ME_121137	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_archer	Ancillary_Weapons_Long_Bow	REPLACE_ME_121236	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_navy_artillerist	Ancillary_Greek_Hoplite	REPLACE_ME_121636	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_navy_cabin_boy	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_122123	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_drummer	Ancillary_Chris_Knight	REPLACE_ME_122210	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_marine	Ancillary_Roman_Pre_Marian	REPLACE_ME_122306	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_navy_master_greek	Ancillary_Old_Man_Civil	REPLACE_ME_122406	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_master_greek_lookout	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_122450	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_master_greek_musician	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_122620	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_master_greek_rower	Ancillary_Old_Man_Civil	REPLACE_ME_123324	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_master_greek_trireme_capt	Ancillary_Old_Man_Civil	REPLACE_ME_123430	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_master_navigator	Ancillary_Old_Man_Civil	REPLACE_ME_123522	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_master_rower	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_123616	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_master_seaman_rhodes	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_123721	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_pirate_cilician	Ancillary_Young_Man_Barb	REPLACE_ME_123832	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_pirate_cilician_reformed	Ancillary_Old_Man_Barb	REPLACE_ME_123935	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_sponge_diver	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_124026	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_navy_surgeon	Ancillary_Old_Man_Civil	REPLACE_ME_124118	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_pet_hostage	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_124207	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_pet_idiot	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_124253	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_philosopher_rhetoric	Ancillary_Old_Man_Civil	REPLACE_ME_124354	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_slave_body_1	Ancillary_Young_Woman_Civ_Poor	REPLACE_ME_145602	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_slave_body_2	Ancillary_Young_Woman_Civ_Poor	REPLACE_ME_145717	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_slave_bodyguard	Ancillary_Gladiator	REPLACE_ME_145812	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_spy_lady_killer	Ancillary_Eastern_Beauty	REPLACE_ME_150003	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_spy_master_assassin	Ancillary_Becloaked_Figure	REPLACE_ME_150233	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_spy_master_thief	Ancillary_Becloaked_Figure	REPLACE_ME_150343	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_spy_poisoner_east	Ancillary_Becloaked_Figure	REPLACE_ME_150444	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_stingy_accountant	Ancillary_Young_Man_Civ_Rich	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_thinker_cynic	Ancillary_Old_Man_Civil	REPLACE_ME_150544	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_thinker_natural_philosopher	Ancillary_Old_Man_Civil	REPLACE_ME_150653	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_thinker_platonic	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_150751	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_thinker_rubbish	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_150849	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_thinker_socratic	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_151008	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_thinker_stoic	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_151107	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_trade_silk	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_151207	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_trade_spices	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_151304	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_trade_vintner	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_151359	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_traitor_barbarian_generic	Ancillary_Young_Man_Barb	REPLACE_ME_151507	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_traitor_slave_gladiator	Ancillary_Gladiator	REPLACE_ME_151603	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_traitor_slave_rebel	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_151654	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_civilised_trojan_horse_model	Ancillary_Cataphract	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_civilised_wife_brutal	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_educated	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_efficient	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_flirt	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_goddess	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_intelligent	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_mean	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_pol_brutal	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_educated	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_efficient	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_flirt	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_goddess	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_intelligent	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_mean	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_political	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_protective	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_sharp_tongue	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_social_climber	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_spendthrift	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_superior	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_unfaithful	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_unsuitable	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_pol_wealthy	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_civilised_wife_political	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_protective	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_sharp_tongue	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_social_climber	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_spendthrift	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_superior	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_unfaithful	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_unsuitable	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_civilised_wife_wealthy	Ancillary_Eastern_Beauty	REPLACE_ME_143331	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_dacian_army_standard	Ancillary_Young_Man_Barb	REPLACE_ME_143331	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_dacian_religion_zalmoxis	Ancillary_Old_Man_Barb	REPLACE_ME_151940	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_east_lizard_god_cultist	Ancillary_Chris_Knight	REPLACE_ME_145705	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_east_medicineman_civilresearch	Ancillary_Berber_Warrior	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_east_medicineman_replenishmentrate	Ancillary_Berber_Warrior	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_east_medicineman_sanitation	Ancillary_Berber_Warrior	general	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_armour_arm_bands	Ancillary_Chainmail	REPLACE_ME_161438	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_cataphract	Ancillary_Cataphract	REPLACE_ME_152450	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_dahae_tribesman	Ancillary_Steppe_Warrior	REPLACE_ME_162707	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_elamite_archer	Ancillary_Steppe_Warrior	REPLACE_ME_151001	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_massagetae_tribesman	Ancillary_Steppe_Warrior	REPLACE_ME_162826	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_master_archer	Ancillary_Steppe_Warrior	REPLACE_ME_152544	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_master_horse	Ancillary_Cataphract	REPLACE_ME_152639	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_saka_tribesman	Ancillary_Steppe_Warrior	REPLACE_ME_162751	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_sword_1	Ancillary_Weapons_Dagger	REPLACE_ME_161545	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_sword_2	Ancillary_Weapons_Dagger	REPLACE_ME_161629	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_army_temple_guard	Ancillary_Steppe_Warrior	REPLACE_ME_152749	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_chinese_delegate	Ancillary_Chinese_Man	REPLACE_ME_152356	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_dignitary_pet	Ancillary_Animal_Monkey	REPLACE_ME_103000	false	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_eastern_stunner_2	Ancillary_Eastern_Beauty	REPLACE_ME_102457	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_govt_dealer_camel	Ancillary_Berber_Warrior	REPLACE_ME_153105	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_govt_herald	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_153148	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_govt_office_bodyguard	Ancillary_Berber_Warrior	REPLACE_ME_161824	false	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_eastern_govt_office_friend	Ancillary_Berber_Warrior	REPLACE_ME_161715	false	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_govt_office_treasurer	Ancillary_Berber_Warrior	REPLACE_ME_161902	false	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_govt_royal_bum	Ancillary_Young_Woman_Civ_Poor	REPLACE_ME_153236	false	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_house_guard_eunuch	Ancillary_Young_Woman_Civ_Poor	REPLACE_ME_153318	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_item_dead_guy	Ancillary_Severed_Head	REPLACE_ME_153758	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_item_dead_guy_2	Ancillary_Pelt	REPLACE_ME_153836	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_item_headband	Ancillary_Jewellery	REPLACE_ME_111157	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_item_magic_carpet	Ancillary_Pelt	REPLACE_ME_132409	false	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_item_royal_cap	Ancillary_Jewellery	REPLACE_ME_152233	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_item_royal_tiara	Ancillary_Jewellery	REPLACE_ME_152318	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_item_stool_prisoner	Ancillary_Young_Woman_Civ_Poor	REPLACE_ME_154348	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_item_zoroastrian_bundle	Ancillary_Jewellery	REPLACE_ME_162121	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_item_zoroastrian_mace	Ancillary_Jewellery	REPLACE_ME_162621	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_leather_scribe	Ancillary_Scrolls	REPLACE_ME_102238	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_magic_geomancer	Ancillary_Becloaked_Figure	REPLACE_ME_103044	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_minstrel	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_152506	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_pet_cat	Ancillary_Animal_W_Cat	REPLACE_ME_103117	false	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_philosopher_mystic	Ancillary_Becloaked_Figure	REPLACE_ME_103154	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_religion_anahit	Ancillary_Eastern_Beauty	REPLACE_ME_103241	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_religion_armazd	Ancillary_Becloaked_Figure	REPLACE_ME_103321	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_religion_bel	Ancillary_Becloaked_Figure	REPLACE_ME_152924	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_religion_mithra	Ancillary_Mithras	REPLACE_ME_152813	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_eastern_religion_zoroastra	Ancillary_Becloaked_Figure	REPLACE_ME_103523	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_slave_eunuch	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_105436	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_torturer_1	Ancillary_Hooded_Torturer	REPLACE_ME_102329	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_eastern_torturer_2	Ancillary_Hooded_Torturer	REPLACE_ME_102420	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_army_sword	Ancillary_Weapons_Long_Sword	REPLACE_ME_105530	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_egyptian_arts_poet_egypt	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_140400	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_barbarian_bodyguard	Ancillary_Young_Man_Barb	REPLACE_ME_115434	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_chantress	Ancillary_Eastern_Beauty	REPLACE_ME_123613	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_customs_agent	Ancillary_Greek_Hoplite	REPLACE_ME_114934	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_egyptian_dancing_girl	Ancillary_Eastern_Beauty	REPLACE_ME_115007	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_doctor	Ancillary_Old_Man_Civil	REPLACE_ME_115511	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_eastern_butler	Ancillary_Berber_Warrior	REPLACE_ME_105617	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_eastern_slave	Ancillary_Berber_Warrior	REPLACE_ME_114903	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_goldsmith	Ancillary_Old_Man_Civil	REPLACE_ME_120242	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_greek_veteran	Ancillary_Greek_Hoplite	REPLACE_ME_120156	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_egyptian_harpist	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_140316	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_item_amulet_ankh	Ancillary_Ankh	REPLACE_ME_115930	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_amulet_phallic	Ancillary_Amulet	REPLACE_ME_115849	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_amulet_scarab	Ancillary_Amulet	REPLACE_ME_115806	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_amulet_serket	Ancillary_Amulet	REPLACE_ME_115542	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_amulet_udjat	Ancillary_Amulet	REPLACE_ME_115700	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_game_board_1	Ancillary_Game	REPLACE_ME_123749	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_game_board_2	Ancillary_Game	REPLACE_ME_140156	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_god_isis	Ancillary_Statuette	REPLACE_ME_140836	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_grave_servant	Ancillary_Statuette	REPLACE_ME_123419	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_pharaoh_blue_crown	Ancillary_Pharaoh	REPLACE_ME_140543	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_pharaoh_double_crown	Ancillary_Pharaoh	REPLACE_ME_140619	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_pharaoh_false_beard	Ancillary_Pharaoh	REPLACE_ME_115323	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_pharaoh_nemes	Ancillary_Pharaoh	REPLACE_ME_140705	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_pharaoh_staff	Ancillary_Pharaoh	REPLACE_ME_115221	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_pharaoh_white	Ancillary_Pharaoh	REPLACE_ME_140743	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_item_pharaoh_wig	Ancillary_Pharaoh	REPLACE_ME_115253	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_jeweller	Ancillary_Jewellery	REPLACE_ME_115040	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_egyptian_magic_embalmer	Ancillary_Old_Man_Civil	REPLACE_ME_140952	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_religion_bastet	Ancillary_Eastern_Beauty	REPLACE_ME_141851	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_religion_horus	Ancillary_Becloaked_Figure	REPLACE_ME_141926	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_religion_horus_2	Ancillary_Becloaked_Figure	REPLACE_ME_141958	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_religion_imhotep	Ancillary_Becloaked_Figure	REPLACE_ME_142029	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_religion_isis	Ancillary_Eastern_Beauty	REPLACE_ME_142131	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_religion_osiris	Ancillary_Becloaked_Figure	REPLACE_ME_142207	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_religion_set	Ancillary_Becloaked_Figure	REPLACE_ME_142247	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_scrollmaker	Ancillary_Scrolls	REPLACE_ME_123238	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_egyptian_wrestler	Ancillary_Dylan	REPLACE_ME_123702	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_garamantian_bodyguard	Ancillary_Young_Man_Barb	REPLACE_ME_131747	false	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_gaul_briton_religion_teutatis	Ancillary_Chris_Knight	REPLACE_ME_135218	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_gaul_religion_abnoba	Ancillary_Old_Man_Barb	REPLACE_ME_162734	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_gaul_religion_brigantia	Ancillary_Chris_Knight	REPLACE_ME_162822	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_gaul_religion_druid	Ancillary_Chris_Knight	REPLACE_ME_162857	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_gaul_religion_epona	Ancillary_Young_woman_Barb	REPLACE_ME_135439	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_gaul_religion_esus	Ancillary_Chris_Knight	REPLACE_ME_162949	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_gaul_religion_moulinex	Ancillary_Chris_Knight	REPLACE_ME_163027	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_gaul_religion_rosmerta	Ancillary_Young_woman_Barb	REPLACE_ME_163101	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_german_army_hero	Ancillary_Barbarian_Warrior	REPLACE_ME_163134	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_german_army_master_axe	Ancillary_Barbarian_Warrior	REPLACE_ME_113624	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_german_item_god_donar	Ancillary_Amulet	REPLACE_ME_113707	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_german_item_god_woden	Ancillary_Amulet	REPLACE_ME_113742	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_german_lake_benacus_survivor	Ancillary_Old_Man_Barb	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_german_religion_donar	Ancillary_Chris_Knight	REPLACE_ME_114035	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_german_religion_woden	Ancillary_Chris_Knight	REPLACE_ME_114539	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_goth_naissus_survivor	Ancillary_Old_Man_Barb	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_army_armour_helmet_1	Ancillary_Chainmail	REPLACE_ME_114539	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_armour_helmet_2	Ancillary_Chainmail	REPLACE_ME_114539	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_armour_helmet_3	Ancillary_Chainmail	REPLACE_ME_153126	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_armour_helmet_4	Ancillary_Chainmail	REPLACE_ME_153254	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_baggage_slave	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_154728	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_army_bodyguard	Ancillary_Greek_Hoplite	REPLACE_ME_114757	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_cape	Ancillary_Pelt	REPLACE_ME_150517	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_army_hero_companion	Ancillary_Greek_Hoplite	REPLACE_ME_114611	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_hero_hoplite	Ancillary_Greek_Hoplite	REPLACE_ME_115045	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_master_hoplite	Ancillary_Greek_Hoplite	REPLACE_ME_114155	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_master_slinger_rhodes	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_114621	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_army_shield_1	Ancillary_Shield_Round	REPLACE_ME_151839	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_shield_2	Ancillary_Shield_Rectangular	REPLACE_ME_151917	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_shield_thrower	Ancillary_Shield_Round	REPLACE_ME_151810	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_spear_1	Ancillary_Weapons_Pike	REPLACE_ME_152639	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_spear_2	Ancillary_Weapons_Pike	REPLACE_ME_152719	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_sword_1	Ancillary_Weapons_Dagger	REPLACE_ME_151957	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_sword_2	Ancillary_Weapons_Long_Sword	REPLACE_ME_152028	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_trumpet	Ancillary_War_Horn	REPLACE_ME_143247	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_army_young_hoplite	Ancillary_Greek_Hoplite	REPLACE_ME_144356	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_arse_youth	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_120541	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_arts_actor	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_155000	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_arts_actor_chorus	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_155036	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_arts_poet_epic	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_155112	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_boxer_bodyguard	Ancillary_Gladiator	REPLACE_ME_120506	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_corrupt_coin_forger	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_115528	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_corrupt_election_rigger	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_115617	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_eastern_army_fugitive_general	Ancillary_Greek_Hoplite	REPLACE_ME_114854	true	true	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_eastern_drug_book	Ancillary_Manuscript	REPLACE_ME_105354	true	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_eastern_religion_cybele	Ancillary_Young_woman_Barb	REPLACE_ME_114740	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_eastern_religion_moon_god	Ancillary_Becloaked_Figure	REPLACE_ME_104622	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_eastern_religion_sun_god	Ancillary_Becloaked_Figure	REPLACE_ME_103600	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_fish_loony	Ancillary_Animal_Fish	REPLACE_ME_120703	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_games_boxer	Ancillary_Dylan	REPLACE_ME_152452	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_gym_instructor	Ancillary_Old_Man_Civil	REPLACE_ME_120409	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_harpist	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_151013	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_herm_carver	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_115158	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_honest_clerk	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_115913	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_honest_coin_tester	Ancillary_Old_Man_Civil	REPLACE_ME_115401	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_honest_legislator	Ancillary_Old_Man_Civil	REPLACE_ME_120302	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_husband_pol_spartan	Ancillary_Will_Overgard	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_greek_husband_spartan	Ancillary_Will_Overgard	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_greek_item_boots	Ancillary_Parasol	REPLACE_ME_150623	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_boxing_glove	Ancillary_Iron_Hand	REPLACE_ME_152602	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_curse_tablet	Ancillary_Writing_Tablet	REPLACE_ME_151734	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_drinking_horn_sparta	Ancillary_Drinking_Horn	REPLACE_ME_150136	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_drinking_horn_thrace	Ancillary_Drinking_Horn	REPLACE_ME_145051	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_god_ares	Ancillary_Statuette	REPLACE_ME_152646	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_god_dionysus	Ancillary_Statuette	REPLACE_ME_152955	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_god_hephaestus	Ancillary_Statuette	REPLACE_ME_155054	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_graven_image	Ancillary_Statuette	REPLACE_ME_154758	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_parasol	Ancillary_Parasol	REPLACE_ME_150210	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_poison_hemlock_1	Ancillary_Clay_Jar	REPLACE_ME_155239	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_sandals	Ancillary_Parasol	REPLACE_ME_150658	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_sunhat_1	Ancillary_Parasol	REPLACE_ME_150242	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_sunhat_2	Ancillary_Parasol	REPLACE_ME_150317	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_sword_alexander	Ancillary_Weapons_Long_Sword	REPLACE_ME_155553	false	true	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_greek_item_wine_bowl	Ancillary_Clay_Jar	REPLACE_ME_151245	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_wine_cup	Ancillary_Crockery	REPLACE_ME_151315	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_item_wine_jar	Ancillary_Crockery	REPLACE_ME_154838	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_greek_magic_oracle	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_143522	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_money_changer	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_150816	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_mysteries_adept	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_151529	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_mysteries_initiate_1	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_151422	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_mysteries_initiate_2	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_151458	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_mysteries_temple_leader	Ancillary_Old_Man_Civil	REPLACE_ME_151623	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_mysteries_virgin_athena	Ancillary_Eastern_Beauty	REPLACE_ME_151349	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_philosopher_teacher	Ancillary_Old_Man_Civil	REPLACE_ME_155638	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_producer_1	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_151143	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_producer_2	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_151214	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_racist_advisor	Ancillary_Old_Man_Civil	REPLACE_ME_120334	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_aphrodite	Ancillary_Eastern_Beauty	REPLACE_ME_155713	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_ares	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_155751	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_artemis	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_160120	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_asklepios	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_160154	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_athena	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_160235	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_demeter	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_123130	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_dionysus	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_123633	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_hephaestus	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_123732	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_hercules	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_123822	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_hermes_1	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_124012	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_hermes_2	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_124253	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_nike	Ancillary_Eastern_Beauty	REPLACE_ME_124342	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_poseidon	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_124422	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_religion_zeus	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_140601	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_shieldmaker	Ancillary_Shield_Round	REPLACE_ME_115309	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_sycophant	Ancillary_Old_Man_Civil	REPLACE_ME_115111	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_greek_wife_pol_spartan	Ancillary_Eastern_Beauty	REPLACE_ME_115111	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_greek_wife_spartan	Ancillary_Eastern_Beauty	REPLACE_ME_115111	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_husband_foreign_african_arabian	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_african_arabian	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_barb_east	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_barb_east	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_british	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_british	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_carthaginian	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_carthaginian	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_celtiberian	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_celtiberian	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_celtic	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_celtic	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_daco_thracian	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_daco_thracian	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_eastern	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_eastern	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_egyptian	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_egyptian	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_gaul	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_gaul	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_germanic	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_germanic	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_greek	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_greek	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_illyrian	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_illyrian	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_parthian	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_parthian	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_pontic	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_pontic	default	16	30	30	50	diplomatic
+r2_sp_anc_husband_foreign_roman	Ancillary_Young_Man_Civ_Rich	general	false	false	false	0	1700	1900			false	false	false	true	true	false	sc_rom_roman	default	16	30	30	50	diplomatic
+r2_sp_anc_iberian_army_sword	Ancillary_Weapons_Long_Sword	REPLACE_ME_162647	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_non_greek_slave_greek	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_105759	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_non_roman_judean_rebel	Ancillary_Young_Man_Civ_Poor	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_pontic_antidotes	Ancillary_Clay_Jar	REPLACE_ME_103401	false	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_african_slave	Ancillary_Numidian_Warrior	REPLACE_ME_133232	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_punic_african_spy	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_133150	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_architect	Ancillary_Old_Man_Civil	REPLACE_ME_132239	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_army_barbarian_guide	Ancillary_Young_Man_Barb	REPLACE_ME_134205	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_punic_army_defeatist	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_133306	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_army_libyan_groom	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_134122	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_coinmaker	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_132508	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_elder_council_member_martin	Ancillary_Old_Man_Civil	REPLACE_ME_133459	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_emissary	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_133615	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_executioner	Ancillary_Hooded_Torturer	REPLACE_ME_133418	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_greek_army_elephant_rider	Ancillary_Berber_Warrior	REPLACE_ME_133710	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_punic_greek_army_elephant_spike	Ancillary_Elephant_Chisel	REPLACE_ME_133950	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_greek_eastern_army_elephant_comman	Ancillary_Berber_Warrior	REPLACE_ME_133759	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_punic_hannibal_companions_surus	Ancillary_Animal_Elephant	REPLACE_ME_134239	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_animal_skin	Ancillary_Pelt	REPLACE_ME_131601	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_fancy_mask	Ancillary_Jewelled_Mask	REPLACE_ME_132108	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_god_baal	Ancillary_Statuette	REPLACE_ME_130548	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_god_tanit	Ancillary_Statuette	REPLACE_ME_130640	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_ivory_bowl	Ancillary_Crockery	REPLACE_ME_131706	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_lovely_carpet	Ancillary_Pelt	REPLACE_ME_132314	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_perfume_burner	Ancillary_Oil_Lamp	REPLACE_ME_132024	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_sacred_stone	Ancillary_Jewellery	REPLACE_ME_133344	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_sardinian_lamp	Ancillary_Oil_Lamp	REPLACE_ME_131948	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_item_wig	Ancillary_Jewelled_Mask	REPLACE_ME_130713	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_judge	Ancillary_Old_Man_Civil	REPLACE_ME_131446	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_masked_mincer	Ancillary_Jewelled_Mask	REPLACE_ME_132158	false	true	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_punic_mercenary_gallic	Ancillary_Young_Man_Barb	REPLACE_ME_132940	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_punic_mercenary_greek	Ancillary_Greek_Hoplite	REPLACE_ME_133121	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_punic_mercenary_iberian	Ancillary_Barbarian_Warrior	REPLACE_ME_133033	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_punic_mercenary_italian	Ancillary_Roman_Pre_Marian	REPLACE_ME_132902	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_punic_merchant_italian	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_132556	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_merchant_libyan_garlic	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_132744	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_merchant_libyan_glass	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_132821	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_merchant_sardinian	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_132710	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_merchant_sicilian	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_132628	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_metallurgist	Ancillary_Young_Man_Barb	REPLACE_ME_131524	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_numidian_chef	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_131853	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_propagandist	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_133544	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_religion_acolyte	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_131407	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_religion_astarte	Ancillary_Old_Man_Civil	REPLACE_ME_131023	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_religion_baal_hammon	Ancillary_Old_Man_Civil	REPLACE_ME_130828	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_religion_baal_lucan	Ancillary_Old_Man_Civil	REPLACE_ME_131201	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_religion_eshmoun	Ancillary_Old_Man_Civil	REPLACE_ME_131246	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_religion_gareth	Ancillary_Old_Man_Civil	REPLACE_ME_131104	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_religion_milqart	Ancillary_Old_Man_Civil	REPLACE_ME_130912	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_punic_religion_tanit	Ancillary_Old_Man_Civil	REPLACE_ME_130949	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_army_armour_1	Ancillary_Armour	REPLACE_ME_154324	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_armour_2	Ancillary_Armour	REPLACE_ME_154355	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_armour_3	Ancillary_Armour	REPLACE_ME_154424	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_artilleryman	Ancillary_Roman_Pre_Marian	REPLACE_ME_154536	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_barley_ration	Ancillary_Clay_Jar	REPLACE_ME_144235	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_army_cadet	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_090959	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_army_camp_prefect	Ancillary_Roman_Marian	REPLACE_ME_144450	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_cape	Ancillary_Pelt	REPLACE_ME_154253	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_army_carrier_pigeon	Ancillary_Animal_Jackdaw	REPLACE_ME_154641	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_army_centurion_primus	Ancillary_Roman_Marian	REPLACE_ME_144527	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_common_prozzy	Ancillary_Young_woman_Barb	REPLACE_ME_145251	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_army_dagger	Ancillary_Weapons_Dagger	REPLACE_ME_154222	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_darts	Ancillary_Weapons_Pike	REPLACE_ME_153911	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_hero_auxiliary	Ancillary_Barbarian_Warrior	REPLACE_ME_144750	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_hero_hastatus	Ancillary_Roman_Pre_Marian	REPLACE_ME_144835	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_hero_principes	Ancillary_Roman_Pre_Marian	REPLACE_ME_144916	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_hero_triarius	Ancillary_Roman_Pre_Marian	REPLACE_ME_150052	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_hero_velite	Ancillary_Roman_Pre_Marian	REPLACE_ME_112558	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_javelin_legionary_early	Ancillary_Roman_Pre_Marian	REPLACE_ME_153523	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_army_javelin_velite	Ancillary_Roman_Pre_Marian	REPLACE_ME_153555	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_legionary_guard_captain	Ancillary_Roman_Marian	REPLACE_ME_150414	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_legionary_senior	Ancillary_Roman_Marian	REPLACE_ME_150750	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_legionary_skilled	Ancillary_Roman_Marian	REPLACE_ME_150837	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_lucius_vorinus	Ancillary_Roman_Marian	REPLACE_ME_161100	false	true	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_optio	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_150918	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_army_praetorian	Ancillary_Roman_Marian	REPLACE_ME_150954	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_scout	Ancillary_Will_Overgard	REPLACE_ME_151042	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_shield_1	Ancillary_Shield_Rectangular	REPLACE_ME_154118	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_shield_2	Ancillary_Shield_Rectangular	REPLACE_ME_154151	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_sling_and_shot	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_153944	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_army_slinger	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_154456	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_army_spear_1	Ancillary_Weapons_Pike	REPLACE_ME_154017	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_standard_bearer	Ancillary_Roman_Marian	REPLACE_ME_151214	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_standard_eagle	Ancillary_Roman_Marian	REPLACE_ME_151939	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_sword_1	Ancillary_Weapons_Dagger	REPLACE_ME_153436	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_titus_pullo	Ancillary_Roman_Marian	REPLACE_ME_161155	false	true	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_tribune	Ancillary_Roman_Marian	REPLACE_ME_160440	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_trumpeter_veteran	Ancillary_Roman_Marian	REPLACE_ME_160903	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_veteran_centurion	Ancillary_Roman_Marian	REPLACE_ME_160944	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_army_watch_goose	Ancillary_Animal_Jackdaw	REPLACE_ME_154609	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_arts_actor	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_143723	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_arts_comedian	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_161232	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_arts_poet_ode	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_161307	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_civil_publican	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_150026	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_equestrian_1	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_161340	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_equestrian_2	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_161413	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_freeman	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_161447	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_lanista	Ancillary_Gladiator	REPLACE_ME_161529	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_magistrate	Ancillary_Old_Man_Civil	REPLACE_ME_161604	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_mobster	Ancillary_Old_Man_Civil	REPLACE_ME_161643	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_plebian_1	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_161717	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_plebian_2	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_161752	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_client_senator	Ancillary_Old_Man_Civil	REPLACE_ME_161830	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_commentarii_de_bello_gallico	Ancillary_Manuscript	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_corona_graminea	Ancillary_Torc	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_crocodile_wrestler	Ancillary_Dylan	REPLACE_ME_150448	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_diligent_centurion	Ancillary_Gladiator	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_disc_of_sol_invictus	Ancillary_Jewellery	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_edessa_survivor	Ancillary_Old_Man_Civil	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_eyeliner	Ancillary_Clay_Jar	REPLACE_ME_150323	false	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_games_animal	Ancillary_Berber_Warrior	REPLACE_ME_161901	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_games_boxer	Ancillary_Dylan	REPLACE_ME_161934	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_charioteer_blue	Ancillary_Dylan	REPLACE_ME_162014	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_charioteer_green	Ancillary_Dylan	REPLACE_ME_162054	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_charioteer_red	Ancillary_Dylan	REPLACE_ME_162123	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_charioteer_white	Ancillary_Dylan	REPLACE_ME_162214	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_doctore	Ancillary_Gladiator	REPLACE_ME_162249	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_games_editor	Ancillary_Gladiator	REPLACE_ME_162321	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_lanista	Ancillary_Gladiator	REPLACE_ME_162354	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_murmillo	Ancillary_Gladiator	REPLACE_ME_162611	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_primus_palus	Ancillary_Gladiator	REPLACE_ME_162648	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_provocator	Ancillary_Gladiator	REPLACE_ME_162731	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_games_rudiarius	Ancillary_Gladiator	REPLACE_ME_162840	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_games_sagittarius	Ancillary_Gladiator	REPLACE_ME_162913	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_games_secutor	Ancillary_Gladiator	REPLACE_ME_141214	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_games_thracian	Ancillary_Gladiator	REPLACE_ME_141253	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_govt_dealer_animal	Ancillary_Berber_Warrior	REPLACE_ME_141334	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_govt_executioner_1	Ancillary_Hooded_Torturer	REPLACE_ME_142014	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_executioner_2	Ancillary_Hooded_Torturer	REPLACE_ME_142055	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_executioner_3	Ancillary_Hooded_Torturer	REPLACE_ME_142132	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_heckler	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_141409	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_judge_carnifex	Ancillary_Old_Man_Civil	REPLACE_ME_141442	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_judge_lictor	Ancillary_Old_Man_Civil	REPLACE_ME_141520	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_lawyer	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_141554	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_orator	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_141632	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_senator	Ancillary_Old_Man_Civil	REPLACE_ME_141722	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_senator_old	Ancillary_Old_Man_Civil	REPLACE_ME_141801	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_tribune_pleb	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_141840	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_govt_vestal	Ancillary_Young_Woman_Civ_Rich	REPLACE_ME_141942	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_grizzled_centurion	Ancillary_Gladiator	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_hedonistic_patrician	Ancillary_Young_Man_Civ_Rich	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_heroic_aquilifer	Ancillary_Young_Man_Civ_Rich	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_house_briton	Ancillary_Young_Man_Barb	REPLACE_ME_095015	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_house_dog_guard	Ancillary_Animal_Dog	REPLACE_ME_142214	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_house_dog_harsh	Ancillary_Animal_Dog	REPLACE_ME_142251	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_house_glutton	Ancillary_Old_Man_Civil	REPLACE_ME_100351	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_husband_conservative	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_husband_dark_past	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_husband_decorous	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_husband_noble	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_husband_pol_conservative	Ancillary_Old_Man_Civil	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_husband_pol_dark_past	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_husband_pol_decorous	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_husband_pol_noble	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_husband_pol_sharp_tongue	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_husband_pol_well_connected	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_husband_sharp_tongue	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_husband_well_connected	Ancillary_Young_Man_Civ_Rich	general	false	false	true	1	-10000	10000			false	false	false	true	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_imprisoned_usurper	Ancillary_Young_Man_Barb	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_insane_cultist	Ancillary_Chris_Knight	REPLACE_ME_150543	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_insult_monger	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_150417	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_item_aphrodisiac_sweat	Ancillary_Clay_Jar	REPLACE_ME_150758	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_barbarian_breeches	Ancillary_Pelt	REPLACE_ME_154314	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_barbarian_cloak	Ancillary_Becloaked_Figure	REPLACE_ME_154223	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_item_barbarian_cloak_hooded	Ancillary_Becloaked_Figure	REPLACE_ME_154349	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_item_centurion_rod	Ancillary_Vine_Stickj	REPLACE_ME_150852	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_item_dice	Ancillary_Game	REPLACE_ME_150926	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_family_shrine	Ancillary_Statuette	REPLACE_ME_151008	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_god_bacchus	Ancillary_Glass	REPLACE_ME_151041	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_god_bellona	Ancillary_Statuette	REPLACE_ME_151126	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_god_ceres	Ancillary_Statuette	REPLACE_ME_151200	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_god_jupiter	Ancillary_Amulet	REPLACE_ME_151304	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_god_mars	Ancillary_Statuette	REPLACE_ME_151709	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_god_mithras	Ancillary_Mithras	REPLACE_ME_153917	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_god_neptune	Ancillary_Statuette	REPLACE_ME_151754	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_god_vulcan	Ancillary_Statuette	REPLACE_ME_151833	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_judge_fasces	Ancillary_Fasces	REPLACE_ME_152045	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_lead_curse	Ancillary_Writing_Tablet	REPLACE_ME_152555	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_magic_nail	Ancillary_Amulet	REPLACE_ME_152635	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_medical_kit	Ancillary_Crockery	REPLACE_ME_153834	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_mess_tin	Ancillary_Crockery	REPLACE_ME_153910	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_pelt_wolf	Ancillary_Pelt	REPLACE_ME_150333	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_item_scourge	Ancillary_Vine_Stickj	REPLACE_ME_153946	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_item_spade	Ancillary_Vine_Stickj	REPLACE_ME_154031	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_item_sword_mars	Ancillary_Weapons_Dagger	REPLACE_ME_154107	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_item_sword_practice	Ancillary_Weapons_Dagger	REPLACE_ME_154139	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_justice_procurator	Ancillary_Old_Man_Civil	REPLACE_ME_154428	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_lake_benacus_veteran	Ancillary_Old_Man_Civil	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_latin_panegyrist	Ancillary_Old_Man_Civil	agent	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_leontocephalus	Ancillary_Statuette	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_lizard_cultist	Ancillary_Chris_Knight	REPLACE_ME_145933	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_lucius_the_ass	Ancillary_Old_Man_Civil	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_magic_ghost_bad	Ancillary_Becloaked_Figure	REPLACE_ME_154506	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_magic_ghost_good	Ancillary_Becloaked_Figure	REPLACE_ME_154540	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_magic_ghost_neutral	Ancillary_Becloaked_Figure	REPLACE_ME_154616	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_magic_haruspex	Ancillary_Old_Man_Civil	REPLACE_ME_154650	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_medic_medicus_1	Ancillary_Old_Man_Civil	REPLACE_ME_154728	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_medic_medicus_2	Ancillary_Old_Man_Civil	REPLACE_ME_154808	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_military_diploma	Ancillary_Scrolls	REPLACE_ME_150518	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_mithraic_initiate	Ancillary_Young_Man_Civ_Poor	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_naissus_veteran	Ancillary_Old_Man_Civil	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_navy_marine	Ancillary_Roman_Pre_Marian	REPLACE_ME_155353	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_nero_redivivus	Ancillary_Dylan	agent	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_pet_lion	Ancillary_Animal_W_Cat	REPLACE_ME_155623	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_pet_tortoise	Ancillary_Animal_Tortoise	REPLACE_ME_155751	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_roman_philosopher_teacher	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_155830	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_priest_of_sol_invictus	Ancillary_Old_Man_Civil	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_bacchus	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_155907	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_bellona	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_155951	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_ceres_rome	Ancillary_Young_woman_Barb	REPLACE_ME_160051	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_cybele	Ancillary_Young_Woman_Civ_Poor	REPLACE_ME_090312	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_epona_late	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_160135	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_hercules	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_160312	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_juno	Ancillary_Young_woman_Barb	REPLACE_ME_160351	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_jupiter_1	Ancillary_Old_Man_Civil	REPLACE_ME_160432	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_jupiter_2	Ancillary_Old_Man_Civil	REPLACE_ME_160520	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_mars	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_160554	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_mercury	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_160627	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_neptune	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_160723	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_pontifex	Ancillary_Old_Man_Civil	REPLACE_ME_160759	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_saturn	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_160839	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_victoria	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_161505	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_religion_vulcan	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_163027	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_slave_debtor	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_090844	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_snitch	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_150252	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_trade_plebian	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_090923	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_trade_posh	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_091032	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_venator	Ancillary_Gladiator	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_veteran_legionnaire	Ancillary_Gladiator	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_roman_wife_conservative	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_wife_decorous	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_wife_former_vestal	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_wife_noble	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_wife_pol_conservative	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_wife_pol_decorous	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_wife_pol_former_vestal	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_wife_pol_noble	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_wife_pol_sharp_tongue	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_wife_pol_well_connected	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	political
+r2_sp_anc_roman_wife_sharp_tongue	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_wife_well_connected	Ancillary_Eastern_Beauty	REPLACE_ME_091032	false	false	true	1	-10000	10000			false	false	true	false	false	false		default	16	30	30	50	regular
+r2_sp_anc_roman_winemaker_culturespread_gdpentertainment	Ancillary_Dylan	general	true	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_winemaker_growth_gdpentertainment	Ancillary_Dylan	general	true	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_winemaker_slaveunrest_culturespread	Ancillary_Dylan	general	true	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_roman_winemaker_slaveunrest_growth	Ancillary_Dylan	general	true	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_sassanid_edessa_veteran	Ancillary_Old_Man_Barb	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_sassanid_stuffed_roman_emperor	Ancillary_Severed_Head	general	true	false	false	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_scythian_army_dagger	Ancillary_Weapons_Dagger	REPLACE_ME_143138	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_scythian_army_lance	Ancillary_Weapons_Pike	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_scythian_blacksmith	Ancillary_Weapons_Long_Sword	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_scythian_coin_mint	Ancillary_Will_Overgard	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_scythian_eunuch	Ancillary_Becloaked_Figure	REPLACE_ME_135958	true	false	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_scythian_item_drinking_horn	Ancillary_Drinking_Horn	REPLACE_ME_115732	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_scythian_item_gold_amulet	Ancillary_Amulet	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_scythian_item_gold_brooch	Ancillary_Jewellery	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_scythian_item_gold_buckle	Ancillary_Torc	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_scythian_item_severed_head	Ancillary_Severed_Head	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_scythian_metallurgist	Ancillary_Chainmail	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_scythian_mystic	Ancillary_Chris_Knight	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_scythian_old_man	Ancillary_Old_Man_Barb	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_scythian_trader_cattle	Ancillary_Animal_Goat	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_scythian_trader_grain	Ancillary_Tim_Hough	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_scythian_trader_skins	Ancillary_Pelt	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_scythian_trader_slaves	Ancillary_Dylan	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_seleucid_eastern_army_elephant_expert	Ancillary_Berber_Warrior	REPLACE_ME_153337	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_silly_banacaces	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_155524	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_silly_banacix	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_155405	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_silly_banacus	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_155328	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_silly_banakon	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_154222	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_silly_banaqart	Ancillary_Young_Man_Civ_Poor	REPLACE_ME_155452	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_silly_time_tunnel_1	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_153427	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_silly_time_tunnel_2	Ancillary_Young_Man_Civ_Rich	REPLACE_ME_154127	false	true	false	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_thracian_army_club	Ancillary_Weapons_Club	REPLACE_ME_115624	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_thracian_army_shield	Ancillary_Shield_Round	REPLACE_ME_115658	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_thracian_army_spear	Ancillary_Weapons_Rhomphaia	REPLACE_ME_111511	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_thracian_army_sword	Ancillary_Weapons_Long_Sword	REPLACE_ME_115549	true	false	true	1	-10000	10000			false	false	false	false	false	false		apparel	16	30	30	50	
+r2_sp_anc_thracian_item_cap	Ancillary_Pelt	REPLACE_ME_111106	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_thracian_item_cloak	Ancillary_Pelt	REPLACE_ME_111023	true	false	true	1	-10000	10000			false	false	false	false	false	false		item	16	30	30	50	
+r2_sp_anc_thracian_religion_bendis	Ancillary_Young_woman_Barb	REPLACE_ME_104951	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_thracian_religion_darzalas	Ancillary_Young_Man_Barb	REPLACE_ME_105125	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_thracian_religion_hebeleysis	Ancillary_Old_Man_Barb	REPLACE_ME_105203	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	
+r2_sp_anc_wife_foreign_african_arabian	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_african_arabian	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_barb_east	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_barb_east	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_british	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_british	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_carthaginian	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_carthaginian	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_celtiberian	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_celtiberian	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_celtic	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_celtic	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_daco_thracian	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_daco_thracian	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_eastern	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_eastern	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_egyptian	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_egyptian	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_gaul	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_gaul	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_germanic	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_germanic	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_greek	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_greek	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_illyrian	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_illyrian	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_parthian	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_parthian	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_pontic	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_pontic	default	16	30	30	50	diplomatic
+r2_sp_anc_wife_foreign_roman	Ancillary_Eastern_Beauty	general	false	false	false	0	1700	1900			false	false	true	false	true	false	sc_rom_roman	default	16	30	30	50	diplomatic
+rr2_sp_anc_barbarian_priest	Ancillary_Chris_Knight	REPLACE_ME_161033	true	false	true	1	-10000	10000			false	false	false	false	false	false		companion	16	30	30	50	

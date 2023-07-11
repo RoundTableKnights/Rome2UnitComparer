@@ -1,0 +1,8 @@
+key	text
+#incident_heading_texts_tables;0;db/incident_heading_texts_tables/incident_heading_texts	
+PLACEHOLDER	PLACEHOLDER
+i_con_vengeful_son_heading	Vengeful Son
+i_dis_earthquake_heading	Earthquake!
+i_dis_taifun_heading	Taifun!
+i_dis_tsunami_heading	Tsunami!
+i_dis_volcano	Volcano!

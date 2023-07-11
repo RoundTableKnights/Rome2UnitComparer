@@ -1,0 +1,6 @@
+key	level	precipitation_type	num_particles	particle_size	particle_speed	list_order	naval_appropiate
+#battle_weather_types_tables;0;db/battle_weather_types_tables/battle_weather_types							
+dry	0	0	0	0.0000	0.0000	0	true
+fog	0	3	0	0.0000	0.0000	0	true
+rain	0	1	0	0.0000	0.0000	0	true
+snow	0	2	0	0.0000	0.0000	0	true

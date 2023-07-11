@@ -1,0 +1,88 @@
+key	active_time	recharge_time	num_uses	effect_range	affect_self	num_effected_friendly_units	num_effected_enemy_units	update_targets_every_frame	initial_recharge	activated_projectile	can_autotrigger	target_friends	target_enemies	target_ground	target_intercept_range	assume_specific_behaviour	clear_current_order	wind_up_time	passive	unique_id
+#unit_special_abilities_tables;16;db/unit_special_abilities_tables/unit_special_abilities																				
+a_mp_test_1	60.0000	120.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	0
+a_mp_test_10	15.0000	10.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	1
+a_mp_test_11	10.0000	12.0000	-1	40.0000	true	-1	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	2
+a_mp_test_12	8.0000	10.0000	-1	40.0000	true	-1	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	3
+a_mp_test_13	12.0000	60.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	4
+a_mp_test_14	4.0000	20.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	5
+a_mp_test_15	20.0000	60.0000	-1	20.0000	false	0	-1	true	-1.0000		false	false	false	false	0.0000	cantabrian_circle	true	0.0000	false	6
+a_mp_test_16	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	7
+a_mp_test_17	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	8
+a_mp_test_2	6.0000	60.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	manual_charge	false	0.0000	false	9
+a_mp_test_3	10.0000	120.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	manual_charge	false	0.0000	false	10
+a_mp_test_4	10.0000	120.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	manual_charge	false	0.0000	false	11
+a_mp_test_5	15.0000	30.0000	-1	0.0000	true	0	0	false	10.0000		false	false	false	false	0.0000		false	0.0000	false	12
+a_mp_test_6	20.0000	60.0000	-1	0.0000	false	0	-1	false	30.0000		false	false	false	false	0.0000		false	0.0000	false	13
+a_mp_test_7	10.0000	40.0000	-1	40.0000	true	-1	0	true	-1.0000		false	false	false	false	0.0000		false	0.0000	false	14
+a_mp_test_8	20.0000	60.0000	-1	40.0000	true	-1	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	15
+a_mp_test_9	10.0000	15.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	false	16
+cantabrian_circle	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	cantabrian_circle	true	0.0000	false	17
+cavalry_counter_tactics	30.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	18
+chant	30.0000	210.0000	-1	50.0000	false	-1	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	19
+com_battle_rhythm	45.0000	210.0000	-1	0.0000	false	0	0	false	60.0000		false	true	false	false	75.0000		false	0.0000	false	20
+com_brace	10.0000	100.0000	-1	0.0000	false	0	0	false	30.0000		false	true	false	false	75.0000		false	0.0000	false	21
+com_fast_charge	60.0000	0.0000	1	45.0000	false	-1	0	false	60.0000		false	true	false	false	150.0000		false	0.0000	false	93
+com_force_concentration	60.0000	0.0000	1	30.0000	false	-1	0	false	60.0000		false	true	false	false	150.0000		false	0.0000	false	95
+com_inspire_group	30.0000	240.0000	-1	75.0000	true	5	0	false	60.0000		false	false	false	false	0.0000		false	0.0000	false	22
+com_inspire_unit	10.0000	100.0000	-1	0.0000	false	0	0	false	30.0000		false	true	false	false	75.0000		false	0.0000	false	23
+com_into_the_breach	10.0000	100.0000	-1	0.0000	false	0	0	false	30.0000		false	true	false	false	75.0000		false	0.0000	false	24
+com_loyalty	30.0000	0.0000	1	30.0000	false	-1	0	false	60.0000		false	true	false	false	150.0000		false	0.0000	false	103
+com_presence	0.0000	0.0000	1	45.0000	true	-1	0	false	60.0000		false	false	false	false	0.0000		false	0.0000	false	108
+com_pride	60.0000	0.0000	1	30.0000	true	-1	0	false	60.0000		false	false	false	false	0.0000		false	0.0000	false	116
+com_push	30.0000	240.0000	-1	0.0000	false	0	0	false	30.0000		false	false	true	false	75.0000		false	0.0000	false	25
+com_raise_banner	30.0000	240.0000	-1	75.0000	true	-1	0	false	0.0000		false	false	false	false	75.0000		false	0.0000	false	26
+com_rally	10.0000	100.0000	-1	75.0000	true	-1	0	true	30.0000		false	false	false	false	0.0000		false	0.0000	false	27
+com_rally_and_inspire	30.0000	240.0000	-1	0.0000	false	0	0	false	60.0000		false	true	false	false	75.0000		false	0.0000	false	28
+com_rally_position	-1.0000	0.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	true	75.0000		true	0.0000	false	29
+com_relentless	60.0000	0.0000	1	300.0000	true	-1	0	false	60.0000		false	false	false	false	0.0000		false	0.0000	false	121
+com_second_wind	10.0000	100.0000	-1	0.0000	false	0	0	false	30.0000		false	true	false	false	75.0000		false	0.0000	false	30
+com_second_wind_group	30.0000	150.0000	-1	75.0000	false	5	0	false	30.0000		false	false	false	false	0.0000		false	0.0000	false	31
+com_shock_and_awe	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000		false	0.0000	true	136
+com_spirit	60.0000	0.0000	1	30.0000	true	-1	0	false	60.0000		false	false	false	false	0.0000		false	0.0000	false	128
+com_taunt	30.0000	240.0000	-1	0.0000	false	0	0	false	60.0000		false	false	true	false	75.0000		true	0.0000	false	32
+com_taunt_group	-1.0000	150.0000	-1	75.0000	false	0	5	false	60.0000		false	false	false	false	0.0000		true	0.0000	false	33
+com_the_fear	30.0000	240.0000	-1	75.0000	false	0	5	false	60.0000		false	false	false	false	0.0000		false	0.0000	false	34
+com_the_fear_group	10.0000	100.0000	-1	0.0000	false	0	0	false	0.0000		false	false	true	false	75.0000		false	0.0000	false	35
+com_unity	60.0000	0.0000	1	300.0000	true	-1	0	false	60.0000		false	false	false	false	0.0000		false	0.0000	false	134
+com_war_cry	10.0000	100.0000	-1	0.0000	false	0	0	false	0.0000		false	false	true	false	75.0000		false	0.0000	false	36
+com_war_cry_group	30.0000	240.0000	-1	75.0000	false	0	5	false	60.0000		false	false	false	false	0.0000		false	0.0000	false	37
+com_we_stand_and_fight	-1.0000	0.0000	-1	0.0000	true	0	0	false	30.0000		false	false	false	false	0.0000	stand_and_fight_formation	true	0.0000	false	38
+draco	30.0000	150.0000	-1	50.0000	false	0	-1	true	0.0000		true	false	false	false	0.0000		false	0.0000	false	39
+dylans_test_1	20.0000	30.0000	-1	100.0000	true	-1	0	false	-1.0000		false	false	false	true	-1.0000		false	0.0000	false	40
+dylans_test_2	20.0000	25.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	-1.0000		false	0.0000	false	41
+focus_fire	-1.0000	20.0000	-1	10.0000	false	0	0	false	-1.0000	arrow_flaming	false	false	false	true	75.0000	focus_fire	true	0.0000	false	42
+form_cavalry_testudo	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	cavalry_testudo_formation	true	0.0000	false	43
+form_diamond	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	diamond_formation	false	0.0000	false	44
+form_flying_wedge	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	flying_wedge_formation	false	0.0000	false	45
+form_hollow_square	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	square_formation	true	0.0000	false	46
+form_hoplite_phalanx	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	shield_wall_formation	true	0.0000	false	47
+form_pike_square	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	pike_square_formation	true	0.0000	false	48
+form_pike_wall	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	pike_phalanx_formation	false	0.0000	false	49
+form_shield_screen	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	shield_screen_formation	true	0.0000	false	50
+form_shield_wall	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	shield_wall_formation	true	0.0000	false	51
+form_testudo	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	testudo_formation	false	0.0000	false	52
+form_testudo_defensive	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	testudo_defensive_formation	true	0.0000	false	53
+form_wedge	-1.0000	-1.0000	-1	0.0000	true	0	0	false	-1.0000		false	false	false	false	0.0000	wedge_formation	false	0.0000	false	54
+frenzied_charge	30.0000	210.0000	-1	0.0000	true	0	0	false	0.0000		false	false	false	false	0.0000		false	0.0000	false	55
+frenzied_charge_inf	30.0000	210.0000	-1	0.0000	true	0	0	false	0.0000		false	false	false	false	0.0000		false	0.0000	false	56
+frenzy	30.0000	210.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	57
+hard_10	20.0000	60.0000	-1	0.0000	true	0	0	false	40.0000		true	false	false	false	0.0000		false	0.0000	false	78
+hard_20	40.0000	120.0000	-1	0.0000	true	0	0	false	60.0000		true	false	false	false	0.0000		false	0.0000	false	80
+hard_30	60.0000	200.0000	-1	0.0000	true	0	0	false	90.0000		true	false	false	false	0.0000		false	0.0000	false	85
+headhunt	30.0000	210.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	58
+kill_elephants	-1.0000	-1.0000	1	0.0000	true	0	0	false	0.0000		false	false	false	false	0.0000		false	0.0000	false	59
+killing_spree	60.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	60
+manual_charge	6.0000	30.0000	-1	0.0000	true	0	0	false	0.0000		false	false	false	false	0.0000	manual_charge	false	0.0000	false	61
+precision_shot	50.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		false	false	false	false	0.0000		false	0.0000	false	62
+quick_reload	50.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	63
+rapid_advance	30.0000	210.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	64
+rapid_volley	20.0000	60.0000	-1	0.0000	true	0	0	false	60.0000		true	false	false	false	0.0000		false	0.0000	false	65
+screech	30.0000	210.0000	-1	50.0000	false	0	-1	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	66
+second_wind	40.0000	150.0000	-1	40.0000	true	3	0	false	60.0000		true	false	false	false	0.0000		false	0.0000	false	67
+stampede	30.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	88
+steady_advance	30.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		false	false	false	false	0.0000		false	0.0000	false	68
+steady_retreat	30.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		false	false	false	false	0.0000		false	0.0000	false	69
+trample	30.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	70
+use_the_whip	30.0000	150.0000	-1	0.0000	true	0	0	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	71
+warcry	20.0000	150.0000	-1	30.0000	false	0	4	false	0.0000		true	false	false	false	0.0000		false	0.0000	false	72
