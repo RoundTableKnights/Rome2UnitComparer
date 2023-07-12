@@ -1230,62 +1230,62 @@ function fillWithFactionUnits(element, faction){
                     let chargeDiff = selectedUnit.charge_bonus - unit.charge_bonus;
 
                     if(chargeDiff > 0){
-                        selectedChargeBonus.innerHTML = "<b>Charge bonus</b>: " + selectedUnit.charge_bonus + " <span style=\"color:green;\">(+" + chargeDiff + ")</span> compared to " + unit.screen_name;
+                        selectedChargeBonus.innerHTML = "<b>Charge bonus</b>: " + selectedUnit.charge_bonus + " <span style=\"color:green;\">(+" + chargeDiff + ")</span>";
                     } else if (chargeDiff == 0){
-                        selectedChargeBonus.innerHTML = "<b>Charge bonus</b>: " + selectedUnit.charge_bonus + " <span style=\"color:orange;\">(" + chargeDiff + ")</span> compared to " + unit.screen_name;
+                        selectedChargeBonus.innerHTML = "<b>Charge bonus</b>: " + selectedUnit.charge_bonus + " <span style=\"color:orange;\">(" + chargeDiff + ")</span>";
                     } else {
-                        selectedChargeBonus.innerHTML = "<b>Charge bonus</b>: " + selectedUnit.charge_bonus + " <span style=\"color:red;\">(" + chargeDiff + ")</span> compared to " + unit.screen_name;
+                        selectedChargeBonus.innerHTML = "<b>Charge bonus</b>: " + selectedUnit.charge_bonus + " <span style=\"color:red;\">(" + chargeDiff + ")</span>";
                     }
 
                     let speedDiff = (parseFloat(selectedUnit.entity.run_speed) * 10) - (parseFloat(unit.entity.run_speed) * 10);
 
                     if(speedDiff > 0){
-                        selectedSpeed.innerHTML = "<b>Speed</b>: " + (parseFloat(selectedUnit.entity.run_speed) * 10) + " <span style=\"color:green;\">(+" + speedDiff + ")</span> compared to " + unit.screen_name;
+                        selectedSpeed.innerHTML = "<b>Speed</b>: " + (parseFloat(selectedUnit.entity.run_speed) * 10) + " <span style=\"color:green;\">(+" + speedDiff + ")</span>";
                     } else if (speedDiff == 0){
-                        selectedSpeed.innerHTML = "<b>Speed</b>: " + (parseFloat(selectedUnit.entity.run_speed) * 10) + " <span style=\"color:orange;\">(" + speedDiff + ")</span> compared to " + unit.screen_name;
+                        selectedSpeed.innerHTML = "<b>Speed</b>: " + (parseFloat(selectedUnit.entity.run_speed) * 10) + " <span style=\"color:orange;\">(" + speedDiff + ")</span>";
                     } else {
-                        selectedSpeed.innerHTML = "<b>Speed</b>: " + (parseFloat(selectedUnit.entity.run_speed) * 10) + " <span style=\"color:red;\">(" + speedDiff + ")</span> compared to " + unit.screen_name;
+                        selectedSpeed.innerHTML = "<b>Speed</b>: " + (parseFloat(selectedUnit.entity.run_speed) * 10) + " <span style=\"color:red;\">(" + speedDiff + ")</span>";
                     }
 
                     let maDiff = selectedUnit.melee_attack - unit.melee_attack;
 
                     if(maDiff > 0){
-                        selectedMeleeAttack.innerHTML = "<b>Melee Attack</b>: " + selectedUnit.melee_attack + " <span style=\"color:green;\">(+" + maDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMeleeAttack.innerHTML = "<b>Melee Attack</b>: " + selectedUnit.melee_attack + " <span style=\"color:green;\">(+" + maDiff + ")</span>";
                     } else if (maDiff == 0){
-                        selectedMeleeAttack.innerHTML = "<b>Melee Attack</b>: " + selectedUnit.melee_attack + " <span style=\"color:orange;\">(" + maDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMeleeAttack.innerHTML = "<b>Melee Attack</b>: " + selectedUnit.melee_attack + " <span style=\"color:orange;\">(" + maDiff + ")</span>";
                     } else {
-                        selectedMeleeAttack.innerHTML = "<b>Melee Attack</b>: " + selectedUnit.melee_attack + " <span style=\"color:red;\">(" + maDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMeleeAttack.innerHTML = "<b>Melee Attack</b>: " + selectedUnit.melee_attack + " <span style=\"color:red;\">(" + maDiff + ")</span>";
                     }
 
 
                     let mdDiff = selectedUnit.melee_attack - unit.melee_attack;
 
                     if(mdDiff > 0){
-                        selectedMeleeDefence.innerHTML = "<b>Melee Defence</b>: " + selectedUnit.melee_defence + " <span style=\"color:green;\">(+" + mdDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMeleeDefence.innerHTML = "<b>Melee Defence</b>: " + selectedUnit.melee_defence + " <span style=\"color:green;\">(+" + mdDiff + ")</span>";
                     } else if (mdDiff == 0){
-                        selectedMeleeDefence.innerHTML = "<b>Melee Defence</b>: " + selectedUnit.melee_defence + " <span style=\"color:orange;\">(" + mdDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMeleeDefence.innerHTML = "<b>Melee Defence</b>: " + selectedUnit.melee_defence + " <span style=\"color:orange;\">(" + mdDiff + ")</span>";
                     } else {
-                        selectedMeleeDefence.innerHTML = "<b>Melee Defence</b>: " + selectedUnit.melee_defence + " <span style=\"color:red;\">(" + mdDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMeleeDefence.innerHTML = "<b>Melee Defence</b>: " + selectedUnit.melee_defence + " <span style=\"color:red;\">(" + mdDiff + ")</span>";
                     }
 
                     let moraleDiff = selectedUnit.morale - unit.morale;
 
                     if(moraleDiff > 0){
-                        selectedMorale.innerHTML = "<b>Morale</b>: " + selectedUnit.morale + " <span style=\"color:green;\">(+" + moraleDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMorale.innerHTML = "<b>Morale</b>: " + selectedUnit.morale + " <span style=\"color:green;\">(+" + moraleDiff + ")</span>";
                     } else if (moraleDiff == 0){
-                        selectedMorale.innerHTML = "<b>Morale</b>: " + selectedUnit.morale + " <span style=\"color:orange;\">(" + moraleDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMorale.innerHTML = "<b>Morale</b>: " + selectedUnit.morale + " <span style=\"color:orange;\">(" + moraleDiff + ")</span>";
                     } else {
-                        selectedMorale.innerHTML = "<b>Morale</b>: " + selectedUnit.morale + " <span style=\"color:red;\">(" + moraleDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMorale.innerHTML = "<b>Morale</b>: " + selectedUnit.morale + " <span style=\"color:red;\">(" + moraleDiff + ")</span>";
                     }
 
                     let massDiff = selectedUnit.entity.mass - unit.entity.mass;
 
                     if(massDiff > 0){
-                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:green;\">(+" + massDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:green;\">(+" + massDiff + ")</span>";
                     } else if (massDiff == 0){
-                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:orange;\">(" + massDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:orange;\">(" + massDiff + ")</span>";
                     } else {
-                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:red;\">(" + massDiff + ")</span> compared to " + unit.screen_name;
+                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:red;\">(" + massDiff + ")</span>";
                     }
 
                     let wsDiff = (selectedUnit.meleeWeapon.damage + selectedUnit.meleeWeapon.ap_damage) - (unit.meleeWeapon.damage + unit.meleeWeapon.ap_damage);
@@ -1330,11 +1330,11 @@ function fillWithFactionUnits(element, faction){
                     let healthDiff = selectedUnit.getHealth() - unit.getHealth();
                     
                     if(healthDiff > 0){
-                        selectedHealth.innerHTML = "<b>Health: </b>: " + selectedUnit.getHealth() + " <span style=\"color:green;\">(+" + healthDiff + ")</span> compared to " + unit.screen_name;
+                        selectedHealth.innerHTML = "<b>Health: </b>: " + selectedUnit.getHealth() + " <span style=\"color:green;\">(+" + healthDiff + ")</span>";
                     } else if (healthDiff == 0){
-                        selectedHealth.innerHTML = "<b>Health: </b>: " + selectedUnit.getHealth() + " <span style=\"color:orange;\">(" + healthDiff + ")</span> compared to " + unit.screen_name;
+                        selectedHealth.innerHTML = "<b>Health: </b>: " + selectedUnit.getHealth() + " <span style=\"color:orange;\">(" + healthDiff + ")</span>";
                     } else {
-                        selectedHealth.innerHTML = "<b>Health: </b>: " + selectedUnit.getHealth() + " <span style=\"color:red;\">(" + healthDiff + ")</span> compared to " + unit.screen_name;
+                        selectedHealth.innerHTML = "<b>Health: </b>: " + selectedUnit.getHealth() + " <span style=\"color:red;\">(" + healthDiff + ")</span>";
                     }
                 }
             });
