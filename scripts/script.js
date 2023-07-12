@@ -77,6 +77,9 @@ const meleeWeaponsPath = "resources\\db\\melee_weapons_tables\\melee_weapons.tsv
 const missileWeaponsToProjectilesPath = "resources\\db\\missile_weapons_to_projectiles_tables\\missile_weapons_to_projectiles.tsv";
 const projectilesPath = "resources\\db\\projectiles_tables\\projectiles.tsv";
 const battleEntitiesPath = "resources\\db\\battle_entities_tables\\battle_entities.tsv";
+const missileWeaponsPath = "resources\\db\\missile_weapons_tables\\missile_weapons.tsv";
+const unitArmourTypesPath = "resources\\db\\unit_armour_types_tables\\unit_armour_types.tsv";
+const unitShieldTypesPath = "resources\\db\\unit_shield_types_tables\\unit_shield_types.tsv"
 
 const maskFolder = "resources\\ui\\units\\mask\\";
 const iconFolder = "resources\\ui\\units\\icons\\";
@@ -86,6 +89,7 @@ const mainUnitSchema = "main_units";
 const meleeWeaponSchema = "melee_weapons";
 const projectilesSchema = "projectiles";
 const battleEntitiesSchema = "battle_entities";
+
 // Dict of dicts mapping index of attribute
 const Schemas = {
     "faction": {
@@ -457,6 +461,20 @@ class Unit{
             return 0;
         }
     }
+
+    addArmourValues(armour, shield, missileBlockChance){
+        this.armourValue = parseInt(armour);
+        this.shieldValue = parseInt(shield);
+        this.missileBlockChance = parseInt(missileBlockChance);
+    }
+
+    getArmour(){
+        return this.armourValue + this.shieldValue;
+    }
+
+    isGeneral(bool){
+        this.isgeneral = bool;
+    }
 }
 
 class Faction{
@@ -474,7 +492,6 @@ class Faction{
             this.mp_available = false;
         }
 
-        console.log(flags_path);
         if(this.flags_path){
             let flagIntermediatePath = this.flags_path.toLowerCase().replace("data", "resources");
             this.flagPath = flagIntermediatePath + "/mon_64.png";
@@ -1002,6 +1019,7 @@ async function loadFactions(){
         let faction = createFaction.apply(this, rawFactionInfo)
 
         let unitKeys = factionToUnitContent.filter(factionToUnit => factionToUnit[0] == faction.key).map(r => r[2]);
+        unitKeys = [...new Set(unitKeys)];
         faction.addUnitKeys(unitKeys);
 
         factions.push(faction);
@@ -1061,6 +1079,8 @@ let selectedChargeBonus = document.getElementById("selected_charge_bonus");
 let selectedHealth = document.getElementById("selected_health");
 let selectedMass = document.getElementById("selected_mass");
 let selectedMPCost = document.getElementById("selected_mp_cost");
+let selectedMissileBlock = document.getElementById("selected_missile_block");
+let selectedShotsPerMinute = document.getElementById("selected_shots_per_minute");
 
 let unitsDivElement = document.getElementById("units");
 let faction1Element = document.getElementById("faction1");
@@ -1079,6 +1099,11 @@ window.onload = async function(){
     let missileWeaponsToProjectilesContent = await GetAndParseResource(missileWeaponsToProjectilesPath);
     let projectilesContent = await GetAndParseResource(projectilesPath);
     let battleEntitiesContent = await GetAndParseResource(battleEntitiesPath);
+    let missileWeaponsContent = await GetAndParseResource(missileWeaponsPath);
+    let unitArmourTypesContent = await GetAndParseResource(unitArmourTypesPath);
+    let unitShieldTypesContent = await GetAndParseResource(unitShieldTypesPath);
+    let factionToUnitContent = await GetAndParseResource(factionToUnitPath);
+
 
     let factions = await loadFactions();
 
@@ -1103,10 +1128,10 @@ window.onload = async function(){
                 unit.addMeleeWeapon(meleeWeapon);
 
                 //Sort missile weapon
-                let projectile = missileWeaponsToProjectilesContent.find(mwtp => mwtp[0] == unit.primary_missile_weapon);
+                let projectile = missileWeaponsContent.find(mwtp => mwtp[0] == unit.primary_missile_weapon);
                 if(projectile && projectile[0] != ''){
                     
-                    let missileWeaponForUnit = projectilesContent.find(mw => mw[0] == projectile[1]);
+                    let missileWeaponForUnit = projectilesContent.find(mw => mw[0] == projectile[2]);
                     let missileWeaponInfo = getSchemaIndexes(projectilesSchema).map(idx => missileWeaponForUnit[idx]);
     
                     let missileWeapon = createMissileWeapon.apply(this, missileWeaponInfo);
@@ -1119,12 +1144,32 @@ window.onload = async function(){
 
                 let entity = createEntity.apply(this, entityInfo);
                 unit.addEntity(entity);
+
+                //Sort armour & shield
+                let unitArmour = unitArmourTypesContent.find(uac => uac[0] == unit.armour);
+                let unitShield = unitShieldTypesContent.find(usc => usc[0] == unit.shield);
+
+                let armourValue = unitArmour[1];
+                let shieldArmourValue = unitShield[2];
+                let missileBlockChance = unitShield[4];
+                
+                unit.addArmourValues(armourValue, shieldArmourValue, missileBlockChance);
+
+                // Is general?
+                let unitToFactionMap = factionToUnitContent.find(ftu => ftu[2] == unit.key && ftu[1] == "true");
+
+                if(unitToFactionMap){
+                    unit.isGeneral(true);
+                } else{
+                    unit.isGeneral(false);
+                }
             })
         });
     });
 
     fillWithFactionFlags(faction1Element, faction1unitsElement, factions);
     fillWithFactionFlags(faction2Element,faction2unitsElement, factions);
+    console.log(factions);
 }
 
 
@@ -1156,6 +1201,13 @@ function fillWithFactionUnits(element, faction){
 
     Object.keys(CLASSES).forEach(cl => {
         let units = faction.units.filter(unit => unit.unit_class == cl);
+        
+        if(cl == "com"){
+            console.log("we're in");
+            units = faction.units.filter(unit => unit.isgeneral);
+            console.log(units);
+        }
+
         units.sort((u1, u2) => {return u1.multiplayer_cost - u2.multiplayer_cost});
 
         if(units.length == 0) return;
@@ -1196,19 +1248,21 @@ function fillWithFactionUnits(element, faction){
                 selectedMeleeAttack.innerHTML = "<b>Melee Attack</b>: " + unit.melee_attack;
                 selectedMeleeDefence.innerHTML = "<b>Melee Defence</b>: " + unit.melee_defence;
                 selectedSpeed.innerHTML = "<b>Speed</b>: " + (parseFloat(unit.entity.run_speed) * 10);
-                selectedWeaponStrength.innerHTML = "<b>Weapon strength</b>: " + (parseInt(unit.meleeWeapon.damage) + parseInt(unit.meleeWeapon.ap_damage)) + " with base " + unit.meleeWeapon.damage + " and AP " + unit.meleeWeapon.ap_damage;
+                selectedWeaponStrength.innerHTML = "<b>Weapon strength</b>: " + (parseInt(unit.meleeWeapon.damage) + parseInt(unit.meleeWeapon.ap_damage)) + " comprised of " + unit.meleeWeapon.damage + " BASE and " + unit.meleeWeapon.ap_damage + " AP";
                 selectedMorale.innerHTML = "<b>Morale</b>: " + unit.morale;
-                selectedMass.innerHTML = "<b>Mass</b>: " + parseInt(unit.entity.mass);
+                selectedMass.innerHTML = "<b>Mass</b>: " + parseInt(unit.entity.mass) + " (" + unit.weight + ")";
                 selectedHealth.innerHTML = "<b>Health</b>: " + unit.getHealth();
                 selectedMPCost.innerHTML = "<b>MP Cost</b>: " + unit.multiplayer_cost + " funds";
-                
+                selectedArmour.innerHTML = "<b>Armour</b>: " + unit.getArmour() + " comprised of " + unit.armourValue + " armour and " + unit.shieldValue + " shield ";
+                selectedMissileBlock.innerHTML = "<b>Missile Block Chance</b>: " + unit.missileBlockChance;
+
                 if(unit.missileWeapon){
                     selectedRange.style.visibility  = "visible";
                     selectedMissileStrength.style.visibility  = "visible";
                     selectedAmmunition.style.visibility  = "visible";
 
                     selectedRange.innerHTML = "<b>Range</b>: " + unit.missileWeapon.effective_range;
-                    selectedMissileStrength.innerHTML = "<b>Missile Strength</b>: " + unit.getMissileWeaponStrength() + " with base " + unit.missileWeapon.damage + " and ap " + unit.missileWeapon.ap_damage;
+                    selectedMissileStrength.innerHTML = "<b>Missile Strength</b>: " + unit.getMissileWeaponStrength() + " comprised of " + unit.missileWeapon.damage + " BASE and " + unit.missileWeapon.ap_damage + " AP";
                     selectedAmmunition.innerHTML = "<b>Ammunition</b>: " + unit.ammo;
                 } else {
                     selectedRange.style.visibility  = "hidden";
@@ -1284,11 +1338,11 @@ function fillWithFactionUnits(element, faction){
                     let massDiff = selectedUnit.entity.mass - unit.entity.mass;
 
                     if(massDiff > 0){
-                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:green;\">(+" + massDiff + ")</span>";
+                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass +" (" + selectedUnit.weight +  ") <span style=\"color:green;\">(+" + massDiff + ")</span>";
                     } else if (massDiff == 0){
-                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:orange;\">(" + massDiff + ")</span>";
+                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass +" (" + selectedUnit.weight +  ") <span style=\"color:orange;\">(" + massDiff + ")</span>";
                     } else {
-                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:red;\">(" + massDiff + ")</span>";
+                        selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass +" (" + selectedUnit.weight +  ") <span style=\"color:red;\">(" + massDiff + ")</span>";
                     }
 
                     let wsDiff = (selectedUnit.meleeWeapon.damage + selectedUnit.meleeWeapon.ap_damage) - (unit.meleeWeapon.damage + unit.meleeWeapon.ap_damage);
@@ -1339,11 +1393,107 @@ function fillWithFactionUnits(element, faction){
                     } else {
                         selectedHealth.innerHTML = "<b>Health: </b>: " + selectedUnit.getHealth() + " <span style=\"color:red;\">(" + healthDiff + ")</span>";
                     }
+
+                    let missileblockDiff = selectedUnit.missileBlockChance - unit.missileBlockChance;
+                    
+                    if(missileblockDiff > 0){
+                        selectedMissileBlock.innerHTML = "<b>Missile Block Chance: </b>: " + selectedUnit.missileBlockChance + " <span style=\"color:green;\">(+" + missileblockDiff + ")</span>";
+                    } else if (missileblockDiff == 0){
+                        selectedMissileBlock.innerHTML = "<b>Missile Block Chance: </b>: " + selectedUnit.missileBlockChance + " <span style=\"color:orange;\">(" + missileblockDiff + ")</span>";
+                    } else {
+                        selectedMissileBlock.innerHTML = "<b>Missile Block Chance: </b>: " + selectedUnit.missileBlockChance + " <span style=\"color:red;\">(" + missileblockDiff + ")</span>";
+                    }
+
+                    let ammunitionDiff = selectedUnit.ammo - unit.ammo;
+
+                    if(ammunitionDiff > 0){
+                        selectedAmmunition.innerHTML = "<b>Ammo: </b>: " + selectedUnit.ammo + " <span style=\"color:green;\">(+" + ammunitionDiff + ")</span>";
+                    } else if (ammunitionDiff == 0){
+                        selectedAmmunition.innerHTML = "<b>Ammo: </b>: " + selectedUnit.ammo + " <span style=\"color:orange;\">(" + ammunitionDiff + ")</span>";
+                    } else {
+                        selectedAmmunition.innerHTML = "<b>Ammo: </b>: " + selectedUnit.ammo + " <span style=\"color:red;\">(" + ammunitionDiff + ")</span>";
+                    }
+
+                    //armour
+                    let armourDiff = selectedUnit.getArmour() - unit.getArmour();
+
+                    if(armourDiff > 0){
+                        selectedArmour.innerHTML = "<b>Armour: </b>: " + selectedUnit.getArmour() + " <span style=\"color:green;\">(+" + armourDiff + ")</span>";
+                    } else if (armourDiff == 0){
+                        selectedArmour.innerHTML = "<b>Armour: </b>: " + selectedUnit.getArmour() + " <span style=\"color:orange;\">(" + armourDiff + ")</span>";
+                    } else {
+                        selectedArmour.innerHTML = "<b>Armour: </b>: " + selectedUnit.getArmour() + " <span style=\"color:red;\">(" + armourDiff + ")</span>";
+                    }
+
+                    let armourValueDiff = selectedUnit.armourValue - unit.armourValue;
+                    if(armourValueDiff > 0){
+                        selectedArmour.innerHTML += " comprised of " + selectedUnit.armourValue + " armour <span style=\"color:green;\">(+" + armourValueDiff + ")</span> ";
+                    } else if (armourValueDiff == 0){
+                        selectedArmour.innerHTML += " comprised of " + selectedUnit.armourValue + " armour <span style=\"color:orange;\">(" + armourValueDiff + ")</span> ";
+                    } else {
+                        selectedArmour.innerHTML += " comprised of " + selectedUnit.armourValue + " armour <span style=\"color:red;\">(" + armourValueDiff + ")</span> ";
+                    }
+
+                    let shieldDiff = selectedUnit.shieldValue - unit.shieldValue;
+                    if(shieldDiff > 0){
+                        selectedArmour.innerHTML += "and " + selectedUnit.shieldValue + " shield <span style=\"color:green;\">(+" + shieldDiff + ")</span> ";
+                    } else if (shieldDiff == 0){
+                        selectedArmour.innerHTML += "and " + selectedUnit.shieldValue + " shield <span style=\"color:orange;\">(" + shieldDiff + ")</span> ";
+                    } else {
+                        selectedArmour.innerHTML += "and " + selectedUnit.shieldValue + " shield <span style=\"color:red;\">(" + shieldDiff + ")</span> ";
+                    }
+
+                    //missiles
+                     //armour
+
+                     if(selectedUnit.getMissileWeaponStrength() != 0 && unit.getMissileWeaponStrength != 0){
+                        let msDiff = selectedUnit.getMissileWeaponStrength() - unit.getMissileWeaponStrength();
+
+                        if(msDiff > 0){
+                            selectedMissileStrength.innerHTML = "<b>Missile Strength: </b>: " + selectedUnit.getMissileWeaponStrength() + " <span style=\"color:green;\">(+" + msDiff + ")</span>";
+                        } else if (msDiff == 0){
+                           selectedMissileStrength.innerHTML = "<b>Missile Strength: </b>: " + selectedUnit.getMissileWeaponStrength() + " <span style=\"color:orange;\">(" + msDiff + ")</span>";
+                        } else {
+                           selectedMissileStrength.innerHTML = "<b>Missile Strength: </b>: " + selectedUnit.getMissileWeaponStrength() + " <span style=\"color:red;\">(" + msDiff + ")</span>";
+                        }
+    
+                        let missileBaseDiff = selectedUnit.missileWeapon.damage - unit.missileWeapon.damage;
+                        if(missileBaseDiff > 0){
+                           selectedMissileStrength.innerHTML += " comprised of " + selectedUnit.missileWeapon.damage + " BASE <span style=\"color:green;\">(+" + missileBaseDiff + ")</span> ";
+                        } else if (missileBaseDiff == 0){
+                           selectedMissileStrength.innerHTML += " comprised of " + selectedUnit.missileWeapon.damage + " BASE <span style=\"color:orange;\">(" + missileBaseDiff + ")</span> ";
+                        } else {
+                           selectedMissileStrength.innerHTML += " comprised of " + selectedUnit.missileWeapon.damage + " BASE <span style=\"color:red;\">(" + missileBaseDiff + ")</span> ";
+                        }
+    
+                        let missileApDiff = selectedUnit.missileWeapon.ap_damage - unit.missileWeapon.ap_damage;
+                        if(missileApDiff > 0){
+                           selectedMissileStrength.innerHTML += "and " + selectedUnit.missileWeapon.ap_damage + " AP <span style=\"color:green;\">(+" + shieldDiff + ")</span> ";
+                        } else if (missileApDiff == 0){
+                           selectedMissileStrength.innerHTML += "and " + selectedUnit.missileWeapon.ap_damage + " AP <span style=\"color:orange;\">(" + shieldDiff + ")</span> ";
+                        } else {
+                           selectedMissileStrength.innerHTML += "and " + selectedUnit.missileWeapon.ap_damage + " AP <span style=\"color:red;\">(" + shieldDiff + ")</span> ";
+                        }
+
+                        let rangeDiff = selectedUnit.missileWeapon.effective_range;
+
+                        if(unit.missileWeapon.effective_range){
+                            rangeDiff -= unit.missileWeapon.effective_range;
+                        }
+    
+                        if(rangeDiff > 0){
+                            selectedRange.innerHTML = "<b>Range: </b>: " + selectedUnit.missileWeapon.effective_range + " <span style=\"color:green;\">(+" + rangeDiff + ")</span>";
+                        } else if (rangeDiff == 0){
+                            selectedRange.innerHTML = "<b>Range: </b>: " + selectedUnit.missileWeapon.effective_range + " <span style=\"color:orange;\">(" + rangeDiff + ")</span>";
+                        } else {
+                            selectedRange.innerHTML = "<b>Range: </b>: " + selectedUnit.missileWeapon.effective_range + " <span style=\"color:red;\">(" + rangeDiff + ")</span>";
+                        }
+    
+                     }
                 }
             });
 
             subcategoryDivElement.appendChild(unitDivElement);
-
         })
 
         factionDivElement.appendChild(subcategoryDivElement);
