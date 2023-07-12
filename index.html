@@ -7,11 +7,18 @@
     <title>Vanilla stuff</title>
 </head>
 <body>
-    <main>
-        <div id="units" style="float: left;overflow:scroll; height:1000px;"></div>
-        <div id="comparer">
+    <main style="width: 100%;">
+        <div id="left" style="width: 60%; height: auto; box-sizing: border-box; margin: auto; float: left;">
+            <div id="faction1" style="width: 25%; height: 100%; box-sizing: border-box; margin: auto; float: left; overflow:scroll"></div>
+            <div id="faction1_units" style="width: 25%; height: 100%;; box-sizing: border-box; margin: auto; float: left;"></div>
+            <div id="faction2" style="width: 25%; height:100%; box-sizing: border-box; margin: auto; float: left; overflow:scroll"></div>
+            <div id="faction2_units" style="width: 25%; height:100%; box-sizing: border-box; margin: auto; float: left;"></div>
+            <!--<div id="units" style="float: left;overflow:scroll; height:700px;"></div>-->
+        </div>
+        <div id="comparer" style="width: 35%; box-sizing: border-box; float: right;">
             <div id="selected_unit">
                 <h2 id="selected_screen_name"></h2>
+                <p id="selected_mp_cost"></p>
                 <p id="selected_armour"></p>
                 <p id="selected_morale"></p>
                 <p id="selected_speed"></p>
@@ -20,7 +27,7 @@
                 <p id="selected_weapon_strength"></p>
                 <p id="selected_missile_strength"></p>
                 <p id="selected_range"></p>
-                <p id="selected_ammunication"></p>
+                <p id="selected_ammunition"></p>
                 <p id="selected_charge_bonus"></p>
                 <p id="selected_health"></p>
                 <p id="selected_mass"></p>
@@ -30,7 +37,7 @@
                     <img id="selectedUnitIcon" class="image">
                     <img id="selectedUnitMask" class="mask">
                 </div>
-                <p style="float: left;"> vs </p>
+                <p style="float: left;"> compared to </p>
                 <div style="float: left;" class="unit_card">
                     <img id="hoveredUnitIcon" class="image">
                     <img id="hoveredUnitMask" class="mask">
