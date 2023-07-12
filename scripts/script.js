@@ -1288,7 +1288,7 @@ function fillWithFactionUnits(element, faction){
                         selectedMass.innerHTML = "<b>Mass</b>: " + selectedUnit.entity.mass + " <span style=\"color:red;\">(" + massDiff + ")</span> compared to " + unit.screen_name;
                     }
 
-                    let wsDiff = (selectedUnit.meleeWeapon.damage + selectedUnit.meleeWeapon.ap_damage) - (unit.meleeWeapon.damage + selectedUnit.meleeWeapon.ap_damage);
+                    let wsDiff = (selectedUnit.meleeWeapon.damage + selectedUnit.meleeWeapon.ap_damage) - (unit.meleeWeapon.damage + unit.meleeWeapon.ap_damage);
                     let baseDiff = selectedUnit.meleeWeapon.damage - unit.meleeWeapon.damage;
                     let apDiff = selectedUnit.meleeWeapon.ap_damage - unit.meleeWeapon.ap_damage;
 
