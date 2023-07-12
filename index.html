@@ -7,15 +7,17 @@
     <title>Vanilla stuff</title>
 </head>
 <body>
-    <main style="width: 100%;">
-        <div id="left" style="width: 60%; height: auto; box-sizing: border-box; margin: auto; float: left;">
-            <div id="faction1" style="width: 25%; height: 100%; box-sizing: border-box; margin: auto; float: left; overflow:scroll"></div>
-            <div id="faction1_units" style="width: 25%; height: 100%;; box-sizing: border-box; margin: auto; float: left;"></div>
-            <div id="faction2" style="width: 25%; height:100%; box-sizing: border-box; margin: auto; float: left; overflow:scroll"></div>
-            <div id="faction2_units" style="width: 25%; height:100%; box-sizing: border-box; margin: auto; float: left;"></div>
+    <main style="width: 100%; height:1000px; overflow: hidden;">
+        <div id="left" style="width: 60%; height: 90%; margin: auto; box-sizing: border-box; margin: auto; float: left;">
+            <div style=" height:100%; overflow: scroll;">
+                <div id="faction1" style="width: 25%; float: left;"></div>
+                <div id="faction1_units" style="width: 25%; float: left;"></div>
+                <div id="faction2" style="width: 25%; float: left;"></div>
+                <div id="faction2_units" style="width: 25%; float: left;"></div>
+            </div>
             <!--<div id="units" style="float: left;overflow:scroll; height:700px;"></div>-->
         </div>
-        <div id="comparer" style="width: 38%; box-sizing: border-box; float: right;">
+        <div id="comparer" style="width: 38%; height: 50%; box-sizing: border-box; float: right;" class="sticky">
             <div id="selected_unit">
                 <h2 id="selected_screen_name"></h2>
                 <p id="selected_mp_cost"></p>

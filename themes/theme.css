@@ -15,6 +15,7 @@
 .mask:hover {
   opacity: 1;
   cursor: pointer;
+  border: "1px solid red";
 }
 
 .mask {
@@ -25,6 +26,7 @@
   height: 100%;
   opacity: 0.5;
   cursor: pointer;
+  border: "1px solid black";
 }
 
 
@@ -36,4 +38,12 @@
 .factionimg:hover{
   opacity: 1;
   cursor: pointer;
+}
+
+
+div.sticky {
+  position: -webkit-sticky !important; 
+  position: sticky!important;
+  top: 0 !important;
+  font-size: 25px ;
 }

@@ -1160,7 +1160,9 @@ function fillWithFactionUnits(element, faction){
 
         if(units.length == 0) return;
         let subcategoryDivElement = document.createElement("div");
-        let subcategoryH3Element = document.createElement("h3");
+        subcategoryDivElement.style.margin = "1px";
+        subcategoryDivElement.style.padding = "1px";
+        let subcategoryH3Element = document.createElement("h4");
         subcategoryH3Element.innerText = CLASSES[cl];
 
         subcategoryDivElement.appendChild(subcategoryH3Element);
@@ -1177,6 +1179,7 @@ function fillWithFactionUnits(element, faction){
             maskImageElement.src = unit.maskPath;
             maskImageElement.alt = unit.screen_name;
             maskImageElement.classList.add("mask");
+            maskImageElement.style.border = "1px solid black";
 
             unitDivElement.classList.add("unit_card");
             unitDivElement.appendChild(iconImageElement);
@@ -1347,5 +1350,4 @@ function fillWithFactionUnits(element, faction){
     });
 
     element.appendChild(factionDivElement);
-    element.appendChild(document.createElement("br"));
 }
