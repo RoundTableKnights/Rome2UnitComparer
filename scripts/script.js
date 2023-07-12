@@ -1033,6 +1033,11 @@ window.onload = async function(){
     let projectilesContent = await GetAndParseResource(projectilesPath);
     let battleEntitiesContent = await GetAndParseResource(battleEntitiesPath);
 
+    let selectedUnitIcon = document.getElementById("selectedUnitIcon");
+    let selectedUnitMask = document.getElementById("selectedUnitMask");
+    let hoveredUnitIcon = document.getElementById("hoveredUnitIcon");
+    let hoveredUnitMask = document.getElementById("hoveredUnitMask");
+
     let selectedScreenName = document.getElementById("selected_screen_name");
     let selectedArmour = document.getElementById("selected_armour");
     let selectedMorale = document.getElementById("selected_morale");
@@ -1117,6 +1122,10 @@ window.onload = async function(){
 
                 unitDivElement.addEventListener("click", function(){
                     selectedUnit = unit;
+
+                    selectedUnitIcon.src = selectedUnit.imagePath;
+                    selectedUnitMask.src = selectedUnit.maskPath;
+
                     selectedScreenName.innerText = "Selected: " + unit.screen_name;
                     selectedChargeBonus.innerText = "Charge bonus: " + unit.charge_bonus;
                     selectedMeleeAttack.innerText = "Melee Attack: " + unit.melee_attack;
@@ -1143,6 +1152,10 @@ window.onload = async function(){
                 unitDivElement.addEventListener("mouseenter", function(){
                     if(selectedUnit && selectedUnit.key != unit.key){
                         hoveredUnit = unit;
+
+                        hoveredUnitIcon.src = hoveredUnit.imagePath;
+                        hoveredUnitMask.src = hoveredUnit.maskPath;
+
                         selectedScreenName.innerText = "Selected: " + selectedUnit.screen_name + " compared to " + unit.screen_name;
 
                         let chargeDiff = selectedUnit.charge_bonus - unit.charge_bonus;
